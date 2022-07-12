@@ -1,0 +1,7 @@
+
+<ul>
+{{ $gistJ := getJSON "https://api-research.naist.jp/api/search?author=raula-k@is.naist.jp&output=json" }}
+  {{range $gistJ.list_item.items}}
+      <li>{{ $gistJ.list_item.items}}</li>
+  {{ end }}
+</ul>
