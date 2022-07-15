@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dissertations on ACM Special Group on Software Engineering</title><link>https://acmsigsoft.github.io/tags/dissertations/</link><description>Recent content in dissertations on ACM Special Group on Software Engineering</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://acmsigsoft.github.io/tags/dissertations/index.xml" rel="self" type="application/rss+xml"/><item><title>Dissertations</title><link>https://acmsigsoft.github.io/post/dissertations/</link><pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/post/dissertations/</guid><description>PhD Dissertations in the Area of Software Engineering This list is provided as a resource for PhD candidates, researchers, scientists, and engineers who are actively pursuing advanced research in Software Engineering.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dissertations on ACM Special Group on Software Engineering</title>
+    <link>https://acmsigsoft.github.io/tags/dissertations/</link>
+    <description>Recent content in dissertations on ACM Special Group on Software Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://acmsigsoft.github.io/tags/dissertations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissertations</title>
+      <link>https://acmsigsoft.github.io/post/dissertations/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/post/dissertations/</guid>
+      <description>PhD Dissertations in the Area of Software Engineering This list is provided as a resource for PhD candidates, researchers, scientists, and engineers who are actively pursuing advanced research in Software Engineering.
 If you are a PhD graduate, we invite you to submit information about your dissertation using this form. The information you provide will be evaluated by our committee before being added to the list below.
-Please observe that only completed dissertations will be accepted and that decisions about their acceptance for posting on the site are final.</description></item></channel></rss>
+Please observe that only completed dissertations will be accepted and that decisions about their acceptance for posting on the site are final.</description>
+    </item>
+    
+  </channel>
+</rss>
