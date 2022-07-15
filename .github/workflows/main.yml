@@ -25,7 +25,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.deploy-hugo}}
+        ACTIONS_DEPLOY_KEY: ${{ secrets.TOKEN }}
         PUBLISH_BRANCH: public
         PUBLISH_DIR: ./public
       with:
