@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACM Special Group on Software Engineering</title><link>https://acmsigsoft.github.io/</link><description>Recent content on ACM Special Group on Software Engineering</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://acmsigsoft.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://acmsigsoft.github.io/post/welcome/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/post/welcome/</guid><description>&lt;p>The ACM Special Interest Group on Software Engineering provides a forum for computing professionals from industry, government and academia to examine principles, practices, and new research results in software engineering.&lt;/p></description></item><item><title>Dissertations</title><link>https://acmsigsoft.github.io/post/dissertations/</link><pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/post/dissertations/</guid><description>PhD Dissertations in the Area of Software Engineering This list is provided as a resource for PhD candidates, researchers, scientists, and engineers who are actively pursuing advanced research in Software Engineering.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACM Special Group on Software Engineering</title>
+    <link>https://acmsigsoft.github.io/</link>
+    <description>Recent content on ACM Special Group on Software Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://acmsigsoft.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://acmsigsoft.github.io/post/welcome/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;The ACM Special Interest Group on Software Engineering provides a forum for computing professionals from industry, government and academia to examine principles, practices, and new research results in software engineering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dissertations</title>
+      <link>https://acmsigsoft.github.io/post/dissertations/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/post/dissertations/</guid>
+      <description>PhD Dissertations in the Area of Software Engineering This list is provided as a resource for PhD candidates, researchers, scientists, and engineers who are actively pursuing advanced research in Software Engineering.
 If you are a PhD graduate, we invite you to submit information about your dissertation using this form. The information you provide will be evaluated by our committee before being added to the list below.
-Please observe that only completed dissertations will be accepted and that decisions about their acceptance for posting on the site are final.</description></item><item><title>Awards</title><link>https://acmsigsoft.github.io/post/awards/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/post/awards/</guid><description>&lt;p>ACM SIGSOFT is responsible, both directly or by encouraging organizers of SIGSOFT-sponsored conferences to designate their recipients, for several different awards.&lt;/p></description></item><item><title>Table of Contents (TOC)</title><link>https://acmsigsoft.github.io/post/toc/</link><pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/post/toc/</guid><description>&lt;p>The ACM OpenTOC is a unique service that enables Special Interest Groups to open the content from recently held conferences enabling visitors to download the definitive version of the contents from the ACM Digital Library at no charge for a one year period starting from the conference start date. Downloads of these articles are captured in official ACM statistics, improving the accuracy of usage and impact measurements. Links to the conference table of contents available to SIGSOFT members are below.&lt;/p></description></item><item><title>Resources</title><link>https://acmsigsoft.github.io/post/resources/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/post/resources/</guid><description>&lt;p>The ACM Special Interest Group on Software Engineering provides a forum for computing professionals from industry, government and academia to examine principles, practices, and new research results in software engineering.&lt;/p></description></item><item><title>About</title><link>https://acmsigsoft.github.io/about/</link><pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate><guid>https://acmsigsoft.github.io/about/</guid><description>SIGSOFT focuses on issues related to all aspects of software development and maintenance. Areas of special interest include: requirements, specification and design, software architecture, validation, verification, debugging, software safety, software processes, software management, measurement, user interfaces, configuration management, software engineering environments, and CASE tools. SIGSOFT has sponsors or co-sponsors many conferences and events, and publishes Software Engineering Notes, a quarterly newsletter.
-History The field of software engineering is generally considered to have begun with the 1968 and 1969 NATO Software Engineering Conferences.</description></item></channel></rss>
+Please observe that only completed dissertations will be accepted and that decisions about their acceptance for posting on the site are final.</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://acmsigsoft.github.io/post/awards/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/post/awards/</guid>
+      <description>&lt;p&gt;ACM SIGSOFT is responsible, both directly or by encouraging organizers of SIGSOFT-sponsored conferences to designate their recipients, for several different awards.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Table of Contents (TOC)</title>
+      <link>https://acmsigsoft.github.io/post/toc/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/post/toc/</guid>
+      <description>&lt;p&gt;The ACM OpenTOC is a unique service that enables Special Interest Groups to open the content from recently held conferences enabling visitors to download the definitive version of the contents from the ACM Digital Library at no charge for a one year period starting from the conference start date. Downloads of these articles are captured in official ACM statistics, improving the accuracy of usage and impact measurements. Links to the conference table of contents available to SIGSOFT members are below.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://acmsigsoft.github.io/post/resources/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/post/resources/</guid>
+      <description>&lt;p&gt;The ACM Special Interest Group on Software Engineering provides a forum for computing professionals from industry, government and academia to examine principles, practices, and new research results in software engineering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://acmsigsoft.github.io/about/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://acmsigsoft.github.io/about/</guid>
+      <description>SIGSOFT focuses on issues related to all aspects of software development and maintenance. Areas of special interest include: requirements, specification and design, software architecture, validation, verification, debugging, software safety, software processes, software management, measurement, user interfaces, configuration management, software engineering environments, and CASE tools. SIGSOFT has sponsors or co-sponsors many conferences and events, and publishes Software Engineering Notes, a quarterly newsletter.
+History The field of software engineering is generally considered to have begun with the 1968 and 1969 NATO Software Engineering Conferences.</description>
+    </item>
+    
+  </channel>
+</rss>
