@@ -12,7 +12,7 @@ categories:
   - "awards"
 ---
 
-ACM SIGSOFT is responsible, both directly or by encouraging organizers of SIGSOFT-sponsored conferences to designate their recipients, for several different awards.
+ACM SIGSOFT is responsible, both directly or by encouraging organizers of SIGSOFT-sponsored conferences to designate their recipients, for several different awards. These are the new awards.
 <!--more-->
 
 ### SIGSOFT Awards
