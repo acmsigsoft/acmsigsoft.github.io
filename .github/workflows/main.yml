@@ -19,7 +19,7 @@ jobs:
         with: submodules:true
 
     - name: Build
-      run: hugo --minify
+      run: hugo 
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
