@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://example.com/'
-title = 'SIGSOFT'
+title = 'Hugo Book'
 theme = 'hugo-book'
 
 # Book configuration
@@ -26,32 +26,32 @@ enableGitInfo = true
   contentDir = 'content'
   weight = 1
 
-#[languages.ru]
-#  languageName = 'Russian'
-#  contentDir = 'content.ru'
-#  weight = 2
+[languages.ru]
+  languageName = 'Russian'
+  contentDir = 'content.ru'
+  weight = 2
 
-#[languages.zh]
-#  languageName = 'Chinese'
-#  contentDir = 'content.zh'
-#  weight = 3
+[languages.zh]
+  languageName = 'Chinese'
+  contentDir = 'content.zh'
+  weight = 3
 
 [menu]
 # [[menu.before]]
-#[[menu.after]]
-#  name = "Github"
-#  url = "https://github.com/alex-shpak/hugo-book"
-#  weight = 10
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/alex-shpak/hugo-book"
+  weight = 10
 
-#[[menu.after]]
-#  name = "Hugo Themes"
-#  url = "https://themes.gohugo.io/hugo-book/"
-#  weight = 20
+[[menu.after]]
+  name = "Hugo Themes"
+  url = "https://themes.gohugo.io/hugo-book/"
+  weight = 20
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'dark'
+  BookTheme = 'light'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -60,7 +60,7 @@ enableGitInfo = true
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
-   BookLogo = 'sigsoft_t.png'
+  # BookLogo = 'logo.png'
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
@@ -101,18 +101,18 @@ enableGitInfo = true
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  # BookComments = true
+  BookComments = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
   # Portable links meant to work with text editors and let you write markdown without {{< relref >}} shortcode
   # Theme will print warning if page referenced in markdown does not exists.
-  # BookPortableLinks = true
+  BookPortableLinks = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
-  # BookServiceWorker = true
+  BookServiceWorker = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
-  # BookTranslatedOnly = false
+  BookTranslatedOnly = false
