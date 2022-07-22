@@ -29,4 +29,5 @@ jobs:
         PUBLISH_DIR: ./public
       with:
         emptyCommits: false
+        keep_files: true
         commitMessage: ${{ github.event.head_commit.message }}
