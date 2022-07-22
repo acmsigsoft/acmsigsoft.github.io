@@ -10,12 +10,12 @@ This list is provided as a resource for PhD candidates, researchers, scientists,
 
 Those interested in PhD dissertations in the area of software engineering may also be want to review Tao Xie's Software Engineering Academic Genealogy.
 
-#### 2020
+### 2020
 
 {{< GHStar url="https://raux.github.io/sigsoftDemo/api/2020thesis.json" >}}
 
-#### 2019
+### 2019
 
-{{< GHStar url="https://raux.github.io/sigsoftDemo/api/2020thesis.json" >}}
+{{< GHStar url="https://raux.github.io/sigsoftDemo/api/2019thesis.json" >}}
 
 [Older Listings](https://www.sigsoft.org/dissertations.html)
