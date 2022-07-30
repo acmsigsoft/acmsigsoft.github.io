@@ -1,7 +1,7 @@
 ---
 menu:
-  after:
+  before:
     name: blog
-    weight: 5
-title: SIGSOFT Blog
+    weight: 1
+title: Latest News
 ---

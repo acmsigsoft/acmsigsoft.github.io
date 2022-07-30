@@ -5,15 +5,13 @@
 </head>
 <body>
 
-<ul class="GHStar">
+<ul class="GHToC">
   {{ $url := .Get "url" }}
   {{ range getJSON $url }}
     {{ $p := . }}
     <li>
-      <a href="{{ $p.webpage}}" target="_blank">{{$p.name}}</a>,
-     "<a href="{{ $p.thesislink}}" target="_blank"> {{$p.title}}</a>", 
-      {{$p.institute}}, ({{$p.graduatedate}})
-      Advisor: {{$p.advisor}}
+        {{$p.id}}, 
+      <a href="{{ $p.link}}" target="_blank">{{$p.FullName}}</a>,
     </li>
     {{ end }}
 </ul>
