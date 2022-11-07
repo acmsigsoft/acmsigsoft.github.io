@@ -16,6 +16,6 @@ CAPS provides support for students and professionals to attend the conferences a
 
 * (more to be announced)
 
-CAPS also provides support for childcare. Childcare applications are handled separately by emailing [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org?subject=SIGSOFT CAPS Childcare). The deadline of CAPS childcare application is flexible, depending on the applicants' needs and the availability of the funds.
+CAPS also provides support for childcare. Childcare applications are handled separately by emailing [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org?subject=SIGSOFT%20CAPS%20Childcare). The deadline of CAPS childcare application is flexible, depending on the applicants' needs and the availability of the funds.
   
-If you have any questions about this program or want to seek CAPS support for you or your conference, please contact [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org?subject=SIGSOFT CAPS question).
+If you have any questions about this program or want to seek CAPS support for you or your conference, please contact [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org?subject=SIGSOFT%20CAPS%20question).
