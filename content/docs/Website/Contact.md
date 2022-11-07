@@ -4,6 +4,7 @@ bookFlatSection: true
 title: "Contact"
 ---
 
+{{< columns >}}
 
 ## Chair: **Thomas Zimmermann**
 ```
@@ -14,12 +15,16 @@ Phone: +1-425-703-8450
 chair_SIGSOFT@acm.org 
 
 ```
+<---> <!-- magic separator, between columns -->
 
 ## Vice Chair: **Marsha Chechik**
 ```
 University of Toronto
 chechik@cs.toronto.edu 
 ```
+
+{{< /columns >}}
+
 ## ACM Program Director for SIGSOFT: **James Peeples**
 
 ```
