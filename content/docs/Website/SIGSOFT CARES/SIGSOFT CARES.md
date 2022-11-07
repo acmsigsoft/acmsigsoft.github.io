@@ -22,9 +22,9 @@ __What CARES does__ CARES is dedicated to providing completely confidential supp
 
 The [SIGARCH/SIGMICRO CARES committee](https://www.sigarch.org/benefit/cares/) and the [SIGPLAN CARES committee](https://www.sigplan.org/Cares/) led to foundation of this SIGSOFT CARES committee.
 
-The SIGSOFT CARES Bylaws can be found [here](TODO link to CARES_Bylaws.md).
+The SIGSOFT CARES Bylaws can be found [here](https://acmsigsoft.github.io/docs/Website/SIGSOFT-CARES/BYLAWS/).
 
-A collection of CARES resources can be found [here](TODO link to CARES_Resources.md).
+A collection of CARES resources can be found [here](https://acmsigsoft.github.io/docs/Website/SIGSOFT-CARES/RESOURCES/).
 
 ### Confidentiality and Privacy Policy
 
