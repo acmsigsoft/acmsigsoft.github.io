@@ -31,5 +31,5 @@ The following policies and guidelines regulate SIGSOFT's activities:
 
 SIGSOFT is run by a volunteer [Executive Committee](https://www.sigsoft.org/execcomm.html) composed of officers elected every three years, and assisted by a professional program director employed by the ACM.
 
-## Annual Reports
+Refer to https://www.sigsoft.org/about.html for details
 
