@@ -1,7 +1,7 @@
 ---
 weight: 3
 bookFlatSection: true
-title: "SIGSOFT CARES Resources"
+title: "Resources"
 ---
 
 __ACM Resources__
