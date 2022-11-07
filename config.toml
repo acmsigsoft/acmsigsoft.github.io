@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://acmsigsoft.github.io/'
-title = 'ACM Special Interest Group on Software Engineering'
+title = 'ACM Special Interest Group on Software Engineering (SIGSOFT)'
 theme = 'hugo-book'
 
 # Book configuration
