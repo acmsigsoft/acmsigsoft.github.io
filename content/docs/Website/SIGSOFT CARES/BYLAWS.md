@@ -1,11 +1,10 @@
 
 ---
-weight: 3
+weight: 4
 bookFlatSection: true
 title: "SIGSOFT CARES Bylaws"
 ---
 
-## SIGSOFT CARES Bylaws
 __CARES mission statement__ The CARES committee was established to encourage a welcoming harassment-free research community at professional meetings sponsored by SIGSOFT. By its existence, it seeks to discourage bad behavior and offer a friendly ear for community members to discuss their experiences confidentially.
 
 __CARES governance policies__ The remainder of this document outlines the policies for governance of the CARES committee, including chair rotation, membership, autonomy, and conflicts of interest on the CARES committee.
