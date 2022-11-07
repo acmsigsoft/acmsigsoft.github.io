@@ -57,27 +57,27 @@ ASE 2023      |
 ### Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
-| <img src="Jo_Atlee_portrait.jpeg" alt="Joanne Atlee" width="300"/>|
+| <img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/Jo_Atlee_portrait.jpeg" alt="Joanne Atlee" width="300"/>|
 |:--:|
 |Joanne Atlee (she/her) <br /> University of Waterloo  <br /> jmatlee@uwaterloo.ca <br /> Term: 2022-2025|
 
-|<img src="alex_tree.jpeg" alt="Alexander Serebrenik" width="300"/> | 
+|<img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/alex_tree.jpeg" alt="Alexander Serebrenik" width="300"/> | 
 |:--:|
 | Alexander Serebrenik (he/him) <br /> Eindhoven University of Technology <br /> a.serebrenik@tue.nl <br /> Term: 2022-2025 |
 
-| <img src="Kelly_Blincoe.jpeg" alt="Kelly Blincoe" width="300"/>|
+| <img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/Kelly_Blincoe.jpeg" alt="Kelly Blincoe" width="300"/>|
 |:--:|
 | Kelly Blincoe (she/her) <br /> University of Auckland <br /> k.blincoe@auckland.ac.nz <br /> Term: 2022-2025|
 
-| <img src="Andrew_Begel.jpeg" alt="Andrew Begel" width="300"/>|
+| <img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/Andrew_Begel.jpeg" alt="Andrew Begel" width="300"/>|
 |:--:|
 | Andrew Begel (he/him) <br /> Carnegie Mellon University <br /> abegel@cmu.edu <br /> Term: 2022-2025|
 
-| <img src="Bonita_Sharif.jpeg" alt="Bonita Sharif" width="300">|
+| <img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/Bonita_Sharif.jpeg" alt="Bonita Sharif" width="300">|
 |:--:|
 | Bonita Sharif (she/her) <br /> University of Nebraska – Lincoln <br /> bsharif@unl.edu <br /> Term: 2022-2025|
 
-| <img src="GailMurphy.jpg" alt="Gail Murphy" width="300">|
+| <img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/GailMurphy.jpg" alt="Gail Murphy" width="300">|
 |:--:|
 | Gail Murphy (she/her) <br /> The University of British Columbia <br /> gail.murphy@ubc.ca <br /> Term: 2022-2025|
 
