@@ -15,7 +15,7 @@ Phone: +1-425-703-8450
 chair_SIGSOFT@acm.org 
 
 ```
-<---> <!-- magic separator, between columns -->
+
 
 ## Vice Chair: **Marsha Chechik**
 ```
@@ -23,7 +23,8 @@ University of Toronto
 chechik@cs.toronto.edu 
 ```
 
-{{< /columns >}}
+
+<---> <!-- magic separator, between columns -->
 
 ## ACM Program Director for SIGSOFT: **James Peeples**
 
@@ -47,4 +48,5 @@ http://researchweb.iitt.ac.in/~sridhar_ch
 ch@iittp.ac.in 
 ```
 
+{{< /columns >}}
 Refer to https://www.sigsoft.org/contact.html for the full listing
