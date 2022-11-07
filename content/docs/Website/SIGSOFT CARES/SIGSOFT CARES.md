@@ -81,5 +81,9 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 |:--:|
 | Gail Murphy (she/her) <br /> The University of British Columbia <br /> gail.murphy@ubc.ca <br /> Term: 2022-2025|
 
+| <img src="https://acmsigsoft.github.io/www.sigsoft.org/datasets/CARES/images/MarshaChechik.jpg" alt="Gail Murphy" width="300">|
+|:--:|
+| Marsha Chechik (she/her) <br /> University of Toronto <br /> chechik@cs.toronto.edu <br /> Term: 2022-2025|
+
 ## Annual Reports
 Our first annual report will be available in 2023. To maintain confidentially, the reports will be brief. They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. The reports will be structured this way to protect the privacy of those that approach us.
