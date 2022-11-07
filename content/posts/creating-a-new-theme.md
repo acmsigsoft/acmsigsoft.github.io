@@ -7,7 +7,7 @@ menu:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Creating a New Theme
+title: Adding SIGSOFT CARES
 weight: 10
 ---
 
