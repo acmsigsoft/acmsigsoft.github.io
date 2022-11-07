@@ -2,7 +2,7 @@
 ---
 weight: 3
 bookFlatSection: true
-title: "SIGSOFT CARES"
+title: "About"
 ---
 
 ### Purpose 
