@@ -9,7 +9,7 @@ The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the
 
 The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the January 15, 2022 deadline, dissertations dated December 15, 2020 to December 31, 2021 are eligible.
 
-To submit a nomination for the award, please use the awards nomination portal. Nominations are due no later than January 15 of each year. Among other details, the nominator needs to submit the following through the portal:
+To submit a nomination for the award, please use the awards [nomination portal](https://awards.sigsoft.org/). Nominations are due no later than January 15 of each year. Among other details, the nominator needs to submit the following through the portal:
 
 Succinct description of why the nominee is well-qualified for the award (200-500 words) that includes the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
 List of nominee's publications
