@@ -1,4 +1,11 @@
 
+---
+weight: 3
+bookFlatSection: true
+title: " SIGBED Frank Anger Award"
+---
+
+
 # ACM SIGSOFT - SIGBED Frank Anger Award
 
 In honor of our late colleague and friend, Dr. Frank Anger, the ACM Special Interest Group on Software Engineering has joined together with the [ACM Special Interest Group on Embedded Systems](https://sigbed.org/) to present the Frank Anger Memorial Award. Dr. Frank Anger, an outstanding national leader in the field of software engineering, died in a tragic automobile accident on July 8, 2004. One of Frank's primary goals was supporting the crossover of ideas between research communities engaged in software. As an outstanding scientist and recognized national leader in computer science, he worked toward this goal until his untimely death.
