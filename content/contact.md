@@ -1,10 +1,84 @@
 +++
 title = "Contact"
-id = "contact"
 +++
 
-# We are here to help you
+### Chair: Thomas Zimmermann
+ Microsoft Research, One Microsoft Way
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Redmond, WA 98004
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Phone: +1-425-703-8450
+
+> chair_SIGSOFT@acm.org 
+
+### Vice Chair: Marsha Chechik
+University of Toronto
+> chechik@cs.toronto.edu 
+
+### ACM Program Director for SIGSOFT: James Peeples
+ACM Headquarters
+
+1601 Broadway, 10th Floor
+
+New York, New York 10019-7434
+
+USA
+
+Tel: +1-212-626-0603
+
+Fax: +1-212-302-5826
+> peeples@hq.acm.org
+
+### Social Media Chair: Sridhar Chimalakonda
+
+Department of Computer Science and Engineering
+
+Indian Institute of Technology
+
+Tirupati, India
+
+http://researchweb.iitt.ac.in/~sridhar_chch@iittp.ac.in
+
+### Newsletter Editor: Jacopo Soldani
+
+> editors_SIGSOFT@acm.org
+
+### Production Editor: Ajay Jain
+Adobe Systems Inc.
+
+### Associate Editors:
+####  Ahmed El-Deeb
+
+American University in Cairo
+
+#### Sujoy Gupta
+
+AppDirect, Inc.
+
+####  Peter Harris
+
+Independent Software Architect
+
+#### Jason Lee
+
+Macquarie University, Australia
+
+#### Hridesh Rajan
+
+Iowa State University, Ames, Iowa
+
+### SEWorld Co-Coordinator: Jinqiu Yang
+Concordia University, Montréal
+
+> jinqiu.yang@concordia.ca
+
+### SEWorld Co-Coordinator: Elena Sherman
+
+Boise State University, Idaho
+
+> elenasherman@boisestate.edu
+
+### Information Director: Raula Gaikovina Kula
+Nara Institute of Science and Technology, Japan
+
+> raula-k@is.naist.jp 

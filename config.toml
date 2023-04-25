@@ -26,7 +26,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Executive Committee"
-    url        = "https://www.sigsoft.org/execcomm.html"
+    url        = "/execcontact"
     weight     = 1
     parent     = "menu.abt"
 
@@ -156,7 +156,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "CAPS"
     identifier = "menu.allpages"
-    url        = "https://www.sigsoft.org/resources/caps.html"
+    url        = "/CAPS/CAPSMAIN"
     weight     = 4
 
 [[menu.main]]
@@ -168,13 +168,13 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Webinars"
     identifier = "menu.webinars"
-    url        = "https://www.sigsoft.org/resources/webinars.html"
+    url        = "/WEBINARS/WEBINARSMAIN"
     weight     = 6
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
-    url        = "https://www.sigsoft.org/contact.html"
+    url        = "/contact"
     weight     = 7
 
 
