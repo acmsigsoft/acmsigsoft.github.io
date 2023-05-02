@@ -50,7 +50,7 @@ CARES committee members may also attend other workshops and conferences sponsore
 
 **Conference**  
 - `ESEC/FSE 2022` : Kelly Blincoe, Gail Murphy, Marsha Chechik
-- `ICSE 2023`     : Andrew Begel, Bonita Sharif, Kelly Blincoe
+- `ICSE 2023`     : Andrew Begel, Bonita Sharif, Kelly Blincoe, Joanne Atlee, Alexander Serebrenik, Gail Murphy, Marsha Chechik 
 - `ASE 2023`      : 
 
 ### Current Committee Members
