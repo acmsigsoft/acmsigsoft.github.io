@@ -49,9 +49,9 @@ In addition, one or more CARES members will act as (a part of) the Onsite Respon
 CARES committee members may also attend other workshops and conferences sponsored or co-sponsored by SIGSOFT, when they normally would attend. As the committee expands in membership, it may add conferences to the guaranteed list.
 
 **Conference**  
-- `ESEC/FSE 2022` : Kelly Blincoe, Gail Murphy, Marsha Chechik
 - `ICSE 2023`     : Andrew Begel, Bonita Sharif, Kelly Blincoe, Joanne Atlee, Alexander Serebrenik, Gail Murphy, Marsha Chechik 
 - `ASE 2023`      : 
+- `ESEC/FSE 2022` : Kelly Blincoe, Gail Murphy, Marsha Chechik
 
 ### Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
