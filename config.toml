@@ -101,32 +101,32 @@ pluralizelisttitles = false
     parent     = "section.awards"
 
 [[menu.main]]
+    name       = "ACM SIGSOFT Distinguished Paper"
+    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+    weight     = 1
+    parent     = "section.conference"
+
+[[menu.main]]
     name       = "ICSE Most Influential Paper"
     url        = "https://www.sigsoft.org/awards/icseMIPAward.html"
-    weight     = 1
+    weight     = 2
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ESEC/FSE Test of Time"
     url        = "http://www.esec-fse.org/test_of_time_awards"
-    weight     = 2
-    parent     = "section.conference"
-
-[[menu.main]]
-    name       = "ASE Most Influential Paper"
-    url        = ""
     weight     = 3
     parent     = "section.conference"
 
 [[menu.main]]
-    name       = "ISSTA Impact and Retrospective"
-    url        = ""
+    name       = "ASE Most Influential Paper"
+    url        = "https://ase-conferences.org/most-influencial-papers"
     weight     = 4
     parent     = "section.conference"
 
 [[menu.main]]
-    name       = "Distinguished Paper"
-    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+    name       = "ISSTA Impact and Retrospective"
+    url        = "https://www.issta.org/#impact"
     weight     = 5
     parent     = "section.conference"
 
@@ -184,19 +184,19 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 2
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/acmsigsoft"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://www.facebook.com/sigsoft/"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "https://twitter.com/sigsoft"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 
@@ -208,8 +208,8 @@ pluralizelisttitles = false
     defaultDescription = "Site template made by Raula using Hugo"
 
     # Social media
-    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    facebook_site = "sigsoft" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    twitter_site = "sigsoft" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -240,9 +240,6 @@ pluralizelisttitles = false
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">The ACM Special Interest Group on Software Engineering</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
       """
 
 # Enable and disable widgets for the right sidebar
