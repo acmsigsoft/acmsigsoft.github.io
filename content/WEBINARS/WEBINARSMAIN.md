@@ -18,7 +18,7 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 ### From SBOM to Trusted Software Supply Chain: How Far Are We?
 ### Dec 13, 2022 7:00 PM Eastern Standard Time
 
-[Watch on YouTube]
+[Watch on YouTube](https://youtu.be/VUSq-KvgQco)
 
 [Registration and more information](https://youtu.be/VUSq-KvgQco)
 
