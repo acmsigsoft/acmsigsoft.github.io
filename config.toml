@@ -202,10 +202,7 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["raux", "hugo", "go"]
-    mainSections = ["blog"]
-    defaultDescription = "Site template made by Raula using Hugo"
+    author = "SIGSOFT template made by Raula using Hugo"
 
     # Social media
     facebook_site = "sigsoft" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
