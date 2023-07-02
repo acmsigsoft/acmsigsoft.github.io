@@ -57,53 +57,81 @@ CARES committee members may also attend other workshops and conferences sponsore
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
 {{< figure src="../img/Jo_Atlee_care.jpeg" title="Joanne Atlee (she/her)" >}}
-University of Waterloo
+University of Waterloo, Canada
 
 jmatlee@uwaterloo.ca
 
 Term: 2022-2025
 
 {{< figure src="../img/alex_tree_care.jpeg" title="Alexander Serebrenik (he/him)" >}}
-Eindhoven University of Technology
+Eindhoven University of Technology, Netherlands
 
 a.serebrenik@tue.nl
 
 Term: 2022-2025 
 
 {{< figure src="../img/Kelly_Blincoe_care.jpeg"  title="Kelly Blincoe (she/her)" >}}
-University of Auckland
+University of Auckland, New Zealand
 
 k.blincoe@auckland.ac.nz
 
 Term: 2022-2025
 
 {{< figure src="../img/Andrew_Begel_care.jpeg" height=".4" title="Andrew Begel (he/him)" >}}
-Carnegie Mellon University
+Carnegie Mellon University, USA
 
 abegel@cmu.edu
 
 Term: 2022-2025
 
 {{< figure src="../img/Bonita_Sharif_care.jpeg" height=".4" title="Bonita Sharif (she/her) " >}}
-University of Nebraska – Lincoln
+University of Nebraska – Lincoln, USA
 
 bsharif@unl.edu
 
 Term: 2022-2025
 
 {{< figure src="../img/GailMurphy_care.jpg" height=".4" title=" Gail Murphy (she/her) " >}}
-The University of British Columbia
+The University of British Columbia, Canada
 
 gail.murphy@ubc.ca 
 
 Term: 2022-2025
 
 {{< figure src="../img/MarshaChechik_care.jpg" height=".4" title="Marsha Chechik (she/her)" >}}
-University of Toronto
+University of Toronto, Canada
 
 chechik@cs.toronto.edu
 
 Term: 2022-2025
+
+{{< figure src="../img/TayanaCare.jpeg" height=".4" title="Tayana Conte (she/her)" >}}
+Universidade Federal do Amazonas (UFAM), Brazil
+
+tayana@icomp.ufam.edu.br
+
+Term: 2023-2026
+
+{{< figure src="../img/FedericaCare.jpeg" height=".4" title="Federica Sarro (she/her)" >}}
+University College London, United Kingdom
+
+tayana@icomp.ufam.edu.br
+
+Term: 2023-2026
+
+{{< figure src="../img/RafaelCare.jpeg" height=".4" title="Rafael Prikladnicki (he/him)" >}}
+School of Technology at PUCRS University, Brazil
+
+rafael.prikladnicki@pucrs.br
+
+Term: 2023-2026
+
+{{< figure src="../img/RaulaCare.jpeg" height=".4" title="Raula Gaikovina Kula (he/him)" >}}
+Nara Institute of Science and Technology, Japan
+
+raula-k@is.naist.jp
+
+Term: 2023-2026
 
 ## Annual Reports
 Our first annual report will be available in 2023. To maintain confidentially, the reports will be brief. They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. The reports will be structured this way to protect the privacy of those that approach us.
