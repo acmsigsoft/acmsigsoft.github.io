@@ -56,82 +56,49 @@ CARES committee members may also attend other workshops and conferences sponsore
 ### Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
-{{< figure src="../img/Jo_Atlee_care.jpeg" title="Joanne Atlee (she/her)" >}}
-University of Waterloo, Canada
+### Joanne Atlee (she/her)
 
-jmatlee@uwaterloo.ca
+> University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025
 
-Term: 2022-2025
+### Alexander Serebrenik (he/him)
 
-{{< figure src="../img/alex_tree_care.jpeg" height=".2" title="Alexander Serebrenik (he/him)" >}}
-Eindhoven University of Technology, Netherlands
+> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025 
 
-a.serebrenik@tue.nl
+### Kelly Blincoe (she/her)
 
-Term: 2022-2025 
+> University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025
 
-{{< figure src="../img/Kelly_Blincoe_care.jpeg" height=".2"  title="Kelly Blincoe (she/her)" >}}
-University of Auckland, New Zealand
+### Andrew Begel (he/him)
 
-k.blincoe@auckland.ac.nz
+> Carnegie Mellon University, USA, abegel@cmu.edu, Term: 2022-2025
 
-Term: 2022-2025
+### Bonita Sharif (she/her)
 
-{{< figure src="../img/Andrew_Begel_care.jpeg" height=".2" title="Andrew Begel (he/him)" >}}
-Carnegie Mellon University, USA
+> University of Nebraska – Lincoln, USA, bsharif@unl.edu, Term: 2022-2025
 
-abegel@cmu.edu
+### Gail Murphy (she/her)
 
-Term: 2022-2025
+> The University of British Columbia, Canada, gail.murphy@ubc.ca, Term: 2022-2025
 
-{{< figure src="../img/Bonita_Sharif_care.jpeg" height=".2" title="Bonita Sharif (she/her) " >}}
-University of Nebraska – Lincoln, USA
+### Marsha Chechik (she/her)
 
-bsharif@unl.edu
+> University of Toronto, Canada, chechik@cs.toronto.edu, Term: 2022-2025
 
-Term: 2022-2025
+### Tayana Conte (she/her)
 
-{{< figure src="../img/GailMurphy_care.jpg" height=".2" title=" Gail Murphy (she/her) " >}}
-The University of British Columbia, Canada
+> Universidade Federal do Amazonas (UFAM), Brazil, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
-gail.murphy@ubc.ca 
+### Federica Sarro (she/her)
 
-Term: 2022-2025
+> University College London, United Kingdom, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
-{{< figure src="../img/MarshaChechik_care.jpg" height=".2" title="Marsha Chechik (she/her)" >}}
-University of Toronto, Canada
+### Rafael Prikladnicki (he/him)
 
-chechik@cs.toronto.edu
+> School of Technology at PUCRS University, Brazil, rafael.prikladnicki@pucrs.br, Term: 2023-2026
 
-Term: 2022-2025
+### Raula Gaikovina Kula (he/him)
 
-{{< figure src="../img/TayanaCare.jpeg" height=".2" title="Tayana Conte (she/her)" >}}
-Universidade Federal do Amazonas (UFAM), Brazil
-
-tayana@icomp.ufam.edu.br
-
-Term: 2023-2026
-
-{{< figure src="../img/FedericaCare.jpg" height=".2" title="Federica Sarro (she/her)" >}}
-University College London, United Kingdom
-
-tayana@icomp.ufam.edu.br
-
-Term: 2023-2026
-
-{{< figure src="../img/RafaelCare.jpeg" height=".2" title="Rafael Prikladnicki (he/him)" >}}
-School of Technology at PUCRS University, Brazil
-
-rafael.prikladnicki@pucrs.br
-
-Term: 2023-2026
-
-{{< figure src="../img/RaulaCare.jpg" height=".2" title="Raula Gaikovina Kula (he/him)" >}}
-Nara Institute of Science and Technology, Japan
-
-raula-k@is.naist.jp
-
-Term: 2023-2026
+> Nara Institute of Science and Technology, Japan, raula-k@is.naist.jp, Term: 2023-2026
 
 ## Annual Reports
 Our first annual report will be available in 2023. To maintain confidentially, the reports will be brief. They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. The reports will be structured this way to protect the privacy of those that approach us.
