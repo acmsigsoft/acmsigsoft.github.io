@@ -63,70 +63,70 @@ jmatlee@uwaterloo.ca
 
 Term: 2022-2025
 
-{{< figure src="../img/alex_tree_care.jpeg" title="Alexander Serebrenik (he/him)" >}}
+{{< figure src="../img/alex_tree_care.jpeg" height=".2" title="Alexander Serebrenik (he/him)" >}}
 Eindhoven University of Technology, Netherlands
 
 a.serebrenik@tue.nl
 
 Term: 2022-2025 
 
-{{< figure src="../img/Kelly_Blincoe_care.jpeg"  title="Kelly Blincoe (she/her)" >}}
+{{< figure src="../img/Kelly_Blincoe_care.jpeg" height=".2"  title="Kelly Blincoe (she/her)" >}}
 University of Auckland, New Zealand
 
 k.blincoe@auckland.ac.nz
 
 Term: 2022-2025
 
-{{< figure src="../img/Andrew_Begel_care.jpeg" height=".4" title="Andrew Begel (he/him)" >}}
+{{< figure src="../img/Andrew_Begel_care.jpeg" height=".2" title="Andrew Begel (he/him)" >}}
 Carnegie Mellon University, USA
 
 abegel@cmu.edu
 
 Term: 2022-2025
 
-{{< figure src="../img/Bonita_Sharif_care.jpeg" height=".4" title="Bonita Sharif (she/her) " >}}
+{{< figure src="../img/Bonita_Sharif_care.jpeg" height=".2" title="Bonita Sharif (she/her) " >}}
 University of Nebraska – Lincoln, USA
 
 bsharif@unl.edu
 
 Term: 2022-2025
 
-{{< figure src="../img/GailMurphy_care.jpg" height=".4" title=" Gail Murphy (she/her) " >}}
+{{< figure src="../img/GailMurphy_care.jpg" height=".2" title=" Gail Murphy (she/her) " >}}
 The University of British Columbia, Canada
 
 gail.murphy@ubc.ca 
 
 Term: 2022-2025
 
-{{< figure src="../img/MarshaChechik_care.jpg" height=".4" title="Marsha Chechik (she/her)" >}}
+{{< figure src="../img/MarshaChechik_care.jpg" height=".2" title="Marsha Chechik (she/her)" >}}
 University of Toronto, Canada
 
 chechik@cs.toronto.edu
 
 Term: 2022-2025
 
-{{< figure src="../img/TayanaCare.jpeg" height=".4" title="Tayana Conte (she/her)" >}}
+{{< figure src="../img/TayanaCare.jpeg" height=".2" title="Tayana Conte (she/her)" >}}
 Universidade Federal do Amazonas (UFAM), Brazil
 
 tayana@icomp.ufam.edu.br
 
 Term: 2023-2026
 
-{{< figure src="../img/FedericaCare.jpg" height=".4" title="Federica Sarro (she/her)" >}}
+{{< figure src="../img/FedericaCare.jpg" height=".2" title="Federica Sarro (she/her)" >}}
 University College London, United Kingdom
 
 tayana@icomp.ufam.edu.br
 
 Term: 2023-2026
 
-{{< figure src="../img/RafaelCare.jpeg" height=".4" title="Rafael Prikladnicki (he/him)" >}}
+{{< figure src="../img/RafaelCare.jpeg" height=".2" title="Rafael Prikladnicki (he/him)" >}}
 School of Technology at PUCRS University, Brazil
 
 rafael.prikladnicki@pucrs.br
 
 Term: 2023-2026
 
-{{< figure src="../img/RaulaCare.jpg" height=".4" title="Raula Gaikovina Kula (he/him)" >}}
+{{< figure src="../img/RaulaCare.jpg" height=".2" title="Raula Gaikovina Kula (he/him)" >}}
 Nara Institute of Science and Technology, Japan
 
 raula-k@is.naist.jp
