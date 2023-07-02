@@ -112,7 +112,7 @@ tayana@icomp.ufam.edu.br
 
 Term: 2023-2026
 
-{{< figure src="../img/FedericaCare.jpeg" height=".4" title="Federica Sarro (she/her)" >}}
+{{< figure src="../img/FedericaCare.jpg" height=".4" title="Federica Sarro (she/her)" >}}
 University College London, United Kingdom
 
 tayana@icomp.ufam.edu.br
@@ -126,7 +126,7 @@ rafael.prikladnicki@pucrs.br
 
 Term: 2023-2026
 
-{{< figure src="../img/RaulaCare.jpeg" height=".4" title="Raula Gaikovina Kula (he/him)" >}}
+{{< figure src="../img/RaulaCare.jpg" height=".4" title="Raula Gaikovina Kula (he/him)" >}}
 Nara Institute of Science and Technology, Japan
 
 raula-k@is.naist.jp
