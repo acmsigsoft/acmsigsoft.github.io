@@ -102,4 +102,4 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 ## Annual Reports
 Our first annual report will be available in 2023. To maintain confidentially, the reports will be brief. They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. The reports will be structured this way to protect the privacy of those that approach us.
-- [SIGSOFT CARES Annual Report 2023](files/AR2023.pdf)
+- <a href="files/AR2023.pdf" title="SIGSOFT CARES Annual Report 2023">SIGSOFT CARES Annual Report 2023</a>
