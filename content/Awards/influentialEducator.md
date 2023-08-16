@@ -1,4 +1,3 @@
-
 ---
 weight: 3
 bookFlatSection: true
@@ -9,17 +8,22 @@ Education is vital to the advancement of the research and practice of Software E
 
 The award recipients share a $1000 honorarium, and each recipient receives a plaque engraved with their name and signed by the chair of SIGSOFT. The award is presented by the SIGSOFT chair at ICSE during ICSE's award presentation session. Each award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
 
-To submit a nomination for the award, please use the awards nomination portal. Nominations are due no later than January 15 of each year. Among other details, the nominator needs to submit the following through the portal:
+To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
+* An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
-1. The proposed citation (up to 25 words)
-2. Succinct description of why the nominee is well-qualified for the award (100-250 words)
-3. Detailed nomination statement (no length limit, but please be reasonable) that includes the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
 
-The nominator also needs to upload up to 3 support letters (200-300 words will be sufficient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
+    1. Full name(s) and afﬁliation(s) of the nominee(s)
+    2. Proposed citation (up to 25 words)
+    3. Succinct description of why the nominee(s) is well-qualiﬁed for the award (100-250 words)
+    4. Detailed nomination statement (no length limit, but please be reasonable)
+    5. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+
 
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
 
 ## Winners
+- 2023  Tao Xie, Peking University, China, for significant contributions in mentoring of graduate students and junior researchers, broadening participation of underrepresented groups in software engineering/computing, and innovation in educational tooling
 - 2022	Miryung Kim, University of California, Los Angeles, for outstanding achievements in undergraduate and graduate mentoring with an emphasis on research excellence in software engineering, diversity, and inclusion
 - 2021	Katsuro Inoue, Osaka University, for his life-long foundational contributions to software engineering education and his success in connecting generations of educators and researchers from Japan with the international community
 - 2020	Greg Wilson
@@ -38,6 +42,21 @@ The selection committee shall have the option to decline to make an award in a g
 - 2009 Nico Habermann (posthumously), for significant and lasting contributions to the field of software engineering as a teacher and mentor
 
 ## Committee
+#### 2024
+- Walid Maalej, University of Hamburg, Germany (chair)
+- Thomas Zimmermann, Microsoft Research, United States (non-voting)
+- David Lo, Singapore Management University, Singapore (non-voting)
+#### 2023
+- Andrea Zisman, Open University, United Kingdom (chair)
+- Walid Maalej, University of Hamburg, Germany (deputy chair)
+- Paris Avgeriou, University of Groningen, Netherlands
+- Luciano Baresi, Politecnico di Milano, Italy
+- Daniela Damian, University of Victoria, Canada
+- Prem Devambu, UC Davis, United States 
+- Zhenjiang Hu, Peking University, China
+- Robyn Lutz, Iowa State University, United States
+- Thomas Zimmermann, Microsoft Research, United States (non-voting)
+- David Lo, Singapore Management University, Singapore (non-voting)
 #### 2022
 
 - Marsha Chechik, University of Toronto, Canada (chair)

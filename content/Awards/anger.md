@@ -24,14 +24,14 @@ To qualify, the student:
 ### The Application Process
 To submit a nomination for the award, please use the awards nomination portal. Please note that:
 
-* An intent to nominate must be submitted in the nomination system by December 15, 2022. The intent submission is very lightweight and only requires: (1) full name and affiliation of the nominated student, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by January 15, 2023. The PDF should contain the following:
-1. Full name and affiliation of the nominated student
-2. Membership number (ACM/SIGSOFT)
-3. A synopsis of an original research proposal that the student is pursuing (2 page limit)
-4. A proposal discussing the potential for crossover in ideas between the student's current field of research and research in the fields covered by SIGBED (1 page limit)
-5. A curriculum vitae or resume listing the student's publications
-6. A letter from the student's research advisor confirming that the student is in good standing and pursuing the research as described in the proposal. The letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+* An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name and affiliation of the nominated student, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
+  1. Full name and affiliation of the nominated student
+  2. Membership number (ACM/SIGSOFT)
+  3. A synopsis of an original research proposal that the student is pursuing (2 page limit)
+  4. A proposal discussing the potential for crossover in ideas between the student's current field of research and research in the fields covered by SIGBED (1 page limit)
+  5. A curriculum vitae or resume listing the student's publications
+  6. A letter from the student's research advisor confirming that the student is in good standing and pursuing the research as described in the proposal. The letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
 
 ### Selection Process
 
@@ -53,6 +53,11 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 | | 	Chunyang Ye (Hong Kong University of Science and Technology)	  and  |Bernhard Egger (Seoul National University)  |
 
 ## Committee
+
+#### 2024
+* Myra B. Cohen, Iowa State University, United States (chair)
+* Thomas Zimmermann, Microsoft Research, United States (non-voting)
+* David Lo, Singapore Management University, Singapore (non-voting)
 
 #### 2023
 * Natalia Juristo, Universidad Politecnica de Madrid, Spain (chair)

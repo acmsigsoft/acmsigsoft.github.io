@@ -4,14 +4,20 @@ bookFlatSection: true
 title: "ACM SIGSOFT Impact Paper Award"
 ---
 
-The ACM SIGSOFT Impact Paper Award is presented annually to the author(s) of a paper presented at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year. For the January 15, 2022 deadline, papers published in 2011 or before are eligible. In including all of SIGSOFT's conferences in the competition, this award recognizes the breadth and vitality of the software engineering community. The papers are judged by their influence since their publication. The award includes a $1000 honorarium to be split amongst the authors as they choose, an award plaque for each author, an invitation for the authors to present a keynote talk at the current year's annual ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), as well as inclusion of a full-length paper in the ESEC/FSE conference proceedings. Up to three authors will be provided support for travel to ESEC/FSE, with each receiving up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ESEC/FSE.
+The ACM SIGSOFT Impact Paper Award is presented annually to the author(s) of a paper presented at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year. For the October 30, 2023 deadline, papers published in 2011 or before are eligible. In including all of SIGSOFT's conferences in the competition, this award recognizes the breadth and vitality of the software engineering community. The papers are judged by their influence since their publication. The award includes a $1000 honorarium to be split amongst the authors as they choose, an award plaque for each author, an invitation for the authors to present a keynote talk at the current year's annual ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), as well as inclusion of a full-length paper in the ESEC/FSE conference proceedings. Up to three authors will be provided support for travel to ESEC/FSE, with each receiving up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ESEC/FSE.
 
-To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Nominations are due no later than January 15 of each year. The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented.
+To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
+
+* An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) paper title along with the acronym and year of the SIGSOFT-sponsored conference the paper was published, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following information: (1) paper title; (2) authors; (3) name of the SIGSOFT-sponsored conference; (4) year the paper was published; (5) proposed citation (up to 25 words); (6) a succinct statement describing why the paper is impactful (200-500 words).
+
+The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented.
 
 If you have questions about this award, please contact sigsoft-impact-award (at) acm (dot) org.
 
 ## Winners
-
+- 2023 Gordon Fraser, and Andrea Arcuri. EvoSuite: Automatic Test Suite Generation for Object-Oriented Software. In Proceedings of the 19th ACM SIGSOFT Symposium on the Foundations of Software Engineering and 13th European Software Engineering Conference (ESEC/FSE 2011, Szeged, Hungary, Sep 2011). "For building EvoSuite, a search-based software testing tool which has a significant community around it."
 - 2022	Mik Kersten, and Gail Murphy. Using Task Context to Improve Programmer Productivity. In Proceedings of the 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering (SIGSOFT FSE 2006, Portland, Oregon, Nov 2006). "For pioneering the concept of a task context, which has improved software practice and inspired new research."
 - 2021	Matthew B. Dwyer, George S. Avrunin, and James C. Corbett. Patterns of Property Specifications for Finite-State Verification. In Proceedings of the 21st Internation Conference on Software Engineering (ICSE 1999, Los Angeles, California, May 1999). "For enabling widespread use of temporal logic for program verification by raising the level of abstraction to common patterns."
 - 2020	Willem Visser, Klaus Havelund, Guillaume Brat, SeungJoon Park. Model Checking Programs. In Proceedings of the 15th IEEE International Conference on Automated Software Engineering (ASE 2000, Grenoble, France, 11-15 Sep 2000).
@@ -42,10 +48,45 @@ Thomas Reps, Susan Horowitz, Mooly Sagiv and Genevieve Rosay. Speeding Up Slicin
 David Garlan, Robert Allen and John Ockerbloom. Architectural Mismatch or Why It's Hard to Build Systems Out of Existing Parts. In Proc. 17th International Conference on Software Engineering, Seattle, WA, USA, April 1995.
 Gail C. Murphy, David Notkin and Kevin Sullivan. Software Reflexion Models: Bridging the Gap between Source and High-Level Models. In Proc. Third ACM SIGSOFT Symposium on Foundations of Software Engineering, Washington, DC, USA, October 1995.
 
+#### Awarded in 2010
+Thomas Reps and Tim Teitelbaum. The Synthesizer Generator. In SDE 1, Proceedings of the first ACM SIGSOFT/SIGPLAN Software Engineering Symposium on Practical Software Development Environments, 1984.
+Karl J. Ottenstein and Linda M. Ottenstein. The Program Dependence Graph in a Software Development Environment. In SDE 1, Proceedings of the first ACM SIGSOFT/SIGPLAN Software Engineering Symposium on Practical Software Development Environments, 1984.
+Robert Balzer.Tolerating Inconsistency. In ICSE '91, Proceedings of the 13th International Conference on Software Engineering.
+David Lorge Parnas. Software Aging.  In ICSE '94, Proceedings of the 16th International Conference on Software Engineering.
+
+#### Awarded in 2009
+T.J. McCabe, A Complexity Measure. IEEE Transactions on Software Engineering, vol. 2, no. 4, pp. 308-320, July 1976.
+Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selection. In Proceedings of the 6th international Conference on Software Engineering (Tokyo, Japan, September 13 - 16, 1982). International Conference on Software Engineering. IEEE Computer Society Press, Los Alamitos, CA, 272-278.
+Reiss, S.P., PECAN: Program Development Systems that Support Multiple Views. IEEE Transactions on Software Engineering, vol.SE-11, no.3, pp. 276-285. March 1985.
+Barry W. Boehm, A Spiral Model of Software Development and Enhancement. Computer, vol. 21, no. 5, pp. 61-72, May 1988.
+Royce, W. W. Managing the development of large software systems: concepts and techniques. In Proceedings of the 9th international Conference on Software Engineering (Monterey, California, United States). International Conference on Software Engineering. IEEE Computer Society Press, Los Alamitos, CA, 328-338.
+
+#### Awarded in 2008
+Harel, D., Lachover, H., Naamad, A., Pnueli, A., Politi, M., Sherman, R., and Shtul-Trauring, a. STATEMATE: a working environment for the development of complex reactive systems.In Proceedings of the 10th International Conference on Software Engineering (Singapore, April 11 - 15, 1988). International Conference on Software Engineering. IEEE Computer Society Press, Los Alamitos, CA, 396-406.
+Ungar, D. Generation Scavenging: A non-disruptive high performance storage reclamation algorithm. SIGPLAN Not. 19, 5 -- ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, (May. 1984), 157-167.
+Parnas, D. L., Clements, P. C., and Weiss, D. M. The modular structure of complex systems. In Proceedings of the 7th International Conference on Software Engineering (Orlando, Florida, United States, March 26 - 29, 1984). International Conference on Software Engineering.  IEEE Press, Piscataway, NJ, 408-417.
+Weiser, M. Program slicing. In Proceedings of the 5th International Conference on Software Engineering (San Diego, California, United States, March 09 - 12, 1981). International Conference on Software Engineering. IEEE Press, Piscataway, NJ, 439-449.
+Liskov, B., Snyder, A., Atkinson, R., and Schaffert, C. Abstraction mechanisms in CLU. In Proceedings of An ACM Conference on Language Design For Reliable Software (Raleigh, North Carolina, March 28 - 30, 1977). D. B. Wortman, Ed., 140.
+
 
 
 
 ## Committee
+#### 2024
+ Massimiliano Di Penta, University of Sanio, Italy (chair)
+ Thomas Zimmermann, Microsoft Research, United States (non-voting)
+ David Lo, Singapore Management University, Singapore (non-voting)
+#### 2023
+ Dongmei Zhang, Microsoft Research Asia, China (chair)
+ Anders Moller, Aarhus University, Denmark (deputy chair)
+ Massimiliano Di Penta, University of Sanio, Italy
+ Zhi Jin, Peking University, China
+ Yves Le Traon, University of Luxembourg, Luxembourg
+ Abhik Roychoudhury, National University of Singapore, Singapore
+ Koushik Sen, University of California-Berkeley, United States
+ Margaret-Anne Storey, University of Victoria, Canada
+ Thomas Zimmermann, Microsoft Research, United States (non-voting)
+ David Lo, Singapore Management University, Singapore (non-voting)
 #### 2022
 - Cristian Cadar, Imperial College London, United Kingdom (chair)
 - Tevfik Bultan, UC Santa Barbara, United States

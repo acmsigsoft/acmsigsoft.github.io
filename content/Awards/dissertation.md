@@ -7,18 +7,25 @@ title: " Outstanding Doctoral Dissertation Award"
 
 The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the author of an outstanding doctoral dissertation in the area of Software Engineering. The author of the winning dissertation will be invited to publish a dissertation summary in the SIGSOFT newsletter, Software Engineering Notes (SEN). The award includes a $1000 honorarium and a plaque for the author, which is presented at the International Conference on Software Engineering (ICSE), and funding support for the recipient to travel to ICSE to receive the award (including a registration to ICSE). A public citation for the award dissertation will be placed on the SIGSOFT web site. The award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
 
-The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the January 15, 2022 deadline, dissertations dated December 15, 2020 to December 31, 2021 are eligible.
+The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the October 30, 2023 deadline, dissertations dated December 15, 2022 to October 15, 2023 are eligible.
 
-To submit a nomination for the award, please use the awards [nomination portal](https://awards.sigsoft.org/). Nominations are due no later than January 15 of each year. Among other details, the nominator needs to submit the following through the portal:
+To submit a nomination for the award, please use the awards [nomination portal](https://awards.sigsoft.org/). Please note that:
 
-Succinct description of why the nominee is well-qualified for the award (200-500 words) that includes the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
-List of nominee's publications
-The nominator also needs to upload up to 3 support letters (200-300 words will be sufficient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
+* An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
+  1. Full name and afﬁliation of the nominee
+  2. One- to two-page summary of the nominee's dissertation (in English)
+  3. Link to download the nominee's dissertation (in any language)
+  4. List of nominee's publications (that were used as the basis of chapters in the nominated dissertation)
+  5. Succinct description of why the nominee is well-qualiﬁed for the award (200-500 words)
+  6. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
 
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
 
 ## Winners
 
+- 2023 David Shriver, Increasing the Applicability of Verification Tools for Neural Networks, University of Virginia, advisors: Matt Dwyer and Sebastian Elbaum
 - 2022 Wing Lam, Detecting, Characterizing, and Taming Flaky Tests, University of Illinois at Urbana-Champaign, advisors: Darko Marinov and Tao Xie
 - 2021	August Shi, Improving Regression Testing Efficiency and Reliability via Test-Suite Transformations, University of Illinois at Urbana-Champaign, advisor: Darko Marinov
 - 2020	Rachel Tzoref-Brill, Comprehension and Evolution of Combinatorial Models and Test Plans, Tel Aviv University
@@ -33,6 +40,22 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 - 2012	Mark Gabel, Inferring Programmer Intent and Related Errors from Software, University of California, Davis, Zhendong Su, advisor
 
 ## Committee
+#### 2024
+* Myra B. Cohen, Iowa State University, United States (chair)
+* Thomas Zimmermann, Microsoft Research, United States (non-voting)
+* David Lo, Singapore Management University, Singapore (non-voting)
+#### 2023
+* Natalia Juristo, Universidad Politecnica de Madrid, Spain (chair)
+* Grace A. Lewis, Carnegie Mellon University, United States
+* Shahar Maoz, Tel Aviv University, Israel
+* Ignacio Panach, Universitat de Valencia, Spain
+* Birgit Penzenstadler, Chalmers University of Technology, Sweden
+* Federica Sarro, University College London, United Kingdom
+* Francisco Servant, Universidad de Malaga, Spain
+* Ayse Tosun, Istanbul Technical University, Turkey
+* Tao Xie, Peking University, China
+* Thomas Zimmermann, Microsoft Research, United States (non-voting)
+* David Lo, Singapore Management University, Singapore (non-voting)
 #### 2022
 * Christian Bird, Microsoft Research, United States (chair)
 * Paolo Tonella, Università della Svizzera Italiana, Switzerland
@@ -55,4 +78,4 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 * Paola Spoletini
 * Peter Rigby
 * Venera Arnaoudova
-Zhi Jin
+* Zhi Jin

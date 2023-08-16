@@ -19,17 +19,22 @@ Criteria that the committee considers in evaluating nominations include:
 5. Length of time serving the software engineering community
 6. Other service contributions
 
-To submit a nomination for the award, please use the awards [nomination portal](https://awards.sigsoft.org/). Nominations are due no later than January 15 of each year. Among other details, the nominator needs to submit the following through the portal:
+To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
 
-1. The proposed citation (up to 25 words)
-2. Succinct description of why the nominee is well-qualified for the award (100-250 words)
-3. Detailed nomination statement (no length limit, but please be reasonable) that includes the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
+* An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
-The nominator also needs to upload up to 3 support letters (200-300 words will be sufficient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
+  1. Full name(s) and afﬁliation(s) of the nominee(s)
+  2. Proposed citation (up to 25 words)
+  3. Succinct description of why the nominee(s) is well-qualiﬁed for the award (100-250 words)
+  4. Detailed nomination statement (no length limit, but please be reasonable)
+  5. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate(s) I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+
 
 If you have questions about this award, please contact sigsoft-service-award (at) acm (dot) org.
 
 ## Winners
+- 2023 John Grundy, Monash University, for continued outstanding service to the software engineering community, including the repeated successful organization of flagship conferences, and leadership in the Australasian research and education community
 - 2022	Joanne M. Atlee, University of Waterloo, for sustained, outstanding service to the software engineering community and enabling a research environment in software engineering world-wide that is equitable, diverse and inclusive
 - 2021	Tao Xie, Peking University, for outstanding service contributions to the software engineering community, including substantial activities on SIGSOFT history, broadening participation in software engineering, and successful chairing of technical events
 - 2020	Nenad Medvidović
@@ -60,6 +65,23 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - 1995	Tony Wasserman
 
 ## Committee
+#### 2024 
+- Walid Maalej, University of Hamburg, Germany (chair)
+- Thomas Zimmermann, Microsoft Research, United States (non-voting)
+- David Lo, Singapore Management University, Singapore (non-voting)
+  
+#### 2023 
+- Andrea Zisman, Open University, United Kingdom (chair)
+- Walid Maalej, University of Hamburg, Germany (deputy chair)
+- Paris Avgeriou, University of Groningen, Netherlands
+- Luciano Baresi, Politecnico di Milano, Italy
+- Daniela Damian, University of Victoria, Canada
+- Prem Devambu, UC Davis, United States 
+- Zhenjiang Hu, Peking University, China
+- Robyn Lutz, Iowa State University, United States
+- Thomas Zimmermann, Microsoft Research, United States (non-voting)
+- David Lo, Singapore Management University, Singapore (non-voting)
+  
 #### 2022
 - Marsha Chechik, University of Toronto, Canada (chair)
 - Daniela Damian, University of Victoria, Canada
