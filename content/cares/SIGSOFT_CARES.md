@@ -57,8 +57,7 @@ CARES committee members may also attend other workshops and conferences sponsore
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
 `Joanne Atlee (she/her)`
-{{< figure src= "../img/Jo_Atlee_care.jpeg" height=".3" title="Joanne Atlee (she/her)" >}}
-
+{{< figure src= "/img/cares/Jo_Atlee_care.jpeg" height=".1" title="Joanne Atlee (she/her)" >}}
 > University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025
 
 `Alexander Serebrenik (he/him)`
