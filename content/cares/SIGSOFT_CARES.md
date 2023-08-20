@@ -56,47 +56,71 @@ CARES committee members may also attend other workshops and conferences sponsore
 ### Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
-### Joanne Atlee (she/her)
+`Joanne Atlee (she/her)`
+
+{{< figure src="../img/
+Jo_Atlee_care.jpeg" height=".3" title="Joanne Atlee (she/her)" >}}
 
 > University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025
 
-### Alexander Serebrenik (he/him)
+`Alexander Serebrenik (he/him)`
+
+{{< figure src="../img/alex_tree_care.jpeg" height=".3" title="Alexander Serebrenik (he/him)" >}}
+
 
 > Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025 
 
-### Kelly Blincoe (she/her)
+`Kelly Blincoe (she/her)`
+
+{{< figure src="../img/Kelly_Blincoe_care.jpeg" height=".3" title="Kelly Blincoe (she/her)" >}}
 
 > University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025
 
-### Andrew Begel (he/him)
+`Andrew Begel (he/him)`
+
+{{< figure src="../img/Andrew_Begel_care.jpeg" height=".3" title="Andrew Begel (he/him)" >}}
 
 > Carnegie Mellon University, USA, abegel@cmu.edu, Term: 2022-2025
 
-### Bonita Sharif (she/her)
+`Bonita Sharif (she/her)`
+
+{{< figure src="../img/Bonita_Sharif_care.jpeg" height=".3" title="Bonita Sharif (she/her)" >}}
 
 > University of Nebraska – Lincoln, USA, bsharif@unl.edu, Term: 2022-2025
 
-### Gail Murphy (she/her)
+`Gail Murphy (she/her)`
+
+{{< figure src="../img/GailMurphy_care.jpg" height=".3" title="Gail Murphy (she/her)" >}}
 
 > The University of British Columbia, Canada, gail.murphy@ubc.ca, Term: 2022-2025
 
-### Marsha Chechik (she/her)
+`Marsha Chechik (she/her)`
+
+{{< figure src="../img/MarshaChechik_care.jpg" height=".3" title="Marsha Chechik (she/her)" >}}
 
 > University of Toronto, Canada, chechik@cs.toronto.edu, Term: 2022-2025
 
-### Tayana Conte (she/her)
+`Tayana Conte (she/her)`
+
+{{< figure src="../img/TayanaCare.jpeg" height=".3" title="Tayana Conte (she/her)" >}}
 
 > Universidade Federal do Amazonas (UFAM), Brazil, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
-### Federica Sarro (she/her)
+`Federica Sarro (she/her)`
+
+{{< figure src="../img/FedericaCare.jpg" height=".3" title="Federica Sarro (she/her)" >}}
 
 > University College London, United Kingdom, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
-### Rafael Prikladnicki (he/him)
+`Rafael Prikladnicki (he/him)`
+
+{{< figure src="../img/RafaelCare.jpeg" height=".3" title="Rafael Prikladnicki (he/him)" >}}
 
 > School of Technology at PUCRS University, Brazil, rafael.prikladnicki@pucrs.br, Term: 2023-2026
 
-### Raula Gaikovina Kula (he/him)
+`Raula Gaikovina Kula (he/him)`
+
+{{< figure src="../img/RaulaCare.jpg" height=".3" title="Raula Gaikovina Kula (he/him)" >}}
 
 > Nara Institute of Science and Technology, Japan, raula-k@is.naist.jp, Term: 2023-2026
 
