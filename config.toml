@@ -154,6 +154,12 @@ pluralizelisttitles = false
     parent     = "menu.cares"
 
 [[menu.main]]
+    name       = "CARES Committee Members"
+    url        = "/cares/committee"
+    weight     = 4
+    parent     = "menu.cares"
+
+[[menu.main]]
     name       = "CAPS"
     identifier = "menu.allpages"
     url        = "/CAPS/CAPSMAIN"
