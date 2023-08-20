@@ -10,18 +10,22 @@ The award recipients share a $1000 honorarium, and each recipient receives a pla
 
 The selection committee solicits nominations from the software engineering community in a variety of ways including announcements in SIGSOFT's newsletter, Software Engineering Notes, and postings on appropriate newsgroups and websites. The committee considers all external nominations in the context of the nominees' research contributions to software engineering. The selection committee shall also have the option to decline to make an award in a given year, if no suitable nominations are presented.
 
-To submit a nomination for the award, please use the awards nomination portal. Nominations are due no later than January 15 of each year. Among other details, the nominator needs to submit the following through the portal:
+To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
 
-1. The proposed citation (up to 25 words)
-2. Succinct description of why the nominee is well-qualified for the award (100-250 words)
-3. Detailed nomination statement (no length limit, but please be reasonable) that includes the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
-The nominator also needs to upload up to 3 support letters (200-300 words will be sufficient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."
+* An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
+  1. Full name(s) and afﬁliation(s) of the nominee(s)
+  2. Proposed citation (up to 25 words)
+  3. Succinct description of why the nominee(s) is well-qualiﬁed for the award (100-250 words)
+  4. Detailed nomination statement (no length limit, but please be reasonable)
+  5. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
 
 If you have questions about this award, please contact sigsoft-research-award (at) acm (dot) org.
 
 ## Winners
-
-2022	Lionel Briand, University of Ottawa and Centre for ICT Security, Reliability, and Trust (SnT), University of Luxembourg, for contributions in software testing, software quality assurance, and context-driven software engineering research, notably in exemplary collaborations with industry
+- 2023  Gail Murphy, University of British Columbia, for pioneering contributions to recommenders for software engineering and program comprehension that have impacted both theory and practice
+- 2022	Lionel Briand, University of Ottawa and Centre for ICT Security, Reliability, and Trust (SnT), University of Luxembourg, for contributions in software testing, software quality assurance, and context-driven software engineering research, notably in exemplary collaborations with industry
 - 2021	Prem Devanbu, UC Davis, for profoundly changing the way researchers think about software by exploring connections between source code and natural language
 - 2020	Michael Ernst
 - 2019	Mark Harman
@@ -50,6 +54,22 @@ If you have questions about this award, please contact sigsoft-research-award (a
 - 1997	Barry Boehm
 
 ## Committee
+#### 2024
+- Walid Maalej, University of Hamburg, Germany (chair)
+- Thomas Zimmermann, Microsoft Research, United States (non-voting)
+- David Lo, Singapore Management University, Singapore (non-voting)
+#### 2023
+- Andrea Zisman, Open University, United Kingdom (chair)
+- Walid Maalej, University of Hamburg, Germany (deputy chair)
+- Paris Avgeriou, University of Groningen, Netherlands
+- Luciano Baresi, Politecnico di Milano, Italy
+- Daniela Damian, University of Victoria, Canada
+- Prem Devambu, UC Davis, United States 
+- Zhenjiang Hu, Peking University, China
+- Robyn Lutz, Iowa State University, United States
+- Thomas Zimmermann, Microsoft Research, United States (non-voting)
+- David Lo, Singapore Management University, Singapore (non-voting)
+
 #### 2022
 - Marsha Chechik, University of Toronto, Canada (chair)
 - Daniela Damian, University of Victoria, Canada
