@@ -9,7 +9,7 @@ The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the
 
 The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the October 30, 2023 deadline, dissertations dated December 15, 2022 to October 15, 2023 are eligible.
 
-To submit a nomination for the award, please use the awards [nomination portal](https://awards.sigsoft.org/). Please note that:
+To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
 * An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 

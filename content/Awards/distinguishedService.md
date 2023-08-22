@@ -19,7 +19,7 @@ Criteria that the committee considers in evaluating nominations include:
 5. Length of time serving the software engineering community
 6. Other service contributions
 
-To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
+To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
 * An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 

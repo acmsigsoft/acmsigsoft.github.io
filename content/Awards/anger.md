@@ -22,7 +22,7 @@ To qualify, the student:
 2. must be undertaking graduate research in a relevant field in an accredited college or university
 
 ### The Application Process
-To submit a nomination for the award, please use the awards nomination portal. Please note that:
+To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
 * An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name and affiliation of the nominated student, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 * A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
