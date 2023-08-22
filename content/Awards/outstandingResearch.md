@@ -10,7 +10,7 @@ The award recipients share a $1000 honorarium, and each recipient receives a pla
 
 The selection committee solicits nominations from the software engineering community in a variety of ways including announcements in SIGSOFT's newsletter, Software Engineering Notes, and postings on appropriate newsgroups and websites. The committee considers all external nominations in the context of the nominees' research contributions to software engineering. The selection committee shall also have the option to decline to make an award in a given year, if no suitable nominations are presented.
 
-To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
+To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
 * An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 

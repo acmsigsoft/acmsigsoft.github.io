@@ -8,7 +8,7 @@ Education is vital to the advancement of the research and practice of Software E
 
 The award recipients share a $1000 honorarium, and each recipient receives a plaque engraved with their name and signed by the chair of SIGSOFT. The award is presented by the SIGSOFT chair at ICSE during ICSE's award presentation session. Each award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
 
-To submit a nomination for the award, please use the [awards nomination portal](https://awards.sigsoft.org/). Please note that:
+To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 * An intent to nominate must be submitted in the nomination system by October 16, 2023. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
 * A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 30, 2023. The PDF should contain the following:
