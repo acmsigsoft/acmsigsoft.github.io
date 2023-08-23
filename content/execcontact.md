@@ -130,8 +130,7 @@ title = "SIGSOFT Executive Committee"
 #### Social Media Chair: Sridhar Chimalakonda
 
     Department of Computer Science and Engineering
-    Indian Institute of Technology
-    Tirupati, India
+    Indian Institute of Technology　Tirupati, India
     http://researchweb.iiit.ac.in/~sridhar_ch
     ch@iittp.ac.in
 
