@@ -37,7 +37,7 @@ Indian Institute of Technology
 
 Tirupati, India
 
-http://researchweb.iitt.ac.in/~sridhar_chch@iittp.ac.in
+ch@iittp.ac.in
 
 ### Newsletter Editor: Jacopo Soldani
 
