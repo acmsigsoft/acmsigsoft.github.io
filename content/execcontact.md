@@ -133,7 +133,7 @@ Department of Computer Science and Engineering
 Indian Institute of Technology
 Tirupati, India
 http://researchweb.iiit.ac.in/~sridhar_ch
-ch@iiitp.ac.in
+ch@iittp.ac.in
 
 #### Digital Learning Co-Chair: Shane McIntosh
 
