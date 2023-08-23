@@ -37,7 +37,7 @@ Indian Institute of Technology
 
 Tirupati, India
 
-ch@iittp.ac.in
+> ch@iittp.ac.in
 
 ### Newsletter Editor: Jacopo Soldani
 
