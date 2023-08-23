@@ -33,9 +33,7 @@ Fax: +1-212-302-5826
 
 Department of Computer Science and Engineering
 
-Indian Institute of Technology
-
-Tirupati, India
+Indian Institute of Technology　Tirupati, India
 
 > ch@iittp.ac.in
 
