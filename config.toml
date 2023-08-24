@@ -102,13 +102,13 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+    url        = "https://www-old.sigsoft.org/awards/distinguishedPaperAward.html"
     weight     = 1
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ICSE Most Influential Paper"
-    url        = "https://www.sigsoft.org/awards/icseMIPAward.html"
+    url        = "https://wwwwww-old.sigsoft.org/awards/icseMIPAward.html"
     weight     = 2
     parent     = "section.conference"
 
