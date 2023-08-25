@@ -213,7 +213,7 @@ pluralizelisttitles = false
     # Social media
     facebook_site = "sigsoft" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "sigsoft" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "/img/sigsoft.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
