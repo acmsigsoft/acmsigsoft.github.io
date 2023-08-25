@@ -2,6 +2,7 @@
   <main id="main">
     <div class="box">
       <h3>We are sorry – this page is not here anymore</h3>
+      We are in the process of moving to a new website. If you cannot find the information, please check the old ACM SIGSOFT webpage at <a href="http://www-old.sigsoft.org">http://www-old.sigsoft.org</a>
       <h4 class="text-muted">Error 404: Page not found</h4>
       <p class="buttons"><a href="/" class="btn btn-template-main"><i class="fas fa-home"></i> Go to homepage</a></p></div>
   </main>
