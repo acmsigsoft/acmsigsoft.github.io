@@ -2,9 +2,7 @@
 weight: 4
 bookFlatSection: true
 title: "SIGSOFT Travel Support and Childcare Assistance at Conferences - CAPS"
-aliases: 
-- "CAPS"
-- "CAPS/", 
+aliases: "CAPS"
 ---
 CAPS provides support for students and professionals to attend the conferences and events sponsored by ACM SIGSOFT. Currently, CAPS applications are open for:
 
