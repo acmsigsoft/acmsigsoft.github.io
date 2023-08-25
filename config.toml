@@ -34,7 +34,7 @@ pluralizelisttitles = false
     name       = "SEWORLD"
     url        = "https://www-old.sigsoft.org/resources/seworld.html"
     weight     = 1
-    parent     = "menu.abt"
+    parent     = "section.seworld"
 
 [[menu.main]]
     name       = "SIGSOFT Bylaws"
