@@ -1,6 +1,5 @@
 +++
 title = "Contact"
-aliases: "/contact.html"
 +++
 
 ### Chair: Thomas Zimmermann
