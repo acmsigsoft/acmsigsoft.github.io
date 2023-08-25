@@ -1,6 +1,5 @@
 +++
 title = "SIGSOFT Executive Committee"
-aliases: /execcomm.html
 +++
 
 ### Chair: Thomas Zimmermann
