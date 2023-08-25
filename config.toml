@@ -108,7 +108,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ICSE Most Influential Paper"
-    url        = "https://wwwwww-old.sigsoft.org/awards/icseMIPAward.html"
+    url        = "https://www-old.sigsoft.org/awards/icseMIPAward.html"
     weight     = 2
     parent     = "section.conference"
 
