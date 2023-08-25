@@ -31,6 +31,12 @@ pluralizelisttitles = false
     parent     = "menu.abt"
 
 [[menu.main]]
+    name       = "SEWORLD"
+    url        = "https://www-old.sigsoft.org/resources/seworld.html"
+    weight     = 1
+    parent     = "menu.abt"
+
+[[menu.main]]
     name       = "SIGSOFT Bylaws"
     url        = "https://www.acm.org/special-interest-groups/volunteer-resources/bylaws/sigsoft-bylaws"
     weight     = 2
