@@ -1,7 +1,7 @@
----
++++
 title = "Contact"
 aliases: "/contact.html"
----
++++
 
 ### Chair: Thomas Zimmermann
  Microsoft Research, One Microsoft Way
