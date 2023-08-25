@@ -2,7 +2,7 @@
 weight: 3
 bookFlatSection: true
 title: "Outstanding Research Award"
-aliases: /awards/outstandingResearchAward.html
+aliases: "/awards/outstandingResearchAward.html"
 ---
 
 This award is presented to an individual or individuals who have made significant and lasting research contributions to the theory or practice of software engineering.
