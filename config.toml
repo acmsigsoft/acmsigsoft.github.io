@@ -292,7 +292,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Mission Statement"
     subtitle = "The ACM Special Interest Group on Software Engineering seeks to improve our ability to engineer software by stimulating interaction among practitioners, researchers, and educators; by fostering the professional development of software engineers; and by representing software engineers to professional, legal, and political entities."
-    link_url = "https://www.sigsoft.org/index.html"
+    link_url = "https://sigsoft.org/"
     link_text = "Homepage"
 
 [params.clients]

@@ -1,8 +1,8 @@
-
 ---
 weight: 3
 bookFlatSection: true
 title: " ACM SIGSOFT - SIGBED Frank Anger Award "
+aliases: "/awards/angerAward.html"
 ---
 
 

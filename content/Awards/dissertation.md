@@ -1,8 +1,9 @@
-
 ---
 weight: 3
 bookFlatSection: true
 title: " Outstanding Doctoral Dissertation Award"
+aliases: "/awards/dissertationAward.html"
+
 ---
 
 The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the author of an outstanding doctoral dissertation in the area of Software Engineering. The author of the winning dissertation will be invited to publish a dissertation summary in the SIGSOFT newsletter, Software Engineering Notes (SEN). The award includes a $1000 honorarium and a plaque for the author, which is presented at the International Conference on Software Engineering (ICSE), and funding support for the recipient to travel to ICSE to receive the award (including a registration to ICSE). A public citation for the award dissertation will be placed on the SIGSOFT web site. The award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
