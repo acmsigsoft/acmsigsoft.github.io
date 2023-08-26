@@ -35,6 +35,12 @@ pluralizelisttitles = false
     url        = "https://www-old.sigsoft.org/SEN/"
     weight     = 6
     identifier = "menu.sen"
+    
+[[menu.main]]
+    name       = "Research Highlights"
+    url        = "https://www-old.sigsoft.org/resources/highlights.html"
+    weight     = 6
+    identifier = "menu.highlights"
 
 [[menu.main]]
     name       = "SEWORLD"
