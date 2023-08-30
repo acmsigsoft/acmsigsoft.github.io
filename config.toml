@@ -31,7 +31,7 @@ pluralizelisttitles = false
     parent     = "menu.abt"
 
 [[menu.main]]
-    name       = "SIGSOFT Policy on Program Committees"
+    name       = "Program Committees Policy"
     url        = "https://www-old.sigsoft.org/policies/pgmcommittee.html"
     weight     = 1
     parent     = "menu.abt"
