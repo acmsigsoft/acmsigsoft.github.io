@@ -2,6 +2,7 @@
 weight: 3
 bookFlatSection: true
 title: " Distinguished Service Award "
+aliases: "/awards/distinguishedServiceAward.html"
 ---
 
 This annual award is presented to individuals who have contributed dedicated and important service to the software engineering community. The award typically goes to a single person but can also be assigned to multiple people for joint contributions.

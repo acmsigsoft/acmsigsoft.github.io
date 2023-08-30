@@ -2,6 +2,7 @@
 weight: 3
 bookFlatSection: true
 title: " Early Career Researcher Award "
+aliases: "/awards/earlyCareerResearcherAward.html"
 ---
 
 This award is presented to an individual or individuals who have made outstanding contributions in the area of software engineering as an early career investigator.

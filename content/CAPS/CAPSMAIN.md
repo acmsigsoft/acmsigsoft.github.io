@@ -1,12 +1,12 @@
-
 ---
 weight: 4
 bookFlatSection: true
 title: "SIGSOFT Travel Support and Childcare Assistance at Conferences - CAPS"
+aliases: "CAPS"
 ---
 CAPS provides support for students and professionals to attend the conferences and events sponsored by ACM SIGSOFT. Currently, CAPS applications are open for:
 
-- [ISSTA 2023](https://2023.issta.org/):CAPS application deadline: May 26, 2023. To apply: fill your application at [link](https://survey.alchemer.com/s3/7332515/SIGSOFT-CAPS-Travel-Support-for-ISSTA-2023).
+- [ISSTA 2023](https://2023.issta.org/): CAPS application deadline: May 26, 2023. To apply: fill your application at [link](https://survey.alchemer.com/s3/7332515/SIGSOFT-CAPS-Travel-Support-for-ISSTA-2023).
 - [ESEM 2023](https://conf.researchr.org/home/esem-2023): CAPS application deadline: June 30, 2023. To apply: fill your application at this [link](https://survey.alchemer.com/s3/7303866/SIGSOFT-CAPS-Travel-Support-for-ESEM-2023).
 - (more to be announced)
 

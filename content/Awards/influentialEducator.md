@@ -2,6 +2,7 @@
 weight: 3
 bookFlatSection: true
 title: "Influential Educator Award"
+aliases: "/awards/influentialEducatorAward.html"
 ---
 
 Education is vital to the advancement of the research and practice of Software Engineering. Yet, the contributions of an educator often go unnoticed, except perhaps by those closest to the educator. The SIGSOFT Influential Educator Award is presented annually to an educator or educators who have made significant contributions to, and impact on, the field of software engineering with his or her accomplishments as a teacher, mentor, researcher (in education or learning), author, and/or policy maker. The award may be made to multiple collaborators for joint contributions, such as a co-authored text book.

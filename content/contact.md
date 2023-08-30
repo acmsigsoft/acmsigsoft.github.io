@@ -33,11 +33,9 @@ Fax: +1-212-302-5826
 
 Department of Computer Science and Engineering
 
-Indian Institute of Technology
+Indian Institute of Technology　Tirupati, India
 
-Tirupati, India
-
-http://researchweb.iitt.ac.in/~sridhar_chch@iittp.ac.in
+> ch@iittp.ac.in
 
 ### Newsletter Editor: Jacopo Soldani
 

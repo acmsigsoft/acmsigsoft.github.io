@@ -1,8 +1,10 @@
-
 ---
 weight: 4
 bookFlatSection: true
 title: "SIGSOFT / ACM Webinars"
+aliases:
+- /resources/webinars.html
+- /resources/presentwebinar.html
 ---
 
 We hope you can join us for the upcoming SIGOFT and ACM PD sponsored webinars.

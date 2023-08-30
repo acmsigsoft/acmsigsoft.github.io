@@ -1,4 +1,4 @@
-baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://sigsoft.org" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "The ACM Special Interest Group on Software Engineering"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
@@ -29,6 +29,30 @@ pluralizelisttitles = false
     url        = "/execcontact"
     weight     = 1
     parent     = "menu.abt"
+
+[[menu.main]]
+    name       = "Program Committees Policy"
+    url        = "https://www-old.sigsoft.org/policies/pgmcommittee.html"
+    weight     = 1
+    parent     = "menu.abt"
+
+[[menu.main]]
+    name       = "SEN"
+    url        = "https://www-old.sigsoft.org/SEN/"
+    weight     = 6
+    identifier = "menu.sen"
+    
+[[menu.main]]
+    name       = "Research Highlights"
+    url        = "https://www-old.sigsoft.org/resources/highlights.html"
+    weight     = 6
+    identifier = "menu.highlights"
+
+[[menu.main]]
+    name       = "SEWORLD"
+    url        = "https://www-old.sigsoft.org/resources/seworld.html"
+    weight     = 6
+    identifier = "menu.seworld"
 
 [[menu.main]]
     name       = "SIGSOFT Bylaws"
@@ -102,13 +126,13 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+    url        = "https://www-old.sigsoft.org/awards/distinguishedPaperAward.html"
     weight     = 1
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ICSE Most Influential Paper"
-    url        = "https://www.sigsoft.org/awards/icseMIPAward.html"
+    url        = "https://www-old.sigsoft.org/awards/icseMIPAward.html"
     weight     = 2
     parent     = "section.conference"
 
@@ -213,7 +237,7 @@ pluralizelisttitles = false
     # Social media
     facebook_site = "sigsoft" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "sigsoft" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "/img/sigsoft.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
@@ -292,7 +316,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Mission Statement"
     subtitle = "The ACM Special Interest Group on Software Engineering seeks to improve our ability to engineer software by stimulating interaction among practitioners, researchers, and educators; by fostering the professional development of software engineers; and by representing software engineers to professional, legal, and political entities."
-    link_url = "https://www.sigsoft.org/index.html"
+    link_url = "https://sigsoft.org/"
     link_text = "Homepage"
 
 [params.clients]
