@@ -80,7 +80,7 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 - Zhi Jin, Beijing University, China
 - Gail Murphy, University of British Columbia, Canada
 - Bonita Sharif, University of Nebraska at Lincoln, USA
-- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT Chair, non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2023
 - Dongmei Zhang, Microsoft Research Asia, China (chair)
