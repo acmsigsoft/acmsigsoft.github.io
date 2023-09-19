@@ -75,6 +75,11 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 ## Committee
 #### 2024
 - Massimiliano Di Penta, University of Sanio, Italy (chair)
+- Gabriele Bavota, Università della Svizzera Italiana, Switzerland
+- Gail Murphy, University of British Columbia, Canada
+- Zhi Jin, Beijing University, China
+- Lingxiao Jiang, Singapore Management University, Singapore
+- Bonita Sharif, University of Nebraska at Lincoln, USA
 - Thomas Zimmermann, Microsoft Research, United States (non-voting)
 - David Lo, Singapore Management University, Singapore (non-voting)
 #### 2023
