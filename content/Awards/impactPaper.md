@@ -76,12 +76,12 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 #### 2024
 - Massimiliano Di Penta, University of Sanio, Italy (chair)
 - Gabriele Bavota, Università della Svizzera Italiana, Switzerland
-- Gail Murphy, University of British Columbia, Canada
-- Zhi Jin, Beijing University, China
 - Lingxiao Jiang, Singapore Management University, Singapore
+- Zhi Jin, Beijing University, China
+- Gail Murphy, University of British Columbia, Canada
 - Bonita Sharif, University of Nebraska at Lincoln, USA
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT Chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2023
 - Dongmei Zhang, Microsoft Research Asia, China (chair)
 - Anders Moller, Aarhus University, Denmark (deputy chair)
@@ -91,8 +91,8 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 - Abhik Roychoudhury, National University of Singapore, Singapore
 - Koushik Sen, University of California-Berkeley, United States
 - Margaret-Anne Storey, University of Victoria, Canada
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT Chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2022
 - Cristian Cadar, Imperial College London, United Kingdom (chair)
 - Tevfik Bultan, UC Santa Barbara, United States
@@ -102,8 +102,8 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 - Corina Pasareanu, CMU/NASA Ames, United States
 - Abhik Roychoudhury, National University of Singapore, Singapore
 - Dongmei Zhang, Microsoft Research Asia, China
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT Chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2021
 - Darko Marinov (chair)
