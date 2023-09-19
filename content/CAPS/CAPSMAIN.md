@@ -10,9 +10,9 @@ CAPS provides support for students and professionals to attend the conferences a
 - [ESEM 2023](https://conf.researchr.org/home/esem-2023): CAPS application deadline: June 30, 2023. To apply: fill your application at this [link](https://survey.alchemer.com/s3/7303866/SIGSOFT-CAPS-Travel-Support-for-ESEM-2023).
 - (more to be announced)
 
-CAPS also provides support for childcare. Childcare applications are handled separately by emailing [SIGSOFT CAPS Coordinator](sigsoft_caps@acm.org). The deadline of CAPS childcare application is flexible, depending on the applicants' needs and the availability of the funds
+CAPS also provides support for childcare. Childcare applications are handled separately by emailing [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org). The deadline of CAPS childcare application is flexible, depending on the applicants' needs and the availability of the funds
 
-If you have any questions about this program or want to seek CAPS support for you or your conference, please contact [SIGSOFT CAPS Coordinator](sigsoft_caps@acm.org).
+If you have any questions about this program or want to seek CAPS support for you or your conference, please contact [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org).
 
 Recent CAPS support included:
 - [ICSE 2023](https://conf.researchr.org/home/icse-2023): Number of applications: 114; number of awardees: 57; total award amount: $41,000.
