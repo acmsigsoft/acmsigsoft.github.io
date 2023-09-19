@@ -37,8 +37,8 @@ The selection committee shall have the option to decline to make an award in a g
 ## Committee
 #### 2024
 - Myra B. Cohen, Iowa State University, United States (chair)
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2023
 - Natalia Juristo, Universidad Politecnica de Madrid, Spain (chair)
 - Grace A. Lewis, Carnegie Mellon University, United States
@@ -49,8 +49,8 @@ The selection committee shall have the option to decline to make an award in a g
 - Francisco Servant, Universidad de Malaga, Spain
 - Ayse Tosun, Istanbul Technical University, Turkey
 - Tao Xie, Peking University, China
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2022
 - Christian Bird, Microsoft Research, United States (chair)
 - Paolo Tonella, Università della Svizzera Italiana, Switzerland
@@ -61,8 +61,8 @@ The selection committee shall have the option to decline to make an award in a g
 - Natalia Juristo, Universidad Politécnica de Madrid, Spain
 - Myra B. Cohen, Iowa State University, United States
 - Lin Tan, Purdue University, United States (non-voting)
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2021
 - Antonio Carzaniga (chair)

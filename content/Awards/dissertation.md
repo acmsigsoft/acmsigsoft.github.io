@@ -43,8 +43,8 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 ## Committee
 #### 2024
 * Myra B. Cohen, Iowa State University, United States (chair)
-* Thomas Zimmermann, Microsoft Research, United States (non-voting)
-* David Lo, Singapore Management University, Singapore (non-voting)
+* Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+* David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2023
 * Natalia Juristo, Universidad Politecnica de Madrid, Spain (chair)
 * Grace A. Lewis, Carnegie Mellon University, United States
@@ -55,8 +55,8 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 * Francisco Servant, Universidad de Malaga, Spain
 * Ayse Tosun, Istanbul Technical University, Turkey
 * Tao Xie, Peking University, China
-* Thomas Zimmermann, Microsoft Research, United States (non-voting)
-* David Lo, Singapore Management University, Singapore (non-voting)
+* Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+* David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2022
 * Christian Bird, Microsoft Research, United States (chair)
 * Paolo Tonella, Università della Svizzera Italiana, Switzerland
@@ -67,8 +67,8 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 * Natalia Juristo, Universidad Politécnica de Madrid, Spain
 * Myra B. Cohen, Iowa State University, United States
 * Lin Tan, Purdue University, United States (non-voting)
-* Thomas Zimmermann, Microsoft Research, United States (non-voting)
-* David Lo, Singapore Management University, Singapore (non-voting)
+* Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+* David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2021
 * Chris Bird (chair)

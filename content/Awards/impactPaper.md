@@ -91,7 +91,7 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 - Abhik Roychoudhury, National University of Singapore, Singapore
 - Koushik Sen, University of California-Berkeley, United States
 - Margaret-Anne Storey, University of Victoria, Canada
-- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT Chair, non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2022
 - Cristian Cadar, Imperial College London, United Kingdom (chair)
@@ -102,7 +102,7 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 - Corina Pasareanu, CMU/NASA Ames, United States
 - Abhik Roychoudhury, National University of Singapore, Singapore
 - Dongmei Zhang, Microsoft Research Asia, China
-- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT Chair, non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2021

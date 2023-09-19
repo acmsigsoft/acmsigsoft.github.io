@@ -56,8 +56,8 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 #### 2024
 * Myra B. Cohen, Iowa State University, United States (chair)
-* Thomas Zimmermann, Microsoft Research, United States (non-voting)
-* David Lo, Singapore Management University, Singapore (non-voting)
+* Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+* David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2023
 * Natalia Juristo, Universidad Politecnica de Madrid, Spain (chair)
@@ -69,8 +69,8 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 * Francisco Servant, Universidad de Malaga, Spain
 * Ayse Tosun, Istanbul Technical University, Turkey
 * Tao Xie, Peking University, China
-* Thomas Zimmermann, Microsoft Research, United States (non-voting)
-* David Lo, Singapore Management University, Singapore (non-voting)
+* Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+* David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2022
 * Christian Bird, Microsoft Research, United States (chair)
@@ -82,8 +82,8 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 * Natalia Juristo, Universidad Politécnica de Madrid, Spain
 * Myra B. Cohen, Iowa State University, United States
 * Lin Tan, Purdue University, United States (non-voting)
-* Thomas Zimmermann, Microsoft Research, United States (non-voting)
-* David Lo, Singapore Management University, Singapore (non-voting)
+* Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+* David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2021
 * SIGSOFT Executive Committee
