@@ -68,8 +68,8 @@ If you have questions about this award, please contact sigsoft-service-award (at
 ## Committee
 #### 2024 
 - Walid Maalej, University of Hamburg, Germany (chair)
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
   
 #### 2023 
 - Andrea Zisman, Open University, United Kingdom (chair)
@@ -80,8 +80,8 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - Prem Devambu, UC Davis, United States 
 - Zhenjiang Hu, Peking University, China
 - Robyn Lutz, Iowa State University, United States
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
   
 #### 2022
 - Marsha Chechik, University of Toronto, Canada (chair)
@@ -91,8 +91,8 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - Jon Whittle, CSIRO's Data61, Australia
 - Tao Xie, Peking University, China
 - Andrea Zisman, Open University, United Kingdom
-- Thomas Zimmermann, Microsoft Research, United States (non-voting)
-- David Lo, Singapore Management University, Singapore (non-voting)
+- Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
+- David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
 #### 2021
 - Will Tracz (chair)
