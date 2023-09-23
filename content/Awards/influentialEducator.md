@@ -45,6 +45,12 @@ The selection committee shall have the option to decline to make an award in a g
 ## Committee
 #### 2024
 - Walid Maalej, University of Hamburg, Germany (chair)
+- Lionel Briand, University of Ottawa, Canada
+- Katsuro Inoue, Nanzan University, Japan
+- Filippo Lanubile, University of Bari, Italy
+- Barbara Paech, Heidelberg University, Germany
+- David Shepherd, Louisiana State University, USA 
+- Paola Spoletini, Kennesaw State University, USA
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 #### 2023
