@@ -45,7 +45,7 @@ The selection committee shall have the option to decline to make an award in a g
 ## Committee
 #### 2024
 - Walid Maalej, University of Hamburg, Germany (chair)
-- Lionel Briand, University of Ottawa, Canada
+- Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
 - Katsuro Inoue, Nanzan University, Japan
 - Filippo Lanubile, University of Bari, Italy
 - Barbara Paech, Heidelberg University, Germany
