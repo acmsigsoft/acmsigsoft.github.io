@@ -68,6 +68,12 @@ If you have questions about this award, please contact sigsoft-service-award (at
 ## Committee
 #### 2024 
 - Walid Maalej, University of Hamburg, Germany (chair)
+- Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
+- Katsuro Inoue, Nanzan University, Japan
+- Filippo Lanubile, University of Bari, Italy
+- Barbara Paech, Heidelberg University, Germany
+- David Shepherd, Louisiana State University, USA 
+- Paola Spoletini, Kennesaw State University, USA
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
   
