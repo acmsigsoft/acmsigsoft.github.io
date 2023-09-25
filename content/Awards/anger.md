@@ -56,6 +56,14 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 #### 2024
 * Myra B. Cohen, Iowa State University, United States (chair)
+* Aldeida Aleti, Monash University, Australia                                
+* Kelly Blincoe, University of Auckland, New Zealand
+* Gordon Fraser, University of Passau, Germany                                  
+* Gregory Gay, Chalmers and the University of Gothenburg, Sweden                            
+* Cindy Rubio-Gonzales, UC Davis, United States 
+* Rachel Tzoref-Brill, IBM, Israel                                    
+* Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea                                                                    
+* Lingming Zhang, University of Illinois at Urbana-Champaign, United States                                   
 * Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 * David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 
