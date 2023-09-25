@@ -42,7 +42,7 @@ The selection committee shall have the option to decline to make an award in a g
 - Gordon Fraser, University of Passau, Germany                                  
 - Gregory Gay, Chalmers and the University of Gothenburg, Sweden                            
 - Cindy Rubio-Gonzales, UC Davis, United States 
-- Rachel Tzoref-Brill, IBM, Israel                            å        
+- Rachel Tzoref-Brill, IBM, Israel
 - Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea                                                                    
 - Lingming Zhang, University of Illinois at Urbana-Champaign, United States  
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
