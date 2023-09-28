@@ -14,20 +14,23 @@
                   {{ .Site.Params.clients.subtitle | markdownify }}
                 </p>
 
-                <ul class="owl-carousel customers"
+                <ul class="owl-carousel testimonials same-height-always"
                     data-items="{{ default 6 .Site.Params.CarouselCustomers.items }}"
                     data-autoplay="{{ default false .Site.Params.CarouselCustomers.auto_play }}"
                     data-slide-speed="{{ default 2000 .Site.Params.CarouselCustomers.slide_speed }}"
                     data-pagination-speed="{{ default 1000 .Site.Params.CarouselCustomers.pagination_speed }}">
                     {{ range .Site.Data.clients }}
-                    <li class="item" title="{{ .name }}">
-                        {{ if .url }}
-                          <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                          </a>
-                        {{ else }}
-                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                        {{ end }}
+                    <li class="item">
+                        <div class="testimonial">
+                            <div class="bottom">
+                                <div class="icon"><i class="fas fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="{{ .image | absURL }}">
+                                    <h5>{{ .name }}</h5>
+                                </div>
+                            </div>
+                        </div>
                     </li>
                     {{ end }}
                 </ul>
