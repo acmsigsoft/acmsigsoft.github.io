@@ -186,7 +186,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "CAPS"
     identifier = "menu.allpages"
-    url        = "/CAPS/CAPSMAIN"
+    url        = "/CAPS/capsmain"
     weight     = 4
 
 [[menu.main]]
@@ -198,7 +198,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Webinars"
     identifier = "menu.webinars"
-    url        = "/WEBINARS/WEBINARSMAIN"
+    url        = "/webinars/webinarsmain"
     weight     = 6
 
 [[menu.main]]
