@@ -1,4 +1,4 @@
-baseurl = "https://sigsoft.org" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://www2.sigsoft.org" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "The ACM Special Interest Group on Software Engineering"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
@@ -32,25 +32,25 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Program Committees Policy"
-    url        = "https://www-old.sigsoft.org/policies/pgmcommittee.html"
+    url        = "https://www.sigsoft.org/policies/pgmcommittee.html"
     weight     = 1
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "SEN"
-    url        = "https://www-old.sigsoft.org/SEN/"
+    url        = "https://www.sigsoft.org/SEN/"
     weight     = 6
     identifier = "menu.sen"
     
 [[menu.main]]
     name       = "Research Highlights"
-    url        = "https://www-old.sigsoft.org/resources/highlights.html"
+    url        = "https://www.sigsoft.org/resources/highlights.html"
     weight     = 6
     identifier = "menu.highlights"
 
 [[menu.main]]
     name       = "SEWORLD"
-    url        = "https://www-old.sigsoft.org/resources/seworld.html"
+    url        = "https://www.sigsoft.org/resources/seworld.html"
     weight     = 6
     identifier = "menu.seworld"
 
@@ -126,13 +126,13 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "https://www-old.sigsoft.org/awards/distinguishedPaperAward.html"
+    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
     weight     = 1
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ICSE Most Influential Paper"
-    url        = "https://www-old.sigsoft.org/awards/icseMIPAward.html"
+    url        = "https://www.sigsoft.org/awards/icseMIPAward.html"
     weight     = 2
     parent     = "section.conference"
 
@@ -316,7 +316,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Mission Statement"
     subtitle = "The ACM Special Interest Group on Software Engineering seeks to improve our ability to engineer software by stimulating interaction among practitioners, researchers, and educators; by fostering the professional development of software engineers; and by representing software engineers to professional, legal, and political entities."
-    link_url = "https://sigsoft.org/"
+    link_url = "https://www2.sigsoft.org/"
     link_text = "Homepage"
 
 [params.clients]
