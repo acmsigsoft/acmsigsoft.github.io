@@ -148,17 +148,6 @@ title = "SIGSOFT Executive Committee"
     USA
     venera.arnaoudova@wsu.edu 
 
-	
-### ACM Program Director for SIGSOFT: James Peeples
-
-    ACM Headquarters
-    1601 Broadway, 10th Floor
-    New York, NY 10019-7434
-    USA
-    Tel: +1-212-626-0603
-    Fax: +1-212-302-5826
-    peeples@hq.acm.org 
-
 #### Newsletter Editor: Jacopo Soldani
 
     editors_SIGSOFT@acm.org 
