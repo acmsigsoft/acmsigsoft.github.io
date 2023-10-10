@@ -8,7 +8,9 @@ aliases: "/awards/dissertationAward.html"
 
 The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the author of an outstanding doctoral dissertation in the area of Software Engineering. The author of the winning dissertation will be invited to publish a dissertation summary in the SIGSOFT newsletter, Software Engineering Notes (SEN). The award includes a $1000 honorarium and a plaque for the author, which is presented at the International Conference on Software Engineering (ICSE), and funding support for the recipient to travel to ICSE to receive the award (including a registration to ICSE). A public citation for the award dissertation will be placed on the SIGSOFT web site. The award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
 
-The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the October 30, 2023 deadline, dissertations dated December 15, 2022 to October 15, 2023 are eligible.
+The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the October 30, 2023, deadline, dissertations dated December 15, 2022 to October 15, 2023 are eligible. The dissertation date can refer to the “deposit date,” “committee approval date,” or another reasonable and relevant date, depending on the process followed by the nominee’s institution. However, please note that a dissertation can be nominated only once. Thus, if, e.g., the “deposit date” and “committee approval date” would fall into two award periods, the thesis cannot be nominated twice, and the nominee would have to choose one period.
+
+
 
 To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
