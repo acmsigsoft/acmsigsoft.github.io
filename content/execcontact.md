@@ -35,7 +35,7 @@ title = "SIGSOFT Executive Committee"
 #### Lin Tan
 
     Purdue University
-    intan@purdue.edu 
+    lintan@purdue.edu 
 
 #### Most Recent Past Chair: Nenad Medvidovic
 
