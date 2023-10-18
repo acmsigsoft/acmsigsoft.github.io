@@ -1,9 +1,11 @@
 
 +++
 title = "Current Committee Members"
-description = "CCurrent Committee Members"
+description = "Current Committee Members"
 keywords = ["CARES","Current Committee Members","Current Committee Members"]
 +++
+
+CARES is a subcommittee of ACM SIGSOFT. The role of the CARES committee is to serve as a resource comprising of well-known and respected people in the software engineering community who are approachable and willing to listen to and help people who experience or witness discrimination, harassment or other ethical policy violation, either at our events or related to ACM publications; the committee members can be a sounding board for these people and can provide advice on the steps necessary to have the matter further investigated by ACM.
 
 ## Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
