@@ -58,7 +58,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Conferences"
     identifier = "menu.conferences"
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     name       = "Ongoing Conferences"
@@ -83,7 +83,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Community"
     identifier = "menu.community"
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
     name       = "Blog"
@@ -255,6 +255,12 @@ pluralizelisttitles = false
     parent     = "menu.programs"
 
 
+
+[[menu.main]]
+    name       = "Join SIGSOFT"
+    url        = "https://www.acm.org/special-interest-groups/sigs/sigsoft"
+    weight     = 7
+    
 
 # Top bar social links menu
 
