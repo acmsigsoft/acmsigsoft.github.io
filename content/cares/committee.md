@@ -1,7 +1,7 @@
 
 +++
-title = "Current Committee Members"
-description = "Current Committee Members"
+title = "Current CARES Committee Members"
+description = "Current CARES Committee Members"
 keywords = ["CARES","Current Committee Members","Current Committee Members"]
 +++
 
