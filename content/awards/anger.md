@@ -59,7 +59,6 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 * Gordon Fraser, University of Passau, Germany (deputy chair)
 * Aldeida Aleti, Monash University, Australia                                
 * Kelly Blincoe, University of Auckland, New Zealand
-* Gordon Fraser, University of Passau, Germany                                  
 * Gregory Gay, Chalmers and the University of Gothenburg, Sweden                            
 * Cindy Rubio-Gonzales, UC Davis, United States 
 * Rachel Tzoref-Brill, IBM, Israel                                    

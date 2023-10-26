@@ -48,7 +48,6 @@ The selection committee shall have the option to decline to make an award in a g
 - Filippo Lanubile, University of Bari, Italy (deputy chair)
 - Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
 - Katsuro Inoue, Nanzan University, Japan
-- Filippo Lanubile, University of Bari, Italy
 - Barbara Paech, Heidelberg University, Germany
 - David Shepherd, Louisiana State University, USA 
 - Paola Spoletini, Kennesaw State University, USA
