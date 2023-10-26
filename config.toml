@@ -1,4 +1,4 @@
-baseurl = "https://sigsoft.org" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://www2.sigsoft.org" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "The ACM Special Interest Group on Software Engineering"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
@@ -21,7 +21,6 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "About"
     identifier = "menu.abt"
-    url        = "/"
     weight     = 1
 
 [[menu.main]]
@@ -31,40 +30,116 @@ pluralizelisttitles = false
     parent     = "menu.abt"
 
 [[menu.main]]
-    name       = "Program Committees Policy"
-    url        = "https://www-old.sigsoft.org/policies/pgmcommittee.html"
-    weight     = 1
+    name       = "CARES Committee"
+    url        = "/cares/committee/"
+    weight     = 2
     parent     = "menu.abt"
-
-[[menu.main]]
-    name       = "SEN"
-    url        = "https://www-old.sigsoft.org/SEN/"
-    weight     = 6
-    identifier = "menu.sen"
-    
-[[menu.main]]
-    name       = "Research Highlights"
-    url        = "https://www-old.sigsoft.org/resources/highlights.html"
-    weight     = 6
-    identifier = "menu.highlights"
-
-[[menu.main]]
-    name       = "SEWORLD"
-    url        = "https://www-old.sigsoft.org/resources/seworld.html"
-    weight     = 6
-    identifier = "menu.seworld"
 
 [[menu.main]]
     name       = "SIGSOFT Bylaws"
     url        = "https://www.acm.org/special-interest-groups/volunteer-resources/bylaws/sigsoft-bylaws"
-    weight     = 2
+    weight     = 3
     parent     = "menu.abt"
+
+[[menu.main]]
+    name       = "Logos"
+    url        = "https://www.sigsoft.org/resources/logos.html"
+    weight     = 4
+    parent     = "menu.abt"
+
+[[menu.main]]
+    name       = "Contact Us"
+    url        = "/contact"
+    weight     = 5
+    parent     = "menu.abt"
+
+
+
+[[menu.main]]
+    name       = "Conferences"
+    identifier = "menu.conferences"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Ongoing Conferences"
+    url        = "https://www.sigsoft.org/events.html"
+    weight     = 1
+    parent     = "menu.conferences"
+
+[[menu.main]]
+    name       = "Program Committee Policy"
+    url        = "https://www.sigsoft.org/policies/pgmcommittee.html"
+    weight     = 2
+    parent     = "menu.conferences"
+
+[[menu.main]]
+    name       = "Open Science Policy"
+    url        = "https://github.com/acmsigsoft/open-science-policies"
+    weight     = 3
+    parent     = "menu.conferences"
+
+
+
+[[menu.main]]
+    name       = "Community"
+    identifier = "menu.community"
+    weight     = 2
+
+[[menu.main]]
+    name       = "Blog"
+    url        = "https://sigsoft.medium.com/"
+    weight     = 1
+    parent     = "menu.community"
+
+[[menu.main]]
+    name       = "Mastodon"
+    url        = "https://social.sigsoft.org/public/local"
+    weight     = 2
+    parent     = "menu.community"
+
+[[menu.main]]
+    name       = "SEWORLD Mailing List"
+    url        = "https://www.sigsoft.org/resources/seworld.html"
+    weight     = 3
+    parent     = "menu.community"
+
+
+
+[[menu.main]]
+    name       = "Publications"
+    identifier = "menu.pubs"
+    weight     = 4
+
+[[menu.main]]
+    name       = "ACM Digital Library: SIGSOFT"
+    url        = "https://dl.acm.org/sig/sigsoft"
+    weight     = 1
+    parent     = "menu.pubs"
+
+[[menu.main]]
+    name       = "Proceedings of the ACM on Software Engineering (PACMSE)"
+    url        = "https://dl.acm.org/journal/pacmse"
+    weight     = 2
+    parent     = "menu.pubs"
+
+[[menu.main]]
+    name       = "Software Engineering Notes (SEN)"
+    url        = "https://www.sigsoft.org/SEN/"
+    weight     = 3
+    parent     = "menu.pubs"
+
+[[menu.main]]
+    name       = "Research Highlights"
+    url        = "https://www.sigsoft.org/resources/highlights.html"
+    weight     = 4
+    parent     = "menu.pubs"
+
 
 
 [[menu.main]]
     name       = "Awards"
     identifier = "menu.features"
-    weight     = 3
+    weight     = 5
 
 [[menu.main]]
     name       = "SIGSOFT Awards"
@@ -84,55 +159,55 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Distinguished Service"
-    url        = "/Awards/distinguishedService"
+    url        = "/awards/distinguishedService"
     weight     = 1
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Outstanding Research"
-    url        = "/Awards/outstandingResearch"
+    url        = "/awards/outstandingResearch"
     weight     = 2
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Influential Educator"
-    url        = "/Awards/influentialEducator"
+    url        = "/awards/influentialEducator"
     weight     = 3
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Impact Paper"
-    url        = "/Awards/impactPaper"
+    url        = "/awards/impactPaper"
     weight     = 4
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Outstanding Doctoral Dissertation"
-    url        = "/Awards/dissertation"
+    url        = "/awards/dissertation"
     weight     = 5
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Early Career Researcher"
-    url        = "/Awards/earlyCareerResearcher"
+    url        = "/awards/earlyCareerResearcher"
     weight     = 6
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "ACM SIGSOFT - SIGBED Frank Anger Memorial"
-    url        = "/Awards/anger"
+    url        = "/awards/anger"
     weight     = 7
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "https://www-old.sigsoft.org/awards/distinguishedPaperAward.html"
+    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
     weight     = 1
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ICSE Most Influential Paper"
-    url        = "https://www-old.sigsoft.org/awards/icseMIPAward.html"
+    url        = "https://www.sigsoft.org/awards/icseMIPAward.html"
     weight     = 2
     parent     = "section.conference"
 
@@ -154,62 +229,40 @@ pluralizelisttitles = false
     weight     = 5
     parent     = "section.conference"
 
-[[menu.main]]
-    name       = "CARES"
-    identifier = "menu.cares"
-    weight     = 3
+
 
 [[menu.main]]
-    name       = "Purpose and Annual Reporting"
-    url        = "/cares/SIGSOFT_CARES"
-    weight     = 1
-    parent     = "menu.cares"
-
-[[menu.main]]
-    name       = "Resources"
-    url        = "/cares/RESOURCES"
-    weight     = 2
-    parent     = "menu.cares"
-
-[[menu.main]]
-    name       = "Bylaws"
-    url        = "/cares/ByLAWS"
-    weight     = 3
-    parent     = "menu.cares"
-
-[[menu.main]]
-    name       = "CARES Committee Members"
-    url        = "/cares/committee"
-    weight     = 4
-    parent     = "menu.cares"
-
-[[menu.main]]
-    name       = "CAPS"
-    identifier = "menu.allpages"
-    url        = "/CAPS/CAPSMAIN"
-    weight     = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "https://sigsoft.medium.com/"
-    weight     = 5
-
-[[menu.main]]
-    name       = "Webinars"
-    identifier = "menu.webinars"
-    url        = "/WEBINARS/WEBINARSMAIN"
+    name       = "Programs"
+    identifier = "menu.programs"
     weight     = 6
 
 [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact"
-    weight     = 7
+    name       = "CARES"
+    url        = "/cares/sigsoft_cares"
+    weight     = 1
+    parent     = "menu.programs"
 
+[[menu.main]]
+    name       = "Travel Support and Childcare Assustance (CAPS)"
+    url        = "/caps/capsmain"
+    weight     = 2
+    parent     = "menu.programs"
+
+[[menu.main]]
+    name       = "Webinars"
+    url        = "/webinars/webinarsmain"
+    weight     = 3
+    parent     = "menu.programs"
+
+
+
+[[menu.main]]
+    name       = "Join SIGSOFT"
+    url        = "https://www.acm.org/special-interest-groups/sigs/sigsoft"
+    weight     = 7
+    
 
 # Top bar social links menu
-
 
 [[menu.topbar]]
     weight = 2
@@ -316,7 +369,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Mission Statement"
     subtitle = "The ACM Special Interest Group on Software Engineering seeks to improve our ability to engineer software by stimulating interaction among practitioners, researchers, and educators; by fostering the professional development of software engineers; and by representing software engineers to professional, legal, and political entities."
-    link_url = "https://sigsoft.org/"
+    link_url = "https://www2.sigsoft.org/"
     link_text = "Homepage"
 
 [params.clients]
