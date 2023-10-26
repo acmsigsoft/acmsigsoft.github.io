@@ -71,7 +71,6 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - Filippo Lanubile, University of Bari, Italy (deputy chair)
 - Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
 - Katsuro Inoue, Nanzan University, Japan
-- Filippo Lanubile, University of Bari, Italy
 - Barbara Paech, Heidelberg University, Germany
 - David Shepherd, Louisiana State University, USA 
 - Paola Spoletini, Kennesaw State University, USA
