@@ -56,6 +56,7 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 #### 2024
 * Myra B. Cohen, Iowa State University, United States (chair)
+* Gordon Fraser, University of Passau, Germany (deputy chair)
 * Aldeida Aleti, Monash University, Australia                                
 * Kelly Blincoe, University of Auckland, New Zealand
 * Gordon Fraser, University of Passau, Germany                                  
