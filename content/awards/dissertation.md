@@ -49,7 +49,7 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 * Aldeida Aleti, Monash University, Australia                                
 * Kelly Blincoe, University of Auckland, New Zealand
 * Gregory Gay, Chalmers and the University of Gothenburg, Sweden                            
-* Cindy Rubio-Gonzales, UC Davis, United States 
+* Cindy Rubio-Gonzalez, UC Davis, United States 
 * Rachel Tzoref-Brill, IBM, Israel                                    
 * Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea                                                                    
 * Lingming Zhang, University of Illinois at Urbana-Champaign, United States  
