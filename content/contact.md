@@ -13,16 +13,21 @@ Phone: +1-425-703-8450
 
 ### Vice Chair: Marsha Chechik
 University of Toronto
+
 > chechik@cs.toronto.edu 
 
-#### ACM point of contact: Katie Balben
-    ACM Headquarters
-    1601 Broadway, 10th Floor
-    New York, NY 10019-7434
-    USA
-    Tel: +1-212-626-0603
-    Fax: +1-212-302-5826
-> balben@hq.acm.org
+### ACM Program Coordinator: Shakira Toomer 
+ACM Headquarters
+
+1601 Broadway, 10th Floor
+
+New York, NY 10019-7434, USA
+
+Tel: +1-212-626-0603
+
+Fax: +1-212-302-5826
+
+> toomer@hq.acm.org
 
 ### Social Media Chair: Sridhar Chimalakonda
 
