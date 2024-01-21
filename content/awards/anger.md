@@ -41,8 +41,6 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 ## Winners
 
-Max Camillo Eisele (Saarland University and Bosch). Max Eisele is currently carrying out his PhD in the realm of security testing and fuzzing at Bosch Research, Germany. His research focuses on practical methods for finding vulnerabilities in embedded devices for industrial and consumer applications. He enjoys investigating binary programs on the assembly level for various architectures. His academic supervisor is Professor Andreas Zeller from CISPA Helmholtz Center, Germany.
-
 |      | SIGSOFT Recipients | SIGBED Recipients    |
 | :---        |    :----:   |          ---: |
 | 2024     | Max Camillo Eisele (Saarland University and Bosch)      |  |
