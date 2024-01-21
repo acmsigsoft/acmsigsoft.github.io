@@ -40,17 +40,25 @@ Recipients of the SIGSOFT Frank Anger Memorial Award will be selected by the sel
 This award is a unique opportunity to help promote cross-discipline research. All eligible applicants are encouraged to apply. If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
 
 ## Winners
+
+Max Camillo Eisele (Saarland University and Bosch). Max Eisele is currently carrying out his PhD in the realm of security testing and fuzzing at Bosch Research, Germany. His research focuses on practical methods for finding vulnerabilities in embedded devices for industrial and consumer applications. He enjoys investigating binary programs on the assembly level for various architectures. His academic supervisor is Professor Andreas Zeller from CISPA Helmholtz Center, Germany.
+
 |      | SIGSOFT Recipients | SIGBED Recipients    |
 | :---        |    :----:   |          ---: |
-| 2021     | Sumaya Almanee (UC Irvine)      |  |
+| 2024     | Max Camillo Eisele (Saarland University and Bosch)      |  |
+| 2022     |  | Claudio Mandrioli (Lund University) |
+| 2021     | Sumaya Almanee (UC Irvine)      | Akshay Gadre (Carnegie Mellon University) |
+| 2020     | Sumaya Almanee (UC Irvine)      | Adeola Bannis (Carnegie Mellon University) |
 | 2019  | Jacob Krüger       |      |
 | 2017  | Ivan Ruchkin (Carnegie Mellon University)	       |      |
 | 2013  | Reinhard Schneider (TU Munich)     |      |
 | 2012  |      |   Indranil Saha (University of California at Los Angeles)   |
 | 2011  | Aldeida Aleti (Swinburne University of Technology)     |  Miroslav Pajic (University of Pennsylvania)|
-| 2008 | 	Basil Becker (University of Potsdam)    |  |
-| 2007 | 	Stefan Henkler (University of Paderborn)  and  | Cesar Sanchez (Stanford University) and |
-| | 	Chunyang Ye (Hong Kong University of Science and Technology)	  and  |Bernhard Egger (Seoul National University)  |
+| 2008 | 	Basil Becker (University of Potsdam)    | Georgios Fainekos (University of Pennsylvania) |
+| 2007 | 	Stefan Henkler (University of Paderborn)  and  |  Gabor Madl (University of California, Irvine) |
+| | 	Chunyang Ye (Hong Kong University of Science and Technology)  |  |
+| 2006 | 	  | Cesar Sanchez (Stanford University) and |
+| |   |Bernhard Egger (Seoul National University)  |
 
 ## Committee
 

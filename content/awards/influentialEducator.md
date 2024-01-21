@@ -24,6 +24,7 @@ To submit a nomination for the award, please use the [awards nomination portal](
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
 
 ## Winners
+- 2024  Martin Robillard, McGill University, for significant contributions to hands-on software design education, including a textbook and a learner-focused software modeling tool.
 - 2023  Tao Xie, Peking University, China, for significant contributions in mentoring of graduate students and junior researchers, broadening participation of underrepresented groups in software engineering/computing, and innovation in educational tooling
 - 2022	Miryung Kim, University of California, Los Angeles, for outstanding achievements in undergraduate and graduate mentoring with an emphasis on research excellence in software engineering, diversity, and inclusion
 - 2021	Katsuro Inoue, Osaka University, for his life-long foundational contributions to software engineering education and his success in connecting generations of educators and researchers from Japan with the international community

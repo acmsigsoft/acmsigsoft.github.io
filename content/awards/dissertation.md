@@ -27,7 +27,7 @@ To submit a nomination for the award, please use the [awards nomination portal](
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
 
 ## Winners
-
+- 2024 Bianca Trinkenreich, Understanding and Supporting Women’s Participation in Open Source Software, Northern Arizona University, advisors: Igor Steinmacher and Marco Aurelio Gerosa
 - 2023 David Shriver, Increasing the Applicability of Verification Tools for Neural Networks, University of Virginia, advisors: Matt Dwyer and Sebastian Elbaum
 - 2022 Wing Lam, Detecting, Characterizing, and Taming Flaky Tests, University of Illinois at Urbana-Champaign, advisors: Darko Marinov and Tao Xie
 - 2021	August Shi, Improving Regression Testing Efficiency and Reliability via Test-Suite Transformations, University of Illinois at Urbana-Champaign, advisor: Darko Marinov
