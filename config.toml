@@ -335,7 +335,7 @@ pluralizelisttitles = false
 #   pagination_speed = 1000
 
 [params.carouselTestimonials]
-    items = 5
+    items = 4
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
@@ -361,7 +361,7 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "2023 SIGSOFT Awards"
+    title = "2024 SIGSOFT Awards"
     subtitle = "We would like to heartily congratulate the winners of the various ACM SIGSOFT awards:"
 
 [params.see_more]
