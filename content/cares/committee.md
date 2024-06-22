@@ -79,6 +79,6 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 `Birgit Penzenstadler (she/her/hers)`
 
-{{< figure src="img/cares/birgit_care.jpeg" height=".3" title="Birgit Penzenstadler (she/her/hers)" >}}
+{{< figure src="/img/cares/birgit_care.jpeg" height=".3" title="Birgit Penzenstadler (she/her/hers)" >}}
 
 > Associate Professor at Chalmers | Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
