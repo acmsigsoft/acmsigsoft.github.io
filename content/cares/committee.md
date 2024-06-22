@@ -76,3 +76,12 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 {{< figure src="/img/cares/RaulaCare.jpg" height=".3" title="Raula Gaikovina Kula (he/him)" >}}
 
 > Nara Institute of Science and Technology, Japan, raula-k@is.naist.jp, Term: 2023-2026
+
+`Birgit Penzenstadler (she/her/hers)`
+
+name: ""
+image: ""
+
+{{< figure src="img/clients/birgit_care.jpeg" height=".3" title="Birgit Penzenstadler (she/her/hers)" >}}
+
+> Associate Professor at Chalmers | Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
