@@ -10,20 +10,20 @@ CARES is a subcommittee of ACM SIGSOFT. The role of the CARES committee is to se
 ## Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
-`Joanne Atlee (she/her)`
+`Joanne Atlee (she/her) - co-chair`
 
 {{< figure src="/img/cares/Jo_Atlee_care.jpeg" height=".3" title="Joanne Atlee (she/her)" >}}
 
 > University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025
 
-`Alexander Serebrenik (he/him)`
+`Alexander Serebrenik (he/him) - co-chair`
 
 {{< figure src="/img/cares/alex_tree_care.jpeg" height=".3" title="Alexander Serebrenik (he/him)" >}}
 
 
 > Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025 
 
-`Kelly Blincoe (she/her)`
+`Kelly Blincoe (she/her) - co-chair`
 
 {{< figure src="/img/cares/Kelly_Blincoe_care.jpeg" height=".3" title="Kelly Blincoe (she/her)" >}}
 
@@ -59,7 +59,7 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 > Universidade Federal do Amazonas (UFAM), Brazil, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
-`Federica Sarro (she/her)`
+`Federica Sarro (she/her) - co-chair`
 
 {{< figure src="/img/cares/FedericaCare.jpg" height=".3" title="Federica Sarro (she/her)" >}}
 
