@@ -81,4 +81,16 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 {{< figure src="/img/cares/birgit_care.jpeg" height=".3" title="Birgit Penzenstadler (she/her/hers)" >}}
 
-> Associate Professor at Chalmers | Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
+> Chalmers | Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
+
+`Foutse Khomh (he/him)`
+
+{{< figure src="/img/cares/foutse_care.jpeg" height=".3" title="Foutse Khomh (he/him)" >}}
+
+> Polytechnique Montréal, Canada,  foutse.khomh@polymtl.ca, Term: 2024-2027
+
+`Dan Hao (she/her/hers)`
+
+{{< figure src="/img/cares/dan_care.jpeg" height=".3" title="Dan Hao (she/her/hers)" >}}
+
+> Peking University, P. R. China, haodan@pku.edu.cn, Term: 2024-2027
