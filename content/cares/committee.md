@@ -18,79 +18,79 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 `Alexander Serebrenik (he/him) - co-chair`
 
-{{< figure src="/img/cares/alex_tree_care.jpeg" height=".3" title="Alexander Serebrenik (he/him)" >}}
+{{< figure src="/img/cares/alex_tree_careFit.jpeg" height=".3" title="Alexander Serebrenik (he/him)" >}}
 
 
 > Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025 
 
 `Kelly Blincoe (she/her) - co-chair`
 
-{{< figure src="/img/cares/Kelly_Blincoe_care.jpeg" height=".3" title="Kelly Blincoe (she/her)" >}}
+{{< figure src="/img/cares/Kelly_Blincoe_careFit.jpeg" height=".3" title="Kelly Blincoe (she/her)" >}}
 
 > University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025
 
 `Andrew Begel (he/him)`
 
-{{< figure src="/img/cares/Andrew_Begel_care.jpeg" height=".3" title="Andrew Begel (he/him)" >}}
+{{< figure src="/img/cares/Andrew_Begel_careFit.jpeg" height=".3" title="Andrew Begel (he/him)" >}}
 
 > Carnegie Mellon University, USA, abegel@cmu.edu, Term: 2022-2025
 
 `Bonita Sharif (she/her)`
 
-{{< figure src="/img/cares/Bonita_Sharif_care.jpeg" height=".3" title="Bonita Sharif (she/her)" >}}
+{{< figure src="/img/cares/Bonita_Sharif_careFit.jpeg" height=".3" title="Bonita Sharif (she/her)" >}}
 
 > University of Nebraska – Lincoln, USA, bsharif@unl.edu, Term: 2022-2025
 
 `Gail Murphy (she/her)`
 
-{{< figure src="/img/cares/GailMurphy_care.jpg" height=".3" title="Gail Murphy (she/her)" >}}
+{{< figure src="/img/cares/GailMurphy_careFit.jpg" height=".3" title="Gail Murphy (she/her)" >}}
 
 > The University of British Columbia, Canada, gail.murphy@ubc.ca, Term: 2022-2025
 
 `Marsha Chechik (she/her)`
 
-{{< figure src="/img/cares/MarshaChechik_care.jpg" height=".3" title="Marsha Chechik (she/her)" >}}
+{{< figure src="/img/cares/MarshaChechik_careFit.jpg" height=".3" title="Marsha Chechik (she/her)" >}}
 
 > University of Toronto, Canada, chechik@cs.toronto.edu, Term: 2022-2025
 
 `Tayana Conte (she/her)`
 
-{{< figure src="/img/cares/TayanaCare.jpeg" height=".3" title="Tayana Conte (she/her)" >}}
+{{< figure src="/img/cares/TayanaCareFit.jpeg" height=".3" title="Tayana Conte (she/her)" >}}
 
 > Universidade Federal do Amazonas (UFAM), Brazil, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
 `Federica Sarro (she/her) - co-chair`
 
-{{< figure src="/img/cares/FedericaCare.jpg" height=".3" title="Federica Sarro (she/her)" >}}
+{{< figure src="/img/cares/FedericaCareFit.jpg" height=".3" title="Federica Sarro (she/her)" >}}
 
 > University College London, United Kingdom, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
 `Rafael Prikladnicki (he/him)`
 
-{{< figure src="/img/cares/RafaelCare.jpeg" height=".3" title="Rafael Prikladnicki (he/him)" >}}
+{{< figure src="/img/cares/RafaelCareFit.jpeg" height=".3" title="Rafael Prikladnicki (he/him)" >}}
 
 > School of Technology at PUCRS University, Brazil, rafael.prikladnicki@pucrs.br, Term: 2023-2026
 
 `Raula Gaikovina Kula (he/him)`
 
-{{< figure src="/img/cares/RaulaCare.jpg" height=".3" title="Raula Gaikovina Kula (he/him)" >}}
+{{< figure src="/img/cares/RaulaCareFit.jpg" height=".3" title="Raula Gaikovina Kula (he/him)" >}}
 
 > Nara Institute of Science and Technology, Japan, raula-k@is.naist.jp, Term: 2023-2026
 
 `Birgit Penzenstadler (she/her/hers)`
 
-{{< figure src="/img/cares/birgit_care.jpeg" height=".3" title="Birgit Penzenstadler (she/her/hers)" >}}
+{{< figure src="/img/cares/birgit_careFit.jpeg" height=".3" title="Birgit Penzenstadler (she/her/hers)" >}}
 
 > Chalmers | Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
 
 `Foutse Khomh (he/him)`
 
-{{< figure src="/img/cares/foutse_care.jpeg" height=".3" title="Foutse Khomh (he/him)" >}}
+{{< figure src="/img/cares/foutse_careFit.jpeg" height=".3" title="Foutse Khomh (he/him)" >}}
 
 > Polytechnique Montréal, Canada,  foutse.khomh@polymtl.ca, Term: 2024-2027
 
 `Dan Hao (she/her/hers)`
 
-{{< figure src="/img/cares/dan_care.jpeg" height=".3" title="Dan Hao (she/her/hers)" >}}
+{{< figure src="/img/cares/dan_careFit.jpeg" height=".3" title="Dan Hao (she/her/hers)" >}}
 
 > Peking University, P. R. China, haodan@pku.edu.cn, Term: 2024-2027
