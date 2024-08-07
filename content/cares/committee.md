@@ -12,7 +12,7 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 `Joanne Atlee (she/her) - co-chair`
 
-{{< figure src="/img/cares/Jo_Atlee_careFit.jpeg" height=".3" title="" >}}
+{{< figure src="/img/cares/Jo_Atlee_careFIT.jpeg" height=".3" title="" >}}
 
 > University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025
 
