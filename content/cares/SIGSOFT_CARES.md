@@ -55,10 +55,10 @@ In addition, one or more CARES members will act as (a part of) the Onsite Respon
 
 CARES committee members may also attend other workshops and conferences sponsored or co-sponsored by SIGSOFT, when they normally would attend. As the committee expands in membership, it may add conferences to the guaranteed list.
 
-**Conference**  
+<!-- **Conference**  
 - ASE 2023      : 
 - ICSE 2023     : Andrew Begel, Bonita Sharif, Kelly Blincoe, Joanne Atlee, Alexander Serebrenik, Gail Murphy, Marsha Chechik 
-- ESEC/FSE 2022 : Kelly Blincoe, Gail Murphy, Marsha Chechik
+- ESEC/FSE 2022 : Kelly Blincoe, Gail Murphy, Marsha Chechik -->
 
 
 ## Annual Reports
