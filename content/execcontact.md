@@ -19,7 +19,7 @@ title = "SIGSOFT Executive Committee"
     Carnegie Mellono University
     clegoues@cs.cmu.edu
 
-#### David Lo (Student Mentorships and Support, Secrtary and Treasurer)
+#### David Lo (Student Mentorships and Support, Secretary-Treasurer)
 
     Singapore Management University
     davidlo@smu.edu.sg 
