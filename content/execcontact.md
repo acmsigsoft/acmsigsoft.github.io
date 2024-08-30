@@ -2,53 +2,45 @@
 title = "SIGSOFT Executive Committee"
 +++
 
-### Chair: Thomas Zimmermann
+### Chair: Marsha Chechik
 
-    Microsoft Research
-    One Microsoft Way
-    Redmond, WA 98004
-    Phone: +1-425-703-8450
+    University of Toronto, Canada
+    chechik@cs.toronto.edu 
     chair_SIGSOFT@acm.org 
 
-### Vice Chair: Marsha Chechik
-
-    University of Toronto
-    chechik@cs.toronto.edu 
+### Vice Chair:  Massimiliano Di Penta
+    University of Sannia, Italy
+    dipenta@unisannio.it 
 
 ### At-Large Members:
 
-#### Cristian Cadar
+#### Claire Le Goues (SIGSOFT Awards) 
 
-    Imperial College London
-    c.cadar@imperial.ac.uk 
+    Carnegie Mellono University
+    clegoues@cs.cmu.edu
 
-#### David Lo
+#### David Lo (Student Mentorships and Support, Treasurer)
 
     Singapore Management University
     davidlo@smu.edu.sg 
 
-#### Martin Robillard
+#### Emerson Murphy-Hill (Director of Communication)
 
-    McGill University
-    martin@cs.mcgill.ca 
+    captain.emerson@gmail.com
+    
 
-#### Lin Tan
+#### Kelly Blincoe (Memberships and Community)
 
-    Purdue University
-    lintan@purdue.edu 
+    University of Auckland, New Zealand
+    k.blincoe@auckland.ac.nz 
 
-#### Most Recent Past Chair: Nenad Medvidovic
+### Most Recent Past Chair: Thomas Zimmermann
 
-    Department of Computer Science
-    Viterbi School of Engineering
-    University of Southern California
-    941 Bloom Walk (SAL 338)
-    Los Angeles, CA 90089-0781
-    USA
-    Tel: +1-213-740-5579
-    Fax: +1-213-740-4927
-    http://csse.usc.edu/~neno/
-    neno (at) usc (dot) edu 
+    Microsoft Research
+    One Microsoft Way
+    Redmond, WA 98004
+    tzimmer@microsoft.com
+    
 
 ### Liaison Members:
 
@@ -69,10 +61,10 @@ title = "SIGSOFT Executive Committee"
     https://www.linkedin.com/in/spadmanabhuni
     srinivas@tarahtech.com 
 
-#### cSoft Liaison: Xiaoxing Ma
+#### cSoft Liaison: Minghui Zhou
 
-    Nanjing University, China
-    xxm@nju.edu.cn 
+    Peking University, China
+    zhmh@pku.edu.cn 
 
 #### History Liaison: Tao Xie
 
@@ -151,4 +143,3 @@ title = "SIGSOFT Executive Committee"
 #### Newsletter Editor: Jacopo Soldani
 
     editors_SIGSOFT@acm.org 
-
