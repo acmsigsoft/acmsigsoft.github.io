@@ -5,7 +5,8 @@ title = "Contact"
 ### Chair: Marsha Chechik
 University of Toronto, Canada
 
-> chechik@cs.toronto.edu 
+> chechik@cs.toronto.edu
+
 > chair_SIGSOFT@acm.org 
 
 ### Vice Chair:  Massimiliano Di Penta
