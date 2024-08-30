@@ -2,19 +2,16 @@
 title = "Contact"
 +++
 
-### Chair: Thomas Zimmermann
- Microsoft Research, One Microsoft Way
-
-Redmond, WA 98004
-
-Phone: +1-425-703-8450
-
-> chair_SIGSOFT@acm.org 
-
-### Vice Chair: Marsha Chechik
-University of Toronto
+### Chair: Marsha Chechik
+University of Toronto, Canada
 
 > chechik@cs.toronto.edu 
+> chair_SIGSOFT@acm.org 
+
+### Vice Chair:  Massimiliano Di Penta
+University of Sannia, Italy
+
+> dipenta@unisannio.it 
 
 ### ACM Program Coordinator: Shakira Toomer 
 ACM Headquarters
