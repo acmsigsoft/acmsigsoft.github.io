@@ -54,12 +54,11 @@ title = "SIGSOFT Executive Committee"
     Fax: +852 2358 1477
     scc@cse.ust.hk 
 
-#### iSoft Liaison: Srinivas Padmanabhuni
+#### iSoft Liaison: Atul Kumar
 
-    Chief Mentor, Tarah.ai
-    Tel: +91 98 45116391
-    https://www.linkedin.com/in/spadmanabhuni
-    srinivas@tarahtech.com 
+    Senior Research Scientist, IBM Research India
+    https://www.linkedin.com/in/atul-kumar-0ba442
+    atulkumar@gmail.com
 
 #### cSoft Liaison: Minghui Zhou
 
