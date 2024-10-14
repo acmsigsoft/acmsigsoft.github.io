@@ -67,6 +67,21 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - 1995	Tony Wasserman
 
 ## Committee
+
+
+#### 2025
+- Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
+- Benoit Baudry, University of Montreal, Canada
+- Domenico Bianculli, University of Luxembourg, Luxembourg
+- Jialun Cao, Hong Kong University of Science and Technology, China
+- Paola Spoletini, Kennesaw University, USA
+- Jun Sun, SMU, Singapore
+- Lin Tan, Purdue University, USA
+- Yang Liu, NTU, Singapore
+- Andrea Zisman, Open University, UK
+- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+
 #### 2024 
 - Walid Maalej, University of Hamburg, Germany (chair)
 - Filippo Lanubile, University of Bari, Italy (deputy chair)
