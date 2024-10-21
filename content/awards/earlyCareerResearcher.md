@@ -36,6 +36,20 @@ The selection committee shall have the option to decline to make an award in a g
 - 2017	Christian Bird
 
 ## Committee
+
+#### 2025
+- Aldeida Aleti, Monash University, Australia 
+- Dan Hao, Peking University, China
+- Justyna Petke, University College London, UK
+- Foutse Khomh, University of Montreal, Canada
+- Ayse Tosun, Istanbul Technical University, Turkey
+- Lei Mai, The University of Tokyo, Japan
+- Valerio Terragni, University of Auckland, New Zealand
+- Marcio Eduardo Delamaro, Universidade de São Paulo Campus de São Carlos, Brazil
+- Yuriy Brun, Universeity of Massachusetts - Amherst, USA
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+
 #### 2024
 - Myra B. Cohen, Iowa State University, United States (chair)
 - Gordon Fraser, University of Passau, Germany (deputy chair)
@@ -48,6 +62,7 @@ The selection committee shall have the option to decline to make an award in a g
 - Lingming Zhang, University of Illinois at Urbana-Champaign, United States  
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
+
 #### 2023
 - Natalia Juristo, Universidad Politecnica de Madrid, Spain (chair)
 - Grace A. Lewis, Carnegie Mellon University, United States

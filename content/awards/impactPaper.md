@@ -74,6 +74,21 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 
 
 ## Committee
+
+#### 2025
+
+- Abhik Roychoudhury, National University of Singapore, Singapore (chair)
+- Margaret-Anne Storey, University of Victoria, Canada (deputy chair)
+- Zhi Jin, Beijing University, China
+- Miryung Kim, University of California Los Angeles, USA
+- Darko Marinov, University of Illinois Urbana-Champaign, USA
+- Anders Moller, Aarhus University, Denmark
+- Tien Nguyen, University of Texas at Dallas, USA
+- Andreas Zeller, CISPA Helmholz Center and Saarland University, Germany
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+
+
 #### 2024
 - Massimiliano Di Penta, University of Sanio, Italy (chair)
 - Gabriele Bavota, Università della Svizzera Italiana, Switzerland

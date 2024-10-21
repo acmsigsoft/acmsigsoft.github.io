@@ -60,6 +60,19 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 ## Committee
 
+#### 2025
+- Aldeida Aleti, Monash University, Australia 
+- Dan Hao, Peking University, China
+- Justyna Petke, University College London, UK
+- Foutse Khomh, University of Montreal, Canada
+- Ayse Tosun, Istanbul Technical University, Turkey
+- Lei Mai, The University of Tokyo, Japan
+- Valerio Terragni, University of Auckland, New Zealand
+- Marcio Eduardo Delamaro, Universidade de São Paulo Campus de São Carlos, Brazil
+- Yuriy Brun, Universeity of Massachusetts - Amherst, USA
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+
 #### 2024
 * Myra B. Cohen, Iowa State University, United States (chair)
 * Gordon Fraser, University of Passau, Germany (deputy chair)
