@@ -13,9 +13,9 @@ The award recipient receives a $1000 honorarium and a plaque engraved with their
 
 To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
-* An intent to nominate must be submitted in the nomination system by October 21, 2024 (third Monday in October). The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+* An intent to nominate must be submitted in the nomination system by November 4, 2024. The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by November 4, 2024 (two weeks after the registration deadline). The PDF should contain the following:
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by November 11, 2024 (one week after the registration deadline). The PDF should contain the following:
 
   1. Full name and afﬁliation of the nominee
   2. Proposed citation (up to 25 words)
