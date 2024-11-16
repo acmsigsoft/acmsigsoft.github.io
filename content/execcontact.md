@@ -65,12 +65,6 @@ title = "SIGSOFT Executive Committee"
     Peking University, China
     zhmh@pku.edu.cn 
 
-#### History Liaison: Tao Xie
-
-    Department of Computer Science and Technology
-    Peking University, China
-    taoxie@pku.edu.cn 
-
 #### Special Projects Liaison: Will Tracz
 
     Lockheed Martin Fellow Emeritus (retired)
@@ -78,20 +72,20 @@ title = "SIGSOFT Executive Committee"
     USA
     will@tracz.org 
 
-#### Industry Liaison: Ahmed E. Hassan
+#### Industry Co-Liaison: Nachi Nagappan
 
-    School of Computing
-    Goodwin Hall, 25 Union St
-    Queen's University
-    Kingston, ON K7L 3N6
-    Canada
-    Ahmed@cs.queensu.ca 
+    Meta, USA
+    nnachi@meta.com
 
-#### Climate Change Liaison: Andreas Zeller
+#### Industry Co-Liaison:  Xin Xia
 
-    Saarland University
-    Saarbrücken, Germany
-    zeller@cispa.saarland 
+    Huawei Technologies, China
+    xin.xia@acm.org
+
+#### Climate Change Liaison: Rick Kazman
+
+    University of Hawaii, USA
+    kazman@hawaii.edu
 
 #### Liaisons for Diversity, Equity, and Inclusion: Jo Atlee
 
@@ -118,26 +112,38 @@ title = "SIGSOFT Executive Committee"
     Canada
     https://www.cs.mcgill.ca/~martin/ 
 
-#### Social Media Chair: Sridhar Chimalakonda
+#### Social Media Chair: Judith Michael
+
+    Department of Computer Science and Engineering
+    RWTH Aachen University, Germany
+    michael@se-rwth.de
+
+#### Digital Learning Chair: Sridhar Chimalakonda
 
     Department of Computer Science and Engineering
     Indian Institute of Technology　Tirupati, India
     http://researchweb.iiit.ac.in/~sridhar_ch
     ch@iittp.ac.in
 
-#### Digital Learning Co-Chair: Shane McIntosh
+#### Digital Learning Co-Chair: Andrew Begel
 
-    McGill University
-    Montreal, Quebec
-    Canada
-    shane.mcintosh@mcgill.ca 
+    Carnegie Mellon University, USA
+    abegel@andrew.cmu.edu
 
-#### Digital Learning Co-Chair: Venera Arnaoudova
+#### CAPS Co-Chair: Nan Niu
 
-    Washington State University
-    Pullman, Washington
-    USA
-    venera.arnaoudova@wsu.edu 
+    University of Cincinnati, USA
+    niunn@ucmail.uc.edu
+
+#### CAPS Co-Chair: Zhiyuan Wan
+
+    Zhejiang University, China
+    wanzhiyuan@zju.edu.cn
+
+#### CAPS Co-Chair: Fabio Palomba
+
+    University of Salerno, Italy
+    fpalomba@unisa.it
 
 #### Newsletter Editor: Jacopo Soldani
 
