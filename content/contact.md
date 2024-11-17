@@ -27,13 +27,13 @@ Fax: +1-212-302-5826
 
 > toomer@hq.acm.org
 
-### Social Media Chair: Sridhar Chimalakonda
+### Social Media Chair: Judith Michael
 
 Department of Computer Science and Engineering
 
-Indian Institute of Technology　Tirupati, India
+RWTH Aachen University, Germany
 
-> ch@iittp.ac.in
+> michael@se-rwth.de
 
 ### Newsletter Editor: Jacopo Soldani
 
@@ -74,7 +74,8 @@ Boise State University, Idaho
 
 > elenasherman@boisestate.edu
 
-### Information Director: Raula Gaikovina Kula
-Nara Institute of Science and Technology, Japan
+### Information Director: Yongqiang Tian
 
-> raula-k@is.naist.jp 
+Hong Kong University of Science and Technology
+
+> yqtian@ust.hk
