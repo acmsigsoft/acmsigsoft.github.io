@@ -36,11 +36,9 @@ title = "SIGSOFT Executive Committee"
 
 ### Most Recent Past Chair: Thomas Zimmermann
 
-    Microsoft Research
-    One Microsoft Way
-    Redmond, WA 98004
-    tzimmer@microsoft.com
-    
+    Donald Bren School of Information and Computer Science
+    University of California, Irvine, USA
+    tzimmer@uci.edu
 
 ### Liaison Members:
 
