@@ -52,7 +52,7 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 - Justyna Petke, University College London, UK
 - Foutse Khomh, University of Montreal, Canada
 - Ayse Tosun, Istanbul Technical University, Turkey
-- Lei Mai, The University of Tokyo, Japan
+- Lei Ma, The University of Tokyo, Japan
 - Valerio Terragni, University of Auckland, New Zealand
 - Marcio Eduardo Delamaro, Universidade de São Paulo Campus de São Carlos, Brazil
 - Yuriy Brun, Universeity of Massachusetts - Amherst, USA
