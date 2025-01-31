@@ -26,6 +26,7 @@ To submit a nomination for the award, please use the [awards nomination portal](
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-early-career-award (at) acm (dot) org.
 
 ## Winners
+- 2025  Jie Zhang, King's College London, for pioneering contributions to software engineering for AI, significantly shaping and transforming the field of AI system testing.
 - 2024  Kevin Moran, University of Central Florida, for outstanding contributions to improving the quality of mobile applications, through software testing, deep learning, and user interface development.
 - 2023  Chunyang Chen, Monash University, for outstanding contributions to the study of intelligent software development automation including automated mobile application development, software testing, migration and accessibility
 - 2022	Xin Xia, Huawei, for contributions to AI and SE, mining software repositories, and empirical software engineering

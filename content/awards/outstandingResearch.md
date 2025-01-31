@@ -25,6 +25,7 @@ To submit a nomination for the award, please use the [awards nomination portal](
 If you have questions about this award, please contact sigsoft-research-award (at) acm (dot) org.
 
 ## Winners
+- 2025  Martin Rinard, MIT, for fundamental contributions in pioneering the new fields of program repair and approximate computing.
 - 2024  Tsong Yueh Chen, Swinburne University of Technology, for contributions to software testing through the invention and development of metamorphic testing.
 - 2023  Gail Murphy, University of British Columbia, for pioneering contributions to recommenders for software engineering and program comprehension that have impacted both theory and practice
 - 2022	Lionel Briand, University of Ottawa and Centre for ICT Security, Reliability, and Trust (SnT), University of Luxembourg, for contributions in software testing, software quality assurance, and context-driven software engineering research, notably in exemplary collaborations with industry

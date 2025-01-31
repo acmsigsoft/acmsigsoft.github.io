@@ -41,22 +41,23 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 ## Winners
 
-|      | SIGSOFT Recipients | SIGBED Recipients    |
-| :---        |    :----:   |          ---: |
-| 2024     | Max Camillo Eisele (Saarland University and Bosch)      |  |
-| 2022     |  | Claudio Mandrioli (Lund University) |
-| 2021     | Sumaya Almanee (UC Irvine)      | Akshay Gadre (Carnegie Mellon University) |
-| 2020     | Sumaya Almanee (UC Irvine)      | Adeola Bannis (Carnegie Mellon University) |
-| 2019  | Jacob Krüger       |      |
-| 2017  | Ivan Ruchkin (Carnegie Mellon University)	       |      |
-| 2013  | Reinhard Schneider (TU Munich)     |      |
-| 2012  |      |   Indranil Saha (University of California at Los Angeles)   |
-| 2011  | Aldeida Aleti (Swinburne University of Technology)     |  Miroslav Pajic (University of Pennsylvania)|
-| 2008 | 	Basil Becker (University of Potsdam)    | Georgios Fainekos (University of Pennsylvania) |
-| 2007 | 	Stefan Henkler (University of Paderborn)  and  |  Gabor Madl (University of California, Irvine) |
-| | 	Chunyang Ye (Hong Kong University of Science and Technology)  |  |
-| 2006 | 	  | Cesar Sanchez (Stanford University) and |
-| |   |Bernhard Egger (Seoul National University)  |
+|      |                      SIGSOFT Recipients                       | SIGBED Recipients    |
+|:-----|:-------------------------------------------------------------:|          ---: |
+| 2025 |           Liu Wang (Beijing University of Posts and Telecommunications )            |  |
+| 2024 |      Max Camillo Eisele (Saarland University and Bosch)       |  |
+| 2022 |                                                               | Claudio Mandrioli (Lund University) |
+| 2021 |                  Sumaya Almanee (UC Irvine)                   | Akshay Gadre (Carnegie Mellon University) |
+| 2020 |                  Sumaya Almanee (UC Irvine)                   | Adeola Bannis (Carnegie Mellon University) |
+| 2019 |                         Jacob Krüger                          |      |
+| 2017 |          Ivan Ruchkin (Carnegie Mellon University)	           |      |
+| 2013 |                Reinhard Schneider (TU Munich)                 |      |
+| 2012 |                                                               |   Indranil Saha (University of California at Los Angeles)   |
+| 2011 |      Aldeida Aleti (Swinburne University of Technology)       |  Miroslav Pajic (University of Pennsylvania)|
+| 2008 |             	Basil Becker (University of Potsdam)             | Georgios Fainekos (University of Pennsylvania) |
+| 2007 |        	Stefan Henkler (University of Paderborn)  and         |  Gabor Madl (University of California, Irvine) |
+|      | 	Chunyang Ye (Hong Kong University of Science and Technology) |  |
+| 2006 |                               	                               | Cesar Sanchez (Stanford University) and |
+|      |                                                               |Bernhard Egger (Seoul National University)  |
 
 ## Committee
 

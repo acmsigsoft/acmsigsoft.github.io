@@ -27,6 +27,8 @@ To submit a nomination for the award, please use the [awards nomination portal](
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
 
 ## Winners
+- 2025 Elizabeth Dinella, Neural Inference of Program Specifications, University of Pennsylvania, advisor: Mayur Naik.
+- 2025 Jialun Cao, Towards Automatic Testing and Fault Localization in Natural Language Processing Systems,  Hong Kong University of Science and Technology, advisor: Shing-Chi Cheung
 - 2024 Bianca Trinkenreich, Understanding and Supporting Women’s Participation in Open Source Software, Northern Arizona University, advisors: Igor Steinmacher and Marco Aurelio Gerosa
 - 2023 David Shriver, Increasing the Applicability of Verification Tools for Neural Networks, University of Virginia, advisors: Matt Dwyer and Sebastian Elbaum
 - 2022 Wing Lam, Detecting, Characterizing, and Taming Flaky Tests, University of Illinois at Urbana-Champaign, advisors: Darko Marinov and Tao Xie
@@ -50,7 +52,7 @@ Honorable Mention: Christoffer Quist Adamsen, Automated Testing Techniques for E
 - Justyna Petke, University College London, UK
 - Foutse Khomh, University of Montreal, Canada
 - Ayse Tosun, Istanbul Technical University, Turkey
-- Lei Mai, The University of Tokyo, Japan
+- Lei Ma, The University of Tokyo, Japan
 - Valerio Terragni, University of Auckland, New Zealand
 - Marcio Eduardo Delamaro, Universidade de São Paulo Campus de São Carlos, Brazil
 - Yuriy Brun, Universeity of Massachusetts - Amherst, USA
