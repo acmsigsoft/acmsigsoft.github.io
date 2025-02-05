@@ -62,7 +62,7 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 {{< figure src="/img/cares/FedericaCareFit.jpg" height=".3" title="" >}}
 
-> University College London, United Kingdom, tayana@icomp.ufam.edu.br, Term: 2023-2026
+> University College London, United Kingdom, f.sarro@ucl.ac.uk, Term: 2023-2026
 
 `Rafael Prikladnicki (he/him)`
 
