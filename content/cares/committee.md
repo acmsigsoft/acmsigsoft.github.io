@@ -68,7 +68,7 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 {{< figure src="/img/cares/RafaelCareFit.jpeg" height=".3" title="" >}}
 
-> School of Technology at PUCRS University, Brazil, rafael.prikladnicki@pucrs.br, Term: 2023-2026
+> School of Technology at PUCRS University, Brazil, rafaelp@pucrs.br, Term: 2023-2026
 
 `Raula Gaikovina Kula (he/him)`
 
