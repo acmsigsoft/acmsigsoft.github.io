@@ -99,7 +99,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "SEWORLD Mailing List"
-    url        = "https://www.sigsoft.org/resources/seworld.html"
+    url        = "/seworld"
     weight     = 3
     parent     = "menu.community"
 
