@@ -43,7 +43,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Logos"
-    url        = "https://www.sigsoft.org/resources/logos.html"
+    url        = "/logos/logos"
     weight     = 4
     parent     = "menu.abt"
 
@@ -282,6 +282,11 @@ pluralizelisttitles = false
     url = "https://twitter.com/sigsoft"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
+[[menu.topbar]]
+    weight = 4
+    name = "Linkedin"
+    url = "https://www.linkedin.com/company/acm-sigsoft/"
+    pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
