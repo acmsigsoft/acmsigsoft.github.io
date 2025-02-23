@@ -63,13 +63,13 @@ Only list subscribers may post to SEWORLD.
 
 Contributors are encouraged to consider these [guidelines]({{< ref "seworld_guidelines.md" >}} "guidelines") regarding submissions. They are meant both to help focus the list and to ease the duties of the moderator. They are in no way meant to discourage contribution.
 
-All submissions are reviewed prior to posting. Please refer to [Moderation of Contributions]({{< ref "#Moderation of Contributions" >}} "Moderation of Contributions") for information about the delay and possible modifications to your submission that you can expect.
+All submissions are reviewed prior to posting. Please refer to [Moderation of Contributions]({{< ref "#Moderation" >}} "Moderation of Contributions") for information about the delay and possible modifications to your submission that you can expect.
 
 If your submission is posted, you will not receive individual confirmation (other than by receiving your submission as a subscriber to the list, or by monitoring the archive).
 
 If your submission is not posted, you will receive a response explaining why the moderator returned your submission. Spam will be rejected outright and will not be acknowledged.
 
-### Moderation of Contributions
+### Moderation of Contributions {#Moderation}
 In order to avoid spam, duplication, and other misuses, a moderator reviews all submissions prior to posting. Thus, submissions will not be posted to the list immediately. Because of the moderation process, it can be several days before an email goes out on the list. This is particularly true because there is a maximum number of emails that can go out on the list on any particular day.
 
 Further, the moderator reserves the right to modify a submission without notice or permission in order to remove extraneous information not relevant to the content of the submission (such as apologies for multiple announcements) or to alter the subject field to better reflect the content of the submission (such as modifying "Call for Papers" to include a conference name).

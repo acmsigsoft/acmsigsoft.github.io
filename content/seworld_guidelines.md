@@ -11,7 +11,7 @@ They are in no way meant to discourage contribution.
 
 Although all submissions are welcome, postings ordinarily fall into two categories: 
 announcements for professional events such as conferences and symposia, and position announcements. 
-Consequently, there are additional guidelines for [events]({{< ref "#Professional Events" >}} "events") and [position announcements]({{< ref "#Position Announcements" >}} "Position Announcements"). 
+Consequently, there are additional guidelines for [events]({{< ref "#event" >}} "events") and [position announcements]({{< ref "#position" >}} "Position Announcements"). 
 They are meant only to provide general criteria for evaluation, are historically typical of postings, and are in no way meant to discourage contribution.
 
 SEWORLD is sponsored by [SIGSOFT](http://www2.sigsoft.org/) and the [Association for Computing Machinery](http://www.acm.org/).
@@ -40,7 +40,7 @@ SEWORLD is sponsored by [SIGSOFT](http://www2.sigsoft.org/) and the [Association
 - Submissions detailing a journal call will be returned unless the call is for a special issue or the first issue of a new journal. In both cases, the call should include a submission deadline.
 - Submissions that advertise research projects will be returned.
 
-### Professional Events
+### Professional Events {#event}
 - **Only one** submission detailing a call for papers may be posted for each professional event. A "call for papers" in this sense usually refers to an initial announcement, describing the focus of the event, requesting contributions, and enumerating dates and deadline information. This call should also detail other calls (e.g., industrial track, emerging results track, education track, demos, posters, workshop proposals, tutorials).
 - **Only one** submission may posted for all calls for papers of the workshops organized within a professional event; this submission should be posted once the list of approved workshops is finalized.
 - **Only one** submission may be posted for all student-related events (e.g., doctoral symposium, student research competition, call for student volunteers) organized within a professional event. If the only student-related sub-event is a doctoral symposium, its call should be announced in the call for papers of the main event.
@@ -49,7 +49,7 @@ SEWORLD is sponsored by [SIGSOFT](http://www2.sigsoft.org/) and the [Association
 - Submissions that advertise a professional event should include the URL for the event web site, if available. Those interested in the professional event are presumed to be kept aware of updates via this URL.
 - Submissions aggregating calls for multiple events will be returned. Submissions detailing calls for federated events may be posted at the discretion of the moderator.
 
-### Position Announcements
+### Position Announcements {#position}
 - Position announcements should only advertise openings for those with software engineering credentials. Openings for those with computer science credentials may be posted at the discretion of the moderator.
 - Position announcements should only advertise openings at academic or research institutions, so long as the institution is non profit (i.e., openings at industrial research labs will not be posted).
 - Position announcements should only advertise openings where at least a doctoral degree is required. This also means that mixed announcements offering positions with requirements lower than a PhD and positions for PhDs and beyond will not be posted.
