@@ -43,7 +43,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Logos"
-    url        = "https://www.sigsoft.org/resources/logos.html"
+    url        = "/logos/logos"
     weight     = 4
     parent     = "menu.abt"
 
