@@ -62,7 +62,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Ongoing Conferences"
-    url        = "https://www.sigsoft.org/events.html"
+    url        = "/event"
     weight     = 1
     parent     = "menu.conferences"
 
@@ -124,7 +124,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Software Engineering Notes (SEN)"
-    url        = "https://www.sigsoft.org/SEN/"
+    url        = "/SEN/SEN"
     weight     = 3
     parent     = "menu.pubs"
 
