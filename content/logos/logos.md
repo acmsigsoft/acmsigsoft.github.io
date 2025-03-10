@@ -18,22 +18,22 @@ Here are logos for use in publicity materials and publications.
 
 {{< figure src="/img/logos/sigsoft.png" height=".3" title="" >}}
 
-- [Portable Network Graphics PNG](/logo/sigsoft.png)
-- [Adobe Illustrator AI](/logo/sigsoft.ai.ps)
-- [Adobe Acrobat PDF](/logo/sigsoft.pdf)
-- [Encapsulated PostScript EPS](/logo/sigsoft.eps)
-- [Scalable Vector Graphics SVG](/logo/sigsoft.svg)
+- [Portable Network Graphics PNG](/logos/sigsoft.png)
+- [Adobe Illustrator AI](/logos/sigsoft.ai.ps)
+- [Adobe Acrobat PDF](/logos/sigsoft.pdf)
+- [Encapsulated PostScript EPS](/logos/sigsoft.eps)
+- [Scalable Vector Graphics SVG](/logos/sigsoft.svg)
 
 
 ### SIGSOFT Logo without tagline:
 
 {{< figure src="/img/logos/sigsoft-no-tagline.png" height=".3" title="" >}}
 
-- [Portable Network Graphics PNG](/logo/sigsoft-no-tagline.png)
-- [Adobe Illustrator AI](/logo/sigsoft-no-tagline.ai)
-- [Adobe Acrobat PDF](/logo/sigsoft-no-tagline.pdf)
-- [Encapsulated PostScript EPS](/logo/sigsoft-no-tagline.eps)
-- [Scalable Vector Graphics SVG](/logo/sigsoft-no-tagline.svg)
+- [Portable Network Graphics PNG](/logos/sigsoft-no-tagline.png)
+- [Adobe Illustrator AI](/logos/sigsoft-no-tagline.ai)
+- [Adobe Acrobat PDF](/logos/sigsoft-no-tagline.pdf)
+- [Encapsulated PostScript EPS](/logos/sigsoft-no-tagline.eps)
+- [Scalable Vector Graphics SVG](/logos/sigsoft-no-tagline.svg)
 
 ## SIGSOFT ICSE Logo
 
