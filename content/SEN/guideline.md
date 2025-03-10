@@ -18,9 +18,9 @@ Finally, as _reports_, we welcome summary reports from workshops conducted under
 
 Manuscripts should be prepared by using **SEN style** and submitted by sending their sources and/or .pdfs with all fonts embedded. The following templates are available:
 
-*   [.doc](ACM_SIGSOFT_pubform.doc): MS Word 97-2003
-*   [.docx](ACM_SIGSOFT_pubform.docx): MS Word 2007
-*   [.cls](acm_sen_article.cls) or [.zip](latex-example.zip): LaTeX
+*   [.doc]({{< ref "ACM_SIGSOFT_pubform.doc" >}} "doc"): MS Word 97-2003
+*   [.docx]({{< ref "ACM_SIGSOFT_pubform.doc" >}} "docx"): MS Word 2007
+*   [.cls]({{< ref "acm_sen_article.cls" >}} "cls") or [.zip]({{< ref "latex-example.zip" >}} "latex-example.zip"): LaTeX
 
 Authors are warmly encouraged to carefully structure the abstract of their manuscript, so as to ensure that it reflects the key points addressed in the document, which will appear in full in the ACM Digital Library. Authors are also encouraged to use the keywords found on the ACM Computer Classification System (CCS) that is available [online](https://dl.acm.org/ccs).
 

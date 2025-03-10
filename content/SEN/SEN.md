@@ -39,8 +39,8 @@ Reach the editorial team of SEN at editors_SIGSOFT [at] acm.org
 
 ## Instructions for conference and workshop organizers
 
-See [here](instructions.md).
+See [here]({{< ref "instructions.md" >}} "instructions").
 
 ## Publication Guidelines
 
-See [here](guideline.md).
+See [here]({{< ref "guideline.md" >}} "guideline").
