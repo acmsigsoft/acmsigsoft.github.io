@@ -258,7 +258,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Join"
     identifier = "menu.join"
-    weight     = 6
+    weight     = 7
 
 [[menu.main]]
     name       = "Join SIGSOFT"
