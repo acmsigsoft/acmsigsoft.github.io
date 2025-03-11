@@ -29,7 +29,7 @@ Ajay Jain, Adobe Systems Inc.
 
 ### Associate Editors
 
-- Uwe Breitenbücher, University of Stuttgart, Germany
+- Uwe Breitenbücher, University of Reutlingen, Germany
 - Stefano Forti, University of Pisa, Italy
 - Will Tracz, United States
 
