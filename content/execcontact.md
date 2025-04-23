@@ -143,6 +143,26 @@ title = "SIGSOFT Executive Committee"
     University of Salerno, Italy
     fpalomba@unisa.it
 
+#### CARES Co-Chair: Joanne Atlee
+
+    University of Waterloo, Canada
+    jmatlee@uwaterloo.ca
+
+#### CARES Co-Chair: Alexander Serebrenik
+
+    Eindhoven University of Technology, Netherlands
+    a.serebrenik@tue.nl
+
+#### CARES Co-Chair: Kelly Blincoe
+
+    University of Auckland, New Zealand
+    k.blincoe@auckland.ac.nz
+
+#### CARES Co-Chair: Federica Sarro
+
+    University College London, United Kingdom
+    f.sarro@ucl.ac.uk
+
 #### Newsletter Editor: Jacopo Soldani
 
     editors_SIGSOFT@acm.org 
