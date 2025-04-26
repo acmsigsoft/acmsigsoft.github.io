@@ -229,31 +229,42 @@ pluralizelisttitles = false
     weight     = 5
     parent     = "section.conference"
 
-
+[[menu.main]]
+    name       = "Programs and Activities"
+    identifier = "menu.programs_activities"
+    weight     = 6
 
 [[menu.main]]
-    name       = "Programs"
-    identifier = "menu.programs"
-    weight     = 6
+    name       = "Programs and Activities Sponsored by SIGSOFT"
+    identifier = "menu.sub_programs_activities"
+    weight     = 1
+    parent     = "menu.programs_activities"
+    url        = "/activities/overview"
+    post       = 1
 
 [[menu.main]]
     name       = "CARES"
     url        = "/cares/sigsoft_cares"
     weight     = 1
-    parent     = "menu.programs"
+    parent     = "menu.sub_programs_activities"
 
 [[menu.main]]
     name       = "Travel Support and Childcare Assustance (CAPS)"
-    url        = "/caps/capsmain"
+    url        = "/activities/capsmain"
     weight     = 2
-    parent     = "menu.programs"
+    parent     = "menu.sub_programs_activities"
 
 [[menu.main]]
     name       = "Webinars"
-    url        = "/webinars/webinarsmain"
+    url        = "/activities/webinarsmain"
     weight     = 3
-    parent     = "menu.programs"
+    parent     = "menu.sub_programs_activities"
 
+[[menu.main]]
+    name       = "Summer/Winter Schools"
+    url        = "/activities/schools"
+    weight     = 4
+    parent     = "menu.sub_programs_activities"
 
 [[menu.main]]
     name       = "Join"
