@@ -27,11 +27,11 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 
 
 
-### 2023 - 202424:  13 schools funded.  80K USD
+### 2023 - 2024:  13 schools funded.  80K USD
 
 
-| 2024-2025 Summer/Winter Schools                                                           | Organizer                |
-|-------------------------------------------------------------------------------------------|--------------------------|
+| 2023-2024 Summer/Winter Schools                                                                         | Organizer                |
+|---------------------------------------------------------------------------------------------------------|--------------------------|
 | Singapore Summer School on Fuzz Testing                                                                 |  Abhik Roychoudhury              |
 | SIESTA 2023 - 3rd International Software Engineering Summer School, Switzerland                         |  Roberto Minelli                 |
 | 20th International Advanced School on Empirical Software Engineering                                    |  New Orleans,  Jeffrey Carver    |
