@@ -8,7 +8,7 @@ aliases: "programs"
 ACM SIGSOFT sponsors many activities and events.
 Here is a non-exhaustive list of them.
 
-- [CARES](/cares/SIGSOFT_CARES.md)
+- [CARES]({{< ref "/cares/SIGSOFT_CARES.md" >}} "cares")
 - [SIGSOFT Travel Support and Childcare Assistance at Conferences - CAPS]({{< ref "CAPSMAIN.md" >}} "caps")
 - [WEBINARS]({{< ref "webinarsmain.md" >}} "webinars")
 - [Summer/Winter Schools]({{< ref "schools.md" >}} "schools")
