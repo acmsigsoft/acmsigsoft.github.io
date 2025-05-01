@@ -37,7 +37,7 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 | 20th International Advanced School on Empirical Software Engineering, New Orleans                      |  Jeffrey Carver                   |
 | Summer School on Software Engineering and Artificial Intelligence, Bogota, Colombia                     |  Esteban Parra Rodriguez,        |
 | Australasian Software Engineering Summer School (ASESS), Australia                                      |  John Grundy                     |
-| The ICTAC 2023 Training SChool on Applied Formal Methods, Peru                                          |  Silvia Lezeth Tapia Tarifa      |
+| The ICTAC 2023 Training School on Applied Formal Methods, Peru                                          |  Silvia Lezeth Tapia Tarifa      |
 | 2024 Summer School on Retro Gaming History, Critic, and Development, Montreal, Canada                   |  Yann-Gael Gueheneuc             |
 | Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, Brazil          |  Ganaina Nnes Rodrigues organier |
 | International Summer School on Training an Research on Testing, Bergamo, Italy                          |  Angelo Gargantini               |
