@@ -39,7 +39,7 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 | Australasian Software Engineering Summer School (ASESS), Australia                                      |  John Grundy                     |
 | The ICTAC 2023 Training School on Applied Formal Methods, Peru                                          |  Silvia Lezeth Tapia Tarifa      |
 | 2024 Summer School on Retro Gaming History, Critic, and Development, Montreal, Canada                   |  Yann-Gael Gueheneuc             |
-| Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, Brazil          |  Ganaina Nnes Rodrigues organier |
+| Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, Brazil          |  Genaina Nunes Rodrigues, organizer |
 | International Summer School on Training an Research on Testing, Bergamo, Italy                          |  Angelo Gargantini               |
 | Summer School for Software Engineering in Robotics, Brussels, Belgium                                   |  Darko Bozhinoski                |
 | ICT4DEV Summer School on Software Engineering, Mozambique                                               |  Luciano Baresi                  |
