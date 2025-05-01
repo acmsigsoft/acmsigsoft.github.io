@@ -34,7 +34,7 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 |---------------------------------------------------------------------------------------------------------|--------------------------|
 | Singapore Summer School on Fuzz Testing                                                                 |  Abhik Roychoudhury              |
 | SIESTA 2023 - 3rd International Software Engineering Summer School, Switzerland                         |  Roberto Minelli                 |
-| 20th International Advanced School on Empirical Software Engineering                                    |  New Orleans,  Jeffrey Carver    |
+| 20th International Advanced School on Empirical Software Engineering, New Orleans                      |  Jeffrey Carver                   |
 | Summer School on Software Engineering and Artificial Intelligence, Bogota, Colombia                     |  Esteban Parra Rodriguez,        |
 | Australasian Software Engineering Summer School (ASESS), Australia                                      |  John Grundy                     |
 | The ICTAC 2023 Training SChool on Applied Formal Methods, Peru                                          |  Silvia Lezeth Tapia Tarifa      |
