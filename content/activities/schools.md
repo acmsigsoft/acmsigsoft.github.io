@@ -19,7 +19,7 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 | Argentinian Summer School on Informatics RIO in Argentina                                       |  Sebastian Uchitel       |
 | International Summer School on Specifications and Analysis for Software Engineers in CMU.       |      Eunsuk Kang and Shahar Maoz                    |
 | Robotic Mission Engineering (RoME), Brazil                                                      |  Genaina Nunes Rodrigues |
-| Summer School for Software Engineering in Robotics, Brussels                                    |                          |
+| Summer School for Software Engineering in Robotics, Brussels                                    |  Darko Bozhinoski        |
 | International Software Architecture Ph.D School, Netherlands                                    |               |
 | Summer School on Emo-aware Persuasive Software Systems in Lima, Peru                            |                          |
 | Green Software Engineering Winter School in Nigeria                                             |                          |
