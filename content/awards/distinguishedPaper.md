@@ -10,6 +10,19 @@ aliases: "/awards/distinguishedPaperAward.html"
 
 ACM SIGSOFT encourages SIGSOFT-sponsored conferences to designate a number of accepted papers for ACM SIGSOFT Distinguished Paper Awards for the conference. In addition to presenting certificates to the authors of awarded papers, two awarded papers from each ICSE, ESEC/FSE may be invited for presentation at the following Innovations in Software Engineering Conference (ISEC), which is sponsored by [SIGSE](http://www.cse.iitd.ernet.in/~sigcse/), the Special Interest Group on Software Engineering of the Computer Society of India (CSI).
 
+Papers accepted by the follwoing conference may be awarded for ACM SIGSOFT Distinguished Paper Awards:
+- ICSE
+- FSE
+- ASE
+- ISSTA
+- MODELS
+- MSR
+- ICPC
+- ESEM
+- FORGE
+- Internetware
+- Aiware
+
 ## Rules
 
 ### Number of ACM SIGSOFT Distinguished Papers
@@ -31,6 +44,34 @@ The conference organizers prepare the certificates. Contact J.C. Peeples (peeple
 If the TMRF indicated that a best paper award would be given, the organizers will receive an email from [\[email protected\]](/cdn-cgi/l/email-protection) after the conference, asking for further details. Please respond to this email as well, so that the award winners will be listed in the ACM digital library.
 
 ## Winners
+
+
+### 47th International Conference on Software Engineering (ICSE 2025)
+April 27 - May 3, 2025, Ottawa, Canada
+
+- Shiyu Zhang, Haoyang Song, Qixin Wang, Henghua Shen, Yu Pei: A Test Oracle for Reinforcement Learning Software based on Lyapunov Stability Control Theory
+- Syed Fatiul Huq, Mahan Tafreshipour, Kate Kalcevich, Sam Malek: Automated Generation of Accessibility Test Reports from Recorded User Transcripts
+- Jiashuo Zhang, Yiming Shen, Jiachi Chen, Jianzhong Su, Yanlin Wang, Ting Chen, Jianbo Gao, Zhong Chen: Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts
+- Ali Ebrahimi Pourasad, Walid Maalej: Does GenAI Make Usability Testing Obsolete?
+- Lizhi Liao, Simon Eismann, Heng Li, Cor-Paul Bezemer, Diego Elias Costa, André van Hoorn, Weiyi Shang: Early Detection of Performance Regressions by Bridging Local Performance Data and Architectural Models
+- Hao Song, Teng Li, Jiachi Chen, Ting Chen, Beibei Li, Zhangyan Lin, Yi Lu, Pan Li, Xihan Zhou: Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects
+- Yesugen Baatartogtokh, Kaitlyn Cook, Alicia M. Grubb: Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication
+- Aleks Chakarov, Jaco Geldenhuys, Matthew Heck, MIchael : Formally Verified Cloud-Scale Authorization
+- Yiwei Li, Liangze Yin, Wei Dong, Jiaxin Liu, Yanfeng Hu, Shanshan Li: Hetrify: Efficient Verification of Heterogeneous Programs on RISC-V
+- Geraldine Galindo-Gutierrez, Juan Pablo Sandoval Alcocer, Nicolas Jimenez-Fuentes, Alexandre Bergel, Gordo: Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability
+- Chenxi Zhang, Yufei Liang, Tian Tan, Chang Xu, Shuangxiang Kan, Yulei Sui, Yue Li: Interactive Cross-Language Pointer Analysis for Resolving Native Code in Java Programs
+- Li Huang, Weifeng Sun, Meng Yan: Iterative Generation of Adversarial Example for Deep Code Models
+- Chenxing Zhong, Daniel Feitosa, Paris Avgeriou, Huang Huang, Yue Li, He Zhang: PairSmell: A Novel Perspective Inspecting Software Modular Structure
+- Kyle Thompson, Nuno Saavedra, Pedro Carrott, Kevin Fisher, Alex Sanchez-Stern, Yuriy Brun, João F. Ferreira, Sorin Lerner, Emily First: Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification
+- Shuzheng Gao, Cuiyun Gao, Wenchao Gu, Michael Lyu: Search-Based LLMs for Code Optimization
+- Dehai Zhao, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu: SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation
+- Ying Fu, Zhiyong Wu, Yuanliang Zhang, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li, Liao Xia: Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing
+- Zhiyuan Li, Jingzheng Wu, Xiang Ling, Tianyue Luo, ZHIQING RUI, Yanjun Wu: The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling Vulnerabilities in Prospective Deep-Learning Libraries
+- Saikat Chakraborty, Gabriel Ebner, Siddharth Bhat, Sarah Fakhoury, Sakina Fatima, Shuvendu K. Lahiri, : Towards Neural Synthesis for SMT-assisted Proof-Oriented ProgrammingSecurityFormal Methods
+- Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, Peng Di, Shin Hwei Tan, Heming Cui, Yuqun Zhang: Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?
+- Courtney Miller, Mahmoud Jahanshahi, Audris Mockus, Bogdan Vasilescu, Christian Kästner: Understanding the Response to Open-Source Dependency Abandonment in the npm Ecosystem
+- Yuanliang Zhang, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Liao Xiangke: Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
+- Enrique Barba Roque, Luís Cruz, Thomas Durieux: Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption: 
 
 ### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)
 July 18-22, 2022, Daejeon, South Korea/Virtual
