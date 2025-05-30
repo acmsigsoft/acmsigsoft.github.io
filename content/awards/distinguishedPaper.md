@@ -71,7 +71,18 @@ April 27 - May 3, 2025, Ottawa, Canada
 - Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, Peng Di, Shin Hwei Tan, Heming Cui, Yuqun Zhang: Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?
 - Courtney Miller, Mahmoud Jahanshahi, Audris Mockus, Bogdan Vasilescu, Christian Kästner: Understanding the Response to Open-Source Dependency Abandonment in the npm Ecosystem
 - Yuanliang Zhang, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Liao Xiangke: Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
-- Enrique Barba Roque, Luís Cruz, Thomas Durieux: Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption: 
+- Enrique Barba Roque, Luís Cruz, Thomas Durieux: Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption
+
+### Mining Software Repositories (MSR) 2025
+colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
+
+
+- Shrey Tiwari, Serena Chen, Alexander Joukov, Peter Vandervelde, Ao Li, Rohan Padhye: It's About Time: An Empirical Study of Date and Time Bugs in Open-Source Python Software
+- Toufique Ahmed, Premkumar Devanbu, Christoph Treude, Michael Pradel: Can LLMs Replace Manual Annotation of Software Engineering Artifacts?
+- Nathalia Nascimento, Everton Guimaraes, Sai Sanjna Chintakunta, Santhosh Anitha Boominathan: How Effective are LLMs for Data Science Coding? A Controlled Experiment
+- Fabio Salerno, Ali Al-Kaswan, Maliheh Izadi: How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning
+- Julien Malka, Stefano Zacchiroli, Théo Zimmermann: Does Functional Package Management Enable Reproducible Builds at Scale? Yes.
+
 
 ### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)
 July 18-22, 2022, Daejeon, South Korea/Virtual
