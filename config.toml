@@ -201,7 +201,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+    url        = "/awards/distinguishedPaper"
     weight     = 1
     parent     = "section.conference"
 
