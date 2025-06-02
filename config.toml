@@ -201,25 +201,25 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+    url        = "/awards/distinguishedPaper"
     weight     = 1
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ICSE Most Influential Paper"
-    url        = "https://www.sigsoft.org/awards/icseMIPAward.html"
+    url        = "https://www.icse-conferences.org/mostinfluential.html"
     weight     = 2
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ESEC/FSE Test of Time"
-    url        = "http://www.esec-fse.org/test_of_time_awards"
+    url        = "https://www.esec-fse.org/test_of_time_awards"
     weight     = 3
     parent     = "section.conference"
 
 [[menu.main]]
     name       = "ASE Most Influential Paper"
-    url        = "https://ase-conferences.org/most-influencial-papers"
+    url        = "https://ase-conferences.org/most-influential-papers.html"
     weight     = 4
     parent     = "section.conference"
 
