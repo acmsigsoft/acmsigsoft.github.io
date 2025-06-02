@@ -225,7 +225,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ISSTA Impact and Retrospective"
-    url        = "http://www.issta.org/#impact"
+    url        = "https://www.issta.org/#impact"
     weight     = 5
     parent     = "section.conference"
 
