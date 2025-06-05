@@ -68,7 +68,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Program Committee Policy"
-    url        = "https://www.sigsoft.org/policies/pgmcommittee.html"
+    url        = "/PCpolicy"
     weight     = 2
     parent     = "menu.conferences"
 
