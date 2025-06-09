@@ -83,6 +83,24 @@ colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 - Fabio Salerno, Ali Al-Kaswan, Maliheh Izadi: How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning
 - Julien Malka, Stefano Zacchiroli, Théo Zimmermann: Does Functional Package Management Enable Reproducible Builds at Scale? Yes.
 
+
+### The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil, Brazil
+
+- Dirk Beyer, Po-Chun Chien, Marek Jankola, and Nian-Ze Lee: A Transferability Study of Interpolation-Based Hardware Model Checking for Software Verification.
+- Jiawei Li, David Faragó, Christian Petrov, and Iftekhar Ahmed: Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model.
+- Nathan Wintersgill, Trevor Stalnaker, Laura A. Heymann, Oscar Chaparro, and Denys Poshyvanyk: “The Law Doesn’t Work Like a Computer”: Exploring Software Licensing Issues Faced by Legal Practitioners.
+- Oussama Ben Sghaier and Houari Sahraoui: Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation.
+- Keke Lian, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, and Min Yang: Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.
+- Anderson Oliveira, João Correia, Wesley K. G. Assunção, Juliana Alves Pereira, Rafael de Mello, Daniel Coutinho, Caio Barbosa, Paulo Libório, and Alessandro Garcia: Understanding Developers’ Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem.
+- Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen: Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?
+- Aashish Yadavally, Yi Li, and Tien N. Nguyen: Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning.
+- Haiyu Huang, Xiaoyu Zhang, Pengfei Chen, Zilong He, Zhiming Chen, Guangba Yu, Hongyang Chen, and Chen Sun: TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State.
+- Xiao Cheng, Jiawei Ren, and Yulei Sui: Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing.
+- Yahui Song, Xiang Gao, Wenhua Li, Wei-Ngan Chin, and Abhik Roychoudhury: ProveNFix: Temporal Property-Guided Program Repair.
+
+
+
 ### The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24)
 Mon 16 - Fri 20 September 2024 Vienna, Austria
 
