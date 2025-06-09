@@ -73,7 +73,7 @@ April 27 - May 3, 2025, Ottawa, Canada
 - Yuanliang Zhang, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Liao Xiangke: Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
 - Enrique Barba Roque, Luís Cruz, Thomas Durieux: Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption
 
-### Mining Software Repositories (MSR) 2025
+### Mining Software Repositories (MSR 2025) 
 colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 
 
@@ -83,6 +83,30 @@ colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 - Fabio Salerno, Ali Al-Kaswan, Maliheh Izadi: How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning
 - Julien Malka, Stefano Zacchiroli, Théo Zimmermann: Does Functional Package Management Enable Reproducible Builds at Scale? Yes.
 
+### The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24)
+Mon 16 - Fri 20 September 2024 Vienna, Austria
+
+- Hyungseok Kim, Soomin Kim, Jungwoo Lee, and Sang Kil Cha: AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference.
+- Lianghong Guo, Yanlin Wang, Ensheng Shi, Wanjun Zhong, Hongyu Zhang, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng: When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention.
+- Yiyuan Guo, Peisen Yao, and Charles Zhang: Precise Compositional Buffer Overflow Detection via Heap Disjointness.
+- Zhensu Sun, Xiaoning Du, Zhou Yang, Li Li, and David Lo: AI Coders Are among Us: Rethinking Programming Language Grammar towards Efficient Code Generation.
+- Hanxian Huang and Jishen Zhao: Multi-modal Learning for WebAssembly Reverse Engineering.
+- Bo Lin, Shangwen Wang, Ming Wen, Liqian Chen, and Xiaoguang Mao: One Size Does Not Fit All: Multi-granularity Patch Generation for Better Automated Program Repair.
+- Jiachi Chen, Chong Chen, Jiang Hu, John Grundy, Yanlin Wang, Ting Chen, and Zibin Zheng: Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow.
+- Kevin Guan and Owolabi Legunsen: An In-Depth Study of Runtime Verification Overheads during Software Testing.
+- Zhao Tian, Honglin Shu, Dong Wang, Xuejie Cao, Yasutaka Kamei, and Junjie Chen: Large Language Models for Equivalent Mutant Detection: How Far Are We?
+- Quentin Mazouni, Helge Spieker, Arnaud Gotlieb, and Mathieu Acher: Policy Testing with MDPFuzz (Replicability Study).
+  Paul-Antoine Le Tolguenec, Emmanuel Rachelson, Yann Besse, Florent Teichteil-Koenigsbuch, Nicolas Schneider, Hélène Waeselynck, and Dennis Wilson. 2024. Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper).
+
+### ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS 2024) 
+
+- Christoph Bockisch, Deniz Eren, Sascha Lehmann, Daniel Neufeld and Gabriele Taentzer: Mutation Testing of Java Bytecode: A Model-Driven Approach.
+- Ludovic Apvrille and Bastien Sultan: AI-Driven Consistency of SysML Diagrams.
+
+
+### ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS 2022) 
+
+- Xiao He, Letian Tang, and Yutong Li: Accelerating similarity-based model matching using on-the-fly similarity preserving hashing.
 
 ### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)
 July 18-22, 2022, Daejeon, South Korea/Virtual
