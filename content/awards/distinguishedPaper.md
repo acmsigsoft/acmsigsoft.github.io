@@ -43,8 +43,9 @@ The conference organizers prepare the certificates. Contact J.C. Peeples (peeple
 
 If the TMRF indicated that a best paper award would be given, the organizers will receive an email from [\[email protected\]](/cdn-cgi/l/email-protection) after the conference, asking for further details. Please respond to this email as well, so that the award winners will be listed in the ACM digital library.
 
-## Winners
 
+
+## Winners
 
 ### 47th International Conference on Software Engineering (ICSE 2025)
 April 27 - May 3, 2025, Ottawa, Canada
@@ -84,6 +85,12 @@ colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 - Julien Malka, Stefano Zacchiroli, Théo Zimmermann: Does Functional Package Management Enable Reproducible Builds at Scale? Yes.
 
 
+### ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS 2024)
+Sept 22-27, Linz, Austria
+
+- Christoph Bockisch, Deniz Eren, Sascha Lehmann, Daniel Neufeld and Gabriele Taentzer: Mutation Testing of Java Bytecode: A Model-Driven Approach.
+- Ludovic Apvrille and Bastien Sultan: AI-Driven Consistency of SysML Diagrams.
+
 ### The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
 Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil, Brazil
 
@@ -99,7 +106,11 @@ Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil, Brazil
 - Xiao Cheng, Jiawei Ren, and Yulei Sui: Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing.
 - Yahui Song, Xiang Gao, Wenhua Li, Wei-Ngan Chin, and Abhik Roychoudhury: ProveNFix: Temporal Property-Guided Program Repair.
 
+### 1st ACM International Conference on AI-powered Software (AIware 2024)
+co-located with FSE’24
 
+- Adam Brown, Sarah D'Angelo, Ambar Murillo, Ciera Jaspan, Collin Green: Identifying the Factors That Influence Trust in AI Code Completion
+- Aral de Moor, Arie van Deursen, Maliheh Izadi: A Transformer-Based Approach for Smart Invocation of Automatic Code Completion
 
 ### The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24)
 Mon 16 - Fri 20 September 2024 Vienna, Austria
@@ -116,11 +127,41 @@ Mon 16 - Fri 20 September 2024 Vienna, Austria
 - Quentin Mazouni, Helge Spieker, Arnaud Gotlieb, and Mathieu Acher: Policy Testing with MDPFuzz (Replicability Study).
   Paul-Antoine Le Tolguenec, Emmanuel Rachelson, Yann Besse, Florent Teichteil-Koenigsbuch, Nicolas Schneider, Hélène Waeselynck, and Dennis Wilson. 2024. Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper).
 
-### ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS 2024) 
 
-- Christoph Bockisch, Deniz Eren, Sascha Lehmann, Daniel Neufeld and Gabriele Taentzer: Mutation Testing of Java Bytecode: A Model-Driven Approach.
-- Ludovic Apvrille and Bastien Sultan: AI-Driven Consistency of SysML Diagrams.
+### 42nd International Conference on Software Engineering (ICSE 2024)
+April 14-20, 2024, Lisbon, Portugal
 
+- Lianglu Pan, Shaanan Cohney, Toby Murray, Thuan Pham: EDEFuzz: A Web API Fuzzer for Excessive Data Exposures
+- Binhang Qi, Hailong Sun, Hongyu Zhang, Ruobing Zhao, Xiang Gao: Modularizing while Training: a New Paradigm for Modularizing DNN Models
+- Changan Niu, Chuanyi Li, Vincent Ng, David Lo, Bin Luo: FAIR: Flow Type-Aware Pre-Training of Compiler Intermediate Representations
+
+- Yongliang Chen, Ruoqin Tang, Chaoshun Zuo, Xiaokuan Zhang, Lei Xue, Xiapu Luo, Qingchuan Zhao: Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps
+- Yimeng Ma, Yu Huang, Kevin Leach: Breaking the Flow: A Study of Interruptions During Software Engineering Activities
+- Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo: Code Search is All You Need? Improving Code Suggestions with Code Search
+- Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik: Analyzing and Debugging Normative Requirements via Satisfiability Checking
+- Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head: Property-based testing in practice
+- Hammad Ahmad, Madeline Endres, Kaia Newman, Priscila Santiesteban, Emma Shedden, Westley Weimer: Causal Relationships and Programming Outcomes: A Transcranial Magnetic Stimulation Experiment
+- Emerson Murphy-Hill, Alberto Elizondo, Ambar Murillo, Marian Harbach, Bogdan Vasilescu, Delphine Carlson, Florian Dessloch: GenderMag Improves Discoverability in the Field, Especially for Women
+- Zejun Zhang, Zhenchang Xing, Dehai Zhao, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu: Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code
+- Brian Zhang: Towards Finding Accounting Errors in Smart Contracts
+- Yiming Liu, Cen Zhang, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo: Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware
+- Xun Deng, Sidi Mohamed Beillahi, Cyrus Minwalla, Han Du, Andreas Veneris, Fan Long: Safeguarding DeFi Smart Contracts against Oracle Deviations
+
+### 32nd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
+December 3-9, 2023, San Francisco, California
+
+- Emily First, Markus Rabe, Talia Ringer, Yuriy Brun: Baldur: Whole-proof generation and repair with large language models
+- Benjamin Mikek and Qirun Zhang: Speeding up SMT Solving via Compiler Optimization
+- Ruoxi Sun, Minhui Xue, Gareth Tyson, Tian Dong, Shaofeng Li, Shuo Wang, Haojin Zhu, Seyit Camtepe, Surya Nepal: Mate! Are you really aware? An explainability-guided testing framework for robustness of malware detectors
+- Min-Yih Hsu, Felicitas Hetzelt, David Gens, Michael Maitland, Michael Franz: A Highly Scalable, Hybrid, Cross-Platform Timing Analysis Framework Providing Accurate Differential Throughput Estimation via Instruction-Level Tracing
+- Xiaye Chi, Hui Liu, Guangjie Li, Weixiao Wang, Yunni Xia, Yanjie Jiang, Yuxia Zhang, Weixing Ji: An Automated Approach to Extracting Local Variables
+- Yibo Wang, Ying Wang, Tingwei Zhang, Yue Yu, Shing-Chi Cheung, Hai Yu, Zhiliang Zhu: Can Machine Learning Pipelines Be Better Configured?
+- Jiawei Liu, Jinjun Peng, Yuyao Wang, Lingming Zhang: Neuri: Diversifying dnn generation via inductive rule inference
+- Xinyu Gao, Zhijie Wang, Yang Feng, Lei Ma, Zhenyu Chen, Baowen Xu: Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities
+- Zihan Fang, Madeline Endres, Thomas Zimmermann, Denae Ford, Westley Weimer, Kevin Leach, Yu Huang: A Four-Year Study of Student Contributions to OSS vs. OSS4SG with a Lightweight Intervention
+- Beatriz Souza and Michael Pradel: Lexecutor: Learning-guided execution
+- Chenyang Ma, Wei Song, Jeff Huang: TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
+- Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, Xueying Du, Tianyong Yang: Recommending Analogical APIs via Knowledge Graph Embedding
 
 ### ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS 2022) 
 
