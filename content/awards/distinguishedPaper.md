@@ -545,11 +545,11 @@ July 19-23, 2009, Chicago, IL
 
 ### 31st International Conference on Software Engineering (ICSE 2009)
 May 16-24, 2009, Vancouver, Canada
-- Mayur Naik, Chang-Seo Park, Koushik Sen, David Gay, [Effective Static Deadlock Detection](httpss://dx.doi.org/10.1109/ICSE.2009.5070538)
-- Christian Bird, Nachiappan Nagappan, Premkumar Devanbu, Harald Gall, Brendan Murphy, [Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista](httpss://dx.doi.org/10.1109/ICSE.2009.5070550)
-- Emerson Murphy-Hill, Chris Parnin, Andrew Black, [How We Refactor, and How We Know It](httpss://dx.doi.org/10.1109/ICSE.2009.5070529)
-- Westley Weimer, ThanhVu Nguyen, Claire Le Goues, Stephanie Forrest, [Automatically Finding Patches Using Genetic Programming](httpss://dx.doi.org/10.1109/ICSE.2009.5070536)
-- Ali Mesbah, Arie van Deursen, [Invariant-Based Automatic Testing of AJAX User Interfaces](httpss://dx.doi.org/10.1109/ICSE.2009.5070522)
+- Mayur Naik, Chang-Seo Park, Koushik Sen, David Gay, [Effective Static Deadlock Detection](https://dx.doi.org/10.1109/ICSE.2009.5070538)
+- Christian Bird, Nachiappan Nagappan, Premkumar Devanbu, Harald Gall, Brendan Murphy, [Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista](https://dx.doi.org/10.1109/ICSE.2009.5070550)
+- Emerson Murphy-Hill, Chris Parnin, Andrew Black, [How We Refactor, and How We Know It](https://dx.doi.org/10.1109/ICSE.2009.5070529)
+- Westley Weimer, ThanhVu Nguyen, Claire Le Goues, Stephanie Forrest, [Automatically Finding Patches Using Genetic Programming](https://dx.doi.org/10.1109/ICSE.2009.5070536)
+- Ali Mesbah, Arie van Deursen, [Invariant-Based Automatic Testing of AJAX User Interfaces](https://dx.doi.org/10.1109/ICSE.2009.5070522)
 
 ### ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 16)
 November 11-13, 2008, Atlanta Georgia
