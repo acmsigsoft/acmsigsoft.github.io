@@ -92,7 +92,7 @@ Sept 22-27, Linz, Austria
 - Ludovic Apvrille and Bastien Sultan: AI-Driven Consistency of SysML Diagrams.
 
 ### The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
-Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil, Brazil
+Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil
 
 - Dirk Beyer, Po-Chun Chien, Marek Jankola, and Nian-Ze Lee: A Transferability Study of Interpolation-Based Hardware Model Checking for Software Verification.
 - Jiawei Li, David Faragó, Christian Petrov, and Iftekhar Ahmed: Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model.
