@@ -10,7 +10,7 @@ aliases: "/awards/distinguishedPaperAward.html"
 
 ACM SIGSOFT encourages SIGSOFT-sponsored conferences to designate a number of accepted papers for ACM SIGSOFT Distinguished Paper Awards for the conference. In addition to presenting certificates to the authors of awarded papers, two awarded papers from each ICSE, ESEC/FSE may be invited for presentation at the following Innovations in Software Engineering Conference (ISEC), which is sponsored by [SIGSE](https://www.cse.iitd.ernet.in/~sigcse/), the Special Interest Group on Software Engineering of the Computer Society of India (CSI).
 
-Papers accepted by the follwoing conference may be awarded for ACM SIGSOFT Distinguished Paper Awards:
+Papers accepted by the following conference may be awarded for ACM SIGSOFT Distinguished Paper Awards:
 - ICSE
 - FSE
 - ASE
@@ -562,14 +562,14 @@ October 9-10, 2008, Kaiserslautern, Germany
 
 ### ACM/IEEE 11th International Conference on Model-Driven Engineering Languages and Systems (MODELS 2008)
 - September 28-October 3, 2008, Toulouse, France
-- Ariadi Nugroho, Bas Flaton and Michel R.V. Chaudron, [Empirical Analysis of the Relation between Level of Detail in UML Models and Defect Density](httpss://dx.doi.org/10.1007/978-3-540-87875-9_42)
-- Adam Prout, Joanne M. Atlee, Nancy A. Day, Pourya Shaker, [Semantically Configurable Code Generation](httpss://dx.doi.org/10.1007/978-3-540-87875-9_49)
+- Ariadi Nugroho, Bas Flaton and Michel R.V. Chaudron, [Empirical Analysis of the Relation between Level of Detail in UML Models and Defect Density](https://dx.doi.org/10.1007/978-3-540-87875-9_42)
+- Adam Prout, Joanne M. Atlee, Nancy A. Day, Pourya Shaker, [Semantically Configurable Code Generation](https://dx.doi.org/10.1007/978-3-540-87875-9_49)
 
 ### 23rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2008)
 September 15-19, 2008, L'Aquilla, Italy
-- Raul Santelices, Pavan Kumar Chittimalli, Taweesup Apiwattanapong, Alessandro Orso and Mary Jean Harrold, [Test-suite Augmentation for Evolving Software](httpss://dx.doi.org/10.1109/ASE.2008.32)
-- Jesper Andersen and Julia L. Lawall, [Generic Patch Inference](httpss://dx.doi.org/10.1109/ASE.2008.44)
-- Patrick O'Neil Meredith, Dongyun Jin, Feng Chen and Grigore Rosu, [Efficient Monitoring of Parametric Context-Free Patterns](httpss://dx.doi.org/10.1109/ASE.2008.25)
+- Raul Santelices, Pavan Kumar Chittimalli, Taweesup Apiwattanapong, Alessandro Orso and Mary Jean Harrold, [Test-suite Augmentation for Evolving Software](https://dx.doi.org/10.1109/ASE.2008.32)
+- Jesper Andersen and Julia L. Lawall, [Generic Patch Inference](https://dx.doi.org/10.1109/ASE.2008.44)
+- Patrick O'Neil Meredith, Dongyun Jin, Feng Chen and Grigore Rosu, [Efficient Monitoring of Parametric Context-Free Patterns](https://dx.doi.org/10.1109/ASE.2008.25)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2008)
 July 20-24, 2008, Seattle, WA
@@ -604,10 +604,10 @@ July 9-12, 2007, London, UK
 
 ### 29th International Conference on Software Engineering (ICSE 2007)
 May 23-25, 2007, Minneapolis, MN, USA
-- Ekwa Duala-Ekoko, Martin P. Robillard, [Tracking Code Clones in Evolving Software](httpss://dx.doi.org/10.1109/ICSE.2007.90)
-- Sunghun Kim, Thomas Zimmermann, E. James Whitehead, Jr., Andreas Zeller, [Predicting Faults from Cached History](httpss://dx.doi.org/10.1109/ICSE.2007.66)
-- Shiva Nejati, Mehrdad Sabetzadeh, Marsha Chechik, Steve Easterbrook, Pamela Zave, [Matching and Merging of Statecharts Specifications](httpss://dx.doi.org/10.1109/ICSE.2007.50)
-- Adam Kiezun, Michael D. Ernst, Frank Tip, Robert M. Fuhrer, [Refactoring for Parameterizing Java Classes](httpss://dx.doi.org/10.1109/ICSE.2007.70)
+- Ekwa Duala-Ekoko, Martin P. Robillard, [Tracking Code Clones in Evolving Software](https://dx.doi.org/10.1109/ICSE.2007.90)
+- Sunghun Kim, Thomas Zimmermann, E. James Whitehead, Jr., Andreas Zeller, [Predicting Faults from Cached History](https://dx.doi.org/10.1109/ICSE.2007.66)
+- Shiva Nejati, Mehrdad Sabetzadeh, Marsha Chechik, Steve Easterbrook, Pamela Zave, [Matching and Merging of Statecharts Specifications](https://dx.doi.org/10.1109/ICSE.2007.50)
+- Adam Kiezun, Michael D. Ernst, Frank Tip, Robert M. Fuhrer, [Refactoring for Parameterizing Java Classes](https://dx.doi.org/10.1109/ICSE.2007.70)
 
 ### 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE 2006)
 November 5-11, 2006, Portland, OR, USA
@@ -621,8 +621,8 @@ September 21-22, 2006, Rio de Janeiro, Brazil
 
 ### International Conference on Automated Software Engineering (ASE 2006)
 September 18-22, 2006, Tokyo, Japan
-- Nic Volanschi, [A Portable Compiler-Integrated Approach to Permanent Checking](httpss://dx.doi.org/10.1109/ASE.2006.8)
-- Leonardo Murta, Andre Van Der Hoek, Claudia Werner, [ArchTrace: Policy-Based Support for Managing Evolving Architecture-to-Implementation Traceability Links](httpss://dx.doi.org/10.1109/ASE.2006.16)
+- Nic Volanschi, [A Portable Compiler-Integrated Approach to Permanent Checking](https://dx.doi.org/10.1109/ASE.2006.8)
+- Leonardo Murta, Andre Van Der Hoek, Claudia Werner, [ArchTrace: Policy-Based Support for Managing Evolving Architecture-to-Implementation Traceability Links](https://dx.doi.org/10.1109/ASE.2006.16)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2006)
 July 17-20, 2006, Portland, ME, USA
@@ -631,8 +631,8 @@ July 17-20, 2006, Portland, ME, USA
 
 ### International Conference on Software Engineering (ICSE 2006)
 May 20-28, 2006, Shanghai, China
-- John Anvik, Lyndon Hiew, Gail C. Murphy: [Who should fix this bug?](httpss://dl.acm.org/doi/10.1145/1134285.1134336)
-- Ji Zhang, Betty H.C. Cheng: [Model-based development of dynamically adaptive software](httpss://dl.acm.org/doi/10.1145/1134285.1134337)
+- John Anvik, Lyndon Hiew, Gail C. Murphy: [Who should fix this bug?](https://dl.acm.org/doi/10.1145/1134285.1134336)
+- Ji Zhang, Betty H.C. Cheng: [Model-based development of dynamically adaptive software](https://dl.acm.org/doi/10.1145/1134285.1134337)
 
 ### International Conference on Automated Software Engineering (ASE 2005)
 November 7-11, 2005, Long Beach, California, USA
