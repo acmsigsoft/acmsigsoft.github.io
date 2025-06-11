@@ -8,9 +8,9 @@ aliases: "/awards/distinguishedPaperAward.html"
 
 ## ACM SIGSOFT Distinguished Paper Award
 
-ACM SIGSOFT encourages SIGSOFT-sponsored conferences to designate a number of accepted papers for ACM SIGSOFT Distinguished Paper Awards for the conference. In addition to presenting certificates to the authors of awarded papers, two awarded papers from each ICSE, ESEC/FSE may be invited for presentation at the following Innovations in Software Engineering Conference (ISEC), which is sponsored by [SIGSE](http://www.cse.iitd.ernet.in/~sigcse/), the Special Interest Group on Software Engineering of the Computer Society of India (CSI).
+ACM SIGSOFT encourages SIGSOFT-sponsored conferences to designate a number of accepted papers for ACM SIGSOFT Distinguished Paper Awards for the conference. In addition to presenting certificates to the authors of awarded papers, two awarded papers from each ICSE, ESEC/FSE may be invited for presentation at the following Innovations in Software Engineering Conference (ISEC), which is sponsored by [SIGSE](https://www.cse.iitd.ernet.in/~sigcse/), the Special Interest Group on Software Engineering of the Computer Society of India (CSI).
 
-Papers accepted by the follwoing conference may be awarded for ACM SIGSOFT Distinguished Paper Awards:
+Papers accepted by the following conference may be awarded for ACM SIGSOFT Distinguished Paper Awards:
 - ICSE
 - FSE
 - ASE
@@ -43,10 +43,11 @@ The conference organizers prepare the certificates. Contact J.C. Peeples (peeple
 
 If the TMRF indicated that a best paper award would be given, the organizers will receive an email from [\[email protected\]](/cdn-cgi/l/email-protection) after the conference, asking for further details. Please respond to this email as well, so that the award winners will be listed in the ACM digital library.
 
+
+
 ## Winners
 
-
-### 47th International Conference on Software Engineering (ICSE 2025)
+### The 47th International Conference on Software Engineering (ICSE 2025)
 April 27 - May 3, 2025, Ottawa, Canada
 
 - Shiyu Zhang, Haoyang Song, Qixin Wang, Henghua Shen, Yu Pei: A Test Oracle for Reinforcement Learning Software based on Lyapunov Stability Control Theory
@@ -73,7 +74,7 @@ April 27 - May 3, 2025, Ottawa, Canada
 - Yuanliang Zhang, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Liao Xiangke: Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
 - Enrique Barba Roque, Luís Cruz, Thomas Durieux: Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption
 
-### Mining Software Repositories (MSR) 2025
+### The 22nd International Conference on Mining Software Repositories (MSR 2025) 
 colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 
 
@@ -83,6 +84,88 @@ colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 - Fabio Salerno, Ali Al-Kaswan, Maliheh Izadi: How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning
 - Julien Malka, Stefano Zacchiroli, Théo Zimmermann: Does Functional Package Management Enable Reproducible Builds at Scale? Yes.
 
+
+### ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS 2024)
+Sept 22-27, Linz, Austria
+
+- Christoph Bockisch, Deniz Eren, Sascha Lehmann, Daniel Neufeld and Gabriele Taentzer: Mutation Testing of Java Bytecode: A Model-Driven Approach.
+- Ludovic Apvrille and Bastien Sultan: AI-Driven Consistency of SysML Diagrams.
+
+### The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil
+
+- Dirk Beyer, Po-Chun Chien, Marek Jankola, and Nian-Ze Lee: A Transferability Study of Interpolation-Based Hardware Model Checking for Software Verification.
+- Jiawei Li, David Faragó, Christian Petrov, and Iftekhar Ahmed: Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model.
+- Nathan Wintersgill, Trevor Stalnaker, Laura A. Heymann, Oscar Chaparro, and Denys Poshyvanyk: “The Law Doesn’t Work Like a Computer”: Exploring Software Licensing Issues Faced by Legal Practitioners.
+- Oussama Ben Sghaier and Houari Sahraoui: Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation.
+- Keke Lian, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, and Min Yang: Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.
+- Anderson Oliveira, João Correia, Wesley K. G. Assunção, Juliana Alves Pereira, Rafael de Mello, Daniel Coutinho, Caio Barbosa, Paulo Libório, and Alessandro Garcia: Understanding Developers’ Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem.
+- Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen: Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?
+- Aashish Yadavally, Yi Li, and Tien N. Nguyen: Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning.
+- Haiyu Huang, Xiaoyu Zhang, Pengfei Chen, Zilong He, Zhiming Chen, Guangba Yu, Hongyang Chen, and Chen Sun: TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State.
+- Xiao Cheng, Jiawei Ren, and Yulei Sui: Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing.
+- Yahui Song, Xiang Gao, Wenhua Li, Wei-Ngan Chin, and Abhik Roychoudhury: ProveNFix: Temporal Property-Guided Program Repair.
+
+### 1st ACM International Conference on AI-powered Software (AIware 2024)
+co-located with FSE’24
+
+- Adam Brown, Sarah D'Angelo, Ambar Murillo, Ciera Jaspan, Collin Green: Identifying the Factors That Influence Trust in AI Code Completion
+- Aral de Moor, Arie van Deursen, Maliheh Izadi: A Transformer-Based Approach for Smart Invocation of Automatic Code Completion
+
+### The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)
+Mon 16 - Fri 20 September 2024 Vienna, Austria
+
+- Hyungseok Kim, Soomin Kim, Jungwoo Lee, and Sang Kil Cha: AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference.
+- Lianghong Guo, Yanlin Wang, Ensheng Shi, Wanjun Zhong, Hongyu Zhang, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng: When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention.
+- Yiyuan Guo, Peisen Yao, and Charles Zhang: Precise Compositional Buffer Overflow Detection via Heap Disjointness.
+- Zhensu Sun, Xiaoning Du, Zhou Yang, Li Li, and David Lo: AI Coders Are among Us: Rethinking Programming Language Grammar towards Efficient Code Generation.
+- Hanxian Huang and Jishen Zhao: Multi-modal Learning for WebAssembly Reverse Engineering.
+- Bo Lin, Shangwen Wang, Ming Wen, Liqian Chen, and Xiaoguang Mao: One Size Does Not Fit All: Multi-granularity Patch Generation for Better Automated Program Repair.
+- Jiachi Chen, Chong Chen, Jiang Hu, John Grundy, Yanlin Wang, Ting Chen, and Zibin Zheng: Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow.
+- Kevin Guan and Owolabi Legunsen: An In-Depth Study of Runtime Verification Overheads during Software Testing.
+- Zhao Tian, Honglin Shu, Dong Wang, Xuejie Cao, Yasutaka Kamei, and Junjie Chen: Large Language Models for Equivalent Mutant Detection: How Far Are We?
+- Quentin Mazouni, Helge Spieker, Arnaud Gotlieb, and Mathieu Acher: Policy Testing with MDPFuzz (Replicability Study).
+  Paul-Antoine Le Tolguenec, Emmanuel Rachelson, Yann Besse, Florent Teichteil-Koenigsbuch, Nicolas Schneider, Hélène Waeselynck, and Dennis Wilson. 2024. Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper).
+
+
+### 42nd International Conference on Software Engineering (ICSE 2024)
+April 14-20, 2024, Lisbon, Portugal
+
+- Lianglu Pan, Shaanan Cohney, Toby Murray, Thuan Pham: EDEFuzz: A Web API Fuzzer for Excessive Data Exposures
+- Binhang Qi, Hailong Sun, Hongyu Zhang, Ruobing Zhao, Xiang Gao: Modularizing while Training: a New Paradigm for Modularizing DNN Models
+- Changan Niu, Chuanyi Li, Vincent Ng, David Lo, Bin Luo: FAIR: Flow Type-Aware Pre-Training of Compiler Intermediate Representations
+
+- Yongliang Chen, Ruoqin Tang, Chaoshun Zuo, Xiaokuan Zhang, Lei Xue, Xiapu Luo, Qingchuan Zhao: Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps
+- Yimeng Ma, Yu Huang, Kevin Leach: Breaking the Flow: A Study of Interruptions During Software Engineering Activities
+- Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo: Code Search is All You Need? Improving Code Suggestions with Code Search
+- Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik: Analyzing and Debugging Normative Requirements via Satisfiability Checking
+- Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head: Property-based testing in practice
+- Hammad Ahmad, Madeline Endres, Kaia Newman, Priscila Santiesteban, Emma Shedden, Westley Weimer: Causal Relationships and Programming Outcomes: A Transcranial Magnetic Stimulation Experiment
+- Emerson Murphy-Hill, Alberto Elizondo, Ambar Murillo, Marian Harbach, Bogdan Vasilescu, Delphine Carlson, Florian Dessloch: GenderMag Improves Discoverability in the Field, Especially for Women
+- Zejun Zhang, Zhenchang Xing, Dehai Zhao, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu: Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code
+- Brian Zhang: Towards Finding Accounting Errors in Smart Contracts
+- Yiming Liu, Cen Zhang, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo: Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware
+- Xun Deng, Sidi Mohamed Beillahi, Cyrus Minwalla, Han Du, Andreas Veneris, Fan Long: Safeguarding DeFi Smart Contracts against Oracle Deviations
+
+### 32nd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
+December 3-9, 2023, San Francisco, California
+
+- Emily First, Markus Rabe, Talia Ringer, Yuriy Brun: Baldur: Whole-proof generation and repair with large language models
+- Benjamin Mikek and Qirun Zhang: Speeding up SMT Solving via Compiler Optimization
+- Ruoxi Sun, Minhui Xue, Gareth Tyson, Tian Dong, Shaofeng Li, Shuo Wang, Haojin Zhu, Seyit Camtepe, Surya Nepal: Mate! Are you really aware? An explainability-guided testing framework for robustness of malware detectors
+- Min-Yih Hsu, Felicitas Hetzelt, David Gens, Michael Maitland, Michael Franz: A Highly Scalable, Hybrid, Cross-Platform Timing Analysis Framework Providing Accurate Differential Throughput Estimation via Instruction-Level Tracing
+- Xiaye Chi, Hui Liu, Guangjie Li, Weixiao Wang, Yunni Xia, Yanjie Jiang, Yuxia Zhang, Weixing Ji: An Automated Approach to Extracting Local Variables
+- Yibo Wang, Ying Wang, Tingwei Zhang, Yue Yu, Shing-Chi Cheung, Hai Yu, Zhiliang Zhu: Can Machine Learning Pipelines Be Better Configured?
+- Jiawei Liu, Jinjun Peng, Yuyao Wang, Lingming Zhang: Neuri: Diversifying dnn generation via inductive rule inference
+- Xinyu Gao, Zhijie Wang, Yang Feng, Lei Ma, Zhenyu Chen, Baowen Xu: Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities
+- Zihan Fang, Madeline Endres, Thomas Zimmermann, Denae Ford, Westley Weimer, Kevin Leach, Yu Huang: A Four-Year Study of Student Contributions to OSS vs. OSS4SG with a Lightweight Intervention
+- Beatriz Souza and Michael Pradel: Lexecutor: Learning-guided execution
+- Chenyang Ma, Wei Song, Jeff Huang: TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
+- Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, Xueying Du, Tianyong Yang: Recommending Analogical APIs via Knowledge Graph Embedding
+
+### ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS 2022) 
+
+- Xiao He, Letian Tang, and Yutong Li: Accelerating similarity-based model matching using on-the-fly similarity preserving hashing.
 
 ### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)
 July 18-22, 2022, Daejeon, South Korea/Virtual
@@ -279,16 +362,16 @@ November 13 - 18, 2016, Seattle, WA, USA
 
 ### Automated Software Engineering (ASE 2016)
 September 3 - 7, 2016, Singapore
-- Lili Wei, Yepang Liu and Shing-Chi Cheung: [Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps](http://dl.acm.org/citation.cfm?id=2970312&CFID=931178306)
-- Alisa J. Maas, Henrique Nazaré and Ben Liblit: [Array Length Inference for C Library Bindings](http://dl.acm.org/citation.cfm?id=2970310&CFID=931178306)
-- Owolabi Legunsen, Wajih Ul Hassan, Xinyue Xu, Grigore Rosu and Darko Marinov: [How Good Are the Specs? A Study of the Bug-Finding Effectiveness of Existing Java API Specifications](http://dl.acm.org/citation.cfm?id=2970356&CFID=931178306)
-- Mariano Ceccato, Cu D. Nguyen, Dennis Appelt and Lionel Briand: [SOFIA: An Automated Security Oracle for Black-Box Testing of SQL-Injection Vulnerabilities](http://dl.acm.org/citation.cfm?id=2970343&CFID=931178306)
-- Zvonimir Pavlinovic, Akash Lal and Rahul Sharma: [Inferring Annotations for Device Drivers from Verification Histories](http://dl.acm.org/citation.cfm?id=2970305&CFID=931178306)
+- Lili Wei, Yepang Liu and Shing-Chi Cheung: [Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps](https://dl.acm.org/citation.cfm?id=2970312&CFID=931178306)
+- Alisa J. Maas, Henrique Nazaré and Ben Liblit: [Array Length Inference for C Library Bindings](https://dl.acm.org/citation.cfm?id=2970310&CFID=931178306)
+- Owolabi Legunsen, Wajih Ul Hassan, Xinyue Xu, Grigore Rosu and Darko Marinov: [How Good Are the Specs? A Study of the Bug-Finding Effectiveness of Existing Java API Specifications](https://dl.acm.org/citation.cfm?id=2970356&CFID=931178306)
+- Mariano Ceccato, Cu D. Nguyen, Dennis Appelt and Lionel Briand: [SOFIA: An Automated Security Oracle for Black-Box Testing of SQL-Injection Vulnerabilities](https://dl.acm.org/citation.cfm?id=2970343&CFID=931178306)
+- Zvonimir Pavlinovic, Akash Lal and Rahul Sharma: [Inferring Annotations for Device Drivers from Verification Histories](https://dl.acm.org/citation.cfm?id=2970305&CFID=931178306)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2016)
 July 17 - 21, 2016, Saarbrücken, Germany
-- Christoffer Quist Adamsen, Gianluca Mezzetti and Anders Møller: [Analyzing Test Completeness for Dynamic Languages](http://dl.acm.org/citation.cfm?id=2931059)
-- Rashmi Mudduluru and Murali Krishna Ramanathan: [Efficient Flow Profiling for Detecting Performance Bugs](http://dl.acm.org/citation.cfm?id=2931066)
+- Christoffer Quist Adamsen, Gianluca Mezzetti and Anders Møller: [Analyzing Test Completeness for Dynamic Languages](https://dl.acm.org/citation.cfm?id=2931059)
+- Rashmi Mudduluru and Murali Krishna Ramanathan: [Efficient Flow Profiling for Detecting Performance Bugs](https://dl.acm.org/citation.cfm?id=2931066)
 
 ### International Conference on Software Engineering (ICSE 2016)
 May 14 - 22, 2016, Austin, TX
@@ -337,9 +420,9 @@ November 16 - 21, 2014, Hong Kong
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2014)
 July 21-25, 2014, San Jose, California
-- Omer Tripp, Pietro Ferrara, and Marco Pistoia, [Hybrid Security Analysis of Web JavaScript Code via Dynamic Partial Evaluation](http://dl.acm.org/citation.cfm?id=2610384.2610385)
-- Rongxin Wu, Hongyu Zhang, Shing-Chi Cheung, and Sunghun Kim, [CrashLocator: Locating Crashing Faults Based on Crash Stacks](http://dl.acm.org/citation.cfm?id=2610384.2610386)
-- René Just, Michael D. Ernst, and Gordon Fraser, [Efficient Mutation Analysis by Propagating and Partitioning Infected Execution States](http://dl.acm.org/citation.cfm?id=2610384.2610388)
+- Omer Tripp, Pietro Ferrara, and Marco Pistoia, [Hybrid Security Analysis of Web JavaScript Code via Dynamic Partial Evaluation](https://dl.acm.org/citation.cfm?id=2610384.2610385)
+- Rongxin Wu, Hongyu Zhang, Shing-Chi Cheung, and Sunghun Kim, [CrashLocator: Locating Crashing Faults Based on Crash Stacks](https://dl.acm.org/citation.cfm?id=2610384.2610386)
+- René Just, Michael D. Ernst, and Gordon Fraser, [Efficient Mutation Analysis by Propagating and Partitioning Infected Execution States](https://dl.acm.org/citation.cfm?id=2610384.2610388)
 
 ### International Conference on Software Engineering (ICSE 2014)
 May 31 - June 7, 2014, Hyderabad, India
@@ -365,24 +448,24 @@ August 18-26, 2013, Saint Petersburg, Russia
 
 ### Automated Software Engineering (ASE 2012)
 September 3-7, 2012, Essen, Germany
-- Hyunmin Seo and Sunghun Kim, [Predicting Recurring Crash Stacks](http://dl.acm.org/citation.cfm?id=2351676.2351702)
-- Anh Tuan Nguyen, Tung Thanh Nguyen, Tien Nguyen, David Lo, and Chengnian Sun, [Duplicate Bug Report Detection with a Combination of Information Retrieval and Topic Modeling](http://dl.acm.org/citation.cfm?id=2351676.2351687)
+- Hyunmin Seo and Sunghun Kim, [Predicting Recurring Crash Stacks](https://dl.acm.org/citation.cfm?id=2351676.2351702)
+- Anh Tuan Nguyen, Tung Thanh Nguyen, Tien Nguyen, David Lo, and Chengnian Sun, [Duplicate Bug Report Detection with a Combination of Information Retrieval and Topic Modeling](https://dl.acm.org/citation.cfm?id=2351676.2351687)
 
 ### 20th ACM SIGSOFT International Symposium Foundations of Software Engineering (FSE 2012)
 November 11-16, 2012, Cary, North Carolina
-- Bradley Cossette and Robert Walker, [Seeking the Ground Truth: A Retroactive Study on the Evolution and Migration of Software Libraries](http://dl.acm.org/citation.cfm?id=2393661)
-- Christian Bird and Thomas Zimmermann, [Assessing the Value of Branches with What-if Analysis](http://dl.acm.org/citation.cfm?id=2393648)
-- Emina Torlak, [Scalable Test Data Generation from Multidimensional Models](http://dl.acm.org/citation.cfm?id=2393637)
+- Bradley Cossette and Robert Walker, [Seeking the Ground Truth: A Retroactive Study on the Evolution and Migration of Software Libraries](https://dl.acm.org/citation.cfm?id=2393661)
+- Christian Bird and Thomas Zimmermann, [Assessing the Value of Branches with What-if Analysis](https://dl.acm.org/citation.cfm?id=2393648)
+- Emina Torlak, [Scalable Test Data Generation from Multidimensional Models](https://dl.acm.org/citation.cfm?id=2393637)
 
 ### 34th International Conference on Software Engineering (ICSE 2012)
 June 2-9, 2012, Zurich, Switzerland
-- Anders Møller and Mathias Schwarz, [Automated detection of client-state manipulation vulnerabilities](http://dl.acm.org/citation.cfm?id=2337223.2337312)
-- ThanhVu Nguyen, Deepak Kapur, Westley Weimer, and Stephanie Forrest, [Using Dynamic Analysis to Discover Polynomial and Array Invariants](http://dl.acm.org/citation.cfm?id=2337223.2337304)
-- Will Dietz, Peng Li, John Regehr and Vikram Adve, [Understanding integer overflow in C/C++](http://dl.acm.org/citation.cfm?id=2337223.2337313)
-- Tobias Roehm, Rebecca Tiarks, Rainer Koschke and Walid Maalej, [How Do Professional Developers Comprehend Software?](http://dl.acm.org/citation.cfm?id=2337223.2337254)
-- Pingyu Zhang and Sebastian Elbaum, [Amplifying Tests to Validate Exception Handling Code](http://dl.acm.org/citation.cfm?id=2337223.2337293)
-- Mehdi Mirakhorli, Yonghee Shin, Jane Cleland-Huang and Murat Cinar, [A Tactic-Centric Approach for Automating Traceability of Quality Concerns](http://dl.acm.org/citation.cfm?id=2337223.2337298)
-- Michalis Famelis, Rick Salay and Marsha Chechik, [Partial Models: Towards Modeling and Reasoning with Uncertainty](http://dl.acm.org/citation.cfm?id=2337223.2337290)
+- Anders Møller and Mathias Schwarz, [Automated detection of client-state manipulation vulnerabilities](https://dl.acm.org/citation.cfm?id=2337223.2337312)
+- ThanhVu Nguyen, Deepak Kapur, Westley Weimer, and Stephanie Forrest, [Using Dynamic Analysis to Discover Polynomial and Array Invariants](https://dl.acm.org/citation.cfm?id=2337223.2337304)
+- Will Dietz, Peng Li, John Regehr and Vikram Adve, [Understanding integer overflow in C/C++](https://dl.acm.org/citation.cfm?id=2337223.2337313)
+- Tobias Roehm, Rebecca Tiarks, Rainer Koschke and Walid Maalej, [How Do Professional Developers Comprehend Software?](https://dl.acm.org/citation.cfm?id=2337223.2337254)
+- Pingyu Zhang and Sebastian Elbaum, [Amplifying Tests to Validate Exception Handling Code](https://dl.acm.org/citation.cfm?id=2337223.2337293)
+- Mehdi Mirakhorli, Yonghee Shin, Jane Cleland-Huang and Murat Cinar, [A Tactic-Centric Approach for Automating Traceability of Quality Concerns](https://dl.acm.org/citation.cfm?id=2337223.2337298)
+- Michalis Famelis, Rick Salay and Marsha Chechik, [Partial Models: Towards Modeling and Reasoning with Uncertainty](https://dl.acm.org/citation.cfm?id=2337223.2337290)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2012)
 July 15-20, 2012, Minneapolis, USA
@@ -392,73 +475,73 @@ July 15-20, 2012, Minneapolis, USA
 
 ### The 8th joint meeting of the European Software Engineering Conference (ESEC) and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
 September 5-9, 2011, Szeged, Hungary
-- Zuoning Yin, Ding Yuan, Yuanyuan Zhou, Shankar Pasupathy and Lakshmi Bairavasundaram, [How Do Fixes Become Bugs? -- A Comprehensive Characteristic Study on Incorrect Fixes in Commercial and Open Source Operating Systems](http://dl.acm.org/citation.cfm?id=2025113.2025121)
-- Swarat Chaudhuri, Sumit Gulwani, Roberto Lublinerman and Sara Navidpour, [Proving Programs Robust](http://dl.acm.org/citation.cfm?id=2025113.2025131)
-- Yuriy Brun, Reid Holmes, Michael Ernst and David Notkin, [Proactive Detection of Collaboration Conflicts](http://dl.acm.org/citation.cfm?id=2025113.2025139)
+- Zuoning Yin, Ding Yuan, Yuanyuan Zhou, Shankar Pasupathy and Lakshmi Bairavasundaram, [How Do Fixes Become Bugs? -- A Comprehensive Characteristic Study on Incorrect Fixes in Commercial and Open Source Operating Systems](https://dl.acm.org/citation.cfm?id=2025113.2025121)
+- Swarat Chaudhuri, Sumit Gulwani, Roberto Lublinerman and Sara Navidpour, [Proving Programs Robust](https://dl.acm.org/citation.cfm?id=2025113.2025131)
+- Yuriy Brun, Reid Holmes, Michael Ernst and David Notkin, [Proactive Detection of Collaboration Conflicts](https://dl.acm.org/citation.cfm?id=2025113.2025139)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2011)
 July 17-21, 2011, Toronto, Ontario
-- Nathan Rosenblum, Barton Miller, and Xiaojin Zhu, [Recovering the Toolchain Provenance of Binary Code](http://portal.acm.org/citation.cfm?id=2001420.2001433)
-- Patrice Godefroid and Daniel Luchaup, [Automatic Partial Loop Summarization in Dynamic Test Generation](http://portal.acm.org/citation.cfm?id=2001420.2001424)
-- Takaaki Tateishi, Marco Pistoia, and Omer Tripp, [Path- and Index-sensitive String Analysis based on Monadic Second-order Logic](http://portal.acm.org/citation.cfm?id=2001420.2001441)
+- Nathan Rosenblum, Barton Miller, and Xiaojin Zhu, [Recovering the Toolchain Provenance of Binary Code](https://portal.acm.org/citation.cfm?id=2001420.2001433)
+- Patrice Godefroid and Daniel Luchaup, [Automatic Partial Loop Summarization in Dynamic Test Generation](https://portal.acm.org/citation.cfm?id=2001420.2001424)
+- Takaaki Tateishi, Marco Pistoia, and Omer Tripp, [Path- and Index-sensitive String Analysis based on Monadic Second-order Logic](https://portal.acm.org/citation.cfm?id=2001420.2001441)
 
 ### 33rd International Conference on Software Engineering (ICSE 2011)
 May 21-28, 2011, Honolulu, Hawaii
-- Antonio Filieri, Carlo Ghezzi, and Giordano Tamburrelli, [Run-Time Efficient Probabilistic Model Checking](http://portal.acm.org/citation.cfm?id=1985793.1985840)
-- Lucas Cordeiro and Bernd Fischer, [Verifying Multi-threaded Software using SMT-based Context-Bounded Model Checking](http://portal.acm.org/citation.cfm?id=1985793.1985839)
-- Narayan Ramasubbu, Marcelo Cataldo, Rajesh Krishna Balan, and James D. Herbsleb, [Configuring Global Software Teams: A Multi-Company Analysis of Project Productivity, Quality, and Profits](http://portal.acm.org/citation.cfm?id=1985793.1985830)
-- Horatiu Dumitru, Marek Gibiec, Negar Hariri, Jane Cleland-Huang, Bamshad Mobasher, Carlos Castro-Herrera, and Mehdi Mirakhorli, [On-demand Feature Recommendations Derived from Mining Public Product Descriptions](http://portal.acm.org/citation.cfm?id=1985793.1985819)
-- Matt Staats, Michael W. Whalen, and Mats P.E. Heimdahl, [Programs, Tests, and Oracles: The Foundations of Testing Revisited](http://portal.acm.org/citation.cfm?id=1985793.1985847)
+- Antonio Filieri, Carlo Ghezzi, and Giordano Tamburrelli, [Run-Time Efficient Probabilistic Model Checking](https://portal.acm.org/citation.cfm?id=1985793.1985840)
+- Lucas Cordeiro and Bernd Fischer, [Verifying Multi-threaded Software using SMT-based Context-Bounded Model Checking](https://portal.acm.org/citation.cfm?id=1985793.1985839)
+- Narayan Ramasubbu, Marcelo Cataldo, Rajesh Krishna Balan, and James D. Herbsleb, [Configuring Global Software Teams: A Multi-Company Analysis of Project Productivity, Quality, and Profits](https://portal.acm.org/citation.cfm?id=1985793.1985830)
+- Horatiu Dumitru, Marek Gibiec, Negar Hariri, Jane Cleland-Huang, Bamshad Mobasher, Carlos Castro-Herrera, and Mehdi Mirakhorli, [On-demand Feature Recommendations Derived from Mining Public Product Descriptions](https://portal.acm.org/citation.cfm?id=1985793.1985819)
+- Matt Staats, Michael W. Whalen, and Mats P.E. Heimdahl, [Programs, Tests, and Oracles: The Foundations of Testing Revisited](https://portal.acm.org/citation.cfm?id=1985793.1985847)
 
 ### ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 18)
 November 7-11, 2010, Santa Fe, New Mexico
-- Nishant Sinha and Chao Wang, [Staged Concurrent Program Analysis](http://portal.acm.org/citation.cfm?id=1882291.1882301)
-- Minghui Zhou and Audris Mockus, [Developer Fluency: Achieving True Mastery in Software Projects](http://portal.acm.org/citation.cfm?id=1882291.1882313)
-- Barthélémy Dagenais and Martin P. Robillard: [Creating and Evolving Developer Documentation: Understanding the Decisions of Open Source Contributors](http://portal.acm.org/citation.cfm?id=1882291.1882312)
+- Nishant Sinha and Chao Wang, [Staged Concurrent Program Analysis](https://portal.acm.org/citation.cfm?id=1882291.1882301)
+- Minghui Zhou and Audris Mockus, [Developer Fluency: Achieving True Mastery in Software Projects](https://portal.acm.org/citation.cfm?id=1882291.1882313)
+- Barthélémy Dagenais and Martin P. Robillard: [Creating and Evolving Developer Documentation: Understanding the Decisions of Open Source Contributors](https://portal.acm.org/citation.cfm?id=1882291.1882312)
 
 ### ACM Symposium on Software Visualization (SOFTVIS 2010)
 October 25-26, 2010, Salt Lake City, Utah
-- Emerson Murphy-Hill and Andrew P. Black, [An Interactive Ambient Visualization for Code Smells](http://portal.acm.org/citation.cfm?id=1879211.1879216)
-- Mathias Frisch and Raimund Dachselt, [Off-Screen Visualization Techniques for Class Diagrams](http://portal.acm.org/citation.cfm?id=1879211.1879236)
+- Emerson Murphy-Hill and Andrew P. Black, [An Interactive Ambient Visualization for Code Smells](https://portal.acm.org/citation.cfm?id=1879211.1879216)
+- Mathias Frisch and Raimund Dachselt, [Off-Screen Visualization Techniques for Class Diagrams](https://portal.acm.org/citation.cfm?id=1879211.1879236)
 
 ### 25th IEEE/ACM International Conference on Automated Software Engineering (ASE 2010)
 September 20-24, 2010, Antwerp, Belgium
-- Marek Gibiec, Adam Czauderna and Jane Cleland-Huang, [Towards Mining Replacement Queries for Hard-to-Retrieve Traces](http://portal.acm.org/citation.cfm?id=1858996.1859046)
-- Adam Duley, Chris Spandikow and Miryung Kim, [A Program Differencing Algorithm for Verilog HDL](http://portal.acm.org/citation.cfm?id=1858996.1859093)
-- Giriprasad Sridhara, Emily Hill, Divya Muppaneni, Lori Pollock and K. Vijay-Shanker, [Towards Automatically Generating Summary Comments for Java Methods](http://portal.acm.org/citation.cfm?id=1858996.1859006)
+- Marek Gibiec, Adam Czauderna and Jane Cleland-Huang, [Towards Mining Replacement Queries for Hard-to-Retrieve Traces](https://portal.acm.org/citation.cfm?id=1858996.1859046)
+- Adam Duley, Chris Spandikow and Miryung Kim, [A Program Differencing Algorithm for Verilog HDL](https://portal.acm.org/citation.cfm?id=1858996.1859093)
+- Giriprasad Sridhara, Emily Hill, Divya Muppaneni, Lori Pollock and K. Vijay-Shanker, [Towards Automatically Generating Summary Comments for Java Methods](https://portal.acm.org/citation.cfm?id=1858996.1859006)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2010)
 July 12-16, 2010, Trento, Italy
-- Taeho Kwon and Zhendong Su, [Automatic Detection of Unsafe Component Loadings](http://portal.acm.org/citation.cfm?id=1831708.1831722)
-- Andrea Arcuri, Zohaib Iqbal and Lionel Briand, [Formal Analysis of the Effectiveness and Predictability of Random Testing](http://portal.acm.org/citation.cfm?id=1831708.1831736)
+- Taeho Kwon and Zhendong Su, [Automatic Detection of Unsafe Component Loadings](https://portal.acm.org/citation.cfm?id=1831708.1831722)
+- Andrea Arcuri, Zohaib Iqbal and Lionel Briand, [Formal Analysis of the Effectiveness and Predictability of Random Testing](https://portal.acm.org/citation.cfm?id=1831708.1831736)
 
 ### 32nd International Conference on Software Engineering (ICSE 2010)
 May 2-8, 2010, Cape Town, South Africa
-- Zibin Zheng, Michael R. Lyu, [Collaborative Reliability Prediction of Service-Oriented Systems](http://portal.acm.org/citation.cfm?id=1806799.1806809)
-- Thomas Fritz, Jingwen Ou, Gail C. Murphy, Emerson Murphy-Hill, [A Degree-of-Knowledge Model to Capture Source Code Familiarity](http://portal.acm.org/citation.cfm?id=1806799.1806856)
-- Jane Cleland-Huang, Adam Czauderna, John Emenecker, Marek Gibiec, [A Machine Learning Approach for Tracing Regulatory Codes to Product Specific Requirements](http://portal.acm.org/citation.cfm?id=1806799.1806825)
-- Qiusong Yang, Mingshu Li, [A Cut-off Approach for Bounded Verification of Parameterized Systems](http://portal.acm.org/citation.cfm?id=1806799.1806851)
-- Milos Gligoric, Tihomir Gvero, Vilas Jagannath, Sarfraz Khurshid, Viktor Kuncak, Darko Marinov, [Test Generation through Programming in UDITA](http://portal.acm.org/citation.cfm?id=1806799.1806835)
+- Zibin Zheng, Michael R. Lyu, [Collaborative Reliability Prediction of Service-Oriented Systems](https://portal.acm.org/citation.cfm?id=1806799.1806809)
+- Thomas Fritz, Jingwen Ou, Gail C. Murphy, Emerson Murphy-Hill, [A Degree-of-Knowledge Model to Capture Source Code Familiarity](https://portal.acm.org/citation.cfm?id=1806799.1806856)
+- Jane Cleland-Huang, Adam Czauderna, John Emenecker, Marek Gibiec, [A Machine Learning Approach for Tracing Regulatory Codes to Product Specific Requirements](https://portal.acm.org/citation.cfm?id=1806799.1806825)
+- Qiusong Yang, Mingshu Li, [A Cut-off Approach for Bounded Verification of Parameterized Systems](https://portal.acm.org/citation.cfm?id=1806799.1806851)
+- Milos Gligoric, Tihomir Gvero, Vilas Jagannath, Sarfraz Khurshid, Viktor Kuncak, Darko Marinov, [Test Generation through Programming in UDITA](https://portal.acm.org/citation.cfm?id=1806799.1806835)
 
 ### 24th ACM/IEEE International Conference on Automated Software Engineering (ASE 2009)
 November 16-20, 2009, Auckland, New Zealand
-- Jyotirmoy Deshmukh, E. Allen Emerson, Sriram Sankaranarayanan, [Symbolic Deadlock Analysis in Concurrent Libraries and their Clients](http://portal.acm.org/citation.cfm?id=1747491.1747542)
-- Hao Zhong, Lu Zhang, Tao Xie, Hong Mei, [Inferring Resource Specifications from Natural Language API Documentation](http://portal.acm.org/citation.cfm?id=1747491.1747528)
+- Jyotirmoy Deshmukh, E. Allen Emerson, Sriram Sankaranarayanan, [Symbolic Deadlock Analysis in Concurrent Libraries and their Clients](https://portal.acm.org/citation.cfm?id=1747491.1747542)
+- Hao Zhong, Lu Zhang, Tao Xie, Hong Mei, [Inferring Resource Specifications from Natural Language API Documentation](https://portal.acm.org/citation.cfm?id=1747491.1747528)
 
 ### The 3rd International Symposium on Empirical Software Engineering and Measurement (ESEM 2009)
 October 15-16, 2009, Lake Buena Vista, FL, USA
-- Natalia Juristo and Sira Vegas, [Using Differences among Replications of Software Engineering Experiments to Gain Knowledge](http://portal.acm.org/citation.cfm?id=1671248.1671282)
+- Natalia Juristo and Sira Vegas, [Using Differences among Replications of Software Engineering Experiments to Gain Knowledge](https://portal.acm.org/citation.cfm?id=1671248.1671282)
 
 ### The 7th joint meeting of the European Software Engineering Conference (ESEC) and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
 August 24-28, 2009, Amsterdam, The Netherlands
-- Jacob Burnim and Koushik Sen, [Asserting and Checking Determinism for Multithreaded Programs](http://doi.acm.org/10.1145/1595696.1595700)
-- Dawei Qi, Abhik Roychoudhury, Zhenkai Liang, and Kapil Vaswani, [DARWIN: An Approach for Debugging Evolving Programs](http://doi.acm.org/10.1145/1595696.1595704)
-- Tung Nguyen, Hoan Nguyen, Nam Pham, Jafar Al-Kofahi, and Tien Nguyen, [Graph-based Mining of Multiple Object Usage Patterns](http://doi.acm.org/10.1145/1595696.1595767)
+- Jacob Burnim and Koushik Sen, [Asserting and Checking Determinism for Multithreaded Programs](https://doi.acm.org/10.1145/1595696.1595700)
+- Dawei Qi, Abhik Roychoudhury, Zhenkai Liang, and Kapil Vaswani, [DARWIN: An Approach for Debugging Evolving Programs](https://doi.acm.org/10.1145/1595696.1595704)
+- Tung Nguyen, Hoan Nguyen, Nam Pham, Jafar Al-Kofahi, and Tien Nguyen, [Graph-based Mining of Multiple Object Usage Patterns](https://doi.acm.org/10.1145/1595696.1595767)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2009)
 July 19-23, 2009, Chicago, IL
-- William G.J. Halfond, Saswat Anand and Alessandro Orso, [Precise Interface Identification to Improve Testing and Analysis of Web Applications](http://doi.acm.org/10.1145/1572272.1572305)
-- Adam Kiezun, Vijay Ganesh, Philip Guo, Pieter Hooimeijer and Michael Ernst, [HAMPI: A Solver for String Constraints](http://doi.acm.org/10.1145/1572272.1572286)
+- William G.J. Halfond, Saswat Anand and Alessandro Orso, [Precise Interface Identification to Improve Testing and Analysis of Web Applications](https://doi.acm.org/10.1145/1572272.1572305)
+- Adam Kiezun, Vijay Ganesh, Philip Guo, Pieter Hooimeijer and Michael Ernst, [HAMPI: A Solver for String Constraints](https://doi.acm.org/10.1145/1572272.1572286)
 
 ### 31st International Conference on Software Engineering (ICSE 2009)
 May 16-24, 2009, Vancouver, Canada
@@ -470,12 +553,12 @@ May 16-24, 2009, Vancouver, Canada
 
 ### ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 16)
 November 11-13, 2008, Atlanta Georgia
-- Franco Raimondi, James Skene and Wolfgang Emmerich, [Efficient online monitoring of web-service SLAs](http://doi.acm.org/10.1145/1453101.1453125)
-- Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, Thomas Zimmermann, [What makes a good bug report?](http://doi.acm.org/10.1145/1453101.1453146)
+- Franco Raimondi, James Skene and Wolfgang Emmerich, [Efficient online monitoring of web-service SLAs](https://doi.acm.org/10.1145/1453101.1453125)
+- Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, Thomas Zimmermann, [What makes a good bug report?](https://doi.acm.org/10.1145/1453101.1453146)
 
 ### The 2nd International Symposium on Empirical Software Engineering and Measurement (ESEM 2008)
 October 9-10, 2008, Kaiserslautern, Germany
-- Marcelo Cataldo, James D. Herbsleb and Kathleen M. Carley, [Socio-Technical Congruence: A Framework for Assessing the Impact of Technical and Work Dependencies on Software Development Productivity](http://portal.acm.org/citation.cfm?id=1414004.1414008)
+- Marcelo Cataldo, James D. Herbsleb and Kathleen M. Carley, [Socio-Technical Congruence: A Framework for Assessing the Impact of Technical and Work Dependencies on Software Development Productivity](https://portal.acm.org/citation.cfm?id=1414004.1414008)
 
 ### ACM/IEEE 11th International Conference on Model-Driven Engineering Languages and Systems (MODELS 2008)
 - September 28-October 3, 2008, Toulouse, France
@@ -490,34 +573,34 @@ September 15-19, 2008, L'Aquilla, Italy
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2008)
 July 20-24, 2008, Seattle, WA
-- Raymond P.L. Buse and Westley R. Weimer, [A Metric for Software Readability](http://doi.acm.org/10.1145/1390630.1390647)
-- Eric Bodden and Klaus Havelund, [Racer: Effective Race Detection Using AspectJ](http://doi.acm.org/10.1145/1390630.1390650)
+- Raymond P.L. Buse and Westley R. Weimer, [A Metric for Software Readability](https://doi.acm.org/10.1145/1390630.1390647)
+- Eric Bodden and Klaus Havelund, [Racer: Effective Race Detection Using AspectJ](https://doi.acm.org/10.1145/1390630.1390650)
 
 ### 30th International Conference on Software Engineering (ICSE 2008)
 May 10-18, 2008, Leipzig, Germany
-- Barthélémy Dagenais, Martin P. Robillard, [Recommending Adaptive Changes for Framework Evolution](http://doi.acm.org/10.1145/1368088.1368154)
-- Guoqing Xu, Atanas Rountev, [Precise Memory Leak Detection for Java Software Using Container Profiling](http://doi.acm.org/10.1145/1368088.1368110)
-- Andrew Ko, Brad Myers, [Debugging Reinvented: Asking and Answering Why and Why Not Questions about Program Behavior](http://doi.acm.org/10.1145/1368088.1368130)
-- Ajitha Rajan, Michael Whalen, Mats Heimdahl, [The Effect of Program and Model Structure on MC/DC Test Adequacy Coverage](http://doi.acm.org/10.1145/1368088.1368111)
-- Joseph Ruthruff, John Penix, David Morgenthaler, Sebastian Elbaum, Gregg Rothermel, [Predicting Accurate and Actionable Static Analysis Warnings: An Experimental Approach](http://doi.acm.org/10.1145/1368088.1368135)
+- Barthélémy Dagenais, Martin P. Robillard, [Recommending Adaptive Changes for Framework Evolution](https://doi.acm.org/10.1145/1368088.1368154)
+- Guoqing Xu, Atanas Rountev, [Precise Memory Leak Detection for Java Software Using Container Profiling](https://doi.acm.org/10.1145/1368088.1368110)
+- Andrew Ko, Brad Myers, [Debugging Reinvented: Asking and Answering Why and Why Not Questions about Program Behavior](https://doi.acm.org/10.1145/1368088.1368130)
+- Ajitha Rajan, Michael Whalen, Mats Heimdahl, [The Effect of Program and Model Structure on MC/DC Test Adequacy Coverage](https://doi.acm.org/10.1145/1368088.1368111)
+- Joseph Ruthruff, John Penix, David Morgenthaler, Sebastian Elbaum, Gregg Rothermel, [Predicting Accurate and Actionable Static Analysis Warnings: An Experimental Approach](https://doi.acm.org/10.1145/1368088.1368135)
 
 ### International Conference on Automated Software Engineering (ASE 2007)
 November 5-7, 2007, Atlanta, GA
-- Yannis Smaragdakis, Christoph Csallner, [Scalable Automatic Test Data Generation from Modeling Diagrams](http://doi.acm.org/10.1145/1321631.1321635)
-- Yiqiao Wang, Sheila A. McIlraith, Yijun Yu, John Mylopoulos, [An Automated Approach for Monitoring and Diagnosing Requirements](http://doi.acm.org/10.1145/1321631.1321675)
-- Michal Antkiewicz, Thiago Bartolomei, Krzysztof Czarnecki, [Automatic Extraction of Framework-Specific Models from Framework-Based Application Code](http://doi.acm.org/10.1145/1321631.1321664)
+- Yannis Smaragdakis, Christoph Csallner, [Scalable Automatic Test Data Generation from Modeling Diagrams](https://doi.acm.org/10.1145/1321631.1321635)
+- Yiqiao Wang, Sheila A. McIlraith, Yijun Yu, John Mylopoulos, [An Automated Approach for Monitoring and Diagnosing Requirements](https://doi.acm.org/10.1145/1321631.1321675)
+- Michal Antkiewicz, Thiago Bartolomei, Krzysztof Czarnecki, [Automatic Extraction of Framework-Specific Models from Framework-Based Application Code](https://doi.acm.org/10.1145/1321631.1321664)
 
 ### Joint 11th European Software Engineering Conference (ESEC 2007) and 15th ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE 2007)
 September 3-7, 2007, Dubrovnik, Croatia
-- Narayan Ramasubbu, Rajesh Krishna Balan, [Globally Distributed Software Development Project Performance: An Empirical Analysis](http://doi.acm.org/10.1145/1287624.1287643)
-- Mihai Christodorescu, Somesh Jha, Christopher Kruegel, [Mining Specifications of Malicious Behavior](http://doi.acm.org/10.1145/1287624.1287628)
-- Jamie Payton, Christine Julien, Gruia-Catalin Roman, [Automatic Consistency Assessment for Query Results in Dynamic Environments](http://doi.acm.org/10.1145/1287624.1287659)
-- Yoav Zibin, Alex Potanin, Mahmood Ali, Shay Artzi, Adam Kiezun, Michael D. Ernst, [Object and Reference Immutability using Java Generics](http://doi.acm.org/10.1145/1287624.1287637)
+- Narayan Ramasubbu, Rajesh Krishna Balan, [Globally Distributed Software Development Project Performance: An Empirical Analysis](https://doi.acm.org/10.1145/1287624.1287643)
+- Mihai Christodorescu, Somesh Jha, Christopher Kruegel, [Mining Specifications of Malicious Behavior](https://doi.acm.org/10.1145/1287624.1287628)
+- Jamie Payton, Christine Julien, Gruia-Catalin Roman, [Automatic Consistency Assessment for Query Results in Dynamic Environments](https://doi.acm.org/10.1145/1287624.1287659)
+- Yoav Zibin, Alex Potanin, Mahmood Ali, Shay Artzi, Adam Kiezun, Michael D. Ernst, [Object and Reference Immutability using Java Generics](https://doi.acm.org/10.1145/1287624.1287637)
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2007)
 July 9-12, 2007, London, UK
-- Ray-Yaung Chang, Andy Podgurski, Jiong Yang, [Finding What's Not There: A New Approach to Revealing Neglected Conditions in Software](http://doi.acm.org/10.1145/1273463.1273486)
-- Sharon Shoham, Eran Yahav, Stephen Fink, Marco Pistoia, [Static Specification Mining Using Automata-Based Abstractions](http://doi.acm.org/10.1145/1273463.1273487)
+- Ray-Yaung Chang, Andy Podgurski, Jiong Yang, [Finding What's Not There: A New Approach to Revealing Neglected Conditions in Software](https://doi.acm.org/10.1145/1273463.1273486)
+- Sharon Shoham, Eran Yahav, Stephen Fink, Marco Pistoia, [Static Specification Mining Using Automata-Based Abstractions](https://doi.acm.org/10.1145/1273463.1273487)
 
 ### 29th International Conference on Software Engineering (ICSE 2007)
 May 23-25, 2007, Minneapolis, MN, USA
@@ -528,13 +611,13 @@ May 23-25, 2007, Minneapolis, MN, USA
 
 ### 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE 2006)
 November 5-11, 2006, Portland, OR, USA
-- Matthew B. Dwyer, Suzette Person, Sebastian Elbaum, [Controlling Factors in Evaluating Path-Sensitive Error Detection Techniques](http://doi.acm.org/10.1145/1181775.1181787)
-- Bhargav S. Gulavani, Thomas A. Henzinger, Yamini Kannan, Aditya V. Nori, Sriram K. Rajamani, [SYNERGY: A New Algorithm for Property Checking](http://doi.acm.org/10.1145/1181775.1181790)
+- Matthew B. Dwyer, Suzette Person, Sebastian Elbaum, [Controlling Factors in Evaluating Path-Sensitive Error Detection Techniques](https://doi.acm.org/10.1145/1181775.1181787)
+- Bhargav S. Gulavani, Thomas A. Henzinger, Yamini Kannan, Aditya V. Nori, Sriram K. Rajamani, [SYNERGY: A New Algorithm for Property Checking](https://doi.acm.org/10.1145/1181775.1181790)
 
 ### International Symposium on Empirical Software Engineering (ISESE 2006)
 September 21-22, 2006, Rio de Janeiro, Brazil
-- Barbara Kitchenham, Hiyam Al-Khilidar, Muhammad Ali Babar, Mike Berry, Karl Cox, Jacky Keung, Felicia Kurniawati, Mark Staples, He Zhang, and Liming Zhu, [Evaluating guidelines for empirical software engineering studies](http://doi.acm.org/10.1145/1159733.1159742)
-- Chris Lokan, Emilia Mendes, [Cross-company and Single-company Effort Models using the ISBSG Database: a Further Replicated Study](http://doi.acm.org/10.1145/1159733.1159747)
+- Barbara Kitchenham, Hiyam Al-Khilidar, Muhammad Ali Babar, Mike Berry, Karl Cox, Jacky Keung, Felicia Kurniawati, Mark Staples, He Zhang, and Liming Zhu, [Evaluating guidelines for empirical software engineering studies](https://doi.acm.org/10.1145/1159733.1159742)
+- Chris Lokan, Emilia Mendes, [Cross-company and Single-company Effort Models using the ISBSG Database: a Further Replicated Study](https://doi.acm.org/10.1145/1159733.1159747)
 
 ### International Conference on Automated Software Engineering (ASE 2006)
 September 18-22, 2006, Tokyo, Japan
@@ -543,8 +626,8 @@ September 18-22, 2006, Tokyo, Japan
 
 ### International Symposium on Software Testing and Analysis (ISSTA 2006)
 July 17-20, 2006, Portland, ME, USA
-- Stephen Fink, Eran Yahav, Ganesan Ramalingam, Nurit Dor, Emmanuel Geay, [Effective Typestate Verification in the Presence of Aliasing](http://doi.acm.org/10.1145/1146238.1146254)
-- Christoph Csallner, Yannis Smaragdakis, [DSD-Crasher: A Hybrid Analysis Tool for Bug Finding](http://doi.acm.org/10.1145/1146238.1146267)
+- Stephen Fink, Eran Yahav, Ganesan Ramalingam, Nurit Dor, Emmanuel Geay, [Effective Typestate Verification in the Presence of Aliasing](https://doi.acm.org/10.1145/1146238.1146254)
+- Christoph Csallner, Yannis Smaragdakis, [DSD-Crasher: A Hybrid Analysis Tool for Bug Finding](https://doi.acm.org/10.1145/1146238.1146267)
 
 ### International Conference on Software Engineering (ICSE 2006)
 May 20-28, 2006, Shanghai, China
@@ -553,26 +636,26 @@ May 20-28, 2006, Shanghai, China
 
 ### International Conference on Automated Software Engineering (ASE 2005)
 November 7-11, 2005, Long Beach, California, USA
-- Aysu BetinCan, Tevfik Bultan, Mikael Lindvall, Benjamin Lux, Stefan Topp, [Application of Design for Verification with Concurrency Controllers to Air Traffic Control Software](http://doi.acm.org/10.1145/1101908.1101914) (Also winner of ASE 2005 best paper award)
-- Guillaume Langelier, Houari Sahraoui, Pierre Poulin, [Visualization-based Analysis of Quality for Large-scale Software Systems](http://doi.acm.org/10.1145/1101908.1101941)
+- Aysu BetinCan, Tevfik Bultan, Mikael Lindvall, Benjamin Lux, Stefan Topp, [Application of Design for Verification with Concurrency Controllers to Air Traffic Control Software](https://doi.acm.org/10.1145/1101908.1101914) (Also winner of ASE 2005 best paper award)
+- Guillaume Langelier, Houari Sahraoui, Pierre Poulin, [Visualization-based Analysis of Quality for Large-scale Software Systems](https://doi.acm.org/10.1145/1101908.1101941)
 
 ### European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2005)
 September 5-9, 2005, Lisbon, Portugal
-- Martin P. Robillard, [Automatic Generation of Suggestions for Program Investigation](http://doi.acm.org/10.1145/1081706.1081711)
-- Yichen Xie, Alex Aiken, [Context- and Path-sensitive Memory Leak Detection](http://doi.acm.org/10.1145/1081706.1081728)
-- Koushik Sen, Darko Marinov, Gul Agha, [CUTE: A Concolic Unit Testing Engine for C](http://doi.acm.org/10.1145/1081706.1081750)
+- Martin P. Robillard, [Automatic Generation of Suggestions for Program Investigation](https://doi.acm.org/10.1145/1081706.1081711)
+- Yichen Xie, Alex Aiken, [Context- and Path-sensitive Memory Leak Detection](https://doi.acm.org/10.1145/1081706.1081728)
+- Koushik Sen, Darko Marinov, Gul Agha, [CUTE: A Concolic Unit Testing Engine for C](https://doi.acm.org/10.1145/1081706.1081750)
 
 ### International Conference on Software Engineering (ICSE 2005)
 May 15-21, 2005, St. Louis, USA
-- Brian Demsky, Martin Rinard, [Data Structure Repair Using Goal-Directed Reasoning](http://doi.acm.org/10.1145/1062455.1062499)
-- Reid Holmes, Gail Murphy, [Using Structural Context to Recommend Source Code Examples](http://doi.acm.org/10.1145/1062455.1062491)
-- James Andrews, Lionel Briand, Yvan Labiche, [Is Mutation an Appropriate Tool for Testing Experiments?](http://doi.acm.org/10.1145/1062455.1062530)
-- Andrew Ko, Htet Htet Aung, Brad Myers, [Eliciting Design Requirements for Maintenance-Oriented IDEs: A Detailed Study of Corrective and Perfective Maintenance Tasks](http://doi.acm.org/10.1145/1062455.1062492)
+- Brian Demsky, Martin Rinard, [Data Structure Repair Using Goal-Directed Reasoning](https://doi.acm.org/10.1145/1062455.1062499)
+- Reid Holmes, Gail Murphy, [Using Structural Context to Recommend Source Code Examples](https://doi.acm.org/10.1145/1062455.1062491)
+- James Andrews, Lionel Briand, Yvan Labiche, [Is Mutation an Appropriate Tool for Testing Experiments?](https://doi.acm.org/10.1145/1062455.1062530)
+- Andrew Ko, Htet Htet Aung, Brad Myers, [Eliciting Design Requirements for Maintenance-Oriented IDEs: A Detailed Study of Corrective and Perfective Maintenance Tasks](https://doi.acm.org/10.1145/1062455.1062492)
 
 ### 12th International ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE-12)
 October 31 - November 5, 2004, Newport Beach, California, USA
-- Martin Rinard, Alexandru Salcianu, Suhabe Bugrara, [A Classification System and Analysis for Aspect-Oriented Programs](http://doi.acm.org/10.1145/1041685.1029917)
-- Emmanuel Letier, Axel van Lamsweerde, [Reasoning about Partial Goal Satisfaction for Requirements and Design Engineering](http://doi.acm.org/10.1145/1041685.1029905)
+- Martin Rinard, Alexandru Salcianu, Suhabe Bugrara, [A Classification System and Analysis for Aspect-Oriented Programs](https://doi.acm.org/10.1145/1041685.1029917)
+- Emmanuel Letier, Axel van Lamsweerde, [Reasoning about Partial Goal Satisfaction for Requirements and Design Engineering](https://doi.acm.org/10.1145/1041685.1029905)
 
 ### 2004 International Conference on Software Engineering (ICSE 2004)
 May 23-28, 2004, Edinburgh, Scotland, United Kingdom
