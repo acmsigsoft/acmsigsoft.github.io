@@ -35,8 +35,8 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 
 ### 11 schools funded, 80K USD. 
 
-| 2025-2026 Summer/Winter Schools                                                                                                                  | Organizer                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 2025-2026 Summer/Winter Schools                                                                                                                  | Organizer(s)                                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                                     | Lina Garces                                                                                                    |
 | 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                       | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson OliveiraJr, Ellen Francine Barbosa                       |
 | BRIDGES Summer School in The South Pacific: Innovative Prototyping through AI-powered tech and Open Source, January 9–11, 2026, Papua New Guinea | Raula Gaikovina Kula, Youmei Fan, Benson Mirou, Winifred Kula                                                  |
@@ -55,7 +55,7 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 
 ### 2024-25:  13 schools funded.  81K USD
 
-| 2024-2025 Summer/Winter Schools                                                                 | Organizer                |
+| 2024-2025 Summer/Winter Schools                                                                 | Organizer(s)                 |
 |-------------------------------------------------------------------------------------------------|--------------------------|
 | ICT4Dev summer school, Mozambique                                                             |  Luciano Baresi          |
 | SDR winter school, Namibia                                                                    |  Ari Happonen            |
@@ -73,7 +73,7 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 ### 2023 - 2024:  13 schools funded.  80K USD
 
 
-| 2023-2024 Summer/Winter Schools                                                                         | Organizer                |
+| 2023-2024 Summer/Winter Schools                                                                         | Organizer(s)                 |
 |---------------------------------------------------------------------------------------------------------|--------------------------|
 | Singapore Summer School on Fuzz Testing                                                                 |  Abhik Roychoudhury              |
 | SIESTA 2023 - 3rd International Software Engineering Summer School, Switzerland                         |  Roberto Minelli                 |
