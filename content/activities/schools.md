@@ -24,7 +24,7 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 - Gemma Catolino, gcatolino@unisa.it, University of Salerno, Italy
 - Gopi Krishnan Rajbahadur, gopikrishnanrajbahadur@gmail.com, Huawei Technologies Canada, Canada
 - Igor Steinmacher, igor.steinmacher@nau.edu, Northern Arizona University, USA
-- Manuel Rigger, rigger@nus.edu.sg, National University of Singapore, SG
+- Manuel Rigger, rigger@nus.edu.sg, National University of Singapore, Singapore
 - Michel Chaudron, m.r.v.chaudron@tue.nl, Eindhoven University of Technology, Netherlands
 - Nicole Novielli, nicole.novielli@uniba.it, University of Bari, Italy
 - Raula Gaikovina Kula, raula-k@ist.osaka-u.ac.jp, Osaka University, Japan
@@ -39,6 +39,10 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 |---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                                | Lina Garces                                                                                                    |
 | 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                  | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson OliveiraJr, Ellen Francine Barbosa                       |
+| 2025-2026 Summer/Winter Schools                                                                                                                  | Organizer(s)                                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                                     | Lina Garces                                                                                                    |
+| 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                       | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson Oliveira Jr, Ellen Francine Barbosa                       |
 | BRIDGES Summer School in The South Pacific: Innovative Prototyping through AI-powered tech and Open Source, January 9–11, 2026, Papua New Guinea | Raula Gaikovina Kula, Youmei Fan, Benson Mirou, Winifred Kula                                                  |
 | Proposal for the 1st SIGSOFT African Winter School on Software Engineering and Intelligence (ASSEI 2025), November 23–25, 2025, Tunisia     | Ali Ouni, Mohamed Wiem Mkaouer, Maha Khemaja, Montassar Ben Messaoud                                           |
 | Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, February 23–27, 2026, Brazil                        | Genaína Nunes Rodrigues, Paulo Henrique Maia, Lina Marsso, Ana Cavalcanti, Patrizio Pelliccione                |
