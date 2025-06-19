@@ -15,7 +15,7 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 
 ### Program Committee 
 
-- **Chair**: Christoph TREUDE, ctreude@smu.edu.sg, Singapore Management University, Singapore
+- **Chair**: Christoph Treude, ctreude@smu.edu.sg, Singapore Management University, Singapore
 - **Chair**: Yuan Tian, y.tian@queensu.ca, Queen's University, Canada 
 - Bianca Trinkenreich, bianca.trinkenreich@colostate.edu, Colorado State University, USA
 - Chetan Arora, chetan.arora@monash.edu, Monash University, Australia
@@ -23,8 +23,8 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 - Fabio Petrillo, fabio.petrillo@etsmtl.ca, École de Technologie Supérieur, Canada
 - Gemma Catolino, gcatolino@unisa.it, University of Salerno, Italy
 - Gopi Krishnan Rajbahadur, gopikrishnanrajbahadur@gmail.com, Huawei Technologies Canada, Canada
-- Igor Steinmacher, igor.steinmacher@nau.edu, Northern Arizona University, US
-- Manuel Rigger, rigger@nus.edu.sg, National University of Singapore, SG, pc
+- Igor Steinmacher, igor.steinmacher@nau.edu, Northern Arizona University, USA
+- Manuel Rigger, rigger@nus.edu.sg, National University of Singapore, SG
 - Michel Chaudron, m.r.v.chaudron@tue.nl, Eindhoven University of Technology, Netherlands
 - Nicole Novielli, nicole.novielli@uniba.it, University of Bari, Italy
 - Raula Gaikovina Kula, raula-k@ist.osaka-u.ac.jp, Osaka University, Japan
@@ -33,21 +33,21 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 - Yingfei Xiong, xiongyf@pku.edu.cn, Peking University, China
 
 
-### 11 schools funded, 80K USD. 
+### 11 schools funded, 80K USD
 
-| 2025-2026 Summer/Winter Schools                                                                                                                  | Organizer(s)                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                                     | Lina Garces                                                                                                    |
-| 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                       | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson OliveiraJr, Ellen Francine Barbosa                       |
+| 2025-2026 Summer/Winter Schools                                                                                                             | Organizer(s)                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                                | Lina Garces                                                                                                    |
+| 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                  | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson OliveiraJr, Ellen Francine Barbosa                       |
 | BRIDGES Summer School in The South Pacific: Innovative Prototyping through AI-powered tech and Open Source, January 9–11, 2026, Papua New Guinea | Raula Gaikovina Kula, Youmei Fan, Benson Mirou, Winifred Kula                                                  |
-| Proposal for the 1st SIGSOFT African Winter School on Software Engineering and Intelligence (ASSEI 2025), November 23–25, 2025, Tunisia          | Ali Ouni, Mohamed Wiem Mkaouer, Maha Khemaja, Montassar Ben Messaoud                                           |
-| Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, February 23–27, 2026, Brazil                             | Genaína Nunes Rodrigues, Paulo Henrique Maia, Lina Marsso, Ana Cavalcanti, Patrizio Pelliccione                |
-| ACM SIGSOFT Winter School on AI-Infused Software Engineering (AISE) - Research and Practice, December 2025, India                                | Saurabh Tiwari, Santosh Singh Rathore, Sridhar Chimalakonda, Chetan Arora, Meenakshi D'Souza, Sudakshina Dutta |
-| International Summer School on LLM-based Agents for Software Engineering, September 1-3, 2025, Spain                                             | Roberto Rodriguez-Echeverria, José María Conejero, Fernando Sanchez-Figueroa, José Raúl Romero Salguero        |
-| ACM SIGSOFT Australian Summer School on Software Engineering (OzSE), February 2-4, 2026, Australia                                               | Patanamon Thongtanunam, Kla Tantithamthavorn, Chetan Arora, Tingting Bi, Michael Fu                            |
-| TAROT 2026 \| 21st Summer School on Software Testing, Verification & Validation, July 2026, Germany                                              | Andrea Stocco, Alessio Gambi                                                                                   |
-| 22nd Int'l Advanced School on Empirical Software Engineering, October 1st, 2025, USA                                                             | Davide Taibi, Tim Menzies, Dan Port                                                                            |
-| LLM Software Development, November 2025, Germany                                                                                                 | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                     |
+| Proposal for the 1st SIGSOFT African Winter School on Software Engineering and Intelligence (ASSEI 2025), November 23–25, 2025, Tunisia     | Ali Ouni, Mohamed Wiem Mkaouer, Maha Khemaja, Montassar Ben Messaoud                                           |
+| Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, February 23–27, 2026, Brazil                        | Genaína Nunes Rodrigues, Paulo Henrique Maia, Lina Marsso, Ana Cavalcanti, Patrizio Pelliccione                |
+| ACM SIGSOFT Winter School on AI-Infused Software Engineering (AISE) - Research and Practice, December 2025, India                           | Saurabh Tiwari, Santosh Singh Rathore, Sridhar Chimalakonda, Chetan Arora, Meenakshi D'Souza, Sudakshina Dutta |
+| International Summer School on LLM-based Agents for Software Engineering, September 1-3, 2025, Spain                                        | Roberto Rodriguez-Echeverria, José María Conejero, Fernando Sanchez-Figueroa, José Raúl Romero Salguero        |
+| ACM SIGSOFT Australian Summer School on Software Engineering (OzSE), February 2-4, 2026, Australia                                          | Patanamon Thongtanunam, Kla Tantithamthavorn, Chetan Arora, Tingting Bi, Michael Fu                            |
+| TAROT 2026 \| 21st Summer School on Software Testing, Verification & Validation, July 2026, Germany                                         | Andrea Stocco, Alessio Gambi                                                                                   |
+| 22nd International Advanced School on Empirical Software Engineering, October 1st, 2025, USA                                                             | Davide Taibi, Tim Menzies, Dan Port                                                                            |
+| LLM Software Development, November 2025, Germany                                                                                            | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                     |
 
 
 ## Previous schools
