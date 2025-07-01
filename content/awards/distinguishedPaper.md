@@ -49,7 +49,7 @@ If the TMRF indicated that a best paper award would be given, the organizers wil
 
 
 ### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)
-25 - 28 June, 2025 Trondheim, Norway
+25 - 28 June, 2025, Trondheim, Norway
 
 - L. Tang, J. Liu, Z. Liu, X. Yang, L. Bao: LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models
 - N. Risse, J. Liu, M. Böhme: Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection
