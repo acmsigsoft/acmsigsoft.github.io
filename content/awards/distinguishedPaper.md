@@ -47,6 +47,21 @@ If the TMRF indicated that a best paper award would be given, the organizers wil
 
 ## Winners
 
+
+### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)
+25 - 28 June, 2025 Trondheim, Norway
+
+- L. Tang, J. Liu, Z. Liu, X. Yang, L. Bao: LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models
+- N. Risse, J. Liu, M. Böhme: Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection
+- Q. Yu, X. Liu, Q. Zhou, C. Wu: Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better
+- L. Gao, H. Yin: BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction
+- Z. Ren, Y. Li, X. Li, G. Qi, J. Xuan, H. Jiang: Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator
+- Z. Wu, J. Liang, J. Fu, M. Wang, Y. Jiang: Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis
+- Y. Ma, R. Cao, Y. Cao, Y. Zhang, J. Chen, Y. Liu, Y. Liu, B. Li, F. Huang, Y. Li: SWE-GPT: A Process-Centric Language Model for Automated Software Improvement
+- S. Wang, Z. Dong, H. Li, L. Shen, X. Peng, D. She: RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search
+- D. Frey, U. Kargén, D. Varró: Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles
+
+
 ### The 47th International Conference on Software Engineering (ICSE 2025)
 April 27 - May 3, 2025, Ottawa, Canada
 
@@ -74,7 +89,7 @@ April 27 - May 3, 2025, Ottawa, Canada
 - Yuanliang Zhang, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Liao Xiangke: Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
 - Enrique Barba Roque, Luís Cruz, Thomas Durieux: Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption
 
-### The 22nd International Conference on Mining Software Repositories (MSR 2025) 
+### The 22nd International Conference on Mining Software Repositories (MSR 2025)
 colocated with ICSE 2025, April 27 - May 3, 2025, Ottawa, Canada
 
 
@@ -163,7 +178,7 @@ December 3-9, 2023, San Francisco, California
 - Chenyang Ma, Wei Song, Jeff Huang: TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
 - Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, Xueying Du, Tianyong Yang: Recommending Analogical APIs via Knowledge Graph Embedding
 
-### ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS 2022) 
+### ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS 2022)
 
 - Xiao He, Letian Tang, and Yutong Li: Accelerating similarity-based model matching using on-the-fly similarity preserving hashing.
 
