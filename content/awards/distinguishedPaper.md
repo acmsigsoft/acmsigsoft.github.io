@@ -54,7 +54,7 @@ Mon 23 - Fri 27 June, 2025, Trondheim, Norway
  - Bruno Kreyssig, Alexandre Bartel: Gleipner - A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities
  - Susheng Wu, Ruisi Wang, Yiheng Cao, Bihuan Chen, Zhuotong Zhou, Yiheng Huang, JunPeng Zhao, Xin Peng: Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM
  - Sujin Jang, Yeonhee Ryou, Heewon Lee, Kihong Heo: UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions
- - Yun Peng, Jun Wan, Yichen LI, Xiaoxue Ren: COFFE: A Code Efficiency Benchmark for Code Generation
+ - Yun Peng, Jun Wan, Yichen Li, Xiaoxue Ren: COFFE: A Code Efficiency Benchmark for Code Generation
  - Hao He, Bogdan Vasilescu, Christian Kästner: Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend Against Supply Chain Attacks
  - Borui Yang, Md Afif Al Mamun, Jie M. Zhang, Gias Uddin: Hallucination Detection in Large Language Models with Metamorphic Relations
  - Xu Yang, Zhenbang Chen, Wei Dong, Ji Wang: QSF: Multi-Objective Optimization based Efficient Solving for Floating-Point Constraints
