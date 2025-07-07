@@ -48,6 +48,24 @@ If the TMRF indicated that a best paper award would be given, the organizers wil
 ## Winners
 
 
+### The ACM International Conference on the Foundations of Software Engineering (FSE 2025)
+Mon 23 - Fri 27 June, 2025, Trondheim, Norway
+
+ - Bruno Kreyssig, Alexandre Bartel: Gleipner - A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities
+ - Susheng Wu, Ruisi Wang, Yiheng Cao, Bihuan Chen, Zhuotong Zhou, Yiheng Huang, JunPeng Zhao, Xin Peng: Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM
+ - Sujin Jang, Yeonhee Ryou, Heewon Lee, Kihong Heo: UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions
+ - Yun Peng, Jun Wan, Yichen LI, Xiaoxue Ren: COFFE: A Code Efficiency Benchmark for Code Generation
+ - Hao He, Bogdan Vasilescu, Christian Kästner: Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend Against Supply Chain Attacks
+ - Borui Yang, Md Afif Al Mamun, Jie M. Zhang, Gias Uddin: Hallucination Detection in Large Language Models with Metamorphic Relations
+ - Xu Yang, Zhenbang Chen, Wei Dong, Ji Wang: QSF: Multi-Objective Optimization based Efficient Solving for Floating-Point Constraints
+ - Junyao Ye, Zhen Li, Xi Tang, Deqing Zou, Shouhuai Xu, Qiang Weizhong, Hai Jin: A Causal Learning Framework for Enhancing Robustness of Source Code Models
+ - Chunqiu Steven Xia, Yinlin Deng, Soren Dunn, Lingming Zhang: Demystifying LLM-based Software Engineering Agents
+ - Mingxuan Zhu, Zeyu Sun, Dan Hao: PDCAT: Preference-Driven Compiler Auto-Tuning
+ - Alexi Turcotte, Zheyuan Wu: Expressing and Checking Statistical Assumptions
+ - Junwei Zhang, Xing Hu, Shan Gao, Xin Xia, David Lo, Shanping Li: Less is More: On the Importance of Data Quality for Unit Test Generation
+ - Xiaokun Luan, David Sanan, Zhe Hou, Qiyuan Xu, Chengwei Liu, Yufan Cai, Yang Liu, Meng Sun: Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle
+
+
 ### ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)
 25 - 28 June, 2025, Trondheim, Norway
 
