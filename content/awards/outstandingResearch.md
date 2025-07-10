@@ -77,7 +77,7 @@ If you have questions about this award, please contact sigsoft-research-award (a
 - Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
 - Katsuro Inoue, Nanzan University, Japan
 - Barbara Paech, Heidelberg University, Germany
-- David Shepherd, Louisiana State University, USA 
+- David Shepherd, Louisiana State University, USA
 - Paola Spoletini, Kennesaw State University, USA
 - Sebastian Uchitel, Universidad de Buenos Aires, Argentina
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
@@ -89,7 +89,7 @@ If you have questions about this award, please contact sigsoft-research-award (a
 - Paris Avgeriou, University of Groningen, Netherlands
 - Luciano Baresi, Politecnico di Milano, Italy
 - Daniela Damian, University of Victoria, Canada
-- Prem Devambu, UC Davis, United States 
+- Prem Devambu, UC Davis, United States
 - Zhenjiang Hu, Peking University, China
 - Robyn Lutz, Iowa State University, United States
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
