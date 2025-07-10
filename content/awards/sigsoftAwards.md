@@ -44,10 +44,10 @@ All awards follow a similar nomination process, with two key deadlines:
 
 ### How to Nominate
 1. Submit an **intent to nominate** through the [awards nomination portal](https://sigsoft-awards.hotcrp.com/) by the first deadline
-   - This is lightweight, requiring only basic information about the nominee(s)
-   and nominator
-   - Intentions to nominate must be received by the deadline for a candidate to
-   be considered in the current award year. 
+   - The intent submission is very lightweight and only requires: (1) full name(s) and
+   afﬁliation(s) of the nominee(s), (2) contact information of the nominator,
+   and (3) some metadata. If no intent is received by the deadline, the
+   nomination will be deemed late and will not be considered in the current award year. 
 2. Submit the complete nomination package as a single PDF by the second deadline
 
 Nominators of candidates who are not selected in a given award year will be
@@ -59,10 +59,10 @@ consecutive additional years.
 All nomination packages should include:
 - Full name(s) and affiliation(s) of nominee(s)
 - Proposed citation (up to 25 words)
-- Succinct description of qualifications (100-250 words)
-- Detailed nomination statement
-- Up to three support letters (200-300 words each)
-- **Important**: Each support letter must include: *"To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."*
+- Succinct description of why the nominee(s) is well-qualified for the award (100-250 words)
+- Detailed nomination statement (no length limit, but please be reasonable)
+- Up to three support letters (200-300 words is sufficient for support letters, although longer statements of support are of course welcome)
+- **Important**: Each support letter must include the following sentence: *"To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."*
 
 
 #### Eligibility 
@@ -85,23 +85,30 @@ All nomination packages should include:
 
 ## Award Benefits
 
-Awards are presented to recipients at plenary sessions of major conferences
-(typically ICSE).  Recipients typically receive a stipend for travel support to
-receive that award, along with an honorarium and a commemorative plaque.
-Consult individual awards pages for complete details. 
+For all awards except the Frank Anger SIGBED Award, recipients receive a plaque
+engraved with their name and signed by the chair of SIGSOFT and share a $1000
+honorarium. The award is presented by SIGSOFT at ICSE during ICSE’s award
+presentation session. The award recipient(s) each receive support for travel to
+ICSE up to $2500 within their home continent and up to $3000 outside their home
+continent.
+
+Some awards include other benefits; individual pages for other award-specific details. 
 
 ## Selection Process
 
-Each award has a dedicated selection committee that evaluates nominations based
-on specific criteria. Committees have the option to decline making an award if
-no suitable nominations are received. 
+SIGSOFT solicits nominations from the software engineering community in a
+variety of ways including announcements in SIGSOFT's newsletter, Software
+Engineering Notes, and postings on appropriate newsgroups and websites. Each
+award's selection committee evaluates nominations based on award-specific criteria.
+Committees have the option to decline making an award if no suitable nominations
+are received.
 
 ### 2025 Committee Leadership
 - **Senior Awards Committee Chair**: Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland
 - **Junior Awards Committee Chair**: Aldeida Aleti, Monash University, Australia
 - **Impact Paper Award Committee Chair**: Abhik Roychoudhury, National University of Singapore, Singapore
-- **SIGSOFT Chair**: Marsha Chechik, University of Toronto, Canada
-- **SIGSOFT Award Chair**: Claire Le Goues, Carnegie Mellon University, USA
+- **SIGSOFT Chair** (non-voting): Marsha Chechik, University of Toronto, Canada
+- **SIGSOFT Award Chair** (non-voting): Claire Le Goues, Carnegie Mellon University, USA
 
 ## Contact Information
 
