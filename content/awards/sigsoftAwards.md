@@ -11,7 +11,7 @@ ACM SIGSOFT recognizes excellence in software engineering through several
 awards, presented annually. These awards honor outstanding contributions to our
 field, throughout our colleagues' careers. Awards are typically presented to
 individuals, but can be awarded jointly when circumstances warrant, such as for
-joint contributions.  
+joint contributions.  Awards are not given posthumously.
 
 ## Award Categories
 
@@ -79,7 +79,7 @@ Nomination packages for all but the Impact Paper and Frank Anger awards should i
   substantially similar SIGSOFT award.  Nominations of such individuals are
   permitted, but must include a clear justification for the nomination that articulates
   and justifies the special circumstances that motivate considering the nominee
-  for such a substantially similar award.  
+  for such a substantially similar award (the committee reserves the right to accept or deny the justification). 
 
 
 ## Award Benefits
