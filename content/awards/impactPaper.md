@@ -5,15 +5,18 @@ title: "ACM SIGSOFT Impact Paper Award"
 aliases: "/awards/impactPaperAward.html"
 ---
 
-The ACM SIGSOFT Impact Paper Award is presented annually to the author(s) of a paper presented at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year. For the November 4, 2024 deadline, papers published in 2014 or before are eligible. In including all of SIGSOFT's conferences in the competition, this award recognizes the breadth and vitality of the software engineering community. The papers are judged by their influence since their publication. The award includes a $1000 honorarium to be split amongst the authors as they choose, an award plaque for each author, an invitation for the authors to present a keynote talk at the current year's annual ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), as well as inclusion of a full-length paper in the ESEC/FSE conference proceedings. Up to three authors will be provided support for travel to ESEC/FSE, with each receiving up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ESEC/FSE.
+The ACM SIGSOFT Impact Paper Award is presented annually to the author(s) of a paper presented at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year, e.g., for the October, 2025 deadline, papers published in 2025 or before or eligible. In including all of SIGSOFT's conferences in the competition, this award recognizes the breadth and vitality of the software engineering community. The papers are judged by their influence since their publication. 
 
-To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
+In addition to the awards honorarium, paper authors are invited to present a keynote talk at the current year's annual ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), and include a full-length paper in the ESEC/FSE conference proceedings. Up to three authors will be provided support for travel to ESEC/FSE for this purpose. 
 
-* An intent to nominate must be submitted in the nomination system by October 6, 2025. The intent submission is very lightweight and only requires: (1) paper title along with the acronym and year of the SIGSOFT-sponsored conference the paper was published, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following information: (1) paper title; (2) authors; (3) name of the SIGSOFT-sponsored conference; (4) year the paper was published; (5) proposed citation (up to 25 words); (6) a succinct statement describing why the paper is impactful (200-500 words).
-
-The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented.
+Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates, nomination and eligibility instructions, and a link to the submission portal.  The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be sumitted through the portal, and should contain: 
+  1. Paper title
+  2. Paper authors, with contact information and current affiliations 
+  3. Name of the SIGSOFT-sponsored conference at which the paper was published
+  4. Year the paper was published
+  5. Proposed citation (up to 25 words)
+  6. A succinct statement describing why the paper is impactful (200-500 words is desirable).
 
 If you have questions about this award, please contact sigsoft-impact-award (at) acm (dot) org.
 

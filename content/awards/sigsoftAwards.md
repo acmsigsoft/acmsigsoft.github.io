@@ -56,14 +56,16 @@ consecutive additional years.
 
 ### Shared Nomination Requirements and eligibility
 
-All nomination packages should include:
+*Note: Certain awards have additional or different requirements and eligibility
+ restrictions. Consult individual award pages for complete details.*
+
+Nomination packages for all but the Impact Paper and Frank Anger awards should include:
 - Full name(s) and affiliation(s) of nominee(s)
 - Proposed citation (up to 25 words)
 - Succinct description of why the nominee(s) is well-qualified for the award (100-250 words)
 - Detailed nomination statement (no length limit, but please be reasonable)
 - Up to three support letters (200-300 words is sufficient for support letters, although longer statements of support are of course welcome)
 - **Important**: Each support letter must include the following sentence: *"To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."*
-
 
 #### Eligibility 
 
@@ -79,18 +81,16 @@ All nomination packages should include:
   and justifies the special circumstances that motivate considering the nominee
   for such a substantially similar award.  
 
-*Note: Certain awards have additional requirements and eligibility
- restrictions. Consult individual award pages for complete details.*
-
 
 ## Award Benefits
 
-For all awards except the Frank Anger SIGBED Award, recipients receive a plaque
-engraved with their name and signed by the chair of SIGSOFT and share a $1000
-honorarium. The award is presented by SIGSOFT at ICSE during ICSE’s award
-presentation session. The award recipient(s) each receive support for travel to
-ICSE up to $2500 within their home continent and up to $3000 outside their home
-continent.
+Recipients receive a plaque engraved with their name and signed by the chair of
+SIGSOFT and share a $1000 honorarium. Most awards are presented by SIGSOFT at
+ICSE during ICSE’s award presentation session.
+
+For awards besides the Frank Anger award, recipient(s) receive support for
+travel to either ICSE (or ESEC/FSE, for the Impact Paper) of up to $2500 within
+their home continent, and up to $3000 outside their home continent.
 
 Some awards include other benefits; individual pages for other award-specific details. 
 
