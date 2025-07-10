@@ -5,26 +5,16 @@ title: " ACM SIGSOFT - SIGBED Frank Anger Award "
 aliases: "/awards/angerAward.html"
 ---
 
-
 In honor of our late colleague and friend, Dr. Frank Anger, the ACM Special Interest Group on Software Engineering has joined together with the [ACM Special Interest Group on Embedded Systems](https://sigbed.org/) to present the Frank Anger Memorial Award. Dr. Frank Anger, an outstanding national leader in the field of software engineering, died in a tragic automobile accident on July 8, 2004. One of Frank's primary goals was supporting the crossover of ideas between research communities engaged in software. As an outstanding scientist and recognized national leader in computer science, he worked toward this goal until his untimely death.
 
 In the spirit of Frank's work and legacy, the Executive Committees of SIGBED and SIGSOFT, with support from the US National Science Foundation, have established a student travel award in his name. The award provides $2000 stipends for two students, one named by each SIG, to cover travel expenses to attend the flagship conference of the other SIG. The award is meant to improve the mutual awareness of the two research communities to the opportunities and challenges emerging in complementary research areas.
 
-If you have questions about this award, please contact sigsoft-angermemorial-award (at) acm (dot) org.
+The award provides a student member of SIGSOFT a stipend of up to $2000 to cover travel expenses to attend a flagship conference of SIGBED.  The SIGSOFT recipient will also be recognized in the awards plenary session at ICSE. 
 
-## Rules and Applications
+To be eligible for the award, a student must be a SIGSOFT member undertaing graduate rearch in a relevant field in an accredited college or university.
 
-The award provides a student member of SIGSOFT a stipend of up to $2000 to cover travel expenses to attend a flagship conference of SIGBED.
+Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates and a link to the submission portal. The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be sumitted through the portal, and should contain: 
 
-### Eligibility
-To qualify, the student:
-1. must be a member of SIGSOFT
-2. must be undertaking graduate research in a relevant field in an accredited college or university
-
-### The Application Process
-To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
-
-* An intent to nominate must be submitted in the nomination system by October 6, 2025 (First Monday in October). <!-- October 21, 2024 (third Monday in October).--> The intent submission is very lightweight and only requires: (1) full name and affiliation of the nominated student, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 * A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025, 2024 (two weeks after the registration deadline). The PDF should contain the following:
   1. Full name and affiliation of the nominated student
   2. Membership number (ACM/SIGSOFT)
@@ -33,11 +23,8 @@ To submit a nomination for the award, please use the [awards nomination portal](
   5. A curriculum vitae or resume listing the student's publications
   6. A letter from the student's research advisor confirming that the student is in good standing and pursuing the research as described in the proposal. The letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
 
-### Selection Process
 
-Recipients of the SIGSOFT Frank Anger Memorial Award will be selected by the selection committee from those who have applied. The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. The SIGSOFT recipient will be recognized at an awards ceremony at the International Conference on Software Engineering (ICSE).
-
-This award is a unique opportunity to help promote cross-discipline research. All eligible applicants are encouraged to apply. If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
+This award is a unique opportunity to help promote cross-discipline research. All eligible applicants are encouraged to apply.  If you have questions about this award, please contact sigsoft-angermemorial-award (at) acm (dot) org.
 
 ## Winners
 

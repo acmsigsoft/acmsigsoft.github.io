@@ -5,11 +5,10 @@ title: " Distinguished Service Award "
 aliases: "/awards/distinguishedServiceAward.html"
 ---
 
-This annual award is presented to individuals who have contributed dedicated and important service to the software engineering community. The award typically goes to a single person but can also be assigned to multiple people for joint contributions.
-
-Recipients receive a plaque engraved with their name and signed by the chair of SIGSOFT and share a $1000 honorarium. The award is presented by the SIGSOFT chair at ICSE during ICSE's award presentation session. The award recipient(s) each receive support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
-
-The selection committee solicits nominations from the software engineering community in a variety of ways including announcements in SIGSOFT's newsletter, Software Engineering Notes, and postings on appropriate newsgroups and websites. The committee considers all external nominations in the context of the nominees' specific and general service contributions to the overall software engineering community. The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented.
+This annual award is presented to individuals who have contributed dedicated and
+important service to the software engineering community. The committee considers
+all external nominations in the context of the nominees' specific and general
+service contributions to the overall software engineering community.
 
 Criteria that the committee considers in evaluating nominations include:
 
@@ -20,17 +19,7 @@ Criteria that the committee considers in evaluating nominations include:
 5. Length of time serving the software engineering community
 6. Other service contributions
 
-To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
-
-* An intent to nominate must be submitted in the nomination system by October 6, 2025. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
-
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following:
-  1. Full name(s) and afﬁliation(s) of the nominee(s)
-  2. Proposed citation (up to 25 words)
-  3. Succinct description of why the nominee(s) is well-qualiﬁed for the award (100-250 words)
-  4. Detailed nomination statement (no length limit, but please be reasonable)
-  5. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate(s) I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
-
+Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
 
 If you have questions about this award, please contact sigsoft-service-award (at) acm (dot) org.
 
@@ -67,7 +56,7 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - 1996	Rick Adrion
 - 1995	Tony Wasserman
 
-## Committee
+## Committees
 
 
 #### 2025

@@ -5,23 +5,12 @@ title: "Influential Educator Award"
 aliases: "/awards/influentialEducatorAward.html"
 ---
 
-Education is vital to the advancement of the research and practice of Software Engineering. Yet, the contributions of an educator often go unnoticed, except perhaps by those closest to the educator. The SIGSOFT Influential Educator Award is presented annually to an educator or educators who have made significant contributions to, and impact on, the field of software engineering with his or her accomplishments as a teacher, mentor, researcher (in education or learning), author, and/or policy maker. The award may be made to multiple collaborators for joint contributions, such as a co-authored text book.
-
-The award recipients share a $1000 honorarium, and each recipient receives a plaque engraved with their name and signed by the chair of SIGSOFT. The award is presented by the SIGSOFT chair at ICSE during ICSE's award presentation session. Each award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
-
-To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
-* An intent to nominate must be submitted in the nomination system by October 6, 2025 (first Monday in October). The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
-
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following:
-
-    1. Full name(s) and afﬁliation(s) of the nominee(s)
-    2. Proposed citation (up to 25 words)
-    3. Succinct description of why the nominee(s) is well-qualiﬁed for the award (100-250 words)
-    4. Detailed nomination statement (no length limit, but please be reasonable)
-    5. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+Education is vital to the advancement of the research and practice of Software Engineering. Yet, the contributions of an educator often go unnoticed, except perhaps by those closest to the educator. The SIGSOFT Influential Educator Award is presented annually to an educator or educators who have made significant contributions to, and impact on, the field of software engineering with his or her accomplishments as a teacher, mentor, researcher (in education or learning), author, and/or policy maker. 
 
 
-The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
+Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates, nomination instructions, and a link to the submission portal. 
+
+If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
 
 ## Winners
 - 2025  Andreas Zeller, CISPA and Saarland University, for significant contributions and important innovations in automated software engineering education.

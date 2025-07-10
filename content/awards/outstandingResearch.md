@@ -7,20 +7,9 @@ aliases: "/awards/outstandingResearchAward.html"
 
 This award is presented to an individual or individuals who have made significant and lasting research contributions to the theory or practice of software engineering.
 
-The award recipients share a $1000 honorarium, and each recipient receives a plaque engraved with their name and signed by the chair of SIGSOFT. The award is announced by the SIGSOFT chair at ICSE during ICSE's award presentation session. The award recipients are invited to give a keynote presentation at the ICSE conference in the year in which the award is made. Each award recipient also receives travel support up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration to attend the ICSE conference.
+In addition to the typical awards benefits, recipients are invited to give a keynote presentation at the ICSE conference in the year in which the award is made.
 
-The selection committee solicits nominations from the software engineering community in a variety of ways including announcements in SIGSOFT's newsletter, Software Engineering Notes, and postings on appropriate newsgroups and websites. The committee considers all external nominations in the context of the nominees' research contributions to software engineering. The selection committee shall also have the option to decline to make an award in a given year, if no suitable nominations are presented.
-
-To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
-
-* An intent to nominate must be submitted in the nomination system by October 6, 2025. The intent submission is very lightweight and only requires: (1) full name(s) and afﬁliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
-
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following:
-  1. Full name(s) and afﬁliation(s) of the nominee(s)
-  2. Proposed citation (up to 25 words)
-  3. Succinct description of why the nominee(s) is well-qualiﬁed for the award (100-250 words)
-  4. Detailed nomination statement (no length limit, but please be reasonable)
-  5. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
 
 If you have questions about this award, please contact sigsoft-research-award (at) acm (dot) org.
 
