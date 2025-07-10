@@ -92,9 +92,9 @@ For awards besides the Frank Anger award, recipient(s) receive support for
 travel to either ICSE (or ESEC/FSE, for the Impact Paper) of up to $2500 within
 their home continent, and up to $3000 outside their home continent.
 
-Some awards include other benefits; individual pages for other award-specific details. 
+Some awards include other benefits; consult individual pages for  award-specific details. 
 
-## Selection Process
+## Process
 
 SIGSOFT solicits nominations from the software engineering community in a
 variety of ways including announcements in SIGSOFT's newsletter, Software
