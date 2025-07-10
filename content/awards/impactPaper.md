@@ -9,9 +9,9 @@ The ACM SIGSOFT Impact Paper Award is presented annually to the author(s) of a p
 
 To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
-* An intent to nominate must be submitted in the nomination system by November 4, 2024. The intent submission is very lightweight and only requires: (1) paper title along with the acronym and year of the SIGSOFT-sponsored conference the paper was published, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+* An intent to nominate must be submitted in the nomination system by October 6, 2025. The intent submission is very lightweight and only requires: (1) paper title along with the acronym and year of the SIGSOFT-sponsored conference the paper was published, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by November 11, 2024 (one week after the registration deadline). The PDF should contain the following information: (1) paper title; (2) authors; (3) name of the SIGSOFT-sponsored conference; (4) year the paper was published; (5) proposed citation (up to 25 words); (6) a succinct statement describing why the paper is impactful (200-500 words).
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following information: (1) paper title; (2) authors; (3) name of the SIGSOFT-sponsored conference; (4) year the paper was published; (5) proposed citation (up to 25 words); (6) a succinct statement describing why the paper is impactful (200-500 words).
 
 The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented.
 
