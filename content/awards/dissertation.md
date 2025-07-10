@@ -14,9 +14,9 @@ The award is for an outstanding dissertation (in software engineering) dated wit
 
 To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
 
-* An intent to nominate must be submitted in the nomination system by November 4, 2024. The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
+* An intent to nominate must be submitted in the nomination system by October 6, 2025 (First Monday in October). The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
 
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by November 11, 2024 (one week after the registration deadline). The PDF should contain the following:
+* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following:
   1. Full name and afﬁliation of the nominee
   2. One- to two-page summary of the nominee's dissertation (in English)
   3. Link to download the nominee's dissertation (in any language)
