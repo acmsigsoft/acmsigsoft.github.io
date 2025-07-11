@@ -9,7 +9,7 @@ This award is presented to an individual or individuals who have made outstandin
 
 To be eligible for nomination for the award, individuals' most recent computer-related educational degree (baccalaureate, masters, or doctoral degree) must have been awarded no more than seven (7) years prior to the date of nomination. The 7-year window may be extended for extenuating circumstances such as parental or medical leave. Extenuating circumstances must be described in the nomination statement for the committee's deliberation (the committee reserves the right to accept or deny the consideration of the extenuating circumstances).
 
-Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. Note the above eligibility requirement that additionally affects this award, and should be addressed in the nomination materials if necessary (i.e., if the nominator believes that extenuating circumstances should extend the typical 7-year eligibility requirement). 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. Note the above eligibility requirement that additionally affects this award, and should be addressed in the nomination materials if necessary (i.e., if the nominator believes that extenuating circumstances should extend the typical 7-year eligibility requirement). 
 
 If you have questions about this award, please contact sigsoft-early-career-award (at) acm (dot) org.
 

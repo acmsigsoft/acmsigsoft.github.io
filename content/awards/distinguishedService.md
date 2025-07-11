@@ -19,7 +19,7 @@ Criteria that the committee considers in evaluating nominations include:
 5. Length of time serving the software engineering community
 6. Other service contributions
 
-Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
 
 If you have questions about this award, please contact sigsoft-service-award (at) acm (dot) org.
 

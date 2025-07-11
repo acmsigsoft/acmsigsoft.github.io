@@ -10,7 +10,7 @@ The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the
 
 The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the October 20, 2025, deadline, dissertations dated November, 2024 to November, 2025 are eligible. The dissertation date can refer to the “deposit date,” “committee approval date,” or another reasonable and relevant date, depending on the process followed by the nominee’s institution. However, please note that a dissertation can be nominated only once. Thus, if, e.g., the “deposit date” and “committee approval date” would fall into two award periods, the thesis cannot be nominated twice, and the nomination must choose one period. Especially given the time-specificity of this award, note that the selection committee is able to recognize multiple outstanding dissertations in a year, if circumstances warrant. 
 
-Consult the [main SIGSOFT Awards page](https://www2.sigsoft.org/awards/) for key
+Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key
 dates, general nomination and eligibility instructions, and a link to the submission
 portal. 
 Nominee affiliations should specify both the degree-granting institution,
