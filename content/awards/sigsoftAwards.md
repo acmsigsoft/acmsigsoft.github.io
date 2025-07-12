@@ -81,6 +81,7 @@ Nomination packages for all but the Impact Paper and Frank Anger awards should i
   and justifies the special circumstances that motivate considering the nominee
   for such a substantially similar award (the committee reserves the right to accept or deny the justification). 
 
+In general, the selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are received.
 
 ## Award Benefits
 
