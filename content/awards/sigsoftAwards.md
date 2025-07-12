@@ -85,15 +85,15 @@ In general, the selection committee shall have the option to decline to make an 
 
 ## Award Benefits
 
+Awards are presented by SIGSOFT at ICSE during ICSE’s award presentation session.
 Recipients receive a plaque engraved with their name and signed by the chair of
-SIGSOFT and share a $1000 honorarium. Most awards are presented by SIGSOFT at
-ICSE during ICSE’s award presentation session.
+SIGSOFT.
 
-For awards besides the Frank Anger award, recipient(s) receive support for
-travel to either ICSE (or ESEC/FSE, for the Impact Paper) of up to $2500 within
-their home continent, and up to $3000 outside their home continent.
+Recipient(s) of the Outstanding Research, Influential Educator, Distinguished Service, Early Career Researcher, and Outstanding Dissertation awards, receive a $1000 honorarium and support for
+travel to ICSE of up to $2500 within
+their home continent, and up to $3000 outside their home continent. Recipients of the Impact Paper award share a $1000 honorarium, and receive comparable support to travel to ESEC/FSE.  
 
-Some awards include other benefits; consult individual pages for  award-specific details. 
+Some awards include other benefits; consult individual pages for award-specific details. 
 
 ## Process
 
