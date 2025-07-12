@@ -6,25 +6,23 @@ aliases: "/awards/dissertationAward.html"
 
 ---
 
-The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the author of an outstanding doctoral dissertation in the area of Software Engineering. The author of the winning dissertation will be invited to publish a dissertation summary in the SIGSOFT newsletter, Software Engineering Notes (SEN). The award includes a $1000 honorarium and a plaque for the author, which is presented at the International Conference on Software Engineering (ICSE), and funding support for the recipient to travel to ICSE to receive the award (including a registration to ICSE). A public citation for the award dissertation will be placed on the SIGSOFT web site. The award recipient also receives support for travel to ICSE up to $2500 within their home continent and up to $3000 outside their home continent, including airfare, hotel, and conference registration for ICSE.
+The SIGSOFT Outstanding Doctoral Dissertation Award is presented annually to the authors of outstanding doctoral dissertations in the area of Software Engineering. The author of winning dissertation(s) will be invited to publish a dissertation summary in the SIGSOFT newsletter, Software Engineering Notes (SEN). 
 
-The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the November 11, 2024, deadline, dissertations dated October 16, 2023 to November 10, 2024 are eligible. The dissertation date can refer to the “deposit date,” “committee approval date,” or another reasonable and relevant date, depending on the process followed by the nominee’s institution. However, please note that a dissertation can be nominated only once. Thus, if, e.g., the “deposit date” and “committee approval date” would fall into two award periods, the thesis cannot be nominated twice, and the nominee would have to choose one period.
+The award is for an outstanding dissertation (in software engineering) dated within the year preceding the nomination due date. For nominations for the October 20, 2025, deadline, dissertations dated November, 2024 to November, 2025 are eligible. The dissertation date can refer to the “deposit date,” “committee approval date,” or another reasonable and relevant date, depending on the process followed by the nominee’s institution. However, please note that a dissertation can be nominated only once. Thus, if, e.g., the “deposit date” and “committee approval date” would fall into two award periods, the thesis cannot be nominated twice, and the nomination must choose one period. Especially given the time-specificity of this award, note that the selection committee is able to recognize multiple outstanding dissertations in a year, if circumstances warrant. 
 
-
-
-To submit a nomination for the award, please use the [awards nomination portal](https://sigsoft-awards.hotcrp.com/). Please note that:
-
-* An intent to nominate must be submitted in the nomination system by October 6, 2025 (First Monday in October). The intent submission is very lightweight and only requires: (1) full name and afﬁliation of the nominee, (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and not considered for this round of award selection.
-
-* A single PDF containing the nomination package must be submitted through the portal to complete the submission by October 20, 2025 (two weeks after the registration deadline). The PDF should contain the following:
-  1. Full name and afﬁliation of the nominee
+Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key
+dates, general nomination and eligibility instructions, and a link to the submission
+portal. 
+Nominee affiliations should specify both the degree-granting institution,
+and the nominee's current affiliation, if different. In _addition_ to the other
+nomination package requirements listed on the main awards page, the single
+nomination package PDF should _also_ include:
+  1. The student's advisor(s)
   2. One- to two-page summary of the nominee's dissertation (in English)
-  3. Link to download the nominee's dissertation (in any language)
-  4. List of nominee's publications (that were used as the basis of chapters in the nominated dissertation)
-  5. Succinct description of why the nominee is well-qualiﬁed for the award (200-500 words)
-  6. Up to three support letters (200-300 words will be sufﬁcient for each support letter, although longer statements of support are of course welcome). Each support letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+  3. List of nominee's publications (that were used as the basis of chapters in the nominated dissertation)
 
-The selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are presented. If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
+
+If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
 
 ## Winners
 - 2025 Elizabeth Dinella, Neural Inference of Program Specifications, University of Pennsylvania, advisor: Mayur Naik.
