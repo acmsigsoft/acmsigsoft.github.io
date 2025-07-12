@@ -11,7 +11,7 @@ In the spirit of Frank's work and legacy, the Executive Committees of SIGBED and
 
 The award provides a student member of SIGSOFT a stipend of up to $2000 to cover travel expenses to attend a flagship conference of SIGBED.  The SIGSOFT recipient will also be recognized in the awards plenary session at ICSE. 
 
-To be eligible for the award, a student must be a SIGSOFT member undertaing graduate rearch in a relevant field in an accredited college or university.
+To be eligible for the award, a student must be a SIGSOFT member undertaking graduate research in a relevant field in an accredited college or university.
 
 Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates and a link to the submission portal. The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be submitted through the portal, and should contain: 
   1. Full name and affiliation of the nominated student
