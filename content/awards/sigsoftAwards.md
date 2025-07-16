@@ -91,7 +91,7 @@ SIGSOFT.
 
 Recipient(s) of the Outstanding Research, Influential Educator, Distinguished Service, Early Career Researcher, and Outstanding Dissertation awards, receive a $1000 honorarium and support for
 travel to ICSE of up to $2500 within
-their home continent, and up to $3000 outside their home continent. Recipients of the Impact Paper award share a $1000 honorarium, and receive comparable support to travel to ESEC/FSE.  
+their home continent, and up to $3000 outside their home continent. Recipients of the Impact Paper award share a $1000 honorarium, and receive comparable support to travel to FSE.  
 
 Some awards include other benefits; consult individual pages for award-specific details. 
 
