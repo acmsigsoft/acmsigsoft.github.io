@@ -89,7 +89,7 @@ Awards are presented by SIGSOFT at ICSE during ICSE’s award presentation sessi
 Recipients receive a plaque engraved with their name and signed by the chair of
 SIGSOFT.
 
-Recipient(s) of the Outstanding Research, Influential Educator, Distinguished Service, Early Career Researcher, and Outstanding Dissertation awards, receive a $1000 honorarium and support for
+Recipient(s) of the Outstanding Research, Influential Educator, Distinguished Service, Early Career Researcher, and Outstanding Dissertation awards, typically receive a $1000 honorarium (shared, if multiple recipients are jointly recognized), and support for
 travel to ICSE of up to $2500 within
 their home continent, and up to $3000 outside their home continent. Recipients of the Impact Paper award share a $1000 honorarium, and receive comparable support to travel to FSE.  
 
