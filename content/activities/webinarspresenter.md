@@ -15,10 +15,9 @@ The webinar coordinators make it as easy as possible for anyone to give a webina
 - providing "dry run" training,
 - requiring minimal resources (e.g., slides, title, abstract, and bio), and
 optionally allowing the speaker to choose a moderator.
+- Most webinars last an hour, with about 45 minutes of presentation and 10 minutes of Q/A time.
 
-- Most webinars take place at 12pm US East Coast time and last an hour, with about 45 minutes of presentation and 10 minutes of Q/A time.
-
-All presenters need are web access and a phone (or Skype) to provide a real-time audio feed while giving the talk (we provide the phone number - international numbers are also available).
+All presenters need are web access and Zoom to give the talk.
 
 The moderator (we can provide one, but presenters can request anyone they want) reads from a script we prepare that introduces the speaker and provides some administrative information, then handles Q/A.
 
