@@ -76,6 +76,6 @@ Boise State University, Idaho
 
 ### Information Director: Yongqiang Tian
 
-Hong Kong University of Science and Technology
+Monash University
 
-> yqtian@ust.hk
+> yongqiang.tian@monash.edu
