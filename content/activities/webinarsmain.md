@@ -15,7 +15,7 @@ Each talk will be followed by a moderated live question and answer session.
 
 Note: If you'd like to attend but can't make it to the virtual event, you still need to register to receive a recording of the webinar when it becomes available. You can stream this and all ACM SIGSOFT and ACM Learning Webinars on your mobile device, including smartphones and tablets.
 
-**Interested in presenting a webinar?** Check our page for [prospective presenters](/activities/webinarspresenter) to find out how.
+**Interested in presenting a webinar?** Check our page for [prospective presenters](/activities/webinarspresenter/) to find out how.
 
 
 ## Upcoming Webinars
