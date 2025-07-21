@@ -7,7 +7,7 @@ aliases:
 - /resources/presentwebinar.html
 ---
 
-We hope you can join us for the upcoming SIGOFT and ACM PD sponsored webinars.
+We hope you can join us for the upcoming SIGSOFT and ACM PD sponsored webinars.
 
 Follow the links below to register for these free 60 minute webinars and be sure to share this with friends and colleagues who may be interested in these topics. Check out our [past events](http://learning.acm.org/webinar/), all available on demand.
 
