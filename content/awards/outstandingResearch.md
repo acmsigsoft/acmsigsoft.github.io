@@ -9,7 +9,7 @@ This award is presented to an individual or individuals who have made significan
 
 In addition to the typical awards benefits, recipients are invited to give a keynote presentation at the ICSE conference in the year in which the award is made.
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
 
 If you have questions about this award, please contact sigsoft-research-award (at) acm (dot) org.
 
