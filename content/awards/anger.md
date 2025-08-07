@@ -13,7 +13,7 @@ The award provides a student member of SIGSOFT a stipend of up to $2000 to cover
 
 To be eligible for the award, a student must be a SIGSOFT member undertaking graduate research in a relevant field in an accredited college or university.
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates and a link to the submission portal. The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be submitted through the portal, and should contain: 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates and a link to the submission portal. The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be submitted through the portal, and should contain: 
   1. Full name and affiliation of the nominated student
   2. Membership number (ACM/SIGSOFT)
   3. A synopsis of an original research proposal that the student is pursuing (2 page limit)

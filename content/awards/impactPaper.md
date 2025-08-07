@@ -9,7 +9,7 @@ The ACM SIGSOFT Impact Paper Award is presented annually to the author(s) of a p
 
 In addition to the honorarium, paper authors are invited to present a keynote talk at the current year's annual International Conference on the Foundations of Software Engineering (FSE), and include a full-length paper in the FSE conference proceedings. Up to three authors will be provided support for travel to FSE for this purpose. 
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates, nomination and eligibility instructions, and a link to the submission portal.  The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be sumitted through the portal, and should contain: 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal.  The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be sumitted through the portal, and should contain: 
   1. Paper title
   2. Paper authors, with contact information and current affiliations 
   3. Name of the SIGSOFT-sponsored conference at which the paper was published

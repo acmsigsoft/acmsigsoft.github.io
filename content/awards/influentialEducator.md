@@ -8,7 +8,7 @@ aliases: "/awards/influentialEducatorAward.html"
 Education is vital to the advancement of the research and practice of Software Engineering. Yet, the contributions of an educator often go unnoticed, except perhaps by those closest to the educator. The SIGSOFT Influential Educator Award is presented annually to an educator or educators who have made significant contributions to, and impact on, the field of software engineering with his or her accomplishments as a teacher, mentor, researcher (in education or learning), author, and/or policy maker. 
 
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftAwards/) for key dates, nomination instructions, and a link to the submission portal. 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination instructions, and a link to the submission portal. 
 
 If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
 
