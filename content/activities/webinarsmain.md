@@ -18,7 +18,12 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 **Interested in presenting a webinar?** Check our page for [prospective presenters](/activities/webinarspresenter/) to find out how.
 
 
-## Upcoming Webinars
+# Upcoming Webinars
+
+Stay tuned for more webinars coming soon!
+
+
+## Previous Webinars
 
 ### Working with Non-Traditional Subjects; Lessons Learned from Using VR to Help Students with ADHD Focus
 
@@ -31,10 +36,8 @@ Bio: David Shepherd is an Associate Professor in the Department of Computer Scie
 
 Date: Wednesday July 30, 10-11am ET
 
-Link: https://events.zoom.us/ev/As9CLlEjFI1pEX5G97dweWpeFeYJuOx_MbufVew65mqhl24rDlun~AtCwWkwI1qOMJt32pDhKYiIc6VKryXoMGc3MaX_hYmzsxADUULCtmH1JHvoEKaDKqV58UpheIcy_ZpYplOc7j-Dpbg
+Recording: https://youtu.be/ezGF87NqjVc.
 
-
-## Previous Webinars
 
 ### From SBOM to Trusted Software Supply Chain: How Far Are We?
 ### Dec 13, 2022 7:00 PM Eastern Standard Time
