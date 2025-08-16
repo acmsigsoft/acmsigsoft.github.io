@@ -9,8 +9,8 @@ defaultContentLanguage = "en"
 # number of words of summarized post content (default 70)
 summaryLength = 70
 
-# Define the number of posts per page
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
@@ -297,25 +297,32 @@ pluralizelisttitles = false
     weight = 2
     name = "GitHub"
     url = "https://github.com/acmsigsoft"
-    pre = "<i class='fab fa-2x fa-github'></i>"
+    pre = "<i class='fa-brands fa-2x fa-square-github'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
     url = "https://www.facebook.com/sigsoft/"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
+    pre = "<i class='fa-brands fa-2x fa-square-facebook'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Twitter"
     url = "https://twitter.com/sigsoft"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    pre = "<i class='fa-brands fa-2x fa-square-twitter'></i>"
 
 [[menu.topbar]]
     weight = 5
     name = "Linkedin"
     url = "https://www.linkedin.com/company/acm-sigsoft/"
-    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+    pre = "<i class='fa-brands fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Youtube"
+    url = "https://www.youtube.com/@SIGSOFT"
+    pre = "<i class='fa-brands fa-2x fa-square-youtube'></i>"
+
 
 [[menu.topbar]]
     weight = 6
@@ -355,7 +362,7 @@ pluralizelisttitles = false
     contact_url = "/contact"
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
