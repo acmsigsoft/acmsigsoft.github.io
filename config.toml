@@ -312,10 +312,17 @@ pluralizelisttitles = false
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 4
+    weight = 5
     name = "Linkedin"
     url = "https://www.linkedin.com/company/acm-sigsoft/"
     pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Youtube"
+    url = "https://www.youtube.com/@SIGSOFT"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+
 
 [params]
     viewMorePostLink = "/blog/"
