@@ -25,6 +25,8 @@ Stay tuned for more webinars coming soon!
 
 ## Previous Webinars
 
+Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
+
 ### Working with Non-Traditional Subjects; Lessons Learned from Using VR to Help Students with ADHD Focus
 
 
