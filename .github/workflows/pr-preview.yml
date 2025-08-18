@@ -67,9 +67,11 @@ jobs:
 
   # Deployment job
   deploy:
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     environment:
       name: github-pages
-      url: ${{ needs.build.outputs.preview_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
@@ -87,4 +89,4 @@ jobs:
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
-            Preview deployed at: ${{ needs.build.outputs.preview_url }}
+            Preview deployed at: ${{ needs.deploy.outputs.page_url }}
