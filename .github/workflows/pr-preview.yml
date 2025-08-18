@@ -76,3 +76,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+  add-comment:
+    runs-on: ubuntu-latest
+    needs: deploy
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Add preview URL to PR
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            Preview deployed at: ${{ needs.build.outputs.preview_url }}
