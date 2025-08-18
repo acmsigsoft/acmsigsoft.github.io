@@ -3,7 +3,7 @@ name: Deploy Preview
 
 on:
   # Runs on pull requests targeting the main branch
-  pull_request:
+  pull_request_target:
     branches:
       - main
 
