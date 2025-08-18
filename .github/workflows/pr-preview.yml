@@ -78,7 +78,7 @@ jobs:
         uses: actions/deploy-pages@v4
   add-comment:
     runs-on: ubuntu-latest
-    needs: deploy
+    needs: [build, deploy]
     permissions:
       pull-requests: write
     steps:
