@@ -38,6 +38,7 @@ Bio: David Shepherd is an Associate Professor in the Department of Computer Scie
 
 Date: Wednesday July 30, 10-11am ET
 
+
 Recording: https://youtu.be/ezGF87NqjVc
 
 
