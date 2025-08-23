@@ -61,7 +61,7 @@ jobs:
             --source base \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --destination "public"
+            --destination "${{ github.workspace }}/public"
 
       # Build PR preview
       - name: Checkout PR branch
@@ -85,10 +85,7 @@ jobs:
             --source pr \
             --minify \
             --baseURL "${{ steps.base_url.outputs.base_url }}/" \
-            --destination "public/pr-${{ github.event.number }}"
-
-      - name: List files in workspace for debugging
-        run: ls -R
+            --destination "${{ github.workspace }}/public/pr-${{ github.event.number }}"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
