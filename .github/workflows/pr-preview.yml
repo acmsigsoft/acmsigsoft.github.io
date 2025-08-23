@@ -87,6 +87,9 @@ jobs:
             --baseURL "${{ steps.base_url.outputs.base_url }}/" \
             --destination "public/pr-${{ github.event.number }}"
 
+      - name: List files in workspace for debugging
+        run: ls -R
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
