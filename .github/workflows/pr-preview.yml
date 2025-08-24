@@ -38,28 +38,55 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
+
+      # Build production site from base branch
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.base_ref }}
+          path: base
+          submodules: recursive
+      - name: Install Node.js dependencies for base
+        working-directory: base
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Set preview baseURL
-        id: base_url
-        run: echo "base_url=https://yqtian.com/${{ github.event.repository.name }}/pr-${{ github.event.number }}" >> $GITHUB_OUTPUT
-      - name: Build with Hugo
+      - name: Build production site
         env:
-          # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
           hugo \
+            --source base \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --destination "${{ github.workspace }}/public"
+
+      # Build PR preview
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr
+          submodules: recursive
+      - name: Install Node.js dependencies for PR
+        working-directory: pr
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Set preview baseURL
+        id: base_url
+        run: echo "base_url=${{ steps.pages.outputs.base_url }}/pr-${{ github.event.number }}" >> $GITHUB_OUTPUT
+      - name: Build PR preview
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --source pr \
             --minify \
             --baseURL "${{ steps.base_url.outputs.base_url }}/" \
-            --destination "public/pr-${{ github.event.number }}"
+            --destination "${{ github.workspace }}/public/pr-${{ github.event.number }}"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -86,5 +113,5 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          body: |
+          body: | # This is a multiline string, so newlines are preserved correctly.
             Preview deployed at: ${{ needs.build.outputs.preview_url }}
