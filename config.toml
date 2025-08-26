@@ -136,7 +136,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Research Highlights"
-    url        = "https://www.sigsoft.org/resources/highlights.html"
+    url        = "/researchhighlight"
     weight     = 4
     parent     = "menu.pubs"
 
