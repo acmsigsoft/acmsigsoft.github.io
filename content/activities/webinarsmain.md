@@ -23,7 +23,19 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 Stay tuned for more webinars coming soon!
 
 
-## Previous Webinars
+### Quantum Software Engineering: Building Dependable Software for Quantum Computers
+
+#### abstract
+Quantum computers are becoming increasingly powerful and accessible. For instance, it is now possible to access IBM’s quantum computers of up to 156 qubits via cloud services through open access. This opens up new opportunities for building novel quantum computing applications, which are enabled through quantum software. However, developing dependable software that runs on quantum computers and delivers these applications requires new software engineering methods. To this end, a novel field of Quantum Software Engineering (QSE) is emerging. This talk will introduce the field of QSE, covering various aspects such as requirements engineering, modeling, coding, testing, and debugging of quantum software. Moreover, the talk will discuss how classical AI can potentially assist in QSE activities and briefly touch on quantum artificial intelligence, which holds the potential to help with QSE. Finally, the talk will conclude by discussing open research questions and the outlook for future work.
+
+#### Bio
+[Shaukat Ali](https://x.com/shukat_ali/status/1755292918510760172) is a Chief Research Scientist, Research Professor, and Head of the Department at Simula Research Laboratory in Oslo, Norway. He focuses on developing novel methods for creating cyber-physical systems by applying various advanced techniques, including artificial intelligence, digital twins, and quantum computing. He has led multiple national and European projects related to testing, search-based software engineering, model-based system engineering, and quantum software engineering. He is a co-founder of the International Workshop on Quantum Software Engineering at ICSE, the International Conference on Quantum Software, and the QC+AI workshop at AAAI. He represents Simula in various national and international quantum computing research and industrial networks.
+
+#### Date: Sep 9, 2025, Time - 14:00 CEST (IST 5:30PM)
+
+
+
+# Previous Webinars
 
 Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 

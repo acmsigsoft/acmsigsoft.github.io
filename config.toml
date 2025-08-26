@@ -24,33 +24,39 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
+    name       = "About SIGSOFT"
+    url        = "/about"
+    weight     = 1
+    parent     = "menu.abt"
+
+[[menu.main]]
     name       = "Executive Committee"
     url        = "/execcontact"
-    weight     = 1
+    weight     = 2
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "CARES Committee"
     url        = "/cares/committee/"
-    weight     = 2
+    weight     = 3
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "SIGSOFT Bylaws"
     url        = "https://www.acm.org/special-interest-groups/volunteer-resources/bylaws/sigsoft-bylaws"
-    weight     = 3
+    weight     = 4
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "Logos"
     url        = "/logos/logos"
-    weight     = 4
+    weight     = 5
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "Contact Us"
     url        = "/contact"
-    weight     = 5
+    weight     = 6
     parent     = "menu.abt"
 
 
@@ -68,7 +74,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Program Committee Policy"
-    url        = "/PCpolicy"
+    url        = "/policies/PCpolicy"
     weight     = 2
     parent     = "menu.conferences"
 
@@ -130,7 +136,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Research Highlights"
-    url        = "https://www.sigsoft.org/resources/highlights.html"
+    url        = "/researchhighlight"
     weight     = 4
     parent     = "menu.pubs"
 
@@ -323,12 +329,11 @@ pluralizelisttitles = false
     url = "https://www.youtube.com/@SIGSOFT"
     pre = "<i class='fa-brands fa-2x fa-square-youtube'></i>"
 
-
 [[menu.topbar]]
-    weight = 6
-    name = "Youtube"
-    url = "https://www.youtube.com/@SIGSOFT"
-    pre = "<i class='fab fa-2x fa-youtube'></i>"
+    weight = 7
+    name = "Medium"
+    url = "https://sigsoft.medium.com"
+    pre = "<i class='fa-brands fa-2x fa-medium'></i>"
 
 
 [params]
@@ -340,7 +345,7 @@ pluralizelisttitles = false
     twitter_site = "sigsoft" # the Twitter handle of your site (without the '@')
     default_sharing_image = "/img/sigsoft.png"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    #Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
 
     formspree_action = "https://formspree.io/sample/of/endpoint"
