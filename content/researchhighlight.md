@@ -79,7 +79,3 @@ P. Zhang, J. Wang, J. Sun, G. Dong, X. Wang, X. Wang, J.S. Dong, and T. Dai
 **Venue:** ICSE 2020
 
 **Nomination Statement:** Deep neural networks (DNNs) have demonstrated their effectiveness in multiple important application contexts, from face recognition, to medical diagnosis, fraud detection, and others. Especially when DNNs work with human-related characteristics, it is of paramount importance to ensure that they show fair behavior. However, because of societal bias often occurring in the training data, the resulting DNNs may introduce discrimination unintentionally. To address this problem, the paper proposes a scalable approach for generating individual discriminatory instances of DNNs. By generating several instances, it is possible to retrain a DNN to reduce discrimination. The approach is evaluated by comparing it with other two from the state of the art. The evaluation is performed on three significant datasets and shows a more effective search space exploration as well as the possibility to generate a larger number of individual discriminatory instances using significant less time. This paper provides a contribution that is cross-cutting two disciplines, software engineering and machine learning, and paves the way toward improving the quality of DNNs and their usability in societal contexts.
-
-© 2020 **ACM SIGSOFT**
-
-[Home](index.html) | [Sitemap](/sitemap.html)
