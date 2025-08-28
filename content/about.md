@@ -16,6 +16,15 @@ The field of software engineering is generally considered to have begun with the
 
 SIGSOFT was officially formed in 1976 as the Special Interest Committee on Software Engineering (SICSOFT), and converted to SIGSOFT in 1977. More details about the history of SIGSOFT, its officers, conferences, awards and more is available on the [SIGSOFT History Wiki](http://historywiki.acm.org/sigs/SIGSOFT).
 
+Here are selected topics from the Wiki as well other historical information:
+
+*   [SIGSOFT Chronology](http://historywiki.acm.org/sigs/SIGSOFT)
+*   [SIGSOFT Community Directory](http://historywiki.acm.org/sigs/SIGSOFT-CD)
+*   [FSE History Page](http://historywiki.acm.org/sigs/SIGSOFT-FSE)
+*   [ISSTA History Page](http://historywiki.acm.org/sigs/SIGSOFT-ISSTA)
+*   [Software Engineering Academic Genealogy](http://web.engr.illinois.edu/~taoxie/sefamily.htm)
+*   [Software Engineering Conference Statistics](http://www.cs.illinois.edu/homes/taoxie/seconferences.htm)
+*   [Software Engineering Dissertations](/dissertations.html)
 
 Policies and Guidelines
 -----------------------
