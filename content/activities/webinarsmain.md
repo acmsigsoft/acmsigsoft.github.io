@@ -31,8 +31,7 @@ Quantum computers are becoming increasingly powerful and accessible. For instanc
 #### Bio
 [Shaukat Ali](https://x.com/shukat_ali/status/1755292918510760172) is a Chief Research Scientist, Research Professor, and Head of the Department at Simula Research Laboratory in Oslo, Norway. He focuses on developing novel methods for creating cyber-physical systems by applying various advanced techniques, including artificial intelligence, digital twins, and quantum computing. He has led multiple national and European projects related to testing, search-based software engineering, model-based system engineering, and quantum software engineering. He is a co-founder of the International Workshop on Quantum Software Engineering at ICSE, the International Conference on Quantum Software, and the QC+AI workshop at AAAI. He represents Simula in various national and international quantum computing research and industrial networks.
 
-#### Date: 
-Sep 9, 2025, Time - 14:00 CEST (IST 5:30PM)
+Tuesday September 9, 2025, 14:00-15:00 CEST (17:30-18:30 IST)
 
 
 
