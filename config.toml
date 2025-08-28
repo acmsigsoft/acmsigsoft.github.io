@@ -329,12 +329,12 @@ pluralizelisttitles = false
     url = "https://www.youtube.com/@SIGSOFT"
     pre = "<i class='fa-brands fa-2x fa-square-youtube'></i>"
 
-
 [[menu.topbar]]
-    weight = 6
-    name = "Youtube"
-    url = "https://www.youtube.com/@SIGSOFT"
-    pre = "<i class='fab fa-2x fa-youtube'></i>"
+    weight = 7
+    name = "Medium"
+    url = "https://sigsoft.medium.com"
+    pre = "<i class='fa-brands fa-2x fa-medium'></i>"
+
 
 
 [params]
@@ -346,7 +346,7 @@ pluralizelisttitles = false
     twitter_site = "sigsoft" # the Twitter handle of your site (without the '@')
     default_sharing_image = "/img/sigsoft.png"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    #Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
 
     formspree_action = "https://formspree.io/sample/of/endpoint"
