@@ -51,10 +51,10 @@ Have you ever considered working with subjects other than traditional developers
 David Shepherd is an Associate Professor in the Department of Computer Science at Louisiana State University. He earned his Ph.D. and M.S. in Computer Science at the University of Delaware, and his B.S. in Computer Science at Virginia Commonwealth University. David has since worked as a postdoctoral fellow in the Department of Computer Science at the University of British Columbia, built sweat equity as employee #9 at Tasktop Technologies, and risen to Senior Principal Scientist at ABB Corporate Research. His research has produced tools that have been used by thousands, innovations that have been featured in the popular press, and practical ideas that have won business plan competitions. Dr. Shepherd currently serves as the Co-Editor-in-Chief of the Journal of Systems & Software.
 
 
-#### Date: 
+#### Date:
 Wednesday July 30, 10-11am ET
-#### Recording: 
-https://youtu.be/ezGF87NqjVc
+#### Recording:
+[Watch on YouTube](https://youtu.be/ezGF87NqjVc)
 
 
 ### From SBOM to Trusted Software Supply Chain: How Far Are We?
