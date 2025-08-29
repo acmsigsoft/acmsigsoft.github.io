@@ -24,33 +24,39 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
+    name       = "About SIGSOFT"
+    url        = "/about"
+    weight     = 1
+    parent     = "menu.abt"
+
+[[menu.main]]
     name       = "Executive Committee"
     url        = "/execcontact"
-    weight     = 1
+    weight     = 2
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "CARES Committee"
     url        = "/cares/committee/"
-    weight     = 2
+    weight     = 3
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "SIGSOFT Bylaws"
     url        = "https://www.acm.org/special-interest-groups/volunteer-resources/bylaws/sigsoft-bylaws"
-    weight     = 3
+    weight     = 4
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "Logos"
     url        = "/logos/logos"
-    weight     = 4
+    weight     = 5
     parent     = "menu.abt"
 
 [[menu.main]]
     name       = "Contact Us"
     url        = "/contact"
-    weight     = 5
+    weight     = 6
     parent     = "menu.abt"
 
 
@@ -68,7 +74,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Program Committee Policy"
-    url        = "/PCpolicy"
+    url        = "/policies/PCpolicy"
     weight     = 2
     parent     = "menu.conferences"
 
@@ -130,11 +136,15 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Research Highlights"
-    url        = "https://www.sigsoft.org/resources/highlights.html"
+    url        = "/researchhighlight"
     weight     = 4
     parent     = "menu.pubs"
 
-
+[[menu.main]]
+    name       = "OpenTOC"
+    url        = "/opentoc"
+    weight     = 5
+    parent     = "menu.pubs"
 
 [[menu.main]]
     name       = "Awards"
