@@ -78,6 +78,22 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 
 ## Committee
 
+#### 2026
+- Abhik Roychoudhury, National University of Singapore, Singapore (chair)
+- Luciano Baresi, Politecnico di Milano, Italy
+- Marcel Böhme, Max-Planck Institute for Security and Privacy, Germany
+- Gordon Fraser, University of Passau, Germany
+- Zhi Jin, Peking University, China
+- Foutse Khomh, Polytechnique Montreal, Canada
+- Xiaoxing Ma, Nanjing University, China
+- Kathryn Stolee, North Carolina State University, USA
+- Lin Tan, Purdue University, USA
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+
+ 
+
+
 #### 2025
 
 - Abhik Roychoudhury, National University of Singapore, Singapore (chair)

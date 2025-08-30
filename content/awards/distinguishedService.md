@@ -58,6 +58,16 @@ If you have questions about this award, please contact sigsoft-service-award (at
 
 ## Committees
 
+#### 2026
+- Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
+- Sepideh Ghanavati, University of Main, USA
+- Jun Sun, SMU, Singapore
+- Foutse Khomh,  Polytechnique Montréal, Canada
+- Qinghua Lu,  CSIRO, Australia
+- Domenico Bianculli, University of Luxembourg, Luxembourg
+- Dan Hao, Peking University, China 
+- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 #### 2025
 - Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
