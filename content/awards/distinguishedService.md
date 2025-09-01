@@ -60,7 +60,7 @@ If you have questions about this award, please contact sigsoft-service-award (at
 
 #### 2026
 - Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
-- Sepideh Ghanavati, University of Main, USA
+- Sepideh Ghanavati, University of Maine, USA
 - Jun Sun, SMU, Singapore
 - Foutse Khomh,  Polytechnique Montréal, Canada
 - Qinghua Lu,  CSIRO, Australia
