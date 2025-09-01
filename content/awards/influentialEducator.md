@@ -37,10 +37,10 @@ If you have questions about this award, please contact sigsoft-educator-award (a
 
 #### 2026
 - Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
-- Sepideh Ghanavati, University of Main, USA
+- Sepideh Ghanavati, University of Maine, USA
 - Jun Sun, SMU, Singapore
-- Foutse Khomh,  Polytechnique Montréal, Canada
-- Qinghua Lu,  CSIRO, Australia
+- Foutse Khomh, Polytechnique Montréal, Canada
+- Qinghua Lu, CSIRO, Australia
 - Domenico Bianculli, University of Luxembourg, Luxembourg
 - Dan Hao, Peking University, China 
 - Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
