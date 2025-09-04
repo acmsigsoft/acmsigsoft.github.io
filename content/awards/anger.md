@@ -46,6 +46,17 @@ This award is a unique opportunity to help promote cross-discipline research. Al
 
 ## Committee
 
+#### 2026
+- Aldeida Aleti, Monash University, Australia  (chair)
+- Valerio Terragni, University of Auckland, New Zealand
+- Lei Ma, University of Tokyo, Japan
+- Jie Zhang, King's College London, UK.
+- Ciera Jaspan, Google, USA
+- Shin Hwei Tan, Concordia University, Canada
+- Dongmei Zhang, Microsoft Research Asia, China
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+
 #### 2025
 - Aldeida Aleti, Monash University, Australia 
 - Dan Hao, Peking University, China
