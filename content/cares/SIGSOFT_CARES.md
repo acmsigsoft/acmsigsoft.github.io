@@ -62,5 +62,9 @@ CARES committee members may also attend other workshops and conferences sponsore
 
 
 ## Annual Reports
-Our first annual report will be available in 2023. To maintain confidentially, the reports will be brief. They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. The reports will be structured this way to protect the privacy of those that approach us.
-- [SIGSOFT CARES Annual Report 2023](/files/AR2023.pdf)
+Our first annual report was available in 2023. 
+To maintain confidentially, the reports will be brief. 
+They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. 
+The reports will be structured this way to protect the privacy of those that approach us.
+- [SIGSOFT CARES Annual Report 2024](/files/CareAR2024.pdf)
+- [SIGSOFT CARES Annual Report 2023](/files/CareAR2023.pdf)
