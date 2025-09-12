@@ -58,3 +58,8 @@ There are two GitHub Actions workflows defined in the `.github/workflows` direct
 - `production-deploy.yml`: This workflow is triggered on pushes to the main branch and deploys the website to the production URL.
 You can enable these workflows in your forked repository by going to the "Actions" tab and clicking on the "Enable workflow" button. 
 
+
+### Acknowledgements
+This website is or was previously maintained by:
+- Yongqiang Tian, Monash University, Australia (since 2024)
+- Raula Gaikovina Kula, The University of Osaka, Japan (2021-2024)

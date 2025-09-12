@@ -23,6 +23,10 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 Stay tuned for more webinars coming soon!
 
 
+# Previous Webinars
+
+Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
+
 ### Quantum Software Engineering: Building Dependable Software for Quantum Computers
 
 #### Abstract
@@ -34,13 +38,8 @@ Quantum computers are becoming increasingly powerful and accessible. For instanc
 #### Date and Time:
 Tuesday September 9, 2025, 14:00-15:00 CEST (17:30-18:30 IST)
 
-[Zoom registration link](https://events.zoom.us/ev/AnnXDH9Bua-fVhgGIMjzPZ7_eAla84PIk98YSryJJgDHFJkAYYjV~Ao1XBoJ4cReF04cS-5WPyEJu5HyX_TnquhDSvQ2bNhcpezakbCsQ9FBk9Q)
-
-
-
-# Previous Webinars
-
-Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
+#### Recording:
+[Watch on YouTube](https://youtu.be/jtyHcCubWkk)
 
 ### Working with Non-Traditional Subjects; Lessons Learned from Using VR to Help Students with ADHD Focus
 
