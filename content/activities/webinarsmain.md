@@ -22,6 +22,30 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 
 Stay tuned for more webinars coming soon!
 
+### Software Developer Accountability in the AI Era
+
+#### Abstract
+Being accountable to one’s teammates has positive effects on teamwork and efficiency. In this webinar, we introduce a series of studies we have conducted on the nature of accountability in software teams. We introduce the concepts of institutional and grassroots accountability, and expand on how intrinsic drivers of accountability, like pride in one’s code quality, impact team dynamics. We conclude by examining how the introduction of AI tools in code review influence these feelings of accountability. Our findings imply that the introduction of AI into SE must preserve social integrity and collective accountability mechanisms.
+
+#### Bios
+
+**Neil Ernst**, PhD, is an associate professor at the University of Victoria in the Department of Computer Science and Director, Matrix Institute for Data Science. He is a world-leading researcher in software architecture and requirements. His research focuses on building next generation software systems. He leverages past experience consulting with large government stakeholders and empirical datasets on software development and analysis. Current projects include technical debt in scientific software, climate informatics, and the impacts of AI on human aspects of software development.
+Neil teaches in the software engineering program, covering courses on software architecture, requirements, and data science for software analysis.
+Neil holds a PhD in Computer Science from the University of Toronto, and previously worked at the Software Engineering Institute, Carnegie Mellon University, as a senior researcher.
+Currently:
+- Director, UVic Matrix Institute for Data Science
+- Senior Associate Editor, Journal of Systems and Software
+- Associate Editor, Journal of Empirical Software Engineering, registered reports
+- program committees - among others, at various times, ICSE, RE, XP, CAISE, ER, MODELS
+
+**Adam Alami** is an Associate Professor of Software Engineering at the University of Southern Denmark (SDU). He possesses extensive experience in the information technology sector, with a career spanning over two decades. Initially a software developer, Adam’s professional journey has evolved to encompass business analysis and project management. He has contributed to numerous major IT transformation projects. His research interests are centered on the cooperative, social, and human aspects of software engineering. Adam is dedicated to exploring how software development teams can enhance the quality of their output. His research examines the processes, ceremonies, and the underlying behaviors, norms, and traditions that significantly influence their pursuit of quality. Adam holds a PhD in Computer Science from the IT University of Copenhagen, Denmark, a Master’s degree in Computer Science from the University of Technology Sydney (UTS), and a Bachelor’s degree in Software Engineering from the Université du Québec à Montréal (UQAM).
+
+#### Date and Time:
+September 25, 2025, 1-2pm ET
+
+Click [here to join the webinar](https://events.zoom.us/ev/Ai8YLOW5tMEGZbSXQguVaZAbTXilCpVIVTBerl5tkeuz5sRZygQq~AqQEkGyZJ9x5v5XpE9rPbwUUwu1vjaf68VoeRnUG9tObbW0dKP8AErc4PNUYVS2rCXkv7FUm_HsIF3rAlaFbN8qKpw)
+
+
 
 # Previous Webinars
 
