@@ -43,6 +43,10 @@ Currently:
 #### Date and Time:
 September 25, 1-2pm ET
 
+Click [here to join the webinar](https://events.zoom.us/ev/Ai8YLOW5tMEGZbSXQguVaZAbTXilCpVIVTBerl5tkeuz5sRZygQq~AqQEkGyZJ9x5v5XpE9rPbwUUwu1vjaf68VoeRnUG9tObbW0dKP8AErc4PNUYVS2rCXkv7FUm_HsIF3rAlaFbN8qKpw)
+
+
+
 # Previous Webinars
 
 Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
