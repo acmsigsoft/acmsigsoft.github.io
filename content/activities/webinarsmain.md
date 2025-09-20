@@ -41,7 +41,7 @@ Currently:
 **Adam Alami** is an Associate Professor of Software Engineering at the University of Southern Denmark (SDU). He possesses extensive experience in the information technology sector, with a career spanning over two decades. Initially a software developer, Adam’s professional journey has evolved to encompass business analysis and project management. He has contributed to numerous major IT transformation projects. His research interests are centered on the cooperative, social, and human aspects of software engineering. Adam is dedicated to exploring how software development teams can enhance the quality of their output. His research examines the processes, ceremonies, and the underlying behaviors, norms, and traditions that significantly influence their pursuit of quality. Adam holds a PhD in Computer Science from the IT University of Copenhagen, Denmark, a Master’s degree in Computer Science from the University of Technology Sydney (UTS), and a Bachelor’s degree in Software Engineering from the Université du Québec à Montréal (UQAM).
 
 #### Date and Time:
-September 25, 1-2pm ET
+September 25, 2025, 1-2pm ET
 
 Click [here to join the webinar](https://events.zoom.us/ev/Ai8YLOW5tMEGZbSXQguVaZAbTXilCpVIVTBerl5tkeuz5sRZygQq~AqQEkGyZJ9x5v5XpE9rPbwUUwu1vjaf68VoeRnUG9tObbW0dKP8AErc4PNUYVS2rCXkv7FUm_HsIF3rAlaFbN8qKpw)
 
