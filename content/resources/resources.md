@@ -52,7 +52,7 @@ Understand and follow these policies and guidelines:
 *   [Guidelines for Obtaining SIGSOFT Sponsorship Status](/policies/sponsorship)
 *   [Guidelines for Running a SIGSOFT-Sponsored Meeting](/policies/meeting)
 *   [Guidelines for organizing a SIGSOFT-Sponsored Workshop](/policies/workshop)
-*   [Updates to Event Proceedures from SEN Sept. 2008](http://portalparts.acm.org/1410000/1402521/fm/frontmatter.pdf) - refer to "Letter from the Vice-Chair"
+*   [Updates to Event Procedures from SEN Sept. 2008](http://portalparts.acm.org/1410000/1402521/fm/frontmatter.pdf) - refer to "Letter from the Vice-Chair"
 *   [ACM Policy and Procedures on Plagiarism](http://www.acm.org/publications/policies/plagiarism_policy)
 *   [ACM Anti-Harassment Policy](http://www.acm.org/sigs/volunteer_resources/officers_manual/anti-harassment-policy)
 
