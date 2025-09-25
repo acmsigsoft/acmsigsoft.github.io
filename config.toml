@@ -147,6 +147,12 @@ pluralizelisttitles = false
     parent     = "menu.pubs"
 
 [[menu.main]]
+    name       = "Dissertations"
+    url        = "/dissertations"
+    weight     = 6
+    parent     = "menu.pubs"
+
+[[menu.main]]
     name       = "Awards"
     identifier = "menu.features"
     weight     = 5
