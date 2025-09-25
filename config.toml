@@ -112,7 +112,7 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Publications"
+    name       = "Publications and Resources"
     identifier = "menu.pubs"
     weight     = 4
 
@@ -151,6 +151,26 @@ pluralizelisttitles = false
     url        = "/dissertations"
     weight     = 6
     parent     = "menu.pubs"
+
+[[menu.main]]
+    name       = "Impact Projects"
+    url        = "/impact/impact"
+    weight     = 7
+    parent     = "menu.pubs"
+
+[[menu.main]]
+    name       = "Resources"
+    url        = "/resources/resources"
+    weight     = 8
+    parent     = "menu.pubs"
+
+[[menu.main]]
+    name       = "Improving Paper and Peer Review Quality"
+    url        = "/resources/improve"
+    weight     = 9
+    parent     = "menu.pubs"
+
+
 
 [[menu.main]]
     name       = "Awards"
