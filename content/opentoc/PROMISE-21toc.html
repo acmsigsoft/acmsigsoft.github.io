@@ -1,0 +1,267 @@
+<html xmlns:bkstg="http://www.atypon.com/backstage-ns" xmlns:urlutil="java:com.atypon.literatum.customization.UrlUtil" xmlns:pxje="java:com.atypon.frontend.services.impl.PassportXslJavaExtentions">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <style type="text/css">
+            #DLtoc {
+            font: normal 12px/1.5em Arial, Helvetica, sans-serif;
+            }
+
+            #DLheader {
+            }
+            #DLheader h1 {
+            font-size:16px;
+            }
+
+            #DLcontent {
+            font-size:12px;
+            }
+            #DLcontent h2 {
+            font-size:14px;
+            margin-bottom:5px;
+            }
+            #DLcontent h3 {
+            font-size:12px;
+            padding-left:20px;
+            margin-bottom:0px;
+            }
+
+            #DLcontent ul{
+            margin-top:0px;
+            margin-bottom:0px;
+            }
+
+            .DLauthors li{
+            display: inline;
+            list-style-type: none;
+            padding-right: 5px;
+            }
+
+            .DLauthors li:after{
+            content:",";
+            }
+            .DLauthors li.nameList.Last:after{
+            content:"";
+            }
+
+            .DLabstract {
+            padding-left:40px;
+            padding-right:20px;
+            display:block;
+            }
+
+            .DLformats li{
+            display: inline;
+            list-style-type: none;
+            padding-right: 5px;
+            }
+
+            .DLformats li:after{
+            content:",";
+            }
+            .DLformats li.formatList.Last:after{
+            content:"";
+            }
+
+            .DLlogo {
+            vertical-align:middle;
+            padding-right:5px;
+            border:none;
+            }
+
+            .DLcitLink {
+            margin-left:20px;
+            }
+
+            .DLtitleLink {
+            margin-left:20px;
+            }
+
+            .DLotherLink {
+            margin-left:0px;
+            }
+
+        </style>
+      <title>PROMISE 2021: Proceedings of the 17th International Conference on Predictive Models and Data Analytics in Software Engineering</title>
+   </head>
+   <body>
+      <div id="DLtoc">
+         <div id="DLheader">
+            <h1>PROMISE 2021: Proceedings of the 17th International Conference on Predictive Models and Data Analytics
+               in Software Engineering</h1><a class="DLcitLink" title="Go to the ACM Digital Library for additional information about this proceeding" referrerpolicy="no-referrer-when-downgrade" href="https://dl.acm.org/doi/proceedings/10.1145/3475960"><img class="DLlogo" alt="Digital Library logo" height="30" src="https://dl.acm.org/specs/products/acm/releasedAssets/images/footer-logo1.png">
+               Full Citation in the ACM Digital Library
+               </a></div>
+         <div id="DLcontent">
+            <h2>SESSION: Papers</h2>
+            						
+            <h3><a class="DLtitleLink" title="Full Citation in the ACM Digital Library" referrerpolicy="no-referrer-when-downgrade" href="https://dl.acm.org/doi/10.1145/3475960.3475984">Heterogeneous ensemble imputation for software development effort estimation</a></h3>
+            <ul class="DLauthors">
+               <li class="nameList">Ibtissam Abnane</li>
+               <li class="nameList">Ali Idri</li>
+               <li class="nameList">Mohamed Hosni</li>
+               <li class="nameList Last">Alain Abran</li>
+            </ul>
+            <div class="DLabstract">
+               <div style="display:inline">
+                  		
+                  <p>Choosing the appropriate Missing Data (MD) imputation technique for a given Software
+                     development effort estimation (SDEE) technique is not a trivial task. In fact, the
+                     impact of the MD imputation on the estimation output depends on the dataset and the
+                     SDEE technique used and there is no best imputation technique in all contexts. Thus,
+                     an attractive solution is to use more than one single imputation technique and combine
+                     their results for a final imputation outcome. This concept is called ensemble imputation
+                     and can help to significantly improve the estimation accuracy. This paper develops
+                     and evaluates a heterogeneous ensemble imputation whose members were the four single
+                     imputation techniques: K-Nearest Neighbors (KNN), Expectation Maximization (EM), Support
+                     Vector Regression (SVR), and Decision Trees (DT). The impact of the ensemble imputation
+                     was evaluated and compared with those of the four single imputation techniques on
+                     the accuracy measured in terms of the standardized accuracy criterion of four SDEE
+                     techniques: Case Based Reasoning (CBR), Multi-Layers Perceptron (MLP), Support Vector
+                     Regression (SVR) and Reduced Error Pruning Tree (REPTree). The Wilcoxon statistical
+                     test was also performed in order to assess whether the results are significant. All
+                     the empirical evaluations were carried out over the six datasets, namely, ISBSG, China,
+                     COCOMO81, Desharnais, Kemerer, and Miyazaki. Results show that the use of heterogeneous
+                     ensemble-based imputation instead single imputation significantly improved the accuracy
+                     of the four SDEE techniques. Indeed, the ensemble imputation technique was ranked
+                     either first or second in all contexts.</p>
+                  	</div>
+            </div>
+            						
+            					
+            						
+            <h3><a class="DLtitleLink" title="Full Citation in the ACM Digital Library" referrerpolicy="no-referrer-when-downgrade" href="https://dl.acm.org/doi/10.1145/3475960.3475988">Multi-stream online transfer learning for software effort estimation: is it necessary?</a></h3>
+            <ul class="DLauthors">
+               <li class="nameList Last">Leandro L. Minku</li>
+            </ul>
+            <div class="DLabstract">
+               <div style="display:inline">
+                  		
+                  <p>Software Effort Estimation (SEE) may suffer from changes in the relationship between
+                     features describing software projects and their required effort over time, hindering
+                     predictive performance of machine learning models. To cope with that, most machine
+                     learning-based SEE approaches rely on receiving a large number of Within-Company (WC)
+                     projects for training over time, being prohibitively expensive. The approach Dycom
+                     reduces the number of required WC training projects by transferring knowledge from
+                     Cross-Company (CC) projects. However, it assumes that CC projects have no chronology
+                     and are entirely available before WC projects start being estimated. Given the importance
+                     of taking chronology into account to cope with changes, it may be beneficial to also
+                     take the chronology of CC projects into account. This paper thus investigates whether
+                     and under what circumstances treating CC projects as multiple data streams to be learned
+                     over time may be useful for improving SEE. For that, an extension of Dycom called
+                     OATES is proposed to enable multi-stream online learning, so that both incoming WC
+                     and CC data streams can be learnt over time. OATES is then compared against Dycom
+                     and five other approaches on a case study using four different scenarios derived from
+                     the ISBSG Repository. The results show that OATES improved predictive performance
+                     over the state-of-the-art when the number of CC projects available beforehand was
+                     small. Learning CC projects over time as multiple data streams is thus recommended
+                     for improving SEE in such scenario. When the number of CC projects available beforehand
+                     was large, OATES obtained similar predictive performance to the state-of-the-art.
+                     Therefore, CC data streams are unnecessary in this scenario, but are not detrimental
+                     either.</p>
+                  	</div>
+            </div>
+            						
+            					
+            						
+            <h3><a class="DLtitleLink" title="Full Citation in the ACM Digital Library" referrerpolicy="no-referrer-when-downgrade" href="https://dl.acm.org/doi/10.1145/3475960.3475986">Comparative study of random search hyper-parameter tuning for software effort estimation</a></h3>
+            <ul class="DLauthors">
+               <li class="nameList">Leonardo Villalobos-Arias</li>
+               <li class="nameList Last">Christian Quesada-López</li>
+            </ul>
+            <div class="DLabstract">
+               <div style="display:inline">
+                  		
+                  <p>Empirical studies on software effort estimation have employed hyper-parameter tuning
+                     algorithms to improve model accuracy and stability. While these tuners can improve
+                     model performance, some might be overly complex or costly for the low dimensionality
+                     datasets used in SEE. In such cases a method like random search can potentially provide
+                     similar benefits as some of the existing tuners, with the advantage of using low amounts
+                     of resources and being simple to implement. In this study we evaluate the impact on
+                     model accuracy and stability of 12 state-of-the-art hyper-parameter tuning algorithms
+                     against random search, on 9 datasets of the PROMISE repository and 4 sub-datasets
+                     from the ISBSG R18 dataset. This study covers 2 traditional exhaustive tuners (grid
+                     and random searches), 6 bio-inspired algorithms, 2 heuristic tuners, and 3 model-based
+                     algorithms. The tuners are used to configure support vector regression, classification
+                     and regression trees, and ridge regression models. We aim to determine the techniques
+                     and datasets for which certain tuners were 1) more effective than default hyper-parameters,
+                     2) more effective than random search, 3) which models(s) can be considered "the best"
+                     for which datasets. The results of this study show that hyper-parameter tuning was
+                     effective (increased accuracy and stability) in 862 (51%) of the 1,690 studied scenarios.
+                     The 12 state-of-the-art tuners were more effective than random search in 95 (6%) of
+                     the 1,560 studied (non-random search) scenarios. Although not effective in every dataset,
+                     the combination of flash tuning, logarithm transformation and support vector regression
+                     obtained top ranking in accuracy on the highest amount (8 out of 13) of datasets.
+                     Hyperband tuned ridge regression with logarithm transformation obtained top ranking
+                     in accuracy on the highest amount (10 out of 13) of datasets. We endorse the use of
+                     random search as a baseline for comparison for future studies that consider hyper-parameter
+                     tuning.</p>
+                  	</div>
+            </div>
+            						
+            					
+            						
+            <h3><a class="DLtitleLink" title="Full Citation in the ACM Digital Library" referrerpolicy="no-referrer-when-downgrade" href="https://dl.acm.org/doi/10.1145/3475960.3475985">CVEfixes: automated collection of vulnerabilities and their fixes from open-source
+                  software</a></h3>
+            <ul class="DLauthors">
+               <li class="nameList">Guru Bhandari</li>
+               <li class="nameList">Amara Naseer</li>
+               <li class="nameList Last">Leon Moonen</li>
+            </ul>
+            <div class="DLabstract">
+               <div style="display:inline">
+                  		
+                  <p>Data-driven research on the automated discovery and repair of security vulnerabilities
+                     in source code requires comprehensive datasets of real-life vulnerable code and their
+                     fixes. To assist in such research, we propose a method to automatically collect and
+                     curate a comprehensive vulnerability dataset from Common Vulnerabilities and Exposures
+                     (CVE) records in the National Vulnerability Database (NVD). We implement our approach
+                     in a fully automated dataset collection tool and share an initial release of the resulting
+                     vulnerability dataset named CVEfixes. The CVEfixes collection tool automatically fetches
+                     all available CVE records from the NVD, gathers the vulnerable code and corresponding
+                     fixes from associated open-source repositories, and organizes the collected information
+                     in a relational database. Moreover, the dataset is enriched with meta-data such as
+                     programming language, and detailed code and security metrics at five levels of abstraction.
+                     The collection can easily be repeated to keep up-to-date with newly discovered or
+                     patched vulnerabilities. The initial release of CVEfixes spans all published CVEs
+                     up to 9 June 2021, covering 5365 CVE records for 1754 open-source projects that were
+                     addressed in a total of 5495 vulnerability fixing commits. CVEfixes supports various
+                     types of data-driven software security research, such as vulnerability prediction,
+                     vulnerability classification, vulnerability severity prediction, analysis of vulnerability-related
+                     code changes, and automated vulnerability repair.</p>
+                  	</div>
+            </div>
+            						
+            					
+            						
+            <h3><a class="DLtitleLink" title="Full Citation in the ACM Digital Library" referrerpolicy="no-referrer-when-downgrade" href="https://dl.acm.org/doi/10.1145/3475960.3475987">A classification of code changes and test types dependencies for improving machine
+                  learning based test selection</a></h3>
+            <ul class="DLauthors">
+               <li class="nameList">Khaled Al-Sabbagh</li>
+               <li class="nameList">Miroslaw Staron</li>
+               <li class="nameList">Regina Hebig</li>
+               <li class="nameList Last">Francisco Gomes</li>
+            </ul>
+            <div class="DLabstract">
+               <div style="display:inline">
+                  		
+                  <p>Machine learning has been increasingly used to solve various software engineering
+                     tasks. One example of their usage is in regression testing, where a classifier is
+                     built using historical code commits to predict which test cases require execution.
+                     In this paper, we address the problem of how to link specific code commits to test
+                     types to improve the predictive performance of learning models in improving regression
+                     testing. We design a dependency taxonomy of the content of committed code and the
+                     type of a test case. The taxonomy focuses on two types of code commits: changing memory
+                     management and algorithm complexity. We reviewed the literature, surveyed experienced
+                     testers from three Swedish-based software companies, and conducted a workshop to develop
+                     the taxonomy. The derived taxonomy shows that memory management code should be tested
+                     with tests related to performance, load, soak, stress, volume, and capacity; the complexity
+                     changes should be tested with the same dedicated tests and maintainability tests.
+                     We conclude that this taxonomy can improve the effectiveness of building learning
+                     models for regression testing.</p>
+                  	</div>
+            </div>
+            						
+            					</div>
+      </div>
+   </body>
+</html>

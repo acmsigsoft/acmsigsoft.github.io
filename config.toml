@@ -142,7 +142,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "OpenTOC"
-    url        = "/opentoc"
+    url        = "/opentoc/opentoc"
     weight     = 5
     parent     = "menu.pubs"
 
