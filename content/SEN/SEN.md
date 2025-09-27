@@ -39,9 +39,21 @@ Reach the editorial team of SEN at editors_SIGSOFT [at] acm.org
 
 
 ## Instructions for conference and workshop organizers
-
+**Software Engineering Notes (SEN)** provides ACM SIGSOFT-affiliated conferences, workshops or symposiums an opportunity to publish proceedings and/or meeting summaries.
 See [here]({{< ref "instructions.md" >}} "instructions").
 
 ## Publication Guidelines
 
 See [here]({{< ref "guideline.md" >}} "guideline").
+
+## Software Engineering Education (SEEd)
+
+See [here]({{< ref "seed.md" >}} "seed").
+
+## Surfing the Net for Software Engineering Notes
+
+See [here]({{< ref "surfing.md" >}} "surfing").
+
+
+## ACM SIGSOFT Fellows
+See [here]({{< ref "fellows.md" >}} "fellows").
