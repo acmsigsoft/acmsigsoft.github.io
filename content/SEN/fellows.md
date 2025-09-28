@@ -3,9 +3,10 @@ title = "ACM SIGSOFT: ACM Fellows"
 +++
 
 
-### SIGSOFT Fellows Profiles
+### ACM Fellows Profiles
 
-Each year, ACM recognizes members of the computing community who have made notable contributions to our field by honoring them as ACM Fellows. A large number of Fellows are also members of SIGSOFT, so beginning with the July 1998 issue of **Software Engineering Notes** (**SEN**), we've been publishing profiles of these folks. Here are the profiles published to date, along with the issue of SEN in which they appeared.
+Each year, ACM recognizes members of the computing community who have made notable contributions to our field by honoring them as ACM Fellows. A large number of Fellows are also members of SIGSOFT, so beginning with the July 1998 issue of **Software Engineering Notes** (**SEN**), we've been publishing profiles of these folks. 
+Here are the profiles published to date, along with the issue of SEN in which they appeared.
 
 - [Barry Boehm](/SEN/fellows/boehm), September 2004
 - [Grady Booch](/SEN/fellows/booch), September 1998
