@@ -142,7 +142,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "OpenTOC"
-    url        = "/opentoc"
+    url        = "/opentoc/opentoc"
     weight     = 5
     parent     = "menu.pubs"
 
@@ -453,7 +453,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Mission Statement"
     subtitle = "The ACM Special Interest Group on Software Engineering seeks to improve our ability to engineer software by stimulating interaction among practitioners, researchers, and educators; by fostering the professional development of software engineers; and by representing software engineers to professional, legal, and political entities."
-    link_url = "https://www2.sigsoft.org/"
+    link_url = "https://www2.sigsoft.org/about"
     link_text = "Homepage"
 
 [params.clients]

@@ -39,9 +39,29 @@ Reach the editorial team of SEN at editors_SIGSOFT [at] acm.org
 
 
 ## Instructions for conference and workshop organizers
-
+**Software Engineering Notes (SEN)** provides ACM SIGSOFT-affiliated conferences, workshops or symposiums an opportunity to publish proceedings and/or meeting summaries.
 See [here]({{< ref "instructions.md" >}} "instructions").
 
 ## Publication Guidelines
 
 See [here]({{< ref "guideline.md" >}} "guideline").
+
+## Software Engineering Education (SEEd)
+
+Peter Henderson started the _Software Engineering Education (SEEd)_ column in _SEN_ in 2003. In 2009, Mark Ardis became the lead author of the column with Peter continuing as co-author. There have been occasional guest authors over the years as well. Here are links to text of each of the columns in the ACM Digital Library, along with their major topics.
+
+See [here]({{< ref "seed.md" >}} "seed").
+
+## Surfing the Net for Software Engineering Notes
+
+Mark Doernhoefer wrote the _Surfing the Net for Software Engineering Notes_ column for _SEN_. Beginning with the January 2001 issue of _SEN_, Mark switched over from coverage of software engineering discussions on the Usenet newsgroups to software engineering-related sites on the World Wide Web.
+
+See [here]({{< ref "surfing.md" >}} "surfing").
+
+
+## ACM Fellows
+
+Each year, ACM recognizes members of the computing community who have made notable contributions to our field by honoring them as ACM Fellows. 
+A large number of Fellows are also members of SIGSOFT, so beginning with the July 1998 issue of Software Engineering Notes (SEN), we’ve been publishing profiles of these folks.
+
+[Here]({{< ref "fellows.md" >}} "fellows") are the profiles published.
