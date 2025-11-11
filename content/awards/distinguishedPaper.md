@@ -47,6 +47,30 @@ If the TMRF indicated that a best paper award would be given, the organizers wil
 
 ## Winners
 
+### The IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+Sun 16 - Thu 20 November, 2025, Seoul, South Korea
+
+ - Yuanliang Chen, Fuchen Ma, Yanyang Zhao, Yuanyi Li, Yu Jiang: DualFuzz: Detecting Vulnerability in Wi-Fi NICs through Dual-Directional Fuzzing
+ - Dongjun Youn, Wonho Shin, Sukyoung Ryu: WEST: Specification-Based Test Generation for WebAssembly
+ - Yue Wang, Jiaxuan Sun, Yanzhen Zou, Bing Xie: Enhancing LLMs with Staged Grouping and Dehallucination for Header File Decomposition
+ - Junjie Huang, Yuedong Zhong, Guangba Yu, Zhihan Jiang, Minzhi Yan, Wenfei Luan, Tianyu Yang, Rui Ren, Michael Lyu: iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation
+ - Zhi Ma, Cheng Wen, Zhexin Su, Xiao Liang, Cong Tian, Shengchao Qin, Mengfei Yang: Bridging Natural Language and Formal Specification - Automated Translation of Software Requirements to LTL via Hierarchical Semantics Decomposition Using LLMs
+ - Raoul van Doren, Timos Antonopoulos, Ruzica Piskac: Efficient and Verifiable Proof Logging for MaxSAT Solving
+ - Yi Song, Dongchen Xie, Lin Xu, He Zhang, Chunying Zhou, Xiaoyuan Xie: Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches
+ - Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen: Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair
+ - Islem Bouzenia, Michael Pradel: Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories
+ - Shinhae Kim, Saikat Dutta, Owolabi Legunsen: Faster Runtime Verification during Testing via Feedback-Guided Selective Monitoring
+ - Xiaogang Zhu, Enze Dai, Xiaotao Feng, Shaohua Wang, Xin Xia, Sheng Wen, Kwok-Yan Lam, Yang Xiang: WingMuzz: Blackbox Testing of IoT Protocols via Two-dimensional Fuzzing Schedule
+ - Yelizaveta Brus, Rungroj Maipradit, Earl T. Barr, Shane McIntosh: Rechecking Recheck Requests in Continuous Integration: An Empirical Study of OpenStack
+ - Vasil Sarafov, David Markvica, Stefan Brunthaler: TEPHRA: Principled Discovery of Fuzzer Limitations
+ - Chengpeng Li, Farnaz Behrang, August Shi, Peng Liu: FlakyGuard: Automatically Fixing Flaky Tests at Industry Scale
+ - Yunbo Lyu, Zhou Yang, Jieke Shi, Jianming Chang, Yue Liu, David Lo: "My productivity is boosted, but ..." Demystifying Users’ Perception on AI Coding Assistants
+ - Jiaxing Qi, Zhongzhi Luan, Shaohan Huang, Carol Fung, Yuchen Wang, Aibin Wang, Hongyu Zhang, Hailong Yang, Depei Qian: LogMoE: Lightweight Expert Mixture for Cross-System Log Anomaly Detection
+ - Samantha McLoughlin, Zachary Karas, Robert Wallace, Aakash Bansal, Collin McMillan, Yu Huang: Programmers’ Visual Attention on Function Call Graphs During Code Summarization
+ - Doha Nam, Jongmoon Baik: LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification
+ - Noor Nashid, Daniel Ding, Keheliya Gallaba, Ahmed E. Hassan, Ali Mesbah: Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges
+ - Chen Yang, Lin Yang, Ziqi Wang, Dong Wang, Jianyi Zhou, Junjie Chen: Clarifying Semantics of In-Context Examples for Unit Test Generation
+ - Jingjing Liang, Shan Huang, Ting Su: Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration
 
 ### The ACM International Conference on the Foundations of Software Engineering (FSE 2025)
 Mon 23 - Fri 27 June, 2025, Trondheim, Norway
