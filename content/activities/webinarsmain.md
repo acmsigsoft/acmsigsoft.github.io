@@ -22,6 +22,25 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 
 Stay tuned for more webinars coming soon!
 
+
+### Building Global Software Engineering Pipelines: Lessons from Bangladeshi Graduate Talent and LLM-Driven Research
+#### Abstract
+Bangladesh has emerged as a strong and reliable source of high-caliber graduate students in software engineering, with several universities producing candidates well prepared for advanced research in North America. This talk highlights the University of Saskatchewan’s experience recruiting and mentoring students from institutions such as Khulna University, Brac University, KUET, IUT, EWU, and CUET. Students from these institutes have excelled in areas including software clone detection, empirical studies, scientific workflows, diversity in software engineering, and data-driven development. Their contributions span automated clone benchmarking, large-scale analytics, tool explainability, and open-science replication studies that enhance research rigour and accessibility. The talk also examines the growing role of large language models (LLMs) in software engineering research and how Bangladeshi graduate students have integrated LLM-based techniques into work on bug localization, code summarization, clone detection, and peer code review support. Examples of publications and collaborations illustrate how LLMs are being used not only for automation but also for deeper insight, interpretability, and robust benchmarking. Broadening the view, the talk highlights the strong potential across many Bangladeshi universities and offers practical guidance on identifying promising applicants, building sustainable research pipelines, and fostering cross-border collaborations grounded in open science and methodological transparency. By synthesizing lessons learned and emerging opportunities, the talk encourages deeper engagement with Bangladeshi institutions and shows how expanded recruitment can enrich research programs, diversify perspectives, and strengthen the global software engineering community.
+
+#### Bio
+Chanchal K. Roy is Director of the industry-stream, multi-University NSERC CREATE graduate program on Software Analytics Research (SOAR) and Software Research Lab (SRLab), and Professor of Software Engineering/Computer Science at the University of Saskatchewan (USask), Canada. Dr. Roy works in the broad area of software engineering, with particular emphasis on software clone detection and management, software evolution and maintenance, recommender systems in software engineering, automated software debugging, and big data analytics in software engineering. His contributions to the software maintenance community, and particularly to the software clones community have been highly influential, winning four 10-year Most Influential Paper awards at international conferences (ICPC 2018, SANER 2018, SANER 2021 and SCAM 2025). Recently, he was awarded with the Clones Lifetime Achievement Award, and became only the second person to receive this award.  He has been recognized with the New Scientist Research Award of the College of Arts and Science at USask, the University wide New Researcher Award, GSA Advising Excellence Award and an Outstanding Young Computer Science Researcher Award by Canada’s computing research community, CS-Can/Info-Can. He has attracted over $6M in external funding since joining the USask, gave invited/keynote talks at numerous conferences, extensively served as organizing chairs and in program committees of international conferences and guest editors for journals. As the lead author of the widely used NiCad code clone detection system, he has published more than 250 refereed publications, with many of them in premier software engineering conferences and journals that have been cited more than 14,000 times with an h-index of 54 (Google Scholar). Dr. Roy has been (co-)supervising or has (co-)supervised over 110 highly qualified personnel including 24 PhD, 37 MSc and 7 postdocs.
+
+#### Date and Time:
+December 11, 2025, 10:30am-11:30am EST
+
+Click [here to register for the webinar](https://events.zoom.us/ev/Apx__EfzryU8Lgn8CsKz-18T4eqvN-0aKwALxAa7AuEKp-Vm_6MI~Ak2-drw87ElYDwCHhZE8T246soyEDCL_aB6V_aXdYK2zaV26w8SvAI2KPQ)
+
+
+# Previous Webinars
+
+Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
+
+
 ### Software Developer Accountability in the AI Era
 
 #### Abstract
@@ -45,11 +64,6 @@ September 25, 2025, 1-2pm ET
 
 Click [here to join the webinar](https://events.zoom.us/ev/Ai8YLOW5tMEGZbSXQguVaZAbTXilCpVIVTBerl5tkeuz5sRZygQq~AqQEkGyZJ9x5v5XpE9rPbwUUwu1vjaf68VoeRnUG9tObbW0dKP8AErc4PNUYVS2rCXkv7FUm_HsIF3rAlaFbN8qKpw)
 
-
-
-# Previous Webinars
-
-Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
 ### Quantum Software Engineering: Building Dependable Software for Quantum Computers
 
