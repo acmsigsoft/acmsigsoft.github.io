@@ -33,7 +33,7 @@ Chanchal K. Roy is Director of the industry-stream, multi-University NSERC CREAT
 #### Date and Time:
 December 11, 2025, 10:30am-11:30am EST
 
-Click [here to register the webinar](https://events.zoom.us/ev/Apx__EfzryU8Lgn8CsKz-18T4eqvN-0aKwALxAa7AuEKp-Vm_6MI~Ak2-drw87ElYDwCHhZE8T246soyEDCL_aB6V_aXdYK2zaV26w8SvAI2KPQ)
+Click [here to register for the webinar](https://events.zoom.us/ev/Apx__EfzryU8Lgn8CsKz-18T4eqvN-0aKwALxAa7AuEKp-Vm_6MI~Ak2-drw87ElYDwCHhZE8T246soyEDCL_aB6V_aXdYK2zaV26w8SvAI2KPQ)
 
 
 # Previous Webinars
