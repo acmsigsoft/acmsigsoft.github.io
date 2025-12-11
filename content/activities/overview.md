@@ -14,3 +14,10 @@ Here is a non-exhaustive list of them.
 - [Summer/Winter Schools]({{< ref "schools.md" >}} "schools")
 - [Student Mentoring Workshop (SMeW)](https://conf.researchr.org/track/icse-2025/icse-2025-smew---student-mentoring-workshop#About)
   - Africa Initiative. See [here](https://yixue-zhao.medium.com/from-zero-to-one-lessons-learned-on-bringing-african-students-to-international-conferences-74623059c4d4) and [here](https://conf.researchr.org/track/icse-2024/icse-2024-smew---student-mentoring-workshop) for 2024, and [here](https://conf.researchr.org/track/icse-2025/icse-2025-smew---student-mentoring-workshop#Call-for-Mentors) for 2025
+
+
+Here is a list of new initiatives that SIGSOFT is exploring, and the corresponding committees that are leading them:
+- SIGSOFT history committee: Will Tracz, Tony Wasserman, Luca Di Grazia, Yun Peng, Thomas Zimmerman, Massimiliano Di Penta, Marsha Chechik
+- SIGSOFT ACM Digital Library liaisons: Xiaoning Du and Tao Zhang
+- SIGSOFT conference program committee member recognition coordinators: Sylvain Hallé and Yepang Liu
+- Research Highlights coordinator: Silvia Abrahão
