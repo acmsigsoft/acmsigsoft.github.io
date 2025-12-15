@@ -23,7 +23,35 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 Stay tuned for more webinars coming soon!
 
 
+
+### What do professional software developers need to know to succeed in an age of Artificial Intelligence?
+
+#### Abstract:
+
+The media is replete with anxieties about software developers losing their jobs when Generative Artificial Intelligence (AI) is capable of simpler developer tasks such as generating code. We arrive at a different conclusion based on our research with 21 industry developers on the cutting edge of using AI. Based on our findings, we argue that the risk is less around AI displacing the developer. Instead, the risk is that of the AI-augmented developer displacing the developer who neither reskill to keep up with AI tools nor upskill to be capable of realizing the productivity benefits that AI offers while managing AI’s risks. Our qualitative research draws on “Developing A CurriculUM” (DACUM), a methodology that has been widely used for job analysis, workforce training and the development of national occupational skills standards across more than 120 occupations in over 58 countries for more than 40 years.
+
+In this talk, we first summarize how software development along the entire lifecycle is evolving as a result of AI impacting 12 broad developer goals, together with 75 associated tasks and the skills & knowledge corresponding to each task. We present a T-shaped framework that organizes all of these skills & knowledge into four domains, highlighting how imperative it is that developers both deepen and broaden their skills & knowledge to stay relevant in an age of AI. Next, we describe an AI task workflow that shows when and how these skills & knowledge need to be deployed in tandem for developers to use AI effectively. Finally, we show how K-12 educators, professors, workforce trainers, policy-makers and other leaders can use our 50-page occupational profile — a resource we are giving to the education community — to rethink Computer Science curricula for the AI era, so as to “future proof” current and future developers.
+
+
+#### Speaker bios:
+
+Matthew Kam is a research leader at Google focusing on the automation of work and future of workforce skills. He spearheaded research on AI’s impact on software engineering, cited in The New York Times, informing government and academic programs to upskill over 20,000 engineers globally so far. As a pioneering member of Google for Education, Matthew co-founded three applied research teams, and managed product development research that built Chromebooks, Google Classroom and Google Forms; improving lives for over 100 million students and teachers worldwide. Earlier in his career, Matthew was briefly an assistant professor of Human-Computer Interaction (HCI) in Carnegie Mellon University’s School of Computer Science, where he also played the role of scientific advisor in commercializing his academic research and his students’ projects (one successful acquisition, and one YCombinator alum). In the field of HCI, his academic research helped to pioneer the paradigm change toward human-centered design for equitable access to opportunity. Matthew’s training from the University of California, Berkeley bridges Computer Science (PhD, BS), Education (PhD minor) and Economics (BA).
+
+Miaoxin Wang is an MBA candidate at the University of Virginia’s Darden School of Business, where she explores how technology, design, and human insight can come together to build responsible and forward-looking business models in the AI era. A former user researcher and full-stack developer, she brings seven years of professional experience connecting human-centered design with technical problem-solving. At Google, she focused on research at the intersection of AI, learning sciences, and software engineering, informing product strategies and user experiences used by global audiences. Earlier, at Groupon, she worked on performance optimization and A/B experimentation to make e-commerce systems more responsive and intuitive. Miaoxin holds an M.S. in Human-Centered Design and Engineering from the University of Washington and a B.S. in Computer Science from the University of Michigan. Her work centers on human-centered innovation and entrepreneurship that create lasting value for both people and business, guided by the belief that technology matters most when serving human well-being.
+
+
+#### Date and Time:
+January 9, 2026, 12pm-1pm EST
+
+Click [here to register for the webinar](https://events.zoom.us/ev/Amg_lhBLs3JeJj9RscF4q2wOwRMvjTtuQZ_FYDYi4gb0QNzxP7pc~ApTi850MYfN8Ck_bqBOHvKj0SYY8wCdwzgqQzptitf0F_mP9R8rj0G2zmA)
+
+
+# Previous Webinars
+
+Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
+
 ### Building Global Software Engineering Pipelines: Lessons from Bangladeshi Graduate Talent and LLM-Driven Research
+
 #### Abstract
 Bangladesh has emerged as a strong and reliable source of high-caliber graduate students in software engineering, with several universities producing candidates well prepared for advanced research in North America. This talk highlights the University of Saskatchewan’s experience recruiting and mentoring students from institutions such as Khulna University, Brac University, KUET, IUT, EWU, and CUET. Students from these institutes have excelled in areas including software clone detection, empirical studies, scientific workflows, diversity in software engineering, and data-driven development. Their contributions span automated clone benchmarking, large-scale analytics, tool explainability, and open-science replication studies that enhance research rigour and accessibility. The talk also examines the growing role of large language models (LLMs) in software engineering research and how Bangladeshi graduate students have integrated LLM-based techniques into work on bug localization, code summarization, clone detection, and peer code review support. Examples of publications and collaborations illustrate how LLMs are being used not only for automation but also for deeper insight, interpretability, and robust benchmarking. Broadening the view, the talk highlights the strong potential across many Bangladeshi universities and offers practical guidance on identifying promising applicants, building sustainable research pipelines, and fostering cross-border collaborations grounded in open science and methodological transparency. By synthesizing lessons learned and emerging opportunities, the talk encourages deeper engagement with Bangladeshi institutions and shows how expanded recruitment can enrich research programs, diversify perspectives, and strengthen the global software engineering community.
 
@@ -34,11 +62,6 @@ Chanchal K. Roy is Director of the industry-stream, multi-University NSERC CREAT
 December 11, 2025, 10:30am-11:30am EST
 
 Click [here to register for the webinar](https://events.zoom.us/ev/Apx__EfzryU8Lgn8CsKz-18T4eqvN-0aKwALxAa7AuEKp-Vm_6MI~Ak2-drw87ElYDwCHhZE8T246soyEDCL_aB6V_aXdYK2zaV26w8SvAI2KPQ)
-
-
-# Previous Webinars
-
-Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
 
 ### Software Developer Accountability in the AI Era
