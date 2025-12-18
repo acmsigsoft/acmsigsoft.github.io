@@ -128,7 +128,7 @@ title = "SIGSOFT Executive Committee"
     Carnegie Mellon University, USA
     abegel@andrew.cmu.edu
 
-#### CAPS Co-Chair: Istvan David 
+#### CAPS Co-Chair: Istvan David
 
     McMaster University, Canada
     istvan.david@mcmaster.ca
