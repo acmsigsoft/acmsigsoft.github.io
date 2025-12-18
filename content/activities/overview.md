@@ -17,7 +17,8 @@ Here is a non-exhaustive list of them.
 
 
 Here is a list of new initiatives that SIGSOFT is exploring, and the corresponding committees that are leading them:
-- SIGSOFT history committee: Will Tracz, Tony Wasserman, Luca Di Grazia, Yun Peng, Thomas Zimmerman, Massimiliano Di Penta, Marsha Chechik
-- SIGSOFT ACM Digital Library liaisons: Xiaoning Du and Tao Zhang
-- SIGSOFT conference program committee member recognition coordinators: Sylvain Hallé and Yepang Liu
-- Research Highlights coordinator: Silvia Abrahão
+- SIGSOFT History Committee: Will Tracz, Tony Wasserman, Luca Di Grazia, Yun Peng, Thomas Zimmerman, Massimiliano Di Penta, Marsha Chechik. The committee will build and maintain an archive of SIGSOFT-relevant historical information, including developing relevant wiki pages. 
+- SIGSOFT ACM Digital Library liaisons: Xiaoning Du and Tao Zhang. The committee will ensure that information about SIGSOFT (co)-located events has been correctly captured in ACM Digital Library.
+- SIGSOFT Conference Program Committee Member Recognition Coordinators: Sylvain Hallé and Yepang Liu. The coordinator will create and mail personalized digital certificates for program committee roles of SIGSOFT (co)-sponsored conferences.
+- Research Highlights coordinator: Silvia Abrahão. The coordinator will work with program chairs of SIGSOFT (co)-sponsored conferences to identify most promising papers for possible publication in Communications of the ACM.
+
