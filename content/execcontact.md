@@ -128,10 +128,10 @@ title = "SIGSOFT Executive Committee"
     Carnegie Mellon University, USA
     abegel@andrew.cmu.edu
 
-#### CAPS Co-Chair: Nan Niu
+#### CAPS Co-Chair: Istvan David
 
-    University of Cincinnati, USA
-    niunn@ucmail.uc.edu
+    McMaster University, Canada
+    istvan.david@mcmaster.ca
 
 #### CAPS Co-Chair: Zhiyuan Wan
 
