@@ -16,7 +16,7 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 > University College London, United Kingdom, f.sarro@ucl.ac.uk, Term: 2023-2026
 
-`Birgit Penzenstadler (she/her/hers)  - co-chair`
+`Birgit Penzenstadler (she/her/hers) - co-chair`
 
 {{< figure src="/img/cares/birgit_careFit.jpeg" height=".3" title="" >}}
 
