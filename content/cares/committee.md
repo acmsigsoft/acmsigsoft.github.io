@@ -10,47 +10,65 @@ CARES is a subcommittee of ACM SIGSOFT. The role of the CARES committee is to se
 ## Current Committee Members
 You can contact all committee members by contacting sigsoft_cares@acm.org, or you can reach individual members of CARES using the contact information below.
 
-`Joanne Atlee (she/her) - co-chair`
+`Federica Sarro (she/her) - co-chair`
+
+{{< figure src="/img/cares/FedericaCareFit.jpg" height=".3" title="" >}}
+
+> University College London, United Kingdom, f.sarro@ucl.ac.uk, Term: 2023-2026
+
+`Birgit Penzenstadler (she/her/hers)  - co-chair`
+
+{{< figure src="/img/cares/birgit_careFit.jpeg" height=".3" title="" >}}
+
+> Chalmers, Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
+
+`Foutse Khomh (he/him) - co-chair`
+
+{{< figure src="/img/cares/foutse_careFit.png" height=".3" title="" >}}
+
+> Polytechnique Montréal, Canada,  foutse.khomh@polymtl.ca, Term: 2024-2027
+
+`Joanne Atlee (she/her)`
 
 {{< figure src="/img/cares/Jo_Atlee_careFIT.jpeg" height=".3" title="" >}}
 
-> University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025
+> University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025, 2026-2029
 
-`Alexander Serebrenik (he/him) - co-chair`
+`Alexander Serebrenik (he/him)`
 
 {{< figure src="/img/cares/alex_tree_careFit.jpeg" height=".3" title="" >}}
 
-> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025 
+> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025, 2026-2029 
 
-`Kelly Blincoe (she/her) - co-chair`
+`Kelly Blincoe (she/her)`
 
 {{< figure src="/img/cares/Kelly_Blincoe_careFit.jpeg" height=".3" title="" >}}
 
-> University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025
+> University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025, 2026-2029
 
 `Andrew Begel (he/him)`
 
 {{< figure src="/img/cares/Andrew_Begel_careFit.jpeg" height=".3" title="" >}}
 
-> Carnegie Mellon University, USA, abegel@cmu.edu, Term: 2022-2025
+> Carnegie Mellon University, USA, abegel@cmu.edu, Term: 2022-2025, 2026-2029
 
 `Bonita Sharif (she/her)`
 
 {{< figure src="/img/cares/Bonita_Sharif_careFit.jpeg" height=".3" title="" >}}
 
-> University of Nebraska – Lincoln, USA, bsharif@unl.edu, Term: 2022-2025
+> University of Nebraska – Lincoln, USA, bsharif@unl.edu, Term: 2022-2025, 2026-2029
 
 `Gail Murphy (she/her)`
 
 {{< figure src="/img/cares/GailMurphy_careFit.jpg" height=".3" title="" >}}
 
-> The University of British Columbia, Canada, gail.murphy@ubc.ca, Term: 2022-2025
+> The University of British Columbia, Canada, gail.murphy@ubc.ca, Term: 2022-2025, 2026-2029
 
 `Marsha Chechik (she/her)`
 
 {{< figure src="/img/cares/MarshaChechik_careFit.jpg" height=".3" title="" >}}
 
-> University of Toronto, Canada, chechik@cs.toronto.edu, Term: 2022-2025
+> University of Toronto, Canada, chechik@cs.toronto.edu, Term: 2022-2025, 2026-2029
 
 `Tayana Conte (she/her)`
 
@@ -58,11 +76,6 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 > Universidade Federal do Amazonas (UFAM), Brazil, tayana@icomp.ufam.edu.br, Term: 2023-2026
 
-`Federica Sarro (she/her) - co-chair`
-
-{{< figure src="/img/cares/FedericaCareFit.jpg" height=".3" title="" >}}
-
-> University College London, United Kingdom, f.sarro@ucl.ac.uk, Term: 2023-2026
 
 `Rafael Prikladnicki (he/him)`
 
@@ -76,17 +89,6 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 > Nara Institute of Science and Technology, Japan, raula-k@is.naist.jp, Term: 2023-2026
 
-`Birgit Penzenstadler (she/her/hers)`
-
-{{< figure src="/img/cares/birgit_careFit.jpeg" height=".3" title="" >}}
-
-> Chalmers, Gothenburg University and Lappeenranta University, birgitp@chalmers.se, Term: 2024-2027
-
-`Foutse Khomh (he/him)`
-
-{{< figure src="/img/cares/foutse_careFit.png" height=".3" title="" >}}
-
-> Polytechnique Montréal, Canada,  foutse.khomh@polymtl.ca, Term: 2024-2027
 
 `Dan Hao (she/her/hers)`
 
