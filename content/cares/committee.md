@@ -32,19 +32,19 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 {{< figure src="/img/cares/Jo_Atlee_careFIT.jpeg" height=".3" title="" >}}
 
-> University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025, 2026-2029
+> University of Waterloo, Canada,  jmatlee@uwaterloo.ca, Term: 2022-2025 (co-chair), 2026-2029
 
 `Alexander Serebrenik (he/him)`
 
 {{< figure src="/img/cares/alex_tree_careFit.jpeg" height=".3" title="" >}}
 
-> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025, 2026-2029
+> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025 (co-chair), 2026-2029
 
 `Kelly Blincoe (she/her)`
 
 {{< figure src="/img/cares/Kelly_Blincoe_careFit.jpeg" height=".3" title="" >}}
 
-> University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025, 2026-2029
+> University of Auckland, New Zealand, k.blincoe@auckland.ac.nz, Term: 2022-2025 (co-chair), 2026-2029
 
 `Andrew Begel (he/him)`
 
