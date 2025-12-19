@@ -38,7 +38,7 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 
 {{< figure src="/img/cares/alex_tree_careFit.jpeg" height=".3" title="" >}}
 
-> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025, 2026-2029 
+> Eindhoven University of Technology, Netherlands, a.serebrenik@tue.nl, Term: 2022-2025, 2026-2029
 
 `Kelly Blincoe (she/her)`
 
