@@ -13,6 +13,7 @@ Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, no
 If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
 
 ## Winners
+- 2026 Daniela Damian, University of Victoria, for pioneering and sustaining innovative approaches to experiential learning, collaborative and inclusive software engineering education across time zones, cultural boundaries, and diverse perspectives. Nominated by Neil Ernst, University of Victoria.
 - 2025  Andreas Zeller, CISPA and Saarland University, for significant contributions and important innovations in automated software engineering education.
 - 2024  Martin Robillard, McGill University, for significant contributions to hands-on software design education, including a textbook and a learner-focused software modeling tool.
 - 2023  Tao Xie, Peking University, China, for significant contributions in mentoring of graduate students and junior researchers, broadening participation of underrepresented groups in software engineering/computing, and innovation in educational tooling

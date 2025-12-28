@@ -14,6 +14,7 @@ Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, no
 If you have questions about this award, please contact sigsoft-research-award (at) acm (dot) org.
 
 ## Winners
+- 2026 Tao Xie, Peking University, for outstanding research contributions on software testing and software analytics that have broadly impacted industrial practices. Nominated by Lu Zhang, Peking University.
 - 2025  Martin Rinard, MIT, for fundamental contributions in pioneering the new fields of program repair and approximate computing.
 - 2024  Tsong Yueh Chen, Swinburne University of Technology, for contributions to software testing through the invention and development of metamorphic testing.
 - 2023  Gail Murphy, University of British Columbia, for pioneering contributions to recommenders for software engineering and program comprehension that have impacted both theory and practice

@@ -20,6 +20,9 @@ Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, no
 If you have questions about this award, please contact sigsoft-impact-award (at) acm (dot) org.
 
 ## Winners
+- 2026 Jacek Śliwerski, Thomas Zimmermann, and Andreas Zeller. When do changes induce fixes?. (MSR 2005)
+  "For introducing the SZZ algorithm, a foundational technique that enabled a new generation of empirical studies, tools, and techniques for understanding and improving software quality."
+  Nominated by Chris Bird, Microsoft.
 - 2025 Alberto Bacchelli and Christian Bird. Expectations, outcomes, and challenges of modern code review. In Proceedings of the 2013 International Conference on Software Engineering (ICSE '13). "For providing foundational understanding of modern code review, advancing the state of practice, and charting the course of research in code review through empirical investigations."
 - 2024 Marcel Bruch, Martin Monperrus, and Mira Mezini. Learning from Examples to Improve Code Completion Systems. In Proceedings of the 17th ACM SIGSOFT Symposium on the Foundations of Software Engineering and 12th European Software Engineering Conference (ESEC/FSE 2009, Amsterdam, The Netherlands, Aug 2009). "For pioneering the use of machine learning to assist developers in generating code snippets, paving the way for today’s intelligent code assistance tools."
 - 2023 Gordon Fraser, and Andrea Arcuri. EvoSuite: Automatic Test Suite Generation for Object-Oriented Software. In Proceedings of the 19th ACM SIGSOFT Symposium on the Foundations of Software Engineering and 13th European Software Engineering Conference (ESEC/FSE 2011, Szeged, Hungary, Sep 2011). "For building EvoSuite, a search-based software testing tool which has a significant community around it."

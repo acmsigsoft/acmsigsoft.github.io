@@ -25,6 +25,7 @@ nomination package PDF should _also_ include:
 If you have questions about this award, please contact sigsoft-dissertation-award (at) acm (dot) org.
 
 ## Winners
+- 2026 Zhou Yang, "Towards Robust, Secure, and Privacy-Aware Large Language Models of Code", Advisor/Nominator: David Lo.
 - 2025 Elizabeth Dinella, Neural Inference of Program Specifications, University of Pennsylvania, advisor: Mayur Naik.
 - 2025 Jialun Cao, Towards Automatic Testing and Fault Localization in Natural Language Processing Systems,  Hong Kong University of Science and Technology, advisor: Shing-Chi Cheung
 - 2024 Bianca Trinkenreich, Understanding and Supporting Women’s Participation in Open Source Software, Northern Arizona University, advisors: Igor Steinmacher and Marco Aurelio Gerosa

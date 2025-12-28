@@ -24,7 +24,8 @@ Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, no
 If you have questions about this award, please contact sigsoft-service-award (at) acm (dot) org.
 
 ## Winners
-- 2025 Mauro Pezzé, USI Università della Svizzera Italiana Lugano (Switzerland), "For service to the software engineering community for three decades, and specifically for his recent contributions to TOSEM as Editor-in-Chief." 
+- 2026 Thomas Zimmermann, University of California, Irvine, for outstanding and transformative service to the software engineering community by broadening participation and championing open science and open access. Nominated by Lin Tan, Purdue University
+- 2025 Mauro Pezzé, USI Università della Svizzera Italiana Lugano (Switzerland), for service to the software engineering community for three decades, and specifically for his recent contributions to TOSEM as Editor-in-Chief.
 - 2024  Massimiliano Di Penta, University of Sannio, for outstanding service to the software engineering community, including serving as program co-chair for all premier software engineering conferences and several other events.
 - 2023 John Grundy, Monash University, for continued outstanding service to the software engineering community, including the repeated successful organization of flagship conferences, and leadership in the Australasian research and education community
 - 2022	Joanne M. Atlee, University of Waterloo, for sustained, outstanding service to the software engineering community and enabling a research environment in software engineering world-wide that is equitable, diverse and inclusive
