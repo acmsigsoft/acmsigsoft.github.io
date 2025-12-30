@@ -14,6 +14,10 @@ Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, no
 If you have questions about this award, please contact sigsoft-early-career-award (at) acm (dot) org.
 
 ## Winners
+- 2026 Eunsuk Kang (Carnegie Mellon University), for contributions to improving the safety and robustness of software and AI-enabled systems, through software design, formal methods, and self-adaptation.
+  Nominated by: David Garlan (Carnegie Mellon University)
+- 2026 Sen Chen (Nankai University), for outstanding contributions to advancing software supply chain security through pioneering techniques and tools in Software Composition Analysis (SCA) and Static
+   Application Security Testing (SAST). Nominated by: Jun Sun (Singapore Management University)
 - 2025  Jie Zhang, King's College London, for pioneering contributions to software engineering for AI, significantly shaping and transforming the field of AI system testing.
 - 2024  Kevin Moran, University of Central Florida, for outstanding contributions to improving the quality of mobile applications, through software testing, deep learning, and user interface development.
 - 2023  Chunyang Chen, Monash University, for outstanding contributions to the study of intelligent software development automation including automated mobile application development, software testing, migration and accessibility
