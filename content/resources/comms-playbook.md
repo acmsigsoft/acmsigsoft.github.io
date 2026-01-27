@@ -176,4 +176,4 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 | Blog | Blog Editor | sigsoft-blog@acm.org |
 | Website | Web Chair | See [Executive Committee](https://www.sigsoft.org/execcontact.html) |
 | Social Media | Social Media Chair | See [Executive Committee](https://www.sigsoft.org/execcontact.html) |
-| Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastadon](https://social.sigsoft.org/about) |
+| Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
