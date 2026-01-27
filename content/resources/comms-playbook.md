@@ -10,7 +10,7 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 | [SEN](https://www.sigsoft.org/SEN/) | SIGSOFT members | Formal publication, columns | SEN Editor |
 | [Blog](https://sigsoft.medium.com/) | SE community + public | Informal thought leadership | Blog Editor |
 | [Website](https://www.sigsoft.org/) | Public | Official record, resources | Web Chair |
-| Social Media ([X](https://twitter.com/acaborissov), [LinkedIn](https://www.linkedin.com/groups/96aboris/)) | Public | Amplification, engagement | Social Media Chair |
+| Social Media ([X](https://twitter.com/acmsigsoft), [LinkedIn](https://www.linkedin.com/company/acm-sigsoft/)) | Public | Amplification, engagement | Social Media Chair |
 | [Mastodon](https://social.sigsoft.org/) | SE community | Community building, discussion | Social Media Chair |
 
 ## Channel Definitions
