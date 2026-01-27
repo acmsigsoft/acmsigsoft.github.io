@@ -31,7 +31,7 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 **Not appropriate:**
 - Commercial promotions, tool ads, surveys, research project announcements
 
-See the full [SEWorld Guidelines](https://www.sigsoft.org/resources/seworldguidelines.html) for formatting and submission details.
+See the full [SEWorld Guidelines](https://www2.sigsoft.org/seworld_guidelines/) for formatting and submission details.
 
 ---
 
