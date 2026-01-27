@@ -6,7 +6,7 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 
 | Channel | Audience | Purpose | Owner |
 |---------|----------|---------|-------|
-| [SEWorld](https://www.sigsoft.org/resources/seworld.html) | SE community (broad) | Time-sensitive announcements | SEWorld Moderators |
+| [SEWorld](https://www2.sigsoft.org/seworld/) | SE community (broad) | Time-sensitive announcements | SEWorld Moderators |
 | [SEN](https://www.sigsoft.org/SEN/) | SIGSOFT members | Formal publication, columns | SEN Editor |
 | [Blog](https://sigsoft.medium.com/) | SE community + public | Informal thought leadership | Blog Editor |
 | [Website](https://www.sigsoft.org/) | Public | Official record, resources | Web Chair |
@@ -31,7 +31,7 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 **Not appropriate:**
 - Commercial promotions, tool ads, surveys, research project announcements
 
-See the full [SEWorld Guidelines](https://www.sigsoft.org/resources/seworldguidelines.html) for formatting and submission details.
+See the full [SEWorld Guidelines](https://www2.sigsoft.org/seworld/guidelines.html) for formatting and submission details.
 
 ---
 
