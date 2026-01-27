@@ -23,6 +23,9 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 Stay tuned for more webinars coming soon!
 
 
+# Previous Webinars
+
+Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
 ### What do professional software developers need to know to succeed in an age of Artificial Intelligence?
 
@@ -45,12 +48,8 @@ Vikram Tiwari is a Staff Machine Learning Engineer at ClickUp and a Google Devel
 #### Date and Time:
 January 9, 2026, 12pm-1pm EST
 
-Click [here to register for the webinar](https://events.zoom.us/ev/Amg_lhBLs3JeJj9RscF4q2wOwRMvjTtuQZ_FYDYi4gb0QNzxP7pc~ApTi850MYfN8Ck_bqBOHvKj0SYY8wCdwzgqQzptitf0F_mP9R8rj0G2zmA)
+Recording is available on [YouTube](https://youtu.be/bJr1_OaR53M)
 
-
-# Previous Webinars
-
-Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
 ### Building Global Software Engineering Pipelines: Lessons from Bangladeshi Graduate Talent and LLM-Driven Research
 
