@@ -6,10 +6,10 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 
 | Channel | Audience | Purpose | Owner |
 |---------|----------|---------|-------|
-| [SEWorld](https://www.sigsoft.org/resources/seworld.html) | SE community (broad) | Time-sensitive announcements | SEWorld Moderators |
-| [SEN](https://www.sigsoft.org/SEN/) | SIGSOFT members | Formal publication, columns | SEN Editor |
+| [SEWorld](https://www2.sigsoft.org/seworld/) | SE community (broad) | Time-sensitive announcements | SEWorld Moderators |
+| [SEN](https://www2.sigsoft.org/sen/sen/) | SIGSOFT members | Formal publication, columns | SEN Editor |
 | [Blog](https://sigsoft.medium.com/) | SE community + public | Informal thought leadership | Blog Editor |
-| [Website](https://www.sigsoft.org/) | Public | Official record, resources | Web Chair |
+| [Website](https://www2.sigsoft.org/) | Public | Official record, resources | Information Director |
 | Social Media ([X](https://twitter.com/acmsigsoft), [LinkedIn](https://www.linkedin.com/company/acm-sigsoft/)) | Public | Amplification, engagement | Social Media Chair |
 | [Mastodon](https://social.sigsoft.org/) | SE community | Community building, discussion | Social Media Chair |
 
@@ -171,9 +171,9 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 
 | Channel | Owner(s) | Contact |
 |---------|----------|---------|
-| SEWorld | SEWorld Moderators | See [SEWorld page](https://www.sigsoft.org/resources/seworld.html) |
+| SEWorld | SEWorld Moderators | See [SEWorld page](https://www2.sigsoft.org/seworld/) |
 | SEN | SEN Editor | editors_sigsoft@acm.org |
-| Blog | Blog Editor | sigsoft-blog@acm.org |
-| Website | Web Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
+| Blog | Blog Editor | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
+| Website | Information Director | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Social Media | Social Media Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
