@@ -174,6 +174,6 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 | SEWorld | SEWorld Moderators | See [SEWorld page](https://www.sigsoft.org/resources/seworld.html) |
 | SEN | SEN Editor | editors_sigsoft@acm.org |
 | Blog | Blog Editor | sigsoft-blog@acm.org |
-| Website | Web Chair | See [Executive Committee](https://www.sigsoft.org/execcontact.html) |
-| Social Media | Social Media Chair | See [Executive Committee](https://www.sigsoft.org/execcontact.html) |
+| Website | Web Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
+| Social Media | Social Media Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
