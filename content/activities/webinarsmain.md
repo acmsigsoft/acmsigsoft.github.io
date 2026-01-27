@@ -48,7 +48,7 @@ Vikram Tiwari is a Staff Machine Learning Engineer at ClickUp and a Google Devel
 #### Date and Time:
 January 9, 2026, 12pm-1pm EST
 
-Recording is available on [YouTube](https://youtu.be/bJr1_OaR53M)
+Recording is available on [YouTube](https://youtu.be/bJr1_OaR53M).
 
 
 ### Building Global Software Engineering Pipelines: Lessons from Bangladeshi Graduate Talent and LLM-Driven Research
