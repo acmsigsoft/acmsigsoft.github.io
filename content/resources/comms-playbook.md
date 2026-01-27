@@ -171,7 +171,7 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 
 | Channel | Owner(s) | Contact |
 |---------|----------|---------|
-| SEWorld | SEWorld Moderators | See [SEWorld page](https://www.sigsoft.org/resources/seworld.html) |
+| SEWorld | SEWorld Moderators | See [SEWorld page](https://www2.sigsoft.org/seworld/) |
 | SEN | SEN Editor | editors_sigsoft@acm.org |
 | Blog | Blog Editor | sigsoft-blog@acm.org |
 | Website | Web Chair | See [Executive Committee](https://www.sigsoft.org/execcontact.html) |
