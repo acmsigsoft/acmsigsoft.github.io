@@ -23,6 +23,9 @@ Note: If you'd like to attend but can't make it to the virtual event, you still 
 Stay tuned for more webinars coming soon!
 
 
+# Previous Webinars
+
+Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
 ### What do professional software developers need to know to succeed in an age of Artificial Intelligence?
 
@@ -35,7 +38,7 @@ In this talk, we first summarize how software development along the entire lifec
 
 #### Speaker bios:
 
-Matthew Kam is a research leader at Google focusing on the automation of work and future of workforce skills. He spearheaded research on AI’s impact on software engineering, cited in The New York Times, informing government and academic programs to upskill over 20,000 engineers globally so far. As a pioneering member of Google for Education, Matthew co-founded three applied research teams, and managed product development research that built Chromebooks, Google Classroom and Google Forms; improving lives for over 100 million students and teachers worldwide. Earlier in his career, Matthew was briefly an assistant professor of Human-Computer Interaction (HCI) in Carnegie Mellon University’s School of Computer Science, where he also played the role of scientific advisor in commercializing his academic research and his students’ projects (one successful acquisition, and one YCombinator alum). In the field of HCI, his academic research helped to pioneer the paradigm change toward human-centered design for equitable access to opportunity. Matthew’s training from the University of California, Berkeley bridges Computer Science (PhD, BS), Education (PhD minor) and Economics (BA).
+Matthew Kam is a research leader at Google focusing on the automation of work and future of workforce skills. He spearheaded research on AI’s impact on software engineering, cited in The New York Times, informing government and academic programs to upskill over 20,000 engineers globally so far. As a pioneering member of Google for Education, Matthew co-founded three applied research teams, and managed product development research that built Chromebooks, Google Classroom and Google Forms; improving lives for over 150 million students and teachers worldwide. Earlier in his career, Matthew was briefly an assistant professor of Human-Computer Interaction (HCI) in Carnegie Mellon University’s School of Computer Science, where he also played the role of scientific advisor in commercializing his academic research and his students’ projects (one successful acquisition, and one YCombinator alum). In the field of HCI, his academic research helped to pioneer the paradigm change toward human-centered design for equitable access to opportunity. Matthew’s training from the University of California, Berkeley bridges Computer Science (PhD, BS), Education (PhD minor) and Economics (BA).
 
 Miaoxin Wang is an MBA candidate at the University of Virginia’s Darden School of Business, where she explores how technology, design, and human insight can come together to build responsible and forward-looking business models in the AI era. A former user researcher and full-stack developer, she brings seven years of professional experience connecting human-centered design with technical problem-solving. At Google, she focused on research at the intersection of AI, learning sciences, and software engineering, informing product strategies and user experiences used by global audiences. Earlier, at Groupon, she worked on performance optimization and A/B experimentation to make e-commerce systems more responsive and intuitive. Miaoxin holds an M.S. in Human-Centered Design and Engineering from the University of Washington and a B.S. in Computer Science from the University of Michigan. Her work centers on human-centered innovation and entrepreneurship that create lasting value for both people and business, guided by the belief that technology matters most when serving human well-being.
 
@@ -45,12 +48,8 @@ Vikram Tiwari is a Staff Machine Learning Engineer at ClickUp and a Google Devel
 #### Date and Time:
 January 9, 2026, 12pm-1pm EST
 
-Click [here to register for the webinar](https://events.zoom.us/ev/Amg_lhBLs3JeJj9RscF4q2wOwRMvjTtuQZ_FYDYi4gb0QNzxP7pc~ApTi850MYfN8Ck_bqBOHvKj0SYY8wCdwzgqQzptitf0F_mP9R8rj0G2zmA)
+Recording is available on [YouTube](https://youtu.be/bJr1_OaR53M).
 
-
-# Previous Webinars
-
-Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
 ### Building Global Software Engineering Pipelines: Lessons from Bangladeshi Graduate Talent and LLM-Driven Research
 
