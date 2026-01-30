@@ -165,9 +165,15 @@ pluralizelisttitles = false
     parent     = "menu.pubs"
 
 [[menu.main]]
+    name       = "Communications Playbook"
+    url        = "/resources/comms-playbook"
+    weight     = 9
+    parent     = "menu.pubs"
+
+[[menu.main]]
     name       = "Improving Paper and Peer Review Quality"
     url        = "/resources/improve"
-    weight     = 9
+    weight     = 10
     parent     = "menu.pubs"
 
 
