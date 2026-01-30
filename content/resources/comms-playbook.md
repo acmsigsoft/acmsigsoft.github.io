@@ -173,7 +173,7 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 |---------|----------|---------|
 | SEWorld | SEWorld Moderators | See [SEWorld page](https://www2.sigsoft.org/seworld/) |
 | SEN | SEN Editor | editors_sigsoft@acm.org |
-| Blog | Information Director | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
-| Website | Information Director | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
+| Blog | Information Director | See [Information Director](https://www2.sigsoft.org/contact/) |
+| Website | Information Director | See [Information Director](https://www2.sigsoft.org/contact/) |
 | Social Media | Social Media Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
