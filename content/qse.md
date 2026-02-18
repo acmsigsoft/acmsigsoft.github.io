@@ -27,8 +27,6 @@ Follow the instructions on the subscription page to complete your registration.
 
 ### Contact Information
 
-For questions or issues related to the Quantum Software Engineering mailing list, please contact the SIGSOFT administration.
-
----
+For questions or issues related to the Quantum Software Engineering mailing list, please contact the SIGSOFT Information Director.
 
 *This mailing list is sponsored by [SIGSOFT](http://www2.sigsoft.org/) and the [Association for Computing Machinery](http://www.acm.org/).*
