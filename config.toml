@@ -109,6 +109,12 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "menu.community"
 
+[[menu.main]]
+    name       = "QSE Mailing List"
+    url        = "/qse"
+    weight     = 4
+    parent     = "menu.community"
+
 
 
 [[menu.main]]
