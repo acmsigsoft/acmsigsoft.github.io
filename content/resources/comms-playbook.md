@@ -12,6 +12,7 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 | [Website](https://www2.sigsoft.org/) | Public | Official record, resources | Information Director |
 | Social Media ([X](https://twitter.com/acmsigsoft), [LinkedIn](https://www.linkedin.com/company/acm-sigsoft/)) | Public | Amplification, engagement | Social Media Chair |
 | [Mastodon](https://social.sigsoft.org/) | SE community | Community building, discussion | Social Media Chair |
+| [Wikipedia](https://en.wikipedia.org/wiki/SIGSOFT) | General public | Encyclopedic reference | Information Director |
 
 ## Channel Definitions
 
@@ -122,23 +123,53 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 
 ---
 
+### Wikipedia (en.wikipedia.org/wiki/SIGSOFT)
+
+**Best for:** Providing accurate, encyclopedic, and verifiable information about SIGSOFT to the general public. Wikipedia is a high-visibility reference that many people encounter first when searching for SIGSOFT.
+
+**When to update:**
+- Leadership changes (e.g., new chair, EC composition)
+- Major organizational milestones (e.g., significant anniversaries, structural changes)
+- Updates to the list of flagship conferences or sponsored events
+- Corrections to factual inaccuracies
+- Addition of notable awards or their recipients when widely recognized
+
+**How to update:**
+1. Create or log in to a Wikipedia account (editing without an account is possible but discouraged for organizational pages)
+2. Navigate to the [SIGSOFT Wikipedia page](https://en.wikipedia.org/wiki/SIGSOFT) and click **Edit**
+3. Follow [Wikipedia's guidelines](https://en.wikipedia.org/wiki/Wikipedia:Editing_policy) — all content must be neutral, verifiable, and cited with reliable third-party sources (ACM press releases, peer-reviewed publications, news articles)
+4. Do not use Wikipedia to promote SIGSOFT events or solicit participation — such content will be removed by Wikipedia editors
+5. After saving, monitor the Talk page for any concerns raised by other Wikipedia editors
+6. Major rewrites should be discussed on the Talk page before being made
+
+**Not appropriate:**
+- Calls for papers or participation
+- Job postings or award nominations
+- Opinions or promotional content
+- Content that cannot be verified with a third-party citation
+
+**Note:** Wikipedia is independently edited by the community and SIGSOFT does not control its content. Edits may be revised or reverted by other Wikipedia editors. The Information Director should periodically review the page for accuracy.
+
+---
+
 ## Content Type Matrix
 
-| Content Type | Website | SEN | Blog | SEWorld | Social |
-|--------------|:-------:|:---:|:----:|:-------:|:------:|
-| Call for papers | | | | **P** | A |
-| Call for participation | | | | **P** | A |
-| Job posting | | | | **P** | |
-| Award call for nominations | A | | | **P** | A |
-| Award winner announcement | **P** | A | A | A | A |
-| Conference recap | | | **P** | | A |
-| Interview/profile | | | **P** | | A |
-| Opinion/thought piece | | **P** | A | | A |
-| Committee updates | **P** | | | | A |
-| Webinar announcement | **P** | | | A | A |
-| Policy/guideline update | **P** | | | | |
-| Research highlight | | **P** | A | | A |
-| Book review | | **P** | | | |
+| Content Type | Website | SEN | Blog | SEWorld | Social | Wikipedia |
+|--------------|:-------:|:---:|:----:|:-------:|:------:|:---------:|
+| Call for papers | | | | **P** | A | |
+| Call for participation | | | | **P** | A | |
+| Job posting | | | | **P** | | |
+| Award call for nominations | A | | | **P** | A | |
+| Award winner announcement | **P** | A | A | A | A | |
+| Conference recap | | | **P** | | A | |
+| Interview/profile | | | **P** | | A | |
+| Opinion/thought piece | | **P** | A | | A | |
+| Committee updates | **P** | | | | A | A |
+| Webinar announcement | **P** | | | A | A | |
+| Policy/guideline update | **P** | | | | | |
+| Research highlight | | **P** | A | | A | |
+| Book review | | **P** | | | | |
+| Organizational milestones | **P** | | | | A | A |
 
 **Legend:**
 - **P** = Primary channel (original content lives here)
@@ -177,3 +208,4 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 | Website | Information Director | See [Information Director](https://www2.sigsoft.org/contact/) |
 | Social Media | Social Media Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
+| Wikipedia | Information Director | See [Information Director](https://www2.sigsoft.org/contact/) |
