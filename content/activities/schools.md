@@ -8,9 +8,15 @@ aliases: "school"
 SIGSOFT provides financial support to summer or winter schools focused on all aspects of software engineering across the world. Our goal is to promote education, foster academic growth, and improve access to quality learning experiences.
 
 
-## Current Call for Proposal (2025-2026)
+## Current Call for Proposal (2026-2027)
 
-Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summer-winter-school-proposals-04b83cc6f72e)
+Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-summer-winter-school-proposals-2026-2027-aa00b4367ff9)
+
+### Support Details
+
+- **Funding**: Selected proposals will receive financial support of up to USD $10,000 per school program, depending on the scope and scale of the project. Not all schools are expected to receive the full amount of funding they request.
+- **Duration**: The grant covers summer/winter school programs taking place between August 1, 2026, and August 31, 2027.
+- Anyone is eligible to apply. Priority will be given to applicants/organizers who are SIGSOFT members.
 
 
 ### Program Committee 
@@ -32,25 +38,23 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 - Xin Peng, pengxin@fudan.edu.cn, Fudan University, China
 - Yingfei Xiong, xiongyf@pku.edu.cn, Peking University, China
 
+## Previous schools
 
-### 11 schools funded, 80K USD
+### 2025-26: 11 schools funded. 80K USD
 
 | 2025-2026 Summer/Winter Schools                                                                                                             | Organizer(s)                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                                     | Lina Garces                                                                                                    |
-| 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                       | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson Oliveira Jr, Ellen Francine Barbosa                       |
-| BRIDGES Summer School in The South Pacific: Innovative Prototyping through AI-powered tech and Open Source, January 9–11, 2026, Papua New Guinea | Raula Gaikovina Kula, Youmei Fan, Benson Mirou, Winifred Kula                                                  |
-| Proposal for the 1st SIGSOFT African Winter School on Software Engineering and Intelligence (ASSEI 2025), November 23–25, 2025, Tunisia     | Ali Ouni, Mohamed Wiem Mkaouer, Maha Khemaja, Montassar Ben Messaoud                                           |
-| Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, February 23–27, 2026, Brazil                        | Genaína Nunes Rodrigues, Paulo Henrique Maia, Lina Marsso, Ana Cavalcanti, Patrizio Pelliccione                |
-| ACM SIGSOFT Winter School on AI-Infused Software Engineering (AISE) - Research and Practice, December 2025, India                           | Saurabh Tiwari, Santosh Singh Rathore, Sridhar Chimalakonda, Chetan Arora, Meenakshi D'Souza, Sudakshina Dutta |
-| International Summer School on LLM-based Agents for Software Engineering, September 1-3, 2025, Spain                                        | Roberto Rodriguez-Echeverria, José María Conejero, Fernando Sanchez-Figueroa, José Raúl Romero Salguero        |
-| ACM SIGSOFT Australian Summer School on Software Engineering (OzSE), February 2-4, 2026, Australia                                          | Patanamon Thongtanunam, Kla Tantithamthavorn, Chetan Arora, Tingting Bi, Michael Fu                            |
-| TAROT 2026 \| 21st Summer School on Software Testing, Verification & Validation, July 2026, Germany                                         | Andrea Stocco, Alessio Gambi                                                                                   |
-| 22nd International Advanced School on Empirical Software Engineering, October 1st, 2025, USA                                                             | Davide Taibi, Tim Menzies, Dan Port                                                                            |
-| LLM Software Development, November 2025, Germany                                                                                            | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                     |
-
-
-## Previous schools
+| 5th LATAM School - The Latin American School in Software Engineering Research, September 22-23, 2025, Brazil                              | Lina Garces                                                                                                    |
+| 2nd School of Empirical Studies in Software Engineering, July 2026, Brazil                                                                 | Lilian Passos Scatalon, Maria Lydia Fioravanti, Edson Oliveira Jr, Ellen Francine Barbosa                     |
+| BRIDGES Summer School in The South Pacific: Innovative Prototyping through AI-powered tech and Open Source, January 9-11, 2026, Papua New Guinea | Raula Gaikovina Kula, Youmei Fan, Benson Mirou, Winifred Kula                                             |
+| Proposal for the 1st SIGSOFT African Winter School on Software Engineering and Intelligence (ASSEI 2025), November 23-25, 2025, Tunisia   | Ali Ouni, Mohamed Wiem Mkaouer, Maha Khemaja, Montassar Ben Messaoud                                          |
+| Robotic Mission Engineering (RoME) - A Software Engineering for Robotics Summer School, February 23-27, 2026, Brazil                      | Genaína Nunes Rodrigues, Paulo Henrique Maia, Lina Marsso, Ana Cavalcanti, Patrizio Pelliccione               |
+| ACM SIGSOFT Winter School on AI-Infused Software Engineering (AISE) - Research and Practice, December 2025, India                         | Saurabh Tiwari, Santosh Singh Rathore, Sridhar Chimalakonda, Chetan Arora, Meenakshi D'Souza, Sudakshina Dutta |
+| International Summer School on LLM-based Agents for Software Engineering, September 1-3, 2025, Spain                                      | Roberto Rodriguez-Echeverria, José María Conejero, Fernando Sanchez-Figueroa, José Raúl Romero Salguero       |
+| ACM SIGSOFT Australian Summer School on Software Engineering (OzSE), February 2-4, 2026, Australia                                        | Patanamon Thongtanunam, Kla Tantithamthavorn, Chetan Arora, Tingting Bi, Michael Fu                           |
+| TAROT 2026 \| 21st Summer School on Software Testing, Verification & Validation, July 2026, Germany                                       | Andrea Stocco, Alessio Gambi                                                                                  |
+| 22nd International Advanced School on Empirical Software Engineering, October 1st, 2025, USA                                              | Davide Taibi, Tim Menzies, Dan Port                                                                           |
+| LLM Software Development, November 2025, Germany                                                                                           | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                    |
 
 
 ### 2024-25:  13 schools funded.  81K USD
@@ -88,4 +92,3 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-2025-26-summe
 | ICT4DEV Summer School on Software Engineering, Mozambique                                               |  Luciano Baresi                  |
 | Summer School on Artificial Intelligence Techniques for Software Engineering (AIT4SE), Montreal, Canada |  Tien Nguyen                     |
 | Winter School on Scoping Empirical Studies in Software Engineering, Brazil                              |  Lilian Passos Scatalon          |
-
