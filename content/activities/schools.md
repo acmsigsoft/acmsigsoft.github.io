@@ -18,11 +18,21 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-summer-winter
 - **Duration**: The grant covers summer/winter school programs taking place between August 1, 2026, and August 31, 2027.
 - **Eligibility**: Anyone is eligible to apply. Priority will be given to applicants/organizers who are SIGSOFT members.
 
+### Program Chairs
 
-### Program Committee 
+- Christoph Treude, ctreude@smu.edu.sg, Singapore Management University, Singapore
+- Yuan Tian, y.tian@queensu.ca, Queen's University, Canada
+
+### Program Committee
+
+To be announced.
+
+## Previous schools
+
+### 2025-26 Program Committee
 
 - **Chair**: Christoph Treude, ctreude@smu.edu.sg, Singapore Management University, Singapore
-- **Chair**: Yuan Tian, y.tian@queensu.ca, Queen's University, Canada 
+- **Chair**: Yuan Tian, y.tian@queensu.ca, Queen's University, Canada
 - Bianca Trinkenreich, bianca.trinkenreich@colostate.edu, Colorado State University, USA
 - Chetan Arora, chetan.arora@monash.edu, Monash University, Australia
 - Fabian Gilson, fabian.gilson@canterbury.ac.nz, University of Canterbury, New Zealand
@@ -37,8 +47,6 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-summer-winter
 - Sarah Nadi, sarah.nadi@nyu.edu, New York University Abu Dhabi, UAE
 - Xin Peng, pengxin@fudan.edu.cn, Fudan University, China
 - Yingfei Xiong, xiongyf@pku.edu.cn, Peking University, China
-
-## Previous schools
 
 ### 2025-26: 11 schools funded. 80K USD
 
