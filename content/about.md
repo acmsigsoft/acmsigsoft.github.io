@@ -18,6 +18,7 @@ SIGSOFT was officially formed in 1976 as the Special Interest Committee on Softw
 
 Here are selected topics from the Wiki as well other historical information:
 
+*   [SIGSOFT Wikipedia Page](https://en.wikipedia.org/wiki/SIGSOFT)
 *   [SIGSOFT Chronology](http://historywiki.acm.org/sigs/SIGSOFT)
 *   [SIGSOFT Community Directory](http://historywiki.acm.org/sigs/SIGSOFT-CD)
 *   [FSE History Page](http://historywiki.acm.org/sigs/SIGSOFT-FSE)
