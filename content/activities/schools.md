@@ -16,7 +16,7 @@ Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-summer-winter
 
 - **Funding**: Selected proposals will receive financial support of up to USD $10,000 per school program, depending on the scope and scale of the project. Not all schools are expected to receive the full amount of funding they request.
 - **Duration**: The grant covers summer/winter school programs taking place between August 1, 2026, and August 31, 2027.
-- Anyone is eligible to apply. Priority will be given to applicants/organizers who are SIGSOFT members.
+- **Eligibility**: Anyone is eligible to apply. Priority will be given to applicants/organizers who are SIGSOFT members.
 
 
 ### Program Committee 
