@@ -35,7 +35,7 @@ This recognition is not intended for major leadership positions such as General 
 
 ### How to Nominate
 
-Nominations should be submitted online. The nomination form requires:
+Nominations should be submitted online using the [nomination form](https://docs.google.com/forms/d/1RXdnQBJFaJ6uPk32cK4viMjW5LFwQWDj7y9_DI5qpMk/viewform?edit_requested=true). The form requires:
 
 - Details of the nominator
 - Details of the nominee
