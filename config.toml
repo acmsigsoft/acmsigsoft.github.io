@@ -250,6 +250,12 @@ pluralizelisttitles = false
     parent     = "section.awards"
 
 [[menu.main]]
+    name       = "Distinguished Volunteer Certificate"
+    url        = "/awards/distinguishedVolunteerCertificate"
+    weight     = 9
+    parent     = "section.awards"
+
+[[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
     url        = "/awards/distinguishedPaper"
     weight     = 1
