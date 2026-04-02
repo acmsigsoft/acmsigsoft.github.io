@@ -179,7 +179,7 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Awards"
+    name       = "Awards and Recognition"
     identifier = "menu.features"
     weight     = 5
 
