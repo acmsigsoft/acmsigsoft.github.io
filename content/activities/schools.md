@@ -61,7 +61,7 @@ To be announced.
 | International Summer School on LLM-based Agents for Software Engineering, September 1-3, 2025, Spain                                      | Roberto Rodriguez-Echeverria, José María Conejero, Fernando Sanchez-Figueroa, José Raúl Romero Salguero       |
 | [ACM SIGSOFT Australian Summer School on Software Engineering (OzSE), February 2-4, 2026, Australia](https://ozse-school.github.io/)    | Patanamon Thongtanunam, Kla Tantithamthavorn, Chetan Arora, Tingting Bi, Michael Fu                           |
 | TAROT 2026 \| 21st Summer School on Software Testing, Verification & Validation, July 2026, Germany                                       | Andrea Stocco, Alessio Gambi                                                                                  |
-| 22nd International Advanced School on Empirical Software Engineering, October 1st, 2025, USA                                              | Davide Taibi, Tim Menzies, Dan Port                                                                           |
+| [ESEIW 2025 IASESE - Advanced School: Large Language Models in Empirical Software Engineering](https://conf.researchr.org/track/esem-2025/esem-2025-iasese---advanced-school) | Davide Taibi, Tim Menzies, Dan Port                                                                           |
 | LLM Software Development, November 2025, Germany                                                                                           | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                    |
 
 
