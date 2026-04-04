@@ -18,7 +18,7 @@ Any restrictions on submissions by program committee members must be clearly con
 
 ## Submissions from Organizing Committee Members
 
-For **conferences and symposia**, the **General Chair** and **Program Chair** of the event may not submit to any track of the event. This restriction also extends to the General Chair's and Program Chair's **directly supervised students, postdocs, and employees**. However, they (general and program chairs, as well as their students) can submit to **co-located events and workshops** of the conference they are chairing, provided that they are not the editors of the volume that includes workshop proceedings. General and program co-chairs cannot **propose/organize workshops** themselves, but members of their groups can.
+For **conferences and symposia**, the **General Chair** and **Program Chair** of the event may not submit to any track of the event. This restriction also extends to the General Chair's and Program Chair's **directly supervised students, postdocs, and employees**. However, they (general and program chairs, as well as their directly supervised students, postdocs, and employees) can submit to **co-located events and workshops** of the conference they are chairing, provided that they are not the editors of the volume that includes workshop proceedings. General and program co-chairs cannot **propose/organize workshops** themselves, but members of their groups can.
 
 For **workshops**, the **organizers** and their **directly supervised students, postdocs, and employees** cannot submit to their workshop.
 
