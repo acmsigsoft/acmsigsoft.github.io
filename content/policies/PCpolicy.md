@@ -35,7 +35,7 @@ A **program committee member (including the chair of the committee)** is conside
 2. a past or current student or academic advisor;
 3. a member of the same organization (e.g., company, university, government agency, etc.) within the past three years;
 4. a co-author of a paper under preparation, submitted, or which was published (or posted online in a digital library or public repository such as arXiv) within the past three years[^1]. This rule does not apply to editorials or proceedings prefaces;
-5. co-chair (general/program) of a future conference, or a conference that occurred within the last 12 months. The rule does not apply to workshops (including events such as Shonan meetings or Dagstuhl workshops), even if they have an editorial or a published report by the organizers.
+5. a co-chair (general/program) of a future conference, or a conference that occurred within the last 12 months. The rule does not apply to workshops (including events such as Shonan meetings or Dagstuhl workshops), even if they have an editorial or a published report by the organizers.
 6. someone with whom there has been a financial relationship (e.g., grants, contracts, consultancies, equity investments, stock options, etc.) within the past three years;
 7. a member of the same family or anyone considered a close personal friend; or
 8. someone whose work cannot be evaluated objectively, for a personal or professional reason.
@@ -52,7 +52,7 @@ This conflict of interest and confidentiality policy extends to any supplemental
 
 The program chair will make reasonable efforts to ensure that the manuscripts submitted are made available to and reviewed only by the program committee and supplemental reviewers acting on behalf of the program committee. Neither SIGSOFT nor ACM guarantee the confidentiality of the submitted manuscripts, and accept no liability in the event that the manuscripts are distributed beyond the reviewers.
 
-[^1]: For arXiv reports, the last modification date matters. For conference papers, the conference date matters. For journal papers, the acceptance date matters.  For example, if an arXiv paper is accepted at the conference, the conference date will be the date used in COI calculation.
+[^1]: For arXiv reports, the last modification date matters. For conference papers, the conference date matters. For journal papers, the acceptance date matters. For example, if an arXiv paper is accepted at the conference, the conference date will be the date used in COI calculation.
 
 ##  Awards and Special Issues of Journals
 
