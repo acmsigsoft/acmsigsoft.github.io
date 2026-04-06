@@ -34,6 +34,9 @@ teacher, mentor, researcher, author, and/or policy maker
 ### Impact Award
 - **[Impact Paper Award](https://www2.sigsoft.org/awards/impactpaper/)** - Recognizes papers from SIGSOFT conferences that have had significant influence
 
+### Service Recognition
+- **[Distinguished Volunteer Certificate](/awards/distinguishedVolunteerCertificate)** - Recognizes sustained or exceptional volunteer service that has significantly advanced SIGSOFT
+
 ## Nomination Process
 
 All awards follow a similar nomination process, with two key deadlines:

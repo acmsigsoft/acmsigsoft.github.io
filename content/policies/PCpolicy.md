@@ -4,9 +4,7 @@ title = "ACM SIGSOFT Policy on Program Committees"
 
 # ACM SIGSOFT Policy on Program Committees
 
-
 ## Program Committee Members
-
 
 The program committee is responsible for objectively and thoroughly reviewing all submissions, for submitting timely, informative reviews that provide authors with feedback about their submissions, and for attending the program committee meetings.
 
@@ -20,29 +18,31 @@ Any restrictions on submissions by program committee members must be clearly con
 
 ## Submissions from Organizing Committee Members
 
+For **conferences and symposia**, the **General Chair** and **Program Chair** of the event may not submit to any track of the event. This restriction also extends to the General Chair's and Program Chair's **directly supervised students, postdocs, and employees**. However, they (general and program chairs, as well as their directly supervised students, postdocs, and employees) can submit to **co-located events and workshops** of the conference they are chairing, provided that they are not the editors of the volume that includes workshop proceedings. General and program co-chairs cannot **propose/organize workshops** themselves, but members of their groups can.
 
-For conferences and symposia, the General Chair and Program Chair of the event may not submit to any track of the event. This restriction also extends to the General Chair's and Program Chair's directly supervised students. This restriction does not apply to workshops and collocated events. All other members of the Organizing Committee and their directly supervised students may submit to any track other than the track they are chairing. Directly-supervised students are defined as only those students who are conducting their research under the primary guidance of the General Chair or Program Chair, and not those students who must have the General Chair or Program Chair as their diploma/thesis/dissertation chair of record due to university, state, province, or national rules, but are primarily advised by other (e.g., more junior) professors.
+For **workshops**, the **organizers** and their **directly supervised students, postdocs, and employees** cannot submit to their workshop.
+
+Directly-supervised students are defined as only those students who are conducting their research under the primary guidance of the General Chair or Program Chair, and not those students who must have the General Chair or Program Chair as their diploma/thesis/dissertation chair of record due to university, state, province, or national rules, but are primarily advised by other (e.g., more junior) professors.
+
 
 ## Conflicts of Interest and Confidentiality of Submissions
 
+SIGSOFT requires members of the program committees of its events to adhere to the **highest ethical standards**. Program committee chairs must ensure that these standards are not only met to the letter of the policy but also to the spirit of its intent. This means that even the appearance of a **conflict of interest** or **breach of confidentiality** in the selection process should be avoided.
 
-SIGSOFT requires members of the program committees of its events to adhere to the highest of ethical standards. Program committee chairs must ensure that these standards are not only met to the letter of the policy but also to the spirit of its intent. This means that even the appearance of a conflict of interest or breach of confidentiality in the selection process should be avoided.
+A **program committee member (including the chair of the committee)** is considered to have a **conflict of interest** on a submission that has an author in any of the following categories:
 
-A program committee member (including the chair of the committee) is considered to have a conflict of interest on a submission that has an author in any of the following categories:
-
-1.  the person themselves;
-2.  a past or current student or academic advisor;
-3.  a supervisor or employee in the same line of authority within the past three years;
-4.  a member of the same organization (e.g., company, university, government agency, etc.) within the past three years;
-5.  a co-author of a paper appearing in publication within the past three years;
-6.  someone with whom there has been a financial relationship (e.g., grants, contracts, consultancies, equity investments, stock options, etc.) within the past three years;
-7.  someone with whom acceptance or rejection would further the personal goals of the reviewer (e.g., a competitor);
-8.  a member of the same family or anyone considered a close personal friend; or
-9.  someone about whom, for whatever reason, their work cannot be evaluated objectively.
+1. the person themselves;
+2. a past or current student or academic advisor;
+3. a member of the same organization (e.g., company, university, government agency, etc.) within the past three years;
+4. a co-author of a paper under preparation, submitted, or which was published (or posted online in a digital library or public repository such as arXiv) within the past three years[^1]. This rule does not apply to editorials or proceedings prefaces;
+5. a co-chair (general/program) of a future conference, or a conference that occurred within the last 12 months. The rule does not apply to workshops (including events such as Shonan meetings or Dagstuhl workshops), even if they have an editorial or a published report by the organizers.
+6. someone with whom there has been a financial relationship (e.g., grants, contracts, consultancies, equity investments, stock options, etc.) within the past three years;
+7. a member of the same family or anyone considered a close personal friend; or
+8. someone whose work cannot be evaluated objectively, for a personal or professional reason.
 
 Committee members must declare their conflicts to the program chair before any discussions of the submissions begin.
 
-Committee members in conflict with an author will not be allowed to see the reviews of the submission, nor will the names of the reviewers be divulged. During any and all discussions of the submission (e.g., at the program committee meeting, during pre-meeting email discussions, etc.), the member in conflict will be barred from participating in any way either actively or passively (e.g., by absenting themselves from the room in which the discussion is being held, not being a recipient of email, etc.).
+Committee members in conflict with an author will not be allowed to see the reviews of the submission, nor will the names of the reviewers be divulged. During any and all discussions of the submission (e.g., at the program committee meeting, during pre-meeting email discussions, etc.), the member in conflict will be barred from participating in any way, either actively or passively (e.g., by absenting themselves from the room in which the discussion is being held, not being a recipient of email, etc.).
 
 In case the program chair is in conflict, the chair will assign an alternate chair for any submissions for which they have a conflict. For those submissions, the alternate chair will select the reviewers and will chair the discussion of the submission in the program chair's absence. As a concession to practicality in the mechanics of organizing and reporting the results of the review process, the program chair is permitted to view all reviews for all submissions, including those with which they have a conflict. Nevertheless, the program chair must maintain the confidentiality of those reviews.
 
@@ -51,6 +51,8 @@ The discussions conducted by a program committee during the selection process ar
 This conflict of interest and confidentiality policy extends to any supplemental reviewers outside of the immediate program committee, if such reviewers are permitted by the procedures of the committee. The committee member seeking the supplemental review is responsible for ensuring the enforcement of the policy.
 
 The program chair will make reasonable efforts to ensure that the manuscripts submitted are made available to and reviewed only by the program committee and supplemental reviewers acting on behalf of the program committee. Neither SIGSOFT nor ACM guarantee the confidentiality of the submitted manuscripts, and accept no liability in the event that the manuscripts are distributed beyond the reviewers.
+
+[^1]: For arXiv reports, the last modification date matters. For conference papers, the conference date matters. For journal papers, the acceptance date matters. For example, if an arXiv paper is accepted at the conference, the conference date will be the date used in COI calculation.
 
 ##  Awards and Special Issues of Journals
 
@@ -63,3 +65,7 @@ Conferences should require full-length, original papers for review. Experience s
 All calls should encourage students to participate in the event. Information should be included about the [Conference Attendance Program (CAPS)](/activities/capsmain/), which provides scholarships for students to help defray the cost of attending events, especially if they have an accepted paper at a conference.
 
 In addition, all calls should make authors aware of the [ACM Policy and Procedures on Plagiarism.](http://www.acm.org/publications/policies/plagiarism_policy) Authors must be asked to indicate their understanding and acceptance of the policy and procedures at the time of submission. This can normally be done as part of the electronic submission process, such as through a checkbox that must be checked in order for the submission to be recorded.
+
+## Changelog
+
+- **2026-04**: Updated the conflict of interest section to clarify COI rules for directly supervised students, postdocs, employees, recent co-authorship, and conference co-chair relationships; added workshop-specific guidance.
