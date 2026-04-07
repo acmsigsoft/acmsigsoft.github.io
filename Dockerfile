@@ -4,7 +4,8 @@ ARG HUGO_VERSION=0.148.2
 ARG TARGETARCH
 
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends ca-certificates tar wget \
+    && apt-get install -y --no-install-recommends ca-certificates nodejs npm tar wget \
+    && npm install -g sass-embedded \
     && rm -rf /var/lib/apt/lists/*
 
 RUN TARGETARCH="${TARGETARCH:-$(dpkg --print-architecture)}" \
