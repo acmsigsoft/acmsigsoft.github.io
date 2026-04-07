@@ -62,7 +62,7 @@ To be announced.
 | [ACM SIGSOFT Australian Summer School on Software Engineering (OzSE), February 2-4, 2026, Australia](https://ozse-school.github.io/)    | Patanamon Thongtanunam, Kla Tantithamthavorn, Chetan Arora, Tingting Bi, Michael Fu                           |
 | [TAROT 2026 \| 21st Summer School on Software Testing, Verification & Validation, July 2026, Germany](https://tarot26.github.io/)                                       | Andrea Stocco, Alessio Gambi                                                                                  |
 | [ESEIW 2025 IASESE - Advanced School: Large Language Models in Empirical Software Engineering](https://conf.researchr.org/track/esem-2025/esem-2025-iasese---advanced-school) | Davide Taibi, Tim Menzies, Dan Port                                                                           |
-| [LLM Software Development, November 2025, Germany](https://llmsoftwaredev.github.io/2026/)                                                 | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                    |
+| [LLM Software Development, November 2026, Germany](https://llmsoftwaredev.github.io/2026/)                                                 | Chunyang Chen, Jieshan Chen, Shengcheng Yu                                                                    |
 
 
 ### 2024-25:  13 schools funded.  81K USD
