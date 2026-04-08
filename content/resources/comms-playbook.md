@@ -160,13 +160,6 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 3. Social Media chair creates appropriate post with link
 4. For major announcements: coordinate timing across channels
 
-### Coordination?
-- Monthly brief sync among channel owners?
-- Shared calendar for major announcements?
-- Email thread or Slack for quick coordination?
-
----
-
 ## Contacts
 
 | Channel | Owner(s) | Contact |
@@ -177,3 +170,33 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 | Website | Information Director | See [Information Director](https://www2.sigsoft.org/contact/) |
 | Social Media | Social Media Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
+
+---
+
+## Wikipedia
+
+SIGSOFT maintains a presence on [Wikipedia](https://en.wikipedia.org/wiki/SIGSOFT). Wikipedia serves as a public reference for the broader community and should reflect accurate, neutral, and verifiable information about SIGSOFT.
+
+### When to Update
+
+Update the SIGSOFT Wikipedia article when:
+- Leadership or organizational structure changes significantly
+- SIGSOFT launches or discontinues major initiatives, awards, or conferences
+- Factual errors or outdated information are identified
+- Notable milestones or anniversaries occur
+
+### How to Update
+
+Wikipedia articles must follow [Wikipedia's content policies](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), including:
+- **Neutral point of view:** Write factually and avoid promotional language
+- **Verifiability:** All information must cite reliable, third-party sources (e.g., ACM publications, news articles, conference proceedings)
+- **No original research:** Only include information that is already published elsewhere
+
+**Steps to update:**
+1. Create or log in to a Wikipedia account
+2. Navigate to [https://en.wikipedia.org/wiki/SIGSOFT](https://en.wikipedia.org/wiki/SIGSOFT)
+3. Click "Edit" and make the desired changes
+4. Provide an edit summary explaining the change
+5. Cite sources using Wikipedia's citation format
+
+**Owner:** Information Director (coordinate with the SIGSOFT Executive Committee for significant updates)
