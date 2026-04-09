@@ -109,10 +109,16 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "menu.community"
 
+[[menu.main]]
+    name       = "QSE Mailing List"
+    url        = "/qse"
+    weight     = 4
+    parent     = "menu.community"
+
 
 
 [[menu.main]]
-    name       = "Publications and Resources"
+    name       = "Publications & Resources"
     identifier = "menu.pubs"
     weight     = 4
 
@@ -179,7 +185,7 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Awards"
+    name       = "Awards & Recognition"
     identifier = "menu.features"
     weight     = 5
 
@@ -198,6 +204,14 @@ pluralizelisttitles = false
     weight     = 2
     parent     = "menu.features"
     post       = 2
+
+[[menu.main]]
+    name       = "Recognition"
+    identifier = "section.recognition"
+    url        = ""
+    weight     = 3
+    parent     = "menu.features"
+    post       = 3
 
 
 [[menu.main]]
@@ -250,6 +264,12 @@ pluralizelisttitles = false
     parent     = "section.awards"
 
 [[menu.main]]
+    name       = "Distinguished Volunteer Certificate"
+    url        = "/awards/distinguishedVolunteerCertificate"
+    weight     = 9
+    parent     = "section.recognition"
+
+[[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
     url        = "/awards/distinguishedPaper"
     weight     = 1
@@ -280,7 +300,7 @@ pluralizelisttitles = false
     parent     = "section.conference"
 
 [[menu.main]]
-    name       = "Programs and Activities"
+    name       = "Programs"
     identifier = "menu.programs_activities"
     weight     = 6
 

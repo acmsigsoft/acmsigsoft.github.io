@@ -50,6 +50,18 @@ cd acmsigsoft.github.io
 hugo server
 ```
 
+If you prefer not to install Hugo locally, you can also run the site with Docker using the same Hugo version as CI:
+
+```bash
+# Start a local preview at http://127.0.0.1:1313
+docker compose up
+
+# Build the static site into ./public
+docker compose run --rm hugo hugo
+```
+
+The Docker setup is defined in [Dockerfile](Dockerfile) and [docker-compose.yml](docker-compose.yml).
+
 Alternatively, to test the website on GitHub, please create a pull request and the GitHub Actions workflow will automatically build and deploy the website to a staging environment.
 You can then review the changes on the staging environment before asking for reviewing the pull request.
 

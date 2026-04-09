@@ -7,6 +7,8 @@ SIGSOFT offers a variety of opportunities for getting involved in SIGSOFT events
 If you would like to participate as a volunteer for SIGSOFT, 
 please fill in the appropriate information on the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe3fEsroIbpcOPrqQbEaFl5Wh1YeT3S_UNl-s2EGqDZ6dJNmQ/viewform?usp=dialog).
 
+SIGSOFT also recognizes exceptional volunteer service through the [Distinguished Volunteer Certificate](/awards/distinguishedVolunteerCertificate).
+
 ## Volunteer Opportunities
 
 There are many ways to get involved in SIGSOFT activities as volunteers.
