@@ -11,7 +11,7 @@ This playbook defines SIGSOFT's communication strategy across all channels.
 | [Blog](https://sigsoft.medium.com/) | SE community + public | Informal thought leadership | Information Director |
 | [Website](https://www2.sigsoft.org/) | Public | Official record, resources | Information Director |
 | Social Media ([X](https://twitter.com/acmsigsoft), [LinkedIn](https://www.linkedin.com/company/acm-sigsoft/)) | Public | Amplification, engagement | Social Media Chair |
-| [Mastodon](https://social.sigsoft.org/) | SE community | Community building, discussion | Social Media Chair |
+| [Mastodon](https://social.sigsoft.org/) | SE community | Community building, discussion | SIGSOFT Executive Committee |
 | [Wikipedia](https://en.wikipedia.org/wiki/SIGSOFT) | General public | Encyclopedic reference | Information Director |
 
 ## Channel Definitions
@@ -137,7 +137,7 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 **How to update:**
 1. Create or log in to a Wikipedia account (editing without an account is possible but discouraged for organizational pages)
 2. Navigate to the [SIGSOFT Wikipedia page](https://en.wikipedia.org/wiki/SIGSOFT) and click **Edit**
-3. Follow [Wikipedia's guidelines](https://en.wikipedia.org/wiki/Wikipedia:Editing_policy) — all content must be neutral, verifiable, and cited with reliable third-party sources (ACM press releases, peer-reviewed publications, news articles)
+3. Follow [Wikipedia's guidelines](https://en.wikipedia.org/wiki/Wikipedia:Editing_policy) — all content must be neutral, verifiable, and cited with independent reliable sources where possible (for example, peer-reviewed publications, reputable news articles, and other independent coverage); use ACM/SIGSOFT official sources only where appropriate for straightforward factual details
 4. Do not use Wikipedia to promote SIGSOFT events or solicit participation — such content will be removed by Wikipedia editors
 5. After saving, monitor the Talk page for any concerns raised by other Wikipedia editors
 6. Major rewrites should be discussed on the Talk page before being made
@@ -202,33 +202,3 @@ See the [Blog Contribution Guidelines](https://sigsoft.medium.com/contribution-p
 | Social Media | Social Media Chair | See [Executive Committee](https://www2.sigsoft.org/execcontact/) |
 | Mastodon | SIGSOFT Executive Committee | See [SIGSOFT Mastodon](https://social.sigsoft.org/about) |
 | Wikipedia | Information Director | See [Information Director](https://www2.sigsoft.org/contact/) |
-
----
-
-## Wikipedia
-
-SIGSOFT maintains a presence on [Wikipedia](https://en.wikipedia.org/wiki/SIGSOFT). Wikipedia serves as a public reference for the broader community and should reflect accurate, neutral, and verifiable information about SIGSOFT.
-
-### When to Update
-
-Update the SIGSOFT Wikipedia article when:
-- Leadership or organizational structure changes significantly
-- SIGSOFT launches or discontinues major initiatives, awards, or conferences
-- Factual errors or outdated information are identified
-- Notable milestones or anniversaries occur
-
-### How to Update
-
-Wikipedia articles must follow [Wikipedia's content policies](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), including:
-- **Neutral point of view:** Write factually and avoid promotional language
-- **Verifiability:** All information must cite reliable, third-party sources (e.g., ACM publications, news articles, conference proceedings)
-- **No original research:** Only include information that is already published elsewhere
-
-**Steps to update:**
-1. Create or log in to a Wikipedia account
-2. Navigate to [https://en.wikipedia.org/wiki/SIGSOFT](https://en.wikipedia.org/wiki/SIGSOFT)
-3. Click "Edit" and make the desired changes
-4. Provide an edit summary explaining the change
-5. Cite sources using Wikipedia's citation format
-
-**Owner:** Information Director (coordinate with the SIGSOFT Executive Committee for significant updates)
