@@ -53,6 +53,10 @@ hugo server
 If you prefer not to install Hugo locally, you can also run the site with Docker using the same Hugo version as CI:
 
 ```bash
+# Make sure the theme submodule is checked out (otherwise only a few
+# pages will be rendered and most URLs will 404).
+git submodule update --init --recursive
+
 # Start a local preview at http://127.0.0.1:1313
 docker compose up
 
