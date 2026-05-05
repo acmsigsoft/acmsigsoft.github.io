@@ -2,7 +2,9 @@
 weight: 1
 bookFlatSection: true
 title: "SIGSOFT Awards Overview"
-aliases: "/awards/sigsoftAwards.html"
+aliases:
+  - /awards/
+  - /awards/sigsoftAwards.html
 ---
 
 # ACM SIGSOFT Awards
