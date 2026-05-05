@@ -95,3 +95,55 @@ You can contact all committee members by contacting sigsoft_cares@acm.org, or yo
 {{< figure src="/img/cares/dan_careFit.jpeg" height=".3" title="" >}}
 
 > Peking University, P. R. China, haodan@pku.edu.cn, Term: 2024-2027
+
+`Ben Hermann`
+
+{{< figure src="/img/cares/BenHermann_careFit.jpeg" height=".3" title="" >}}
+
+> Uni Stuttgart, Germany, ben.hermann@iste.uni-stuttgart.de, Term: 2026-2029
+
+`Stefanie Betz`
+
+{{< figure src="/img/cares/StefanieBetz_careFit.jpg" height=".3" title="" >}}
+
+> Furtwangen, Germany, stefanie.betz@hs-furtwangen.de, Term: 2026-2029
+
+`Amel Bennaceur`
+
+> Open University, United Kingdom, amel.bennaceur@open.ac.uk, Term: 2026-2029
+
+`Shalini Chakraborty`
+
+{{< figure src="/img/cares/ShaliniChakraborty_careFit.jpg" height=".3" title="" >}}
+
+> University Bayreuth, Germany, s.chakraborty@uni-bayreuth.de, Term: 2026-2029
+
+`Denae Ford Robinson`
+
+{{< figure src="/img/cares/DenaeFord_careFit.jpeg" height=".3" title="" >}}
+
+> Microsoft, USA, Denae@microsoft.com, Term: 2026-2029
+
+`Isabella Grassl`
+
+{{< figure src="/img/cares/IsabellaGrassl_careFit.png" height=".3" title="" >}}
+
+> TU Darmstadt, Germany, isabella.grassl@tu-darmstadt.de, Term: 2026-2029
+
+`Grischa Liebel`
+
+{{< figure src="/img/cares/GrischaLiebel_careFit.jpg" height=".3" title="" >}}
+
+> Reykjavik University, Iceland, grischal@ru.is, Term: 2026-2029
+
+`Daniela Damian`
+
+{{< figure src="/img/cares/DanielaDamian_careFit.jpg" height=".3" title="" >}}
+
+> University of Victoria, Canada, danielad@cs.uvic.ca, Term: 2026-2029
+
+`Emerson Murphy-Hill`
+
+{{< figure src="/img/cares/EmersonMurphyHill_careFit.png" height=".3" title="" >}}
+
+> Microsoft, USA, captain.emerson@gmail.com, Term: 2026-2029
