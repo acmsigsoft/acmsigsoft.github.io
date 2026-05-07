@@ -43,11 +43,14 @@ teacher, mentor, researcher, author, and/or policy maker
 
 All awards follow a similar nomination process, with two key deadlines:
 
-### Important Dates for 2025
-- **Intent to Nominate Deadline: October 6, 2025** (First Monday in October)
-- **Full Nomination Package Deadline: October 20, 2025** (Two weeks after intent deadline)
+### Important Dates for 2026
+- **Intent to Nominate Deadline: October 5, 2026** (First Monday in October)
+- **Full Nomination Package Deadline: October 19, 2026** (Two weeks after intent deadline)
+
+We aim to notify winners by mid-December.
 
 ### How to Nominate
+
 1. Submit an **intent to nominate** through the [awards nomination portal](https://sigsoft-awards.hotcrp.com/) by the first deadline
    - The intent submission is very lightweight and only requires: (1) full name(s) and
    afﬁliation(s) of the nominee(s), (2) contact information of the nominator,
