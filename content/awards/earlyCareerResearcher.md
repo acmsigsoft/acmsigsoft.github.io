@@ -11,7 +11,8 @@ To be eligible for nomination for the award, individuals' most recent computer-r
 
 Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. Note the above eligibility requirement that additionally affects this award, and should be addressed in the nomination materials if necessary (i.e., if the nominator believes that extenuating circumstances should extend the typical 7-year eligibility requirement). 
 
-If you have questions about this award, please contact sigsoft-early-career-award (at) acm (dot) org.
+We have a blog post that covers certain [Frequently Asked Questions for the Early Career Researcher Award](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb).
+If you have other questions, please contact sigsoft-early-career-award (at) acm (dot) org.
 
 ## Winners
 - 2026 Eunsuk Kang (Carnegie Mellon University), for contributions to improving the safety and robustness of software and AI-enabled systems, through software design, formal methods, and self-adaptation.
