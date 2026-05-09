@@ -13,16 +13,11 @@ The award provides a student member of SIGSOFT a stipend of up to $2000 to cover
 
 To be eligible for the award, a student must be a SIGSOFT member undertaking graduate research in a relevant field in an accredited college or university.
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates and a link to the submission portal. The same intent to nominate and full package deadlines apply to this award as the other SIGSOFT awards.  Note, however, that the nomination package is distinct.  A single PDF containing the nomination package should be submitted through the portal, and should contain: 
-  1. Full name and affiliation of the nominated student
-  2. Membership number (ACM/SIGSOFT)
-  3. A synopsis of an original research proposal that the student is pursuing (2 page limit)
-  4. A proposal discussing the potential for crossover in ideas between the student's current field of research and research in the fields covered by SIGBED (1 page limit)
-  5. A curriculum vitae or resume listing the student's publications
-  6. A letter from the student's research advisor confirming that the student is in good standing and pursuing the research as described in the proposal. The letter must include the following sentence: "To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values.
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates and a link to the submission portal. The same intent-to-nominate and full-package deadlines apply to this award as to the other SIGSOFT awards. The nomination package, which is distinct from the package used by SIGSOFT's other awards, is documented on the [Awards Guidelines](/awards/guidelines/) page.
 
+To be eligible, the student must be a SIGSOFT member undertaking graduate research in a relevant field at an accredited college or university.
 
-This award is a unique opportunity to help promote cross-discipline research. All eligible applicants are encouraged to apply.  If you have questions about this award, please contact sigsoft-angermemorial-award (at) acm (dot) org.
+This award is a unique opportunity to help promote cross-discipline research. All eligible applicants are encouraged to apply. If you have questions about this award, please contact sigsoft-angermemorial-award (at) acm (dot) org.
 
 ## Winners
 
