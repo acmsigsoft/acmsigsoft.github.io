@@ -15,16 +15,19 @@ field, throughout our colleagues' careers. Awards are typically presented to
 individuals, but can be awarded jointly when circumstances warrant, such as for
 joint contributions.  Awards are not given posthumously.
 
+See our [Awards Guidelines](/awards/guidelines/), which contains both general
+guidance for writing strong nominations as well as high-level evaluation
+criteria for each of the SIGSOFT awards.
+
 ## Award Categories
 
 ### Senior Awards
-- **[Distinguished Service
-Award](https://www2.sigsoft.org/awards/distinguishedservice/)** - Recognizes
+- **[Distinguished Service Award](/awards/distinguishedService/)** - Recognizes
 dedicated and important service to the software engineering community 
-- **[Outstanding Research Award](https://www2.sigsoft.org/awards/outstandingresearch/)** - Honors
+- **[Outstanding Research Award](/awards/outstandingResearch/)** - Honors
 significant and lasting research contributions to the theory or practice of
 software engineering
-- **[Influential Educator Award](https://www2.sigsoft.org/awards/influentialeducator/)** - Celebrates
+- **[Influential Educator Award](/awards/influentialEducator/)** - Celebrates
 significant contributions and impact on software engineering education as a
 teacher, mentor, researcher, author, and/or policy maker
 
@@ -39,9 +42,11 @@ teacher, mentor, researcher, author, and/or policy maker
 ### Service Recognition
 - **[Distinguished Volunteer Certificate](/awards/distinguishedVolunteerCertificate)** - Recognizes sustained or exceptional volunteer service that has significantly advanced SIGSOFT
 
-## Nomination Process
+## Nomination Requirements and Eligibility
 
-All awards follow a similar nomination process, with two key deadlines:
+Nomination package contents, eligibility rules, and award-specific evaluation criteria are documented on the [Awards Guidelines](/awards/guidelines/) page. Senior-award nominators are capped at one nomination per category per year. The Distinguished Volunteer Certificate runs on a separate annual cycle; see [its page](/awards/distinguishedVolunteerCertificate/).
+
+All awards (besides the Service Recognition Certificate) follow a similar nomination process, with two key deadlines:
 
 ### Important Dates for 2026
 - **Intent to Nominate Deadline: October 5, 2026** (First Monday in October)
@@ -58,38 +63,6 @@ We aim to notify winners by mid-December.
    nomination will be deemed late and will not be considered in the current award year. 
 2. Submit the complete nomination package as a single PDF by the second deadline
 
-Nominators of candidates who are not selected in a given award year will be
-given the option to reuse nomination materials unmodified for up to two
-consecutive additional years.
-
-### Shared Nomination Requirements and eligibility
-
-*Note: Certain awards have additional or different requirements and eligibility
- restrictions. Consult individual award pages for complete details.*
-
-Nomination packages for all but the Impact Paper and Frank Anger awards should include:
-- Full name(s) and affiliation(s) of nominee(s)
-- Proposed citation (up to 25 words)
-- Succinct description of why the nominee(s) is well-qualified for the award (100-250 words)
-- Detailed nomination statement (no length limit, but please be reasonable)
-- Up to three support letters (200-300 words is sufficient for support letters, although longer statements of support are of course welcome)
-- **Important**: Each support letter must include the following sentence: *"To the best of my knowledge, the candidate I am endorsing has not committed any action that violates the ACM Code of Ethics and ACM's Core Values."*
-
-#### Eligibility 
-
-- Self nominations are permitted.
-- The same individual cannot be nominated for different SIGSOFT awards in the
-  same year.  However, the committee reserves the right to consider an
-  individual for a different award than the one for which they are nominated, if
-  they deem it more suitable.
-- In general, SIGSOFT will not select individuals recognized  by an award from
-  another professional society to receive an equivalent or 
-  substantially similar SIGSOFT award.  Nominations of such individuals are
-  permitted, but must include a clear justification for the nomination that articulates
-  and justifies the special circumstances that motivate considering the nominee
-  for such a substantially similar award (the committee reserves the right to accept or deny the justification). 
-
-In general, the selection committee shall have the option to decline to make an award in a given year, if no suitable nominations are received.
 
 ## Award Benefits
 
