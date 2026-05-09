@@ -13,8 +13,8 @@ pages include additional high-level per-award evaluation criteria.
 
 - **Be focused and concise.** The awards provide length guidance. 
 - **Address the criteria concretely.** Each award page lists high-level dimensions the committee will consider. Excellent candidates rarely have an equally strong case across every dimension; most stand out on a subset. Focus the statement on the most important contributions and on the dimensions where the case is strongest. A nominee's CV enumerates all their activities, and so an effective nomination should focus on identifying (and motivating) the most important of them.
-- **Deemphasize counting.** Publication or citation counts can provide evidence of impact or reach.  However, they can vary widley across subareas and don't truly differentiate strong nominees.  Additionally, these types of criteria are easily visible from the nominee CV.  It is more useful to make qualitative arguments that focus on the most important ways a nominee has shaped research, practice, education, or community.
-- **Ensure your description of the work and its impact is accessible across subfields.** Committees include researchers from across the field of Software Engineering, so it is helpful if you write nominating statements so that any competent software engineering research (including those who are not specialists in the nominee's area) can appreciate the nominee's impact. 
+- **Deemphasize counting.** Publication or citation counts can provide evidence of impact or reach.  However, they can vary widely across subareas and don't truly differentiate strong nominees.  Additionally, these types of criteria are easily visible from the nominee CV.  It is more useful to make qualitative arguments that focus on the most important ways a nominee has shaped research, practice, education, or community.
+- **Ensure your description of the work and its impact is accessible across subfields.** Committees include researchers from across the field of Software Engineering, so it is helpful if you write nominating statements so that any competent software engineering researcher (including those who are not specialists in the nominee's area) can appreciate the nominee's impact. 
 
 ## Nomination package
 
@@ -62,12 +62,6 @@ Impact Paper Award nominations recognize a paper rather than a person. The nomin
 6. A succinct statement describing why the paper is impactful (200-500 words is desirable).
 
 Eligible papers were published at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year. See [the Impact Paper Award page](/awards/impactPaper/) for context and recipient history.
-
-## What supporters can expect
-
-Senior-award supporters are individuals who agree that the committee may contact them directly via email for a short Q&A. These emails are not expected to be as lengthy or time-consuming as a traditional letter of recommendation; see above.  Committees may not contact any or all supporters; this does not correlate with strength of the nomination or potential for its success.
-
-For other awards that use traditional support letters (Outstanding Doctoral Dissertation, Early Career Researcher, Frank Anger Memorial), recommenders provide letters of recommendation to the nominator to include in the package.  
 
 ## Eligibility
 

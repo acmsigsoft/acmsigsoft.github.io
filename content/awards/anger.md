@@ -15,8 +15,6 @@ To be eligible for the award, a student must be a SIGSOFT member undertaking gra
 
 Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates and a link to the submission portal. The same intent-to-nominate and full-package deadlines apply to this award as to the other SIGSOFT awards. The nomination package, which is distinct from the package used by SIGSOFT's other awards, is documented on the [Awards Guidelines](/awards/guidelines/) page.
 
-To be eligible, the student must be a SIGSOFT member undertaking graduate research in a relevant field at an accredited college or university.
-
 This award is a unique opportunity to help promote cross-discipline research. All eligible applicants are encouraged to apply. If you have questions about this award, please contact sigsoft-angermemorial-award (at) acm (dot) org.
 
 ## Winners

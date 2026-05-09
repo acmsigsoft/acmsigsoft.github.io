@@ -46,7 +46,7 @@ teacher, mentor, researcher, author, and/or policy maker
 
 Nomination package contents, eligibility rules, and award-specific evaluation criteria are documented on the [Awards Guidelines](/awards/guidelines/) page. Senior-award nominators are capped at one nomination per category per year. The Distinguished Volunteer Certificate runs on a separate annual cycle; see [its page](/awards/distinguishedVolunteerCertificate/).
 
-All awards (besides the Service Recognition Certificate) follow a similar nomination process, with two key deadlines:
+All awards (besides the Distinguished Volunteer Certificate) follow a similar nomination process, with two key deadlines:
 
 ### Important Dates for 2026
 - **Intent to Nominate Deadline: October 5, 2026** (First Monday in October)

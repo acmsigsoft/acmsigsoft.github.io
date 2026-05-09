@@ -12,7 +12,7 @@ The award is for an outstanding dissertation (in software engineering) dated wit
 
 Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, general nomination and eligibility instructions, and a link to the submission portal. For general advice on writing a strong nomination, see the [Awards Guidelines](/awards/guidelines/) page.
 
-Nominee affiliations should specify both the degree-granting institution, and the nominee's current affiliation, if different. In _addition_ to the other nomination package requirements listed on the main awards page, the single nomination package PDF should _also_ include:
+Nominee affiliations should specify both the degree-granting institution, and the nominee's current affiliation, if different. In _addition_ to the nomination package requirements documented on the [Awards Guidelines](/awards/guidelines/) page, the single nomination package PDF should _also_ include:
  1. The student's advisor(s)
  2. One- to two-page summary of the nominee's dissertation (in English)
  3. List of nominee's publications (that were used as the basis of chapters in the nominated dissertation)
