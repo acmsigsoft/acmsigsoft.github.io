@@ -44,7 +44,7 @@ teacher, mentor, researcher, author, and/or policy maker
 
 ## Nomination Requirements and Eligibility
 
-Nomination package contents, eligibility rules, and award-specific evaluation criteria are documented on the [Awards Guidelines](/awards/guidelines/) page. Senior-award nominators are capped at one nomination per category per year. The Distinguished Volunteer Certificate runs on a separate annual cycle; see [its page](/awards/distinguishedVolunteerCertificate/).
+Nomination package contents and eligibility rules are documented on the [Awards Guidelines](/awards/guidelines/) page. Individual award pages may include additional criteria and context. The Distinguished Volunteer Certificate runs on a separate annual cycle; see [its page](/awards/distinguishedVolunteerCertificate/).
 
 All awards (besides the Distinguished Volunteer Certificate) follow a similar nomination process, with two key deadlines:
 

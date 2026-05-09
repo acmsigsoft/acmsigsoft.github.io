@@ -6,13 +6,12 @@ aliases: "/awards/guidelines.html"
 ---
 
 This page covers the general principles for writing a strong nomination, the
-contents of the nomination packages, and eligibility rules. The individual award
-pages include additional high-level per-award evaluation criteria.
+contents of the nomination packages, and eligibility rules.
 
 ## Writing an effective nomination statement
 
 - **Be focused and concise.** The awards provide length guidance. 
-- **Address the criteria concretely.** Each award page lists high-level dimensions the committee will consider. Excellent candidates rarely have an equally strong case across every dimension; most stand out on a subset. Focus the statement on the most important contributions and on the dimensions where the case is strongest. A nominee's CV enumerates all their activities, and so an effective nomination should focus on identifying (and motivating) the most important of them.
+- **Address the criteria concretely.** Where the award page lists high-level dimensions the committee considers, excellent candidates rarely have an equally strong case across every dimension; most stand out on a subset. Focus the statement on the most important contributions and on the dimensions where the case is strongest. A nominee's CV enumerates all their activities, and so an effective nomination should focus on identifying (and motivating) the most important of them.
 - **Deemphasize counting.** Publication or citation counts can provide evidence of impact or reach.  However, they can vary widely across subareas and don't truly differentiate strong nominees.  Additionally, these types of criteria are easily visible from the nominee CV.  It is more useful to make qualitative arguments that focus on the most important ways a nominee has shaped research, practice, education, or community.
 - **Ensure your description of the work and its impact is accessible across subfields.** Committees include researchers from across the field of Software Engineering, so it is helpful if you write nominating statements so that any competent software engineering researcher (including those who are not specialists in the nominee's area) can appreciate the nominee's impact. 
 
@@ -73,7 +72,7 @@ The rules below apply across SIGSOFT awards. Award-specific eligibility wrinkles
 - Nominators of candidates who are not selected in a given award year may reuse nomination materials unmodified for up to two consecutive additional years.
 - The selection committee for any award may decline to make an award in a given year if no suitable nominations are received.
 
-## Per-award descriptions, including evaluation criteria
+## Per-award descriptions
 
 - **[Outstanding Research Award](/awards/outstandingResearch/).**
 - **[Distinguished Service Award](/awards/distinguishedService/).**
