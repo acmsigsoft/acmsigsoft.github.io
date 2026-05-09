@@ -5,28 +5,30 @@ title: " Distinguished Service Award "
 aliases: "/awards/distinguishedServiceAward.html"
 ---
 
-This annual award is presented to individuals who have contributed dedicated and
-important service to the software engineering community. The committee considers
-all external nominations in the context of the nominees' specific and general
-service contributions to the overall software engineering community.
+This annual award is presented to individuals who have contributed dedicated and important service to the software engineering community. The committee considers all external nominations in the context of the nominees' service contributions to the overall software engineering community.
 
-Criteria that the committee considers in evaluating nominations include:
-
-1. Service to ACM SIGSOFT
-2. Service to the software engineering community outside of SIGSOFT
-3. Service to broadening participation of underrepresented groups in software engineering
-4. Service to students
-5. Length of time serving the software engineering community
-6. Other service contributions
-
-Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. For general guidance on writing a strong nomination, see the [Awards Guidelines](/awards/guidelines/) page.
 
 If you have questions about this award, please contact sigsoft-service-award (at) acm (dot) org.
+
+## Evaluation criteria
+
+The committee considers a range of factors in evaluating nominees for the Distinguished Service award. High-level criteria are described below. Note: _excellent candidates rarely have an equally strong case across all of these criteria._ We encourage you to focus the nomination statement on the criteria where the case is strongest, rather than attempting to thinly cover all of them.
+
+Moreover, Service describes a broad category of activity and so not all outstanding contributions will fit perfectly under these headings, and nominators are encouraged to identify the ways a nominee's service contributions stand out, even if they do not fit neatly into the below categories (such as in behind-the-scenes work, advocacy for policy change, or a particular quality of dedication or effectiveness).
+
+- **Community leadership.** Articulate the nominee's leadership roles in the software engineering community. This includes service to ACM SIGSOFT, service to the broader software engineering community outside SIGSOFT, and service to students through mentoring or community-building roles. Focus on the most important positions where the nominee had the most meaningful impact; avoid attempting to provide an exhaustive list, as the CV serves that purpose.
+- **Community infrastructure.** Describe ways in which the nominee has created, maintained, or improved resources or structures that benefit the software engineering community. This could include establishing new conferences, workshops, or venues; creating benchmarks, datasets, or shared tools; building mentoring programs; investing in infrastructure that broadens participation of underrepresented groups in software engineering; or other contributions to the community's shared infrastructure. Contributions with impact extending beyond a single event or year are especially relevant.
+- **Scope and reach.** Describe the scope of the nominee's service contributions. Have they primarily served one venue or organization deeply, or contributed across many? Is their impact primarily local, national, or international? This may include both formal roles and less visible contributions, such as mentoring future community leaders, building organizational infrastructure, or shaping community norms and policies.
+
+## Nomination package
+
+{{< senior-package >}}
 
 ## Winners
 - 2026 Thomas Zimmermann, University of California, Irvine, for outstanding and transformative service to the software engineering community by broadening participation and championing open science and open access. Nominated by Lin Tan, Purdue University
 - 2025 Mauro Pezzé, USI Università della Svizzera Italiana Lugano (Switzerland), for service to the software engineering community for three decades, and specifically for his recent contributions to TOSEM as Editor-in-Chief.
-- 2024  Massimiliano Di Penta, University of Sannio, for outstanding service to the software engineering community, including serving as program co-chair for all premier software engineering conferences and several other events.
+- 2024 Massimiliano Di Penta, University of Sannio, for outstanding service to the software engineering community, including serving as program co-chair for all premier software engineering conferences and several other events.
 - 2023 John Grundy, Monash University, for continued outstanding service to the software engineering community, including the repeated successful organization of flagship conferences, and leadership in the Australasian research and education community
 - 2022	Joanne M. Atlee, University of Waterloo, for sustained, outstanding service to the software engineering community and enabling a research environment in software engineering world-wide that is equitable, diverse and inclusive
 - 2021	Tao Xie, Peking University, for outstanding service contributions to the software engineering community, including substantial activities on SIGSOFT history, broadening participation in software engineering, and successful chairing of technical events
@@ -63,11 +65,11 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
 - Sepideh Ghanavati, University of Maine, USA
 - Jun Sun, SMU, Singapore
-- Foutse Khomh,  Polytechnique Montréal, Canada
-- Qinghua Lu,  CSIRO, Australia
+- Foutse Khomh, Polytechnique Montréal, Canada
+- Qinghua Lu, CSIRO, Australia
 - Domenico Bianculli, University of Luxembourg, Luxembourg
-- Dan Hao, Peking University, China 
-- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Dan Hao, Peking University, China
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 - Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 #### 2025
@@ -80,7 +82,7 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - Lin Tan, Purdue University, USA
 - Yang Liu, NTU, Singapore
 - Andrea Zisman, Open University, UK
-- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 - Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 #### 2024 
@@ -89,23 +91,23 @@ If you have questions about this award, please contact sigsoft-service-award (at
 - Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
 - Katsuro Inoue, Nanzan University, Japan
 - Barbara Paech, Heidelberg University, Germany
-- David Shepherd, Louisiana State University, USA 
+- David Shepherd, Louisiana State University, USA
 - Paola Spoletini, Kennesaw State University, USA
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
-  
+
 #### 2023 
 - Andrea Zisman, Open University, United Kingdom (chair)
 - Walid Maalej, University of Hamburg, Germany (deputy chair)
 - Paris Avgeriou, University of Groningen, Netherlands
 - Luciano Baresi, Politecnico di Milano, Italy
 - Daniela Damian, University of Victoria, Canada
-- Prem Devambu, UC Davis, United States 
+- Prem Devambu, UC Davis, United States
 - Zhenjiang Hu, Peking University, China
 - Robyn Lutz, Iowa State University, United States
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
-  
+
 #### 2022
 - Marsha Chechik, University of Toronto, Canada (chair)
 - Daniela Damian, University of Victoria, Canada

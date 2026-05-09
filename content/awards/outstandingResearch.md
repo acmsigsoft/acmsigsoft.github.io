@@ -9,15 +9,29 @@ This award is presented to an individual or individuals who have made significan
 
 In addition to the typical awards benefits, recipients are invited to give a keynote presentation at the ICSE conference in the year in which the award is made.
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. For nomination package details and general guidance on writing a strong nomination, see the [Awards Guidelines](/awards/guidelines/) page.
 
 If you have questions about this award, please contact sigsoft-research-award (at) acm (dot) org.
 
+## Evaluation criteria
+
+High-level criteria considered for the Outstanding Research Award are described below. Note: _excellent candidates rarely have an equally strong case across all of these criteria._ We encourage you to focus the nomination statement on the criteria where the case is strongest, rather than attempting to thinly cover all of them. Moreover, not all outstanding contributions will fit perfectly under these headings, and nominators are encouraged to identify the ways a nominee's research contributions stand out, even if they do not fit neatly into the categories below.
+
+Focus on the key contributions or those in which the nominee had the most meaningful impact; avoid attempting to provide an exhaustive list, as the CV serves that purpose. A strong nominating statement helps the committee identify and contextualize the most important or impactful activities.
+
+- **Research impact and significance.** List the nominee's most important research contributions and the impact they have had on the field of software engineering. Where possible, provide concrete evidence such as adoption of their ideas by other research groups, influence on research directions, or other indicators of lasting impact.
+- **Practical impact.** Describe any ways in which the nominee's work has influenced software engineering practice. Examples include but are not limited to adoption of tools, techniques, or methodologies in industry, contributions to standards, technology transfer, and influence on practitioner communities. If the nominee's contributions are primarily theoretical or academic, this dimension can describe potential for or trajectory toward practical influence.
+- **Innovation and novelty.** Describe how the nominee's work has opened new research areas, introduced new methods or frameworks, or shifted how the community thinks about a problem.
+
+## Nomination package
+
+{{< senior-package >}}
+
 ## Winners
 - 2026 Tao Xie, Peking University/Fudan University, for outstanding research contributions on software testing and software analytics that have broadly impacted industrial practices. Nominated by Lu Zhang, Peking University.
-- 2025  Martin Rinard, MIT, for fundamental contributions in pioneering the new fields of program repair and approximate computing.
-- 2024  Tsong Yueh Chen, Swinburne University of Technology, for contributions to software testing through the invention and development of metamorphic testing.
-- 2023  Gail Murphy, University of British Columbia, for pioneering contributions to recommenders for software engineering and program comprehension that have impacted both theory and practice
+- 2025 Martin Rinard, MIT, for fundamental contributions in pioneering the new fields of program repair and approximate computing.
+- 2024 Tsong Yueh Chen, Swinburne University of Technology, for contributions to software testing through the invention and development of metamorphic testing.
+- 2023 Gail Murphy, University of British Columbia, for pioneering contributions to recommenders for software engineering and program comprehension that have impacted both theory and practice
 - 2022	Lionel Briand, University of Ottawa and Centre for ICT Security, Reliability, and Trust (SnT), University of Luxembourg, for contributions in software testing, software quality assurance, and context-driven software engineering research, notably in exemplary collaborations with industry
 - 2021	Prem Devanbu, UC Davis, for profoundly changing the way researchers think about software by exploring connections between source code and natural language
 - 2020	Michael Ernst
@@ -53,11 +67,11 @@ If you have questions about this award, please contact sigsoft-research-award (a
 - Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
 - Sepideh Ghanavati, University of Maine, USA
 - Jun Sun, SMU, Singapore
-- Foutse Khomh,  Polytechnique Montréal, Canada
-- Qinghua Lu,  CSIRO, Australia
+- Foutse Khomh, Polytechnique Montréal, Canada
+- Qinghua Lu, CSIRO, Australia
 - Domenico Bianculli, University of Luxembourg, Luxembourg
-- Dan Hao, Peking University, China 
-- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Dan Hao, Peking University, China
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 - Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 
@@ -71,7 +85,7 @@ If you have questions about this award, please contact sigsoft-research-award (a
 - Lin Tan, Purdue University, USA
 - Yang Liu, NTU, Singapore
 - Andrea Zisman, Open University, UK
-- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 - Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 #### 2024
