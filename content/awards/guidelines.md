@@ -1,7 +1,7 @@
 ---
 weight: 3
 bookFlatSection: true
-title: " SIGSOFT Awards Guidance and Criteria "
+title: "SIGSOFT Awards Guidance and Criteria"
 aliases: "/awards/guidelines.html"
 ---
 
