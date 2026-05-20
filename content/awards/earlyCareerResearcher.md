@@ -13,7 +13,6 @@ Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, no
 
 For general guidance on writing a strong nomination, see the [Awards Guidelines](/awards/guidelines/) page. The [SIGSOFT ECR Award FAQ on Medium](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb) provides additional information on eligibility, evaluation considerations, and other questions that come up frequently for this award.
 
-We have a blog post that covers certain [Frequently Asked Questions for the Early Career Researcher Award](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb).
 If you have other questions, please contact sigsoft-early-career-award (at) acm (dot) org.
 
 ## Winners
