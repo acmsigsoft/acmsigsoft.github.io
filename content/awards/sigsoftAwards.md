@@ -22,14 +22,9 @@ criteria for each of the SIGSOFT awards.
 ## Award Categories
 
 ### Senior Awards
-- **[Distinguished Service Award](/awards/distinguishedService/)** - Recognizes
-dedicated and important service to the software engineering community 
-- **[Outstanding Research Award](/awards/outstandingResearch/)** - Honors
-significant and lasting research contributions to the theory or practice of
-software engineering
-- **[Influential Educator Award](/awards/influentialEducator/)** - Celebrates
-significant contributions and impact on software engineering education as a
-teacher, mentor, researcher, author, and/or policy maker
+- **[Distinguished Service Award](/awards/distinguishedService/)** - Recognizes dedicated and important service to the software engineering community 
+- **[Outstanding Research Award](/awards/outstandingResearch/)** - Honors significant and lasting research contributions to the theory or practice of software engineering
+- **[Influential Educator Award](/awards/influentialEducator/)** - Celebrates significant contributions and impact on software engineering education as a teacher, mentor, researcher, author, and/or policy maker
 
 ### Junior Awards
 - **[Outstanding Doctoral Dissertation Award](https://www2.sigsoft.org/awards/dissertation/)** - Presented to the author of an outstanding doctoral dissertation in software engineering
@@ -57,10 +52,7 @@ We aim to notify winners by mid-December.
 ### How to Nominate
 
 1. Submit an **intent to nominate** through the [awards nomination portal](https://sigsoft-awards.hotcrp.com/) by the first deadline
-   - The intent submission is very lightweight and only requires: (1) full name(s) and
-   afﬁliation(s) of the nominee(s), (2) contact information of the nominator,
-   and (3) some metadata. If no intent is received by the deadline, the
-   nomination will be deemed late and will not be considered in the current award year. 
+   - The intent submission is very lightweight and only requires: (1) full name(s) and affiliation(s) of the nominee(s), (2) contact information of the nominator, and (3) some metadata. If no intent is received by the deadline, the nomination will be deemed late and will not be considered in the current award year. 
 2. Submit the complete nomination package as a single PDF by the second deadline
 
 
