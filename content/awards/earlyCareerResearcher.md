@@ -9,19 +9,18 @@ This award is presented to an individual or individuals who have made outstandin
 
 To be eligible for nomination for the award, individuals' most recent computer-related educational degree (baccalaureate, masters, or doctoral degree) must have been awarded no more than seven (7) years prior to the year of nomination e.g., a candidate who received a PhD at any point in 2019 is eligible to be nominated in the 2026 cycle (to receive an award in 2027).  The 7-year window may be extended for circumstances such as parental or medical leave. Extenuating circumstances should be described in the nomination statement.  Nominators are also permitted and encouraged to reach out to the Awards Chair to obtain a judgement regarding whether a particular nominee's circumstances qualify as extenuating before the nomination deadline. In the absence of a judgement ahead of time, the committee reserves the right to accept or deny the consideration of the extenuating circumstances.
 
-Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. Note the above eligibility requirement that additionally affects this award, and should be addressed in the nomination materials if necessary (i.e., if the nominator believes that extenuating circumstances should extend the typical 7-year eligibility requirement). 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination and eligibility instructions, and a link to the submission portal. Note the above eligibility requirement that additionally affects this award, and should be addressed in the nomination materials if necessary (i.e., if the nominator believes that extenuating circumstances should extend the typical 7-year eligibility requirement).
 
-We have a blog post that covers certain [Frequently Asked Questions for the Early Career Researcher Award](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb).
+For general guidance on writing a strong nomination, see the [Awards Guidelines](/awards/guidelines/) page. The [SIGSOFT ECR Award FAQ on Medium](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb) provides additional information on eligibility, evaluation considerations, and other questions that come up frequently for this award.
+
 If you have other questions, please contact sigsoft-early-career-award (at) acm (dot) org.
 
 ## Winners
-- 2026 Eunsuk Kang (Carnegie Mellon University), for contributions to improving the safety and robustness of software and AI-enabled systems, through software design, formal methods, and self-adaptation.
-  Nominated by: David Garlan (Carnegie Mellon University)
-- 2026 Sen Chen (Nankai University), for outstanding contributions to advancing software supply chain security through pioneering techniques and tools in Software Composition Analysis (SCA) and Static
-   Application Security Testing (SAST). Nominated by: Jun Sun (Singapore Management University)
-- 2025  Jie Zhang, King's College London, for pioneering contributions to software engineering for AI, significantly shaping and transforming the field of AI system testing.
-- 2024  Kevin Moran, University of Central Florida, for outstanding contributions to improving the quality of mobile applications, through software testing, deep learning, and user interface development.
-- 2023  Chunyang Chen, Monash University, for outstanding contributions to the study of intelligent software development automation including automated mobile application development, software testing, migration and accessibility
+- 2026 Eunsuk Kang (Carnegie Mellon University), for contributions to improving the safety and robustness of software and AI-enabled systems, through software design, formal methods, and self-adaptation. Nominated by: David Garlan (Carnegie Mellon University)
+- 2026 Sen Chen (Nankai University), for outstanding contributions to advancing software supply chain security through pioneering techniques and tools in Software Composition Analysis (SCA) and Static Application Security Testing (SAST). Nominated by: Jun Sun (Singapore Management University)
+- 2025 Jie Zhang, King's College London, for pioneering contributions to software engineering for AI, significantly shaping and transforming the field of AI system testing.
+- 2024 Kevin Moran, University of Central Florida, for outstanding contributions to improving the quality of mobile applications, through software testing, deep learning, and user interface development.
+- 2023 Chunyang Chen, Monash University, for outstanding contributions to the study of intelligent software development automation including automated mobile application development, software testing, migration and accessibility
 - 2022	Xin Xia, Huawei, for contributions to AI and SE, mining software repositories, and empirical software engineering
 - 2021	Lingming Zhang, University of Illinois at Urbana-Champaign, for outstanding contributions to mutation testing, regression testing, fault localization, and program repair
 - 2020	Claire Le Goues
@@ -32,7 +31,7 @@ If you have other questions, please contact sigsoft-early-career-award (at) acm 
 ## Committee
 
 #### 2026
-- Aldeida Aleti, Monash University, Australia  (chair)
+- Aldeida Aleti, Monash University, Australia (chair)
 - Valerio Terragni, University of Auckland, New Zealand
 - Lei Ma, University of Tokyo, Japan
 - Jie Zhang, King's College London, UK.
@@ -43,7 +42,7 @@ If you have other questions, please contact sigsoft-early-career-award (at) acm 
 - Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 
 #### 2025
-- Aldeida Aleti, Monash University, Australia 
+- Aldeida Aleti, Monash University, Australia
 - Dan Hao, Peking University, China
 - Justyna Petke, University College London, UK
 - Foutse Khomh, University of Montreal, Canada
@@ -58,13 +57,13 @@ If you have other questions, please contact sigsoft-early-career-award (at) acm 
 #### 2024
 - Myra B. Cohen, Iowa State University, United States (chair)
 - Gordon Fraser, University of Passau, Germany (deputy chair)
-- Aldeida Aleti, Monash University, Australia                                
+- Aldeida Aleti, Monash University, Australia
 - Kelly Blincoe, University of Auckland, New Zealand
-- Gregory Gay, Chalmers and the University of Gothenburg, Sweden                            
-- Cindy Rubio-Gonzalez, UC Davis, United States 
+- Gregory Gay, Chalmers and the University of Gothenburg, Sweden
+- Cindy Rubio-Gonzalez, UC Davis, United States
 - Rachel Tzoref-Brill, IBM, Israel
-- Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea                                                                    
-- Lingming Zhang, University of Illinois at Urbana-Champaign, United States  
+- Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea
+- Lingming Zhang, University of Illinois at Urbana-Champaign, United States
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
 

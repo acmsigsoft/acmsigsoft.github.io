@@ -5,18 +5,31 @@ title: "Influential Educator Award"
 aliases: "/awards/influentialEducatorAward.html"
 ---
 
-Education is vital to the advancement of the research and practice of Software Engineering. Yet, the contributions of an educator often go unnoticed, except perhaps by those closest to the educator. The SIGSOFT Influential Educator Award is presented annually to an educator or educators who have made significant contributions to, and impact on, the field of software engineering with his or her accomplishments as a teacher, mentor, researcher (in education or learning), author, and/or policy maker. 
+Education is vital to the advancement of the research and practice of Software Engineering. Yet, the contributions of an educator often go unnoticed, except perhaps by those closest to the educator. The SIGSOFT Influential Educator Award is presented annually to an educator or educators who have made significant contributions to, and impact on, the field of software engineering with his or her accomplishments as a teacher, mentor, researcher (in education or learning), author, and/or policy maker.
 
-
-Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination instructions, and a link to the submission portal. 
+Consult the [main SIGSOFT Awards page](/awards/sigsoftawards/) for key dates, nomination instructions, and a link to the submission portal. For general guidance on writing a strong nomination, see the [Awards Guidelines](/awards/guidelines/) page.
 
 If you have questions about this award, please contact sigsoft-educator-award (at) acm (dot) org.
 
+## Evaluation criteria
+
+High-level criteria considered for the Influential Educator Award are described below. Note: _excellent candidates rarely have an equally strong case across all of these criteria._ We encourage you to focus the nomination statement on the criteria where the case is strongest, rather than attempting to thinly cover all of them. Moreover, not all outstanding contributions will fit perfectly under these headings, and nominators are encouraged to identify the ways a nominee's educational contributions stand out, even if they do not fit neatly into the below categories (such as in behind-the-scenes work, advocacy for policy change, or a particular quality of dedication or effectiveness).
+
+Focus on the key contributions or those in which the nominee had the most meaningful impact; avoid attempting to provide an exhaustive list, as the CV serves that purpose. A strong nominating statement helps the committee identify and contextualize the most important or impactful activities.
+
+- **Direct educational contributions.** List or describe the nominee's contributions to software engineering education through teaching, curriculum development, or educational innovation. This includes but is not limited to classroom teaching, curriculum design, pedagogical innovation, and contributions to education policy, standards, or advocacy. Where available, point to concrete evidence of effectiveness, such as awards, evaluations, or adoption beyond the nominee's own institution.
+- **Educational materials and resources.** List or describe educational materials the nominee has created or contributed to, especially those that have had influence beyond their own institution. Examples include textbooks, open courseware, online resources, pedagogical tools, and educational software. Where possible, articulate the scope of adoption or other evidence of broader impact.
+- **Mentorship.** Describe the nominee's record as a mentor at any level, including undergraduate, graduate, or junior-faculty mentoring. Where possible, highlight evidence of mentoring outcomes, such as the careers and achievements of former students or mentees, or the nominee's role in creating mentoring structures or programs.
+
+## Nomination package
+
+{{< senior-package >}}
+
 ## Winners
 - 2026 Daniela Damian, University of Victoria, for pioneering and sustaining innovative approaches to experiential learning, collaborative and inclusive software engineering education across time zones, cultural boundaries, and diverse perspectives. Nominated by Neil Ernst, University of Victoria.
-- 2025  Andreas Zeller, CISPA and Saarland University, for significant contributions and important innovations in automated software engineering education.
-- 2024  Martin Robillard, McGill University, for significant contributions to hands-on software design education, including a textbook and a learner-focused software modeling tool.
-- 2023  Tao Xie, Peking University, China, for significant contributions in mentoring of graduate students and junior researchers, broadening participation of underrepresented groups in software engineering/computing, and innovation in educational tooling
+- 2025 Andreas Zeller, CISPA and Saarland University, for significant contributions and important innovations in automated software engineering education.
+- 2024 Martin Robillard, McGill University, for significant contributions to hands-on software design education, including a textbook and a learner-focused software modeling tool.
+- 2023 Tao Xie, Peking University, China, for significant contributions in mentoring of graduate students and junior researchers, broadening participation of underrepresented groups in software engineering/computing, and innovation in educational tooling
 - 2022	Miryung Kim, University of California, Los Angeles, for outstanding achievements in undergraduate and graduate mentoring with an emphasis on research excellence in software engineering, diversity, and inclusion
 - 2021	Katsuro Inoue, Osaka University, for his life-long foundational contributions to software engineering education and his success in connecting generations of educators and researchers from Japan with the international community
 - 2020	Greg Wilson
@@ -43,8 +56,8 @@ If you have questions about this award, please contact sigsoft-educator-award (a
 - Foutse Khomh, Polytechnique Montréal, Canada
 - Qinghua Lu, CSIRO, Australia
 - Domenico Bianculli, University of Luxembourg, Luxembourg
-- Dan Hao, Peking University, China 
-- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Dan Hao, Peking University, China
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 - Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 #### 2025
@@ -57,7 +70,7 @@ If you have questions about this award, please contact sigsoft-educator-award (a
 - Lin Tan, Purdue University, USA
 - Yang Liu, NTU, Singapore
 - Andrea Zisman, Open University, UK
-- Marsha Chechik, University of Toronto, Canada  (SIGSOFT chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
 - Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
 
 #### 2024
@@ -66,7 +79,7 @@ If you have questions about this award, please contact sigsoft-educator-award (a
 - Lionel Briand, University of Ottawa, Canada and University of Luxembourg, Luxembourg
 - Katsuro Inoue, Nanzan University, Japan
 - Barbara Paech, Heidelberg University, Germany
-- David Shepherd, Louisiana State University, USA 
+- David Shepherd, Louisiana State University, USA
 - Paola Spoletini, Kennesaw State University, USA
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
 - David Lo, Singapore Management University, Singapore (SIGSOFT award chair, non-voting)
@@ -76,7 +89,7 @@ If you have questions about this award, please contact sigsoft-educator-award (a
 - Paris Avgeriou, University of Groningen, Netherlands
 - Luciano Baresi, Politecnico di Milano, Italy
 - Daniela Damian, University of Victoria, Canada
-- Prem Devambu, UC Davis, United States 
+- Prem Devambu, UC Davis, United States
 - Zhenjiang Hu, Peking University, China
 - Robyn Lutz, Iowa State University, United States
 - Thomas Zimmermann, Microsoft Research, United States (SIGSOFT chair, non-voting)
