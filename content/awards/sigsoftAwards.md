@@ -22,9 +22,9 @@ criteria for each of the SIGSOFT awards.
 ## Award Categories
 
 ### Senior Awards
-- **[Distinguished Service Award](/awards/distinguishedService/)** - Recognizes dedicated and important service to the software engineering community 
-- **[Outstanding Research Award](/awards/outstandingResearch/)** - Honors significant and lasting research contributions to the theory or practice of software engineering
-- **[Influential Educator Award](/awards/influentialEducator/)** - Celebrates significant contributions and impact on software engineering education as a teacher, mentor, researcher, author, and/or policy maker
+- **[Distinguished Service Award](/awards/distinguishedservice/)** - Recognizes dedicated and important service to the software engineering community 
+- **[Outstanding Research Award](/awards/outstandingresearch/)** - Honors significant and lasting research contributions to the theory or practice of software engineering
+- **[Influential Educator Award](/awards/influentialeducator/)** - Celebrates significant contributions and impact on software engineering education as a teacher, mentor, researcher, author, and/or policy maker
 
 ### Junior Awards
 - **[Outstanding Doctoral Dissertation Award](https://www2.sigsoft.org/awards/dissertation/)** - Presented to the author of an outstanding doctoral dissertation in software engineering
@@ -35,11 +35,11 @@ criteria for each of the SIGSOFT awards.
 - **[Impact Paper Award](https://www2.sigsoft.org/awards/impactpaper/)** - Recognizes papers from SIGSOFT conferences that have had significant influence
 
 ### Service Recognition
-- **[Distinguished Volunteer Certificate](/awards/distinguishedVolunteerCertificate)** - Recognizes sustained or exceptional volunteer service that has significantly advanced SIGSOFT
+- **[Distinguished Volunteer Certificate](/awards/distinguishedvolunteercertificate/)** - Recognizes sustained or exceptional volunteer service that has significantly advanced SIGSOFT
 
 ## Nomination Requirements and Eligibility
 
-Nomination package contents and eligibility rules are documented on the [Awards Guidelines](/awards/guidelines/) page. Individual award pages may include additional criteria and context. The Distinguished Volunteer Certificate runs on a separate annual cycle; see [its page](/awards/distinguishedVolunteerCertificate/).
+Nomination package contents and eligibility rules are documented on the [Awards Guidelines](/awards/guidelines/) page. Individual award pages may include additional criteria and context. The Distinguished Volunteer Certificate runs on a separate annual cycle; see [its page](/awards/distinguishedvolunteercertificate/).
 
 All awards (besides the Distinguished Volunteer Certificate) follow a similar nomination process, with two key deadlines:
 
