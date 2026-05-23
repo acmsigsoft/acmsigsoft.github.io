@@ -63,6 +63,11 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Check internal links
+        env:
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}/
+        run: node scripts/check-changed-links.mjs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

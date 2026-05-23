@@ -76,6 +76,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           path: pr
           submodules: recursive
+          fetch-depth: 0
       - name: Install Node.js dependencies for PR
         working-directory: pr
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
@@ -92,6 +93,14 @@ jobs:
             --minify \
             --baseURL "${{ steps.base_url.outputs.base_url }}/" \
             --destination "${{ github.workspace }}/public/pr-${{ github.event.number }}"
+
+      - name: Check internal links
+        working-directory: pr
+        env:
+          SITE_BASE_URL: ${{ steps.base_url.outputs.base_url }}/
+          PUBLIC_DIR: ${{ github.workspace }}/public/pr-${{ github.event.number }}
+          LINK_CHECK_BASE_REF: origin/${{ github.base_ref }}
+        run: node scripts/check-changed-links.mjs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

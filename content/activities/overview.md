@@ -9,6 +9,7 @@ ACM SIGSOFT sponsors many activities and events.
 Here is a non-exhaustive list of them.
 
 - [CARES]({{< ref "/cares/SIGSOFT_CARES.md" >}} "cares")
+- [RISE: Research Alliance for Industry and Academia in Software Engineering]({{< ref "/rise/RISE.md" >}} "rise")
 - [SIGSOFT Travel Support and Childcare Assistance at Conferences - CAPS]({{< ref "CAPSMAIN.md" >}} "caps")
 - [WEBINARS]({{< ref "webinarsmain.md" >}} "webinars")
 - [Summer/Winter Schools]({{< ref "schools.md" >}} "schools")
@@ -21,4 +22,3 @@ Here is a list of new initiatives that SIGSOFT is exploring, and the correspondi
 - SIGSOFT ACM Digital Library liaisons: Xiaoning Du and Tao Zhang. The liaisons will ensure that information about SIGSOFT (co)-located events has been correctly captured in ACM Digital Library.
 - SIGSOFT Conference Program Committee Member Recognition Coordinators: Sylvain Hallé and Yepang Liu. The coordinators will create and mail personalized digital certificates for program committee roles of SIGSOFT (co)-sponsored conferences.
 - Research Highlights coordinator: Silvia Abrahão. The coordinator will work with program chairs of SIGSOFT (co)-sponsored conferences to identify most promising papers for possible publication in Communications of the ACM.
-
