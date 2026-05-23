@@ -126,11 +126,21 @@ function gitChangedFiles() {
   const args = baseRef ? ["diff", "--name-only", `${baseRef}...HEAD`] : ["diff", "--name-only", "HEAD^", "HEAD"];
 
   try {
-    return execFileSync("git", args, { encoding: "utf8" })
+    const files = execFileSync("git", args, { encoding: "utf8" })
       .split(/\r?\n/)
       .filter(Boolean);
+
+    if (files.length === 0) {
+      console.error(`No changed files found from: git ${args.join(" ")}`);
+      console.error("Pass files explicitly or ensure the checkout has enough git history.");
+      process.exit(1);
+    }
+
+    return files;
   } catch {
-    return [];
+    console.error(`Unable to determine changed files from: git ${args.join(" ")}`);
+    console.error("Pass files explicitly or ensure the checkout has enough git history.");
+    process.exit(1);
   }
 }
 
