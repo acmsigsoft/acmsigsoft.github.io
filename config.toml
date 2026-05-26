@@ -74,7 +74,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Program Committee Policy"
-    url        = "/policies/PCpolicy"
+    url        = "/policies/pcpolicy"
     weight     = 2
     parent     = "menu.conferences"
 
@@ -136,7 +136,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Software Engineering Notes (SEN)"
-    url        = "/SEN/SEN"
+    url        = "/sen/sen"
     weight     = 3
     parent     = "menu.pubs"
 
@@ -223,25 +223,25 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Distinguished Service"
-    url        = "/awards/distinguishedService"
+    url        = "/awards/distinguishedservice"
     weight     = 2
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Outstanding Research"
-    url        = "/awards/outstandingResearch"
+    url        = "/awards/outstandingresearch"
     weight     = 3
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Influential Educator"
-    url        = "/awards/influentialEducator"
+    url        = "/awards/influentialeducator"
     weight     = 4
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Impact Paper"
-    url        = "/awards/impactPaper"
+    url        = "/awards/impactpaper"
     weight     = 5
     parent     = "section.awards"
 
@@ -253,7 +253,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Early Career Researcher"
-    url        = "/awards/earlyCareerResearcher"
+    url        = "/awards/earlycareerresearcher"
     weight     = 7
     parent     = "section.awards"
 
@@ -271,7 +271,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "ACM SIGSOFT Distinguished Paper"
-    url        = "/awards/distinguishedPaper"
+    url        = "/awards/distinguishedpaper"
     weight     = 1
     parent     = "section.conference"
 
