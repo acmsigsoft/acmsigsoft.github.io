@@ -22,7 +22,7 @@ _By submitting a nomination statement, nominators authorize the SIGSOFT Research
 SIGSOFT Research Highlights Committee
 -------------------------------------
 
-*   [Martin Robillard](https://www.cs.mcgill.ca/~martin/), McGill University (Chair)
+*   [Silvia Abrahão](mailto:sabrahao@dsic.upv.es), Universitat Politècnica de València (Chair)
 *   [Nicole Novielli](http://collab.di.uniba.it/nicole/), University of Bari
 *   [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html), University of Stuttgart
 *   [Saurabh Sinha](https://researcher.watson.ibm.com/researcher/view.php?person=us-sinhas), IBM Research

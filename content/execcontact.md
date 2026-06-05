@@ -85,30 +85,25 @@ title = "SIGSOFT Executive Committee"
     University of Hawaii, USA
     kazman@hawaii.edu
 
-#### Liaisons for Diversity, Equity, and Inclusion: Jo Atlee
+#### Liaisons for Diversity, Equity, and Inclusion: Federica Sarro
 
-    University of Waterloo
-    Canada
-    jmatlee@uwaterloo.ca 
+    University College London, United Kingdom
+    f.sarro@ucl.ac.uk
 
-#### Liaisons for Diversity, Equity, and Inclusion: Kelly Blincoe
+#### Liaisons for Diversity, Equity, and Inclusion: Foutse Khomh
 
-    University of Auckland
-    New Zealand
-    k.blincoe@auckland.ac.nz 
+    Polytechnique Montréal, Canada
+    foutse.khomh@polymtl.ca
 
-#### Liaisons for Diversity, Equity, and Inclusion: Alexander Serebrenik
+#### Liaisons for Diversity, Equity, and Inclusion: Birgit Penzenstadler
 
-    Eindhoven University of Technology
-    Netherlands
-    a.serebrenik@tue.nl 
+    Chalmers, Gothenburg University and Lappeenranta University
+    birgitp@chalmers.se
 
-#### Research Highlight Chair: Martin Robillard
+#### Research Highlights Chair: Silvia Abrahão
 
-    McGill University
-    Montreal, Quebec
-    Canada
-    https://www.cs.mcgill.ca/~martin/ 
+    Universitat Politècnica de València
+    sabrahao@dsic.upv.es
 
 #### Social Media Chair: Judith Michael
 
