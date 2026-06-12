@@ -66,5 +66,6 @@ Our first annual report was available in 2023.
 To maintain confidentiality, the reports will be brief. 
 They will not contain details about the types of contacts that CARES members have made and they will not even contain specific numbers of contacts. 
 The reports will be structured this way to protect the privacy of those that approach us.
+- [SIGSOFT CARES Annual Report 2025](/files/CareAR2025.pdf)
 - [SIGSOFT CARES Annual Report 2024](/files/CareAR2024.pdf)
 - [SIGSOFT CARES Annual Report 2023](/files/CareAR2023.pdf)
