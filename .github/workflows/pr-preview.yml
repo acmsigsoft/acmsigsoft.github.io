@@ -94,6 +94,12 @@ jobs:
             --baseURL "${{ steps.base_url.outputs.base_url }}/" \
             --destination "${{ github.workspace }}/public/pr-${{ github.event.number }}"
 
+      - name: Copy legacy SEN assets for PR preview
+        working-directory: pr
+        env:
+          PUBLIC_DIR: ${{ github.workspace }}/public/pr-${{ github.event.number }}
+        run: node scripts/copy-legacy-sen-assets.mjs
+
       - name: Check internal links
         working-directory: pr
         env:

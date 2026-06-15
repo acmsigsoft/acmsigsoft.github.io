@@ -18,7 +18,7 @@ RUN TARGETARCH="${TARGETARCH:-$(dpkg --print-architecture)}" \
     && wget -q -O "/tmp/${HUGO_TARBALL}" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_TARBALL}" \
     && wget -q -O /tmp/hugo_checksums.txt "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_checksums.txt" \
     && grep " ${HUGO_TARBALL}\$" /tmp/hugo_checksums.txt > /tmp/hugo_checksums_entry.txt \
-    && sha256sum -c /tmp/hugo_checksums_entry.txt \
+    && (cd /tmp && sha256sum -c hugo_checksums_entry.txt) \
     && tar -xzf "/tmp/${HUGO_TARBALL}" -C /usr/local/bin hugo \
     && rm -f "/tmp/${HUGO_TARBALL}" /tmp/hugo_checksums.txt /tmp/hugo_checksums_entry.txt
 
