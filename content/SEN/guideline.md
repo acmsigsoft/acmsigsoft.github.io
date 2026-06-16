@@ -18,9 +18,9 @@ Finally, as _reports_, we welcome summary reports from workshops conducted under
 
 Manuscripts should be prepared by using **SEN style** and submitted by sending their sources and/or .pdfs with all fonts embedded. The following templates are available:
 
-*   [.doc](/SEN/ACM_SIGSOFT_pubform.doc): MS Word 97-2003
-*   [.docx](/SEN/ACM_SIGSOFT_pubform.docx): MS Word 2007
-*   [.cls](/SEN/acm_sen_article.cls) or [.zip](/SEN/latex-example.zip): LaTeX
+*   [.doc](/sen/ACM_SIGSOFT_pubform.doc): MS Word 97-2003
+*   [.docx](/sen/ACM_SIGSOFT_pubform.docx): MS Word 2007
+*   [.cls](/sen/acm_sen_article.cls) or [.zip](/sen/latex-example.zip): LaTeX
 
 Authors are warmly encouraged to carefully structure the abstract of their manuscript, so as to ensure that it reflects the key points addressed in the document, which will appear in full in the ACM Digital Library. Authors are also encouraged to use the keywords found on the ACM Computer Classification System (CCS) that is available [online](https://dl.acm.org/ccs).
 
@@ -58,5 +58,4 @@ Please see the ACM webpage about [plagiarism and self-plagiarism](http://www.acm
 Plagiarism is copying words from another published paper (your own or someone else's) without proper quotes and citations. In writing, everything not quoted and cited is presumed to be new work by the author. Plagiarism disrespects both the original author (whose contributions are not acknowledged) and the reader (who is mislead about the contributions of the current paper, and will not know where to go when they want to learn more). It looks like theft of words or ideas.
 
 Any copied text longer than a few words should be put in quotes and given a reference. If you copy more than a full sentence, use indented paragraphs to denote a block quote. Note that copying text and then changing words here and there is not good enough. Use quotes or rewrite completely.
-
 

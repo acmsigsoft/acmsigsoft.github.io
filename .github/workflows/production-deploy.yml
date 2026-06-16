@@ -64,6 +64,9 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Copy legacy SEN assets
+        run: node scripts/copy-legacy-sen-assets.mjs
+
       - name: Check internal links
         env:
           SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}/
