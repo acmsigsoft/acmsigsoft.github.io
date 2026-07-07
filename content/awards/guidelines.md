@@ -17,7 +17,7 @@ contents of the nomination packages, and eligibility rules.
 
 ## Nomination package
 
-Nomination package PDFs are uploaded through the [submission portal](https://sigsoft-awards.hotcrp.com/) by the full-package deadline. The Distinguished Volunteer Certificate uses a separate annual cycle and a different form; see [its page](/awards/distinguishedVolunteerCertificate/) for that.
+Nomination package PDFs are uploaded through the [submission portal](https://sigsoft-awards.hotcrp.com/) by the full-package deadline. The Distinguished Volunteer Certificate uses a separate annual cycle and a different form; see [its page](/awards/distinguishedvolunteercertificate/) for that.
 
 ### Senior awards: Outstanding Research, Distinguished Service, Influential Educator
 
@@ -60,7 +60,7 @@ Impact Paper Award nominations recognize a paper rather than a person. The nomin
 5. Proposed citation (up to 25 words).
 6. A succinct statement describing why the paper is impactful (200-500 words is desirable).
 
-Eligible papers were published at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year. See [the Impact Paper Award page](/awards/impactPaper/) for context and recipient history.
+Eligible papers were published at a SIGSOFT-sponsored or co-sponsored conference held at least 11 years prior to the award year. See [the Impact Paper Award page](/awards/impactpaper/) for context and recipient history.
 
 ## Eligibility
 
@@ -74,11 +74,11 @@ The rules below apply across SIGSOFT awards. Award-specific eligibility wrinkles
 
 ## Per-award descriptions
 
-- **[Outstanding Research Award](/awards/outstandingResearch/).**
-- **[Distinguished Service Award](/awards/distinguishedService/).**
-- **[Influential Educator Award](/awards/influentialEducator/).**
+- **[Outstanding Research Award](/awards/outstandingresearch/).**
+- **[Distinguished Service Award](/awards/distinguishedservice/).**
+- **[Influential Educator Award](/awards/influentialeducator/).**
 - **[Outstanding Doctoral Dissertation Award](/awards/dissertation/).**
-- **[Early Career Researcher Award](/awards/earlyCareerResearcher/).** Eligibility, evaluation considerations, and frequently asked questions are also covered in the [SIGSOFT ECR Award FAQ on Medium](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb).
+- **[Early Career Researcher Award](/awards/earlycareerresearcher/).** Eligibility, evaluation considerations, and frequently asked questions are also covered in the [SIGSOFT ECR Award FAQ on Medium](https://sigsoft.medium.com/acm-sigsoft-early-career-researcher-award-faq-610cee4452fb).
 - **[Frank Anger Memorial Award](/awards/anger/).**
-- **[Impact Paper Award](/awards/impactPaper/).**
-- **[Distinguished Volunteer Certificate](/awards/distinguishedVolunteerCertificate/).**
+- **[Impact Paper Award](/awards/impactpaper/).**
+- **[Distinguished Volunteer Certificate](/awards/distinguishedvolunteercertificate/).**
