@@ -8,24 +8,58 @@ aliases: "school"
 SIGSOFT provides financial support to summer or winter schools focused on all aspects of software engineering across the world. Our goal is to promote education, foster academic growth, and improve access to quality learning experiences.
 
 
-## Current Call for Proposal (2026-2027)
+## 2026-27 Program Committee
 
-Please refer to [here](https://sigsoft.medium.com/sigsoft-call-for-summer-winter-school-proposals-2026-2027-aa00b4367ff9)
+- **Chair**: Christoph Treude, Singapore Management University, Singapore
+- **Chair**: Yuan Tian, Queen's University, Canada
+- Alexander Serebrenik
+- Bianca Trinkenreich
+- Chetan Arora
+- Chunyang Chen
+- Fabian Gilson
+- Fabio Petrillo
+- Filipe Cogo
+- Gemma Catolino
+- Gopi Krishnan Rajbahadur
+- Gregorio Robles
+- Grischa Liebel
+- Igor Steinmacher
+- Italo Santos
+- Jiakun Liu
+- Kiev Gama
+- Manuel Rigger
+- Michel Chaudron
+- Raula Gaikovina Kula
+- Sarah Nadi
+- Shurui Zhou
+- Song Wang
+- Sonja Hyrynsalmi
+- Sridhar Chimalakonda
+- Tien N. Nguyen
+- Weiyi Shang
+- Yutaro Kashiwa
+- David Lo
 
-### Support Details
+### 2026-27: 16 schools funded from 31 submissions
 
-- **Funding**: Selected proposals will receive financial support of up to USD $10,000 per school program, depending on the scope and scale of the project. Not all schools are expected to receive the full amount of funding they request.
-- **Duration**: The grant covers summer/winter school programs taking place between August 1, 2026, and August 31, 2027.
-- **Eligibility**: Anyone is eligible to apply. Priority will be given to applicants/organizers who are SIGSOFT members.
-
-### Program Chairs
-
-- Christoph Treude, ctreude@smu.edu.sg, Singapore Management University, Singapore
-- Yuan Tian, y.tian@queensu.ca, Queen's University, Canada
-
-### Program Committee
-
-To be announced.
+| 2026-2027 Summer/Winter Schools                                                                                               | Organizer(s)                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| OzSE 2027: Preparing the Next Generation of Software Engineers in the Age of AI                                                | Neelofar Neelofar, Craig Anslow, Mojtaba Shahin, Kla Tantithamthavorn, Chetan Arora                           |
+| 5th RiSE Summer School (RiSS) on Quantum Software Engineering (QSE)                                                            | Eduardo Almeida                                                                                               |
+| Second African Digital Humanism Summer School 2026                                                                             | Hans Akkermans, Jeffrey Kramer                                                                                |
+| RoME 2027: Robotic Mission Engineering Summer School                                                                           | Ricardo Diniz Caldas, Patrizio Pelliccione, Genaína Nunes Rodrigues, Nico Hochgeschwender, Michael Fisher     |
+| International Summer School on AI Engineering (AIEng 2027)                                                                     | Paulo Henrique Maia, Andrea Zisman, Amel Bennaceur, Leonardo Sousa, Filipe Roseiro Cogo                       |
+| SIGSOFT Vietnam Winter Workshop on Artificial Intelligence for Software Engineering                                            | Tien N. Nguyen, Vu Nguyen                                                                                     |
+| 6th LATAM School - The Latin American School in Software Engineering Research                                                  | Fernanda Madeiral, Lincoln Rocha, Paulo Meirelles                                                             |
+| African Winter School on Software Engineering and Artificial Intelligence (ASEAI 2026)                                         | Ali Ouni, Mohammed Sayagh, Noureddine Kerzazi, Mohamed Wiem Mkaouer                                           |
+| Beyond Prompt and Harness Engineering: Software Engineering Foundations for Trustworthy AI Systems                             | Xi Zheng, Hoa Khanh Dam, Thong (James) Hoang, Hong Jin Kang, Guoxin Su, Xiao Cheng, Yongqiang Tian            |
+| Spring School on Software Engineering: From Architecture to AI                                                                  | Supun Wijayakoon, Michel Chaudron, Jayani Samaraweera                                                         |
+| Fourth Summer School on Distributed and Replicated Environments                                                                | Alessandro Margara, Elisa Gonzalez Boix, Carlos Baquero, Ragnar Mogk, Annette Bieniusa                        |
+| Postgraduate School on Formal Methods for Mission-Critical Software                                                            | Pablo Castro, Carlos Lopez Pombo                                                                              |
+| AI-Infused Software Engineering (AISE) - Research and Practice                                                                 | Meenakshi D'Souza, Santosh Singh Rathore, Saurabh Tiwari, Chetan Arora, Alpana Dubey, Sridhar Chimalakonda    |
+| BRIDGES Summer School in The South Pacific: Building a Digital Apps Ecosystem through AI Agentic Technologies                  | Raula Gaikovina Kula, Youmei Fan, Benson Mirou                                                                |
+| Human-AI Collaboration in Software Engineering                                                                                 | April Wang, Thomas Zimmermann, Thomas Fritz                                                                   |
+| 3rd School of Empirical Studies in Software Engineering                                                                        | Lilian Passos Scatalon, Maria Lydia Fioravanti, Pedro Henrique Dias Valle, Leo Natan Paschoal                 |
 
 ## Previous schools
 
