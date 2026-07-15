@@ -16,9 +16,10 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 - Bianca Trinkenreich
 - Chetan Arora
 - Chunyang Chen
+- David Lo
 - Fabian Gilson
 - Fabio Petrillo
-- Filipe Cogo
+- Filipe Roseiro Cogo
 - Gemma Catolino
 - Gopi Krishnan Rajbahadur
 - Gregorio Robles
@@ -38,7 +39,6 @@ SIGSOFT provides financial support to summer or winter schools focused on all as
 - Tien N. Nguyen
 - Weiyi Shang
 - Yutaro Kashiwa
-- David Lo
 
 ### 2026-27: 16 schools funded from 31 submissions
 
