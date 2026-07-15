@@ -27,6 +27,24 @@ Stay tuned for more webinars coming soon!
 
 Playlist of previous webinars is available on [YouTube](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYKKxOfmSKFiAzp6ApBHN7e).
 
+### AI Won’t Fix Software Engineering—People Will: Designing Collective Intelligence
+
+#### Abstract:
+
+Collaboration in software engineering is often treated as a soft skill. Yet, despite decades of socio-technical research, our tools still optimize for artifacts—code, commits, and models—while the real work unfolds in how people search, coordinate, and make decisions together. In modern, distributed, and AI-augmented environments, collaboration is not peripheral; it is a core technical capability.
+
+In this talk, I introduce a behavior-aware perspective on software engineering that focuses on how teams actually work. Drawing on my research, I show how developers engage in foraging behaviors—searching, navigating, and interpreting information across tools and contexts—and how these patterns shape collaboration outcomes. I then argue that many breakdowns in teamwork are not technical bugs but inclusivity bugs: subtle mismatches in tools and workflows that systematically limit participation and visibility for parts of the team.
+
+Finally, I present directions for designing AI-augmented collaboration systems that move beyond code generation to support the social fabric of engineering work—offering teams real-time feedback, structured reflection, and coordination scaffolding grounded in actual behavioral patterns. Together, these ideas point toward a fundamental shift: from building better code-centric tools to designing systems that understand and support human behavior in software teams. Rethinking software engineering as a socio-technical system opens a path toward more effective, inclusive, and scalable forms of collective intelligence.
+
+#### Speaker bio:
+
+Sandeep Kaur Kuttal is an Associate Professor at North Carolina State University, where she directs the Human Factors + Experience Engineering Lab (Discovering and Inventing for Human-Centered Software Engineering and AI). Her research lies at the intersection of Human-Computer Interaction, Software Engineering, and Artificial Intelligence. She focuses on the human aspects of software engineering by studying and modeling programmer behavior and designing mixed-initiative systems that support human-computer collaboration. Dr. Kuttal is a recipient of the prestigious NSF CAREER Award and the AFOSR Young Investigator Program (YIP) Award. Her work has earned several accolades, including a Best Paper Award at ACM CHI, a Best Paper Award at ACM/IEEE ICGSE, two Honorable Mentions at ACM CHI, and an Honorable Mention at ACM DIS. She serves on the editorial board of the Journal of Computer Languages and is a Vice Chair and Steering Committee Member for the IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC). She has served as a chair or program committee member for leading conferences including CHI, VL/HCC, HCII, ICSE, FSE, ASE, ICST, ICSME, CHASE, ICPC, and IUI. She was General Chair for VL/HCC in 2025 and serves on the Distinguished Review Boards of ACM TOSEM and ACM TOCHI. She is also a member of the College of Engineering AI Advisory Team. Dr. Kuttal is deeply committed to advancing diversity and inclusion in computing.
+
+#### Date and Time:
+June 19, 2026, 10am-11am ET
+
+
 ### What do professional software developers need to know to succeed in an age of Artificial Intelligence?
 
 #### Abstract:
