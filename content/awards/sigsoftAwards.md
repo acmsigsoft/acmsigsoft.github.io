@@ -22,6 +22,7 @@ criteria for each of the SIGSOFT awards.
 ## Award Categories
 
 ### Senior Awards
+- **[Software Engineering Academy](/academy/inaugural-class.html)** - Honors lasting contributions to software engineering, in research, practice, and education
 - **[Distinguished Service Award](/awards/distinguishedservice/)** - Recognizes dedicated and important service to the software engineering community 
 - **[Outstanding Research Award](/awards/outstandingresearch/)** - Honors significant and lasting research contributions to the theory or practice of software engineering
 - **[Influential Educator Award](/awards/influentialeducator/)** - Celebrates significant contributions and impact on software engineering education as a teacher, mentor, researcher, author, and/or policy maker
