@@ -8,7 +8,7 @@ keywords = ["LOGOS","ACM SIGSOFT Logos"]
 Here are logos for use in publicity materials and publications.
 
 ## ACM Logo
-[ACM Logo](/logo/acm_logo.gif)
+[ACM Logo](/img/logos/acm_logo.gif)
 
 {{< figure src="/img/logos/acm_logo.gif" height=".3" title="" >}}
 
@@ -30,7 +30,7 @@ Here are logos for use in publicity materials and publications.
 {{< figure src="/img/logos/sigsoft-no-tagline.png" height=".3" title="" >}}
 
 - [Portable Network Graphics PNG](/logos/sigsoft-no-tagline.png)
-- [Adobe Illustrator AI](/logos/sigsoft-no-tagline.ai)
+- [Adobe Illustrator AI](/logos/sigsoft-no-tagline.ai.ps)
 - [Adobe Acrobat PDF](/logos/sigsoft-no-tagline.pdf)
 - [Encapsulated PostScript EPS](/logos/sigsoft-no-tagline.eps)
 - [Scalable Vector Graphics SVG](/logos/sigsoft-no-tagline.svg)
@@ -39,6 +39,5 @@ Here are logos for use in publicity materials and publications.
 
 {{< figure src="/img/logos/ICSE-gears-bw-large.png" height=".3" title="" >}}
 
-- [TIFF](/logo/ICSE-gears-bw-large.tiff)
-
+- [TIFF](/logos/ICSE-gears-bw-large.tif)
 

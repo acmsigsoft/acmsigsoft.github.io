@@ -238,7 +238,7 @@ year:
     composed of two tuning forks. The logo will be rolled out throughout
     the rest of the year.
 
-    ![SIGSOFT logo](/images/sigsoft_t.png)
+    ![SIGSOFT logo](/img/sigsoft.png)
 
 **BROADENING PARTICIPATION**
 
@@ -299,5 +299,4 @@ continue to face:
     Open Access Mandate. We are looking into how the changing open
     access landscape will affect SIGSOFT and how ACM\'s policies,
     practices, and initiatives can work for SIGSOFT members.
-
 

@@ -28,7 +28,7 @@ Under in-cooperation, SIGSOFT is not financially responsible for the meeting.
 
 SIGSOFT encourages in-cooperation conferences and workshops to follow SIGSOFT policies and procedures, including the following:
 
-*   [SIGSOFT Policy on Program Committees](/policies/PCpolicy.html)
+*   [SIGSOFT Policy on Program Committees](/policies/pcpolicy/)
 *   [ACM Policy on Prior Publication and Simultaneous Submissions](http://www.acm.org/publications/policies/sim_submissions)
 
 In-cooperation provides a number of **benefits**:

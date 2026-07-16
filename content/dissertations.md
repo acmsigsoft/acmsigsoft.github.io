@@ -22,7 +22,7 @@ Dissertations
 
 ### 2020
 
-[Miguel Olivero](https://www.molivero.com). [A Framework For Security Assessment Of Systems Of Systems](molivero@us.es) . Universidad de Sevilla (Nov 19, 2020, advisor: Maria José Escalona. 
+[Miguel Olivero](https://www.molivero.com). [A Framework For Security Assessment Of Systems Of Systems](mailto:molivero@us.es) . Universidad de Sevilla (Nov 19, 2020, advisor: Maria José Escalona. 
 
 [Roberto Casadei](https://www.unibo.it/sitoweb/roby.casadei/en). [Engineering Self-Adaptive Collective Processes for Cyber-Physical Ecosystems](http://amsdottorato.unibo.it/9380/3/casadei_roberto_tesi.pdf). Alma Mater Studiorum - Universitá di Bologna (Feb 4, 2020, advisor: Mirko Viroli). 
 
@@ -40,7 +40,7 @@ Dissertations
 
 [Tushar Sharma](http://www.tusharma.in/). [Extending Maintainability Analysis Beyond Code Smells](http://www.tusharma.in/thesis/PhD_thesis_TusharSharma.pdf). Athens University of Economics and Business (May 2, 2019, advisor: Diomidis Spinellis). 
 
-[Christian Macho](https://mitschi.github.io/). [Preventing and Repairing Build Breakage](christian.macho@gmx.at). University of Klagenfurt (May 8, 2019, advisor: Martin Pinzger). 
+[Christian Macho](https://mitschi.github.io/). [Preventing and Repairing Build Breakage](mailto:christian.macho@gmx.at). University of Klagenfurt (May 8, 2019, advisor: Martin Pinzger). 
 
 [Akond Rahman](https://akondrahman.github.io/). [Anti-patterns in Infrastructure as Code](http://www.lib.ncsu.edu/resolver/1840.20/36715). North Carolina State University (Jun 13, 2019, advisor: Laurie Williams). 
 
@@ -58,7 +58,7 @@ Dissertations
 
 [Thomas Vogel](https://thomas-vogel.github.io/). [Model-Driven Engineering of Self-Adaptive Software](https://thomas-vogel.github.io/publications/phd). Hasso Plattner Institute, University of Potsdam, Germany (Mar 19, 2018, advisor: Holger Giese). 
 
-[Siba Mishra](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=ubHWhZjqV8VZYZe0eLavNbAh2aGHnmcWS8JsytVsBmQ= "Reveal this email address"). [Efficient Cost Estimation And Testing Approaches For Soa Systems](sibamishracse@gmail.com). Indian Institute of Technology (Indian School of Mines) Dhanbad (Mar 23, 2018, advisor: Prof. Chiranjeev Kumar). 
+[Siba Mishra](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=ubHWhZjqV8VZYZe0eLavNbAh2aGHnmcWS8JsytVsBmQ= "Reveal this email address"). [Efficient Cost Estimation And Testing Approaches For Soa Systems](mailto:sibamishracse@gmail.com). Indian Institute of Technology (Indian School of Mines) Dhanbad (Mar 23, 2018, advisor: Prof. Chiranjeev Kumar). 
 
 [Titus Barik](http://www.barik.net). [Error Messages As Rational Reconstructions](https://repository.lib.ncsu.edu/handle/1840.20/35439). North Carolina State University (Mar 29, 2018, advisor: Emerson Murphy-Hill). 
 
@@ -74,7 +74,7 @@ Dissertations
 
 [Asim Abdulkhaleq](http://www.iste.uni-stuttgart.de/en/se/people/asim-abdulkhaleq.html). [A System-Theoretic Safety Engineering Approach For Software-Intensive Systems](https://elib.uni-stuttgart.de/handle/11682/9066). University of Stuttgart, Institute of Software Technology (Jun 2, 2017, advisor: Stefan Wagner). 
 
-[Sami Alajrami](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=7PnfQEhP9P21T272wZArMOCDvF7XFgzRrntX393HhSo= "Reveal this email address"). [Software Development In The Post-Pc Era: Towards Software Development As A Service](s.alajrami@gmail.com). Newcastle University (May 4, 2017, advisor: Alexander Romanovsky). 
+[Sami Alajrami](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=7PnfQEhP9P21T272wZArMOCDvF7XFgzRrntX393HhSo= "Reveal this email address"). [Software Development In The Post-Pc Era: Towards Software Development As A Service](mailto:s.alajrami@gmail.com). Newcastle University (May 4, 2017, advisor: Alexander Romanovsky). 
 
 [Catarina Costa](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=GQDemubvcIzRf43QwmagzGXozPp9w2PyUNNi-qc9Xek= "Reveal this email address"). [Recommending Developers For Collaborative Merge Sessions](https://www.dropbox.com/s/1yayviqjip58isj/Tese-CatarinaCosta.pdf?dl=1). Fluminense Federal University (Jun 28, 2017, advisor: Leonardo Gresta Paulino Murta). 
 
@@ -86,13 +86,13 @@ Dissertations
 
 [Jonas Westman](https://www.kth.se/profile/jowestm). [Specifying Safety-Critical Heterogeneous Systems Using Contracts Theory](http://kth.diva-portal.org/smash/get/diva2:958202/FULLTEXT01.pdf). ITM/Machine Design (Feb 22, 2017, advisor: Mattias Nyberg). 
 
-[Andrea Stocco](https://www.ece.ubc.ca/~astocco/). [Automatic Page Object Generation To Support E2E Testing Of Web Applications](tsigalko18@gmail.com). University of Genoa, Italy (Apr 12, 2017, advisor: Filippo Ricca). 
+[Andrea Stocco](https://www.ece.ubc.ca/~astocco/). [Automatic Page Object Generation To Support E2E Testing Of Web Applications](mailto:tsigalko18@gmail.com). University of Genoa, Italy (Apr 12, 2017, advisor: Filippo Ricca). 
 
-[Jean Melo](http://www.itu.dk/people/jeam/). [Variability Bugs: Program And Programmer Perspective](jeanmelo@itu.dk). IT University of Copenhagen (Aug 31, 2017, advisor: Claus Brabrand). 
+[Jean Melo](http://www.itu.dk/people/jeam/). [Variability Bugs: Program And Programmer Perspective](mailto:jeanmelo@itu.dk). IT University of Copenhagen (Aug 31, 2017, advisor: Claus Brabrand). 
 
 [Rubén Saborido](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=VXm-jFcRiPJdGGS0oMvJWTGmvMIkXe1ZY6PQBlRX6ASH3MamhzAbVmB13rg87URi "Reveal this email address"). [Assisting Developers And Users In Developing And Choosing Efficient Mobile Device Apps](https://publications.polymtl.ca/2846/). École Polytechnique de Montréal (December 7, 2017, advisor: Foutse Khomh). 
 
-[Santosh Singh Rathore](https://sites.google.com/site/santoshiiitmdj/). [Predicting Number Of Faults In Software Systems](santosh.srathore@gmail.com). Indian Institute of Technology Roorkee (Sep 2017, advisor: Dr. Sandeep Kumar). 
+[Santosh Singh Rathore](https://sites.google.com/site/santoshiiitmdj/). [Predicting Number Of Faults In Software Systems](mailto:santosh.srathore@gmail.com). Indian Institute of Technology Roorkee (Sep 2017, advisor: Dr. Sandeep Kumar). 
 
 ### 2016
 
@@ -110,7 +110,7 @@ Dissertations
 
 [Niko Mäkitalo](https://nkm.io). [On Programmable Interactions: Principles, Concepts And Challenges Of Co-Located And Social Interplay](http://urn.fi/URN:ISBN:978-952-15-3764-6). Tampere University of Technology (Jun 15, 2016, advisor: Tommi Mikkonen). 
 
-[Saurabh Tiwari](https://sites.google.com/site/saurabhiiitdmj/home). [Evaluating Usability Aspects Of Use Cases For Software Specification Problems](saurabhtiwari07@gmail.com). Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, India (June 29, 2016, advisor: Dr Atul Gupta). 
+[Saurabh Tiwari](https://sites.google.com/site/saurabhiiitdmj/home). [Evaluating Usability Aspects Of Use Cases For Software Specification Problems](mailto:saurabhtiwari07@gmail.com). Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, India (June 29, 2016, advisor: Dr Atul Gupta). 
 
 [Mohamed Wiem Mkaouer](https://www.researchgate.net/profile/Mohamed_Wiem_Mkaouer). [Balancing Competing Needs Of Machine And Human In Search-Based Software Refactoring](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/134043/Mkaouer%20Dissertation%20Final.pdf?sequence=1&isAllowed=y). University of Michigan-Dearborn (April 4, 2016, advisor: Marouane Kessentini). 
 
@@ -138,7 +138,7 @@ Dissertations
 
 [Mohd Hafeez Osman](http://www22.in.tum.de/osman/). [Interactive Scalable Condensation Of Reverse Engineered Uml Class Diagrams For Software Comprehension](https://openaccess.leidenuniv.nl/handle/1887/32210). Leiden University (March 10, 2015, advisor: Michel R.V. Chaudron). 
 
-[Igor Steinmacher](www.igor.pro.br). [Supporting Newcomers To Overcome The Barriers To Contribute To Open Source Projects](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-30112015-131552/publico/TeseSteinmacher.pdf). University of São Paulo (February 26, 2015, advisor: Igor Steinmacher). 
+[Igor Steinmacher](https://www.igor.pro.br). [Supporting Newcomers To Overcome The Barriers To Contribute To Open Source Projects](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-30112015-131552/publico/TeseSteinmacher.pdf). University of São Paulo (February 26, 2015, advisor: Igor Steinmacher). 
 
 ### 2014
 
@@ -206,7 +206,7 @@ Dissertations
 
 [Anne Koziolek](http://sdq.ipd.kit.edu/people/anne_koziolek/). [Automated Improvement of Software Architecture Models for Performance and Other Quality Attributes](http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/1919178). Karlsruhe Institute of Technology (Jul 14 2011, advisor: Ralf Reussner). 
 
-[Ridi Ferdiana](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=p4qqcDkQ149gP7d7HqgPpQ== "Reveal this email address"). [An extreme programming approach for global software development](NULL). Universitas Gadjah Mada (Oct 26 2011, advisor: Lukito Edi Nughroho and Paulus Insap Santosa and Ahmad Ashari). 
+[Ridi Ferdiana](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=p4qqcDkQ149gP7d7HqgPpQ== "Reveal this email address"). An extreme programming approach for global software development. Universitas Gadjah Mada (Oct 26 2011, advisor: Lukito Edi Nughroho and Paulus Insap Santosa and Ahmad Ashari). 
 
 [Yi Huang](http://www.cse.msu.edu/~huangyi7/). [Contract-based Synchronization of Multi-threaded Java Programs](http://www.cse.msu.edu/~huangyi7/dissertation.pdf). Michigan State University (Dec 16 2011, advisor: Laura Dillon). 
 
@@ -234,7 +234,7 @@ Dissertations
 
 [Soo Ling Lim](http://www.cs.ucl.ac.uk/staff/SooLing.Lim/). [Social Networks and Collaborative Filtering for Large-Scale Requirements Elicitation](http://www.cs.ucl.ac.uk/staff/S.Lim/phd/thesis_soolinglim.pdf). University of New South Wales (Feb 3 2011, advisor: Anthony Finkelstein). 
 
-[William Tribbey](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=rqJXSpMDmRmVl0LlPNkelujt7cB2OpZZBBDA_OhKb1o= "Reveal this email address"). [Construction and analysis of vector space models for use in aspect mining](NULL). Nova Southeastern University (Apr 2011, advisor: Frank Mitropoulos). 
+[William Tribbey](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=rqJXSpMDmRmVl0LlPNkelujt7cB2OpZZBBDA_OhKb1o= "Reveal this email address"). Construction and analysis of vector space models for use in aspect mining. Nova Southeastern University (Apr 2011, advisor: Frank Mitropoulos). 
 
 ### 2010
 
@@ -254,7 +254,7 @@ Dissertations
 
 [Juncao Li](http://web.cecs.pdx.edu/~juncao/). [An Automata-Theoretic Approach to Hardware/Software Co-verification](http://web.cecs.pdx.edu/~juncao/links/mypapers/atcv.pdf). Portland State University (Dec 10 2010, advisor: Fei Xie). 
 
-[Paolo Di Benedetto](http://www.di.univaq.it/paolo.dibenedetto/). [A Framework For Context Aware Adaptable Software Applications And Services](abstract/DiBenedetto_Paolo.htm). Università degli Studi di L'Aquila (Jul 9 2010, advisor: Paola Inverardi). 
+[Paolo Di Benedetto](http://www.di.univaq.it/paolo.dibenedetto/). A Framework For Context Aware Adaptable Software Applications And Services. Università degli Studi di L'Aquila (Jul 9 2010, advisor: Paola Inverardi). 
 
 [Toby Myers](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=cK8Q0TJQ5urK1W4Ai12XlJld_RSPxQZTlGV_Yffuk4o= "Reveal this email address"). [The Foundations for a Scaleable Methodology for Systems Design](http://www.behaviorengineering.org/publications/myers/Thesis_Toby_Myers_2010.pdf). Griffith University (Nov 26 2010, advisor: R. Geoff Dromey). 
 
@@ -264,13 +264,13 @@ Dissertations
 
 [David Röthlisberger](http://www.droethlisberger.ch/) . Augmenting IDEs with Runtime Information for Software Maintenance. University of Bern (Jun 4 2010, advisor: Oscar Nierstrasz). 
 
-[Rangaswamy Selvarani](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=uIVWXWscMR47rQI80fznmsCPw-kfaB9ri-7tsuiB7xQ= "Reveal this email address"). [Design Quality Metrics in Object Oriented Software System](NULL). Jawaharlal Nehru Technological University, Hyderabad (Feb 8 2010, advisor: T.R. Gopalakrishnan Nair). 
+[Rangaswamy Selvarani](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=uIVWXWscMR47rQI80fznmsCPw-kfaB9ri-7tsuiB7xQ= "Reveal this email address"). Design Quality Metrics in Object Oriented Software System. Jawaharlal Nehru Technological University, Hyderabad (Feb 8 2010, advisor: T.R. Gopalakrishnan Nair). 
 
 [Bonita Sharif](http://www.cs.kent.edu/~bsimoes) . Empirical Assessment of UML Class Diagram Layouts based on Architectural Importance. Kent State University (May 13 2010, advisor: Jonathan I. Maletic). 
 
 [Michel dos Santos Soares](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=l18bijyF_GzHhXd4ivGzVNCpT6US-Fye1DHU2JlblsA= "Reveal this email address"). [Architecture-Driven Integration of Modeling Languages for the Design of Software-Intensive Systems](http://repository.tudelft.nl/view/ir/uuid%3A81815b28-ec74-4905-9ec7-ec47261740a1/). Delft University of Technology (Feb 2010, advisor: Alexander Verbraeck). 
 
-[Angshu Maan Sen](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=NCOnT3-DfVTSea01BUDueYMwFI0M-RIFIq48z2FUhLI= "Reveal this email address"). [Multiple Perspectives of Elicitation of Requirements in Goal Oriented Requirements Engineering: An Agile Technique of Elicitation](NULL). Assam University, Silchar (May 13 2010, advisor: K. Hemachandran). 
+[Angshu Maan Sen](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=NCOnT3-DfVTSea01BUDueYMwFI0M-RIFIq48z2FUhLI= "Reveal this email address"). Multiple Perspectives of Elicitation of Requirements in Goal Oriented Requirements Engineering: An Agile Technique of Elicitation. Assam University, Silchar (May 13 2010, advisor: K. Hemachandran). 
 
 [Patricia Deshane](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=u3DSIiHKXbUmTKGA1M7HMf2LDpUGnFy_XnRVfYAgIgY= "Reveal this email address"). [Managing the Copy-and-Paste Programming Practice](http://www.slideshare.net/pdeshane/patricia-deshane-phd-dissertation). Clarkson University (Apr 30, 2010, advisor: Daqing Hou). 
 
@@ -280,7 +280,7 @@ Dissertations
 
 [Remco de Boer](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=tMIiMFFq1XR46PM7OQqQKCRcR8r7qNiinsQM1Y15enw= "Reveal this email address"). [Architectural Knowledge Management: Supporting Architects and Auditors](http://dspace.ubvu.vu.nl/handle/1871/15239). VU University Amsterdam (Oct 5 2009, advisor: Hans van Vliet and Patricia Lago). 
 
-[Laura-Cecilia Rodriguez-Martinez](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=jVVJAO02TAs7znVszlaVckM56xEy0-6h1-dcvMLsn9U= "Reveal this email address"). [Design and Evaluation of a Software Systems Life Cycle Process Model in the Service-oriented Software Engineering Paradigm](NULL). Autonomous University of Aguascalientes (Nov 12 2009, advisor: Manuel Mora). 
+[Laura-Cecilia Rodriguez-Martinez](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=jVVJAO02TAs7znVszlaVckM56xEy0-6h1-dcvMLsn9U= "Reveal this email address"). Design and Evaluation of a Software Systems Life Cycle Process Model in the Service-oriented Software Engineering Paradigm. Autonomous University of Aguascalientes (Nov 12 2009, advisor: Manuel Mora). 
 
 [Angela Lozano](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=pDmDpe9loGeYNwzhVUDJtYE7FzAMaRWY_zZFx4-K0ns= "Reveal this email address"). [Assessing the effect of source code characteristics on changeability](http://oro.open.ac.uk/19273/). Open University (Dec 17 2009, advisor: Michel Wermelinger and Bashar Nuseibeh). 
 
@@ -312,7 +312,7 @@ Dissertations
 
 [Eric Bodden](http://www.bodden.de/). [Verifying finite-state properties of large-scale programs](http://www.bodden.de/pubs/bodden09phdthesis.pdf). McGill University (Dec 28 2009, advisor: Laurie Hendren). 
 
-[Sayyed Maisikeli](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=PRVsm7VzM-BP1VveKJhW5Yjhjacd2JRzK4xM1aM4PDk= "Reveal this email address"). [Aspect Mining Using Self-Organizing Maps With Method Level Dynamic Software Metrics as Input Vectors](NULL). Nova Southeastern University (Jun 2009, advisor: Frank Mitropoulos). 
+[Sayyed Maisikeli](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=PRVsm7VzM-BP1VveKJhW5Yjhjacd2JRzK4xM1aM4PDk= "Reveal this email address"). Aspect Mining Using Self-Organizing Maps With Method Level Dynamic Software Metrics as Input Vectors. Nova Southeastern University (Jun 2009, advisor: Frank Mitropoulos). 
 
 [Adam Kiezun](http://people.csail.mit.edu/akiezun). [Effective Software Testing with a String-Constraint Solver](http://people.csail.mit.edu/akiezun/KiezunThesis.pdf). MIT (2009, advisor: Michael D. Ernst). 
 
@@ -326,7 +326,7 @@ Dissertations
 
 [Eugen Nistor](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=qSFyQ9si82F7DLDObsBxGD5hkJ998F610A36hZq61iU= "Reveal this email address"). [Concern-Driven Software Evolution](https://webfiles.uci.edu/enistor/thesis.pdf). University of California, Irvine (2009, advisor: Andre van der Hoek). 
 
-[Maria Karen Cortes-Verdin](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=radNYdqfyPLE_2s0Yuk_fA== "Reveal this email address"). [AOPLA: Aspect-Oriented Product Line Architecture](theses/KarenCortesVerdinPhDDissertation.pdf). CIMAT A.C. (Center for Research in Mathematics), Mexico (Jun 5 2009, advisor: Cuauhtemoc Lemus Olalde). 
+[Maria Karen Cortes-Verdin](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=radNYdqfyPLE_2s0Yuk_fA== "Reveal this email address"). AOPLA: Aspect-Oriented Product Line Architecture. CIMAT A.C. (Center for Research in Mathematics), Mexico (Jun 5 2009, advisor: Cuauhtemoc Lemus Olalde). 
 
 [Kevin Bierhoff](http://www.cs.cmu.edu/~kbierhof/). [API Protocol Compliance in Object-Oriented Software](http://reports-archive.adm.cs.cmu.edu/anon/isr2009/abstracts/09-108.html). Carnegie Mellon University (May 17 2009, advisor: Jonathan Aldrich). 
 
@@ -344,13 +344,13 @@ Dissertations
 
 [Thomas Zimmermann](http://thomas-zimmermann.com/). [Changes and Bugs Mining and Predicting Development Activities](http://thomas-zimmermann.com/publications/files/zimmermann-thesis-2008.pdf). Saarland University (May 26 2008, advisor: Andreas Zeller). 
 
-[Chithralekha Thanasekaran](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=IdjhKd9LJg6hKFclxW7LuWQZzzdWS8p_mO4bRuG9IAs= "Reveal this email address"). [Agents with Two-Dimensional Language Autonomy for Task Delegation](NULL). Pondicherry University (Aug 12 2008, advisor: S. Kuppuswami). 
+[Chithralekha Thanasekaran](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=IdjhKd9LJg6hKFclxW7LuWQZzzdWS8p_mO4bRuG9IAs= "Reveal this email address"). Agents with Two-Dimensional Language Autonomy for Task Delegation. Pondicherry University (Aug 12 2008, advisor: S. Kuppuswami). 
 
 [Lukasz Radlinski](http://uoo.univ.szczecin.pl/~lukrad/?lang=en). [Improved Software Project Risk Assessment Using Bayesian Nets](http://uoo.univ.szczecin.pl/~lukrad/publ/phd_2008.pdf). Queen Mary, University of London (Nov 30 2008, advisor: Norman Fenton). 
 
 [Till Bay](http://comerge.net). [Hosting distributed software projects: concepts, framework, and the Origo experience](http://se.inf.ethz.ch/people/bay/publications/2008/bay-diss.pdf). ETH Zurich (Jan 16 2008, advisor: Bertrand Meyer). 
 
-[Venkatasamy Prasanna Venkatesan](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=WpeExZuYilHFcnElNAa6XqENO7GYG2lUKz_NO2UzGfA= "Reveal this email address"). [ARMMS- AN Architectural Reference Model for Multilingual Software](NULL). Pondicherry University (Aug 12 2008, advisor: S. Kuppuswami). 
+[Venkatasamy Prasanna Venkatesan](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=WpeExZuYilHFcnElNAa6XqENO7GYG2lUKz_NO2UzGfA= "Reveal this email address"). ARMMS- AN Architectural Reference Model for Multilingual Software. Pondicherry University (Aug 12 2008, advisor: S. Kuppuswami). 
 
 [Oksana Tkachuk](http://people.cis.ksu.edu/~oksana/). [Domain-Specific Environment Generation for Modular Software Model Checking](http://people.cis.ksu.edu/~oksana/research/papers/phd-thesis-envgen.pdf). Kansas State University (Dec 12 2008, advisor: Matthew B. Dwyer). 
 
@@ -394,13 +394,13 @@ Dissertations
 
 [Dennis Wagelaar](http://ssel.vub.ac.be/ssel/about/members/denniswagelaar). [Platform Ontologies for the Model-Driven Architecture](http://ssel.vub.ac.be/ssel/_media/about/members/denniswagelaar/wagelaarphdthesis.pdf). Vrije Universiteit Brussel (Apr 18 2008, advisor: Viviane Jonckers). 
 
-[Eugenio Capra](http://www.dei.polimi.it/personale/dettaglio.php?id_persona=389&id_sezione=&lettera=C&idlang=ita). [Software Design Quality and Development Effort: an Empirical Study on the Role of Governance in Open Source Projects](https://re.public.polimi.it/handle/11311/528197). Politecnico di Milano (May 14 2008, advisor: [Chiara Francalanci](chiara.francalanci@polimi.it)). 
+[Eugenio Capra](http://www.dei.polimi.it/personale/dettaglio.php?id_persona=389&id_sezione=&lettera=C&idlang=ita). [Software Design Quality and Development Effort: an Empirical Study on the Role of Governance in Open Source Projects](https://re.public.polimi.it/handle/11311/528197). Politecnico di Milano (May 14 2008, advisor: [Chiara Francalanci](mailto:chiara.francalanci@polimi.it)). 
 
 [Oliver Hummel](http://swt.informatik.uni-mannheim.de/hummel). [Semantic Component Retrieval in Software Engineering](http://madoc.bib.uni-mannheim.de/madoc/volltexte/2008/1883/). University of Mannheim (Mar 11 2008, advisor: Colin Atkinson and Ivica Crnkovic). 
 
 [Vahe Poladian](http://www.cs.cmu.edu/~poladian). [Tailoring Configuration to User's Tasks under Uncertainty](http://reports-archive.adm.cs.cmu.edu/anon/2008/abstracts/08-121.html). Carnegie Mellon University (May 2008, advisor: David Garland and Mary Shaw). 
 
-[Jie Hu](hujieuci@gmail.com). [Realistic Models for Scheduling Tasks on Network Nodes](hujieuci@gmail.com). University of California, Irvine (Mar 1 2008, advisor: Raymond Klefstad). 
+[Jie Hu](mailto:hujieuci@gmail.com). [Realistic Models for Scheduling Tasks on Network Nodes](mailto:hujieuci@gmail.com). University of California, Irvine (Mar 1 2008, advisor: Raymond Klefstad). 
 
 [Scott McMaster](http://www.cs.umd.edu/~scottmcm). [A Context-Sensitive Coverage Criterion for Test Suite Reduction](http://hdl.handle.net/1903/8077). University of Maryland, College Park (May 23 2008, advisor: Atif Memon). 
 
@@ -412,7 +412,7 @@ Dissertations
 
 [Erkki Laitila](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=bTEdKbyL911yqRkur0wL7QnqY5rsw8YiO9cOEzYMTw4= "Reveal this email address"). [Symbolic Analysis and Atomistic Model as a Basis for a Program Comprehension Methodology](http://dissertations.jyu.fi/studcomp/9789513932527.pdf). Jyväskylä University, Finland (Aug 5 2008, advisor: Pekka Neittaanmaki). 
 
-[Genaina Nunes Rodrigues](http://www.cs.ucl.ac.uk/staff/g.nunesrodrigues). [A Model Driven Approach for Software Reliability Prediction](genainarodrigues@gmail.com). University College London (Feb 8 2008, advisor: David S. Rosenblum). 
+[Genaina Nunes Rodrigues](http://www.cs.ucl.ac.uk/staff/g.nunesrodrigues). [A Model Driven Approach for Software Reliability Prediction](mailto:genainarodrigues@gmail.com). University College London (Feb 8 2008, advisor: David S. Rosenblum). 
 
 [Tiago Massoni](http://tiago.dsc.upe.br). [A Model-Driven Approach to Formal Refactoring](http://twiki.cin.ufpe.br/twiki/pub/SPG/GenteAreaThesis/tiago-massoni.pdf). Federal University of Pernambuco (Mar 07 2008, advisor: Paulo Borba). 
 
@@ -450,9 +450,9 @@ Dissertations
 
 [Lorenz Froihofer](http://www.froihofer.net/). [Middleware Support for Adaptive Dependability through Explicit Runtime Integrity Constraints](http://www.ub.tuwien.ac.at/diss/AC05035607.pdf). Vienna University of Technology (Nov 14 2007, advisor: Mehdi Jazayeri). 
 
-[Ana Belen Barragans Martinez](http://idtv.det.uvigo.es/~belen). [Formal Methodology for Specifying Software Systems in Multi-Perspective Environments](belen@det.uvigo.es). University of Vigo (Sep 7 2007, advisor: Jose J. Pazos Arias). 
+[Ana Belen Barragans Martinez](http://idtv.det.uvigo.es/~belen). [Formal Methodology for Specifying Software Systems in Multi-Perspective Environments](mailto:belen@det.uvigo.es). University of Vigo (Sep 7 2007, advisor: Jose J. Pazos Arias). 
 
-[Taweesup Apiwattanapong](http://term.wikidot.com). [Identifying testing requirements for modified software](tapiwattanapong@gmail.com). Georgia Institute of Technology (Aug 2007, advisor: Mary Jean Harrold). 
+[Taweesup Apiwattanapong](http://term.wikidot.com). [Identifying testing requirements for modified software](mailto:tapiwattanapong@gmail.com). Georgia Institute of Technology (Aug 2007, advisor: Mary Jean Harrold). 
 
 [Tallam Sriraman](http://www.cs.arizona.edu/~tmsriram). [Fault Location and Avoidance in Long-Running Multithreaded Applications](http://www.cs.ucr.edu/~gupta/Thesis/sriraman.pdf). University of Arizona (Oct 2007, advisor: Rajiv Gupta). 
 
@@ -466,7 +466,7 @@ Dissertations
 
 [Fernando Schapachnik](http://lafhis.dc.uba.ar/~fpscha). [Timed Automata Model Checking in Monoprocessor and Multiprocessor Architectures](http://www.dc.uba.ar/inv/tesis/tesdoc). University of Buenos Aires (Oct 2007, advisor: Victor Braberman). 
 
-[Hyunsook Do](http://www.cs.ndsu.nodak.edu/~hdo). [Accounting for Context and Lifetime Factors: A New Approach for Evaluating Regression Testing Techniques](theses/HyunsookDo.pdf). University of Nebraska, Lincoln (May 2007, advisor: Gregg Rothermel). 
+[Hyunsook Do](http://www.cs.ndsu.nodak.edu/~hdo). Accounting for Context and Lifetime Factors: A New Approach for Evaluating Regression Testing Techniques. University of Nebraska, Lincoln (May 2007, advisor: Gregg Rothermel). 
 
 [Josh Dehlinger](http://www.cs.iastate.edu/~dehlinge/) . Incorporating product-line engineering techniques into agent-oriented software engineering for efficiently building safety-critical, multi-agent systems. Iowa State University (Aug 2007, advisor: Robyn R. Lutz). 
 
@@ -504,7 +504,7 @@ Dissertations
 
 [Fabio Calefato](http://cdg.di.uniba.it/index.php?n=Calefato.HomePage). [Supporting Synchronous Communication In Distributed Software Teams](http://cdg.di.uniba.it/cdg/calefato/phd-dissertation_calefato.pdf). University of Bari (May 2007, advisor: Filippo Lanubile). 
 
-[Ganesh Pai](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=kXrtanWplzvEEiEfL753wg== "Reveal this email address"). [Probabilistic software quality analysis](NULL). University of Virginia (May 2007, advisor: Joanne Bechta Dugan). 
+[Ganesh Pai](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=kXrtanWplzvEEiEfL753wg== "Reveal this email address"). Probabilistic software quality analysis. University of Virginia (May 2007, advisor: Joanne Bechta Dugan). 
 
 [Rakeshkumar Shukla](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=_UnTw6M02L1XmAxS-NYUmUr3H1VEgSzryiAZUub5RU0= "Reveal this email address"). [A Framework for Statistical Testing of Software Components](http://adt.library.uq.edu.au/public/adt-QU20070523.141941/index.html). The University of Queensland (May 2007, advisor: Paul Strooper). 
 
@@ -520,11 +520,11 @@ Dissertations
 
 [Ingo Stuermer](http://www.ichmaschine.de). [Systematic Testing of Code Generation Tools - A Test Suite-oriented Approach for Safeguarding Model-based Code Generation](http://www.ichmaschine.de/dissertation.html). Technical University of Berlin (Germany) (Feb 16 2006, advisor: Prof. Dr. Peter Pepper). 
 
-[Matthew Rutherford](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=U2yWJHZrESVsS90PlWSfL6C1LuvtD6PvpmfJ4_B14lY= "Reveal this email address"). [Adequate System-Level Testing of Distributed Systems](NULL). University of Colorado at Boulder (Aug 2006, advisor: Alexander L. Wolf). 
+[Matthew Rutherford](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=U2yWJHZrESVsS90PlWSfL6C1LuvtD6PvpmfJ4_B14lY= "Reveal this email address"). Adequate System-Level Testing of Distributed Systems. University of Colorado at Boulder (Aug 2006, advisor: Alexander L. Wolf). 
 
 [Leonardo Murta](http://www.cos.ufrj.br/~murta). [Configuration Management Applied to Component Based Development](http://reuse.cos.ufrj.br/prometeus/publicacoes/odyssey-scm.pdf). Federal University of Rio de Janeiro (Oct 2006, advisor: Claudia Maria Lima Werner). 
 
-[John Fiskio-Lasseter](http://www.willamette.edu/~jflasset). [Specification and Solution of Multisource Data Flow Problems](theses/john_lasseter_thesis.pdf). University of Oregon (Dec 2006, advisor: Michal Young). 
+[John Fiskio-Lasseter](http://www.willamette.edu/~jflasset). Specification and Solution of Multisource Data Flow Problems. University of Oregon (Dec 2006, advisor: Michal Young). 
 
 [Davor Svetinovic](http://davors.com). [Increasing the Semantic Similarity of Object-Oriented Domain Models by Performing Behavioral Analysis First](http://etheses.uwaterloo.ca/display.cfm?ethesis_id=1024). University of Waterloo, BC, Canada (2006, advisor: Daniel M. Berry and Michael W. Godfrey). 
 
@@ -612,7 +612,7 @@ Dissertations
 
 [Robby](http://people.cis.ksu.edu/~robby)  . Domain-specic Software Model Checking. Kansas State University (Aug 2004, advisor: John Hatcliff and Matthew B. Dwyer). 
 
-[Laura Campbell](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=x3vcSnFFxhvw-svk_B6jH24qyrfx3QK-Ko2YZhiOgIg= "Reveal this email address"). [Enabling Integrative Analyses and Refinement of Object-Oriented Models with Special Emphasis on High-Assurance Embedded Systems](NULL). Michigan State University (2004, advisor: Betty H.C. Cheng). 
+[Laura Campbell](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=x3vcSnFFxhvw-svk_B6jH24qyrfx3QK-Ko2YZhiOgIg= "Reveal this email address"). Enabling Integrative Analyses and Refinement of Object-Oriented Models with Special Emphasis on High-Assurance Embedded Systems. Michigan State University (2004, advisor: Betty H.C. Cheng). 
 
 [Jin Dean](http://www.cs.umanitoba.ca/~djin/). [Ontological Adaptive Integration of Reverse Engineering Tools](http://www.cs.umanitoba.ca/~djin/documents/Jin_04.pdf). Queen's University (Aug 2004, advisor: James R. Cordy). 
 
@@ -622,7 +622,7 @@ Dissertations
 
 [Joerg P. Wadsack](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=raMKZ8b5XHLzAmvR5twLIoCZrUf3yXLZ9_Fza1dcDbs= "Reveal this email address"). [Data-oriented Reengineering](http://ubdata.uni-paderborn.de/ediss/17/2003/wadsack/disserta.pdf). University of Paderborn (Jul 07 2004, advisor: Wilhelm Schafer). 
 
-[Nathan Ryan](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=zfGeuH-Ya0ncpSpRheb40pW-tEzHnIOiuyuSRPBzAKs= "Reveal this email address"). [Using Event-Based Translation to Support Dynamic Protocol Evolution](NULL). University of Colorado, Boulder (2004, advisor: Alexander L. Wolf). 
+[Nathan Ryan](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=zfGeuH-Ya0ncpSpRheb40pW-tEzHnIOiuyuSRPBzAKs= "Reveal this email address"). Using Event-Based Translation to Support Dynamic Protocol Evolution. University of Colorado, Boulder (2004, advisor: Alexander L. Wolf). 
 
 [Christine Julien](http://www.ece.utexas.edu/~julien). [Supporting Context-Aware Application Development in Ad Hoc Mobile Networks](http://www.ece.utexas.edu/~julien/pubs/WU-CSE-04-36.pdf). Washington University in Saint Louis (2004, advisor: Gruia-Catalin Roman). 
 
@@ -716,7 +716,7 @@ Dissertations
 
 [Sander Tichelaar](http://www.iam.unibe.ch/~scg/Archive/PhD/tichelaar-phd.pdf). [Modeling Object-Oriented Software for Reverse Engineering and Refactoring](http://www.iam.unibe.ch/~scg/Archive/PhD/tichelaar-phd.pdf). University of Berne (Dec 14 2001, advisor: Oscar Nierstrasz). 
 
-[Jurgen Munch](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=PpQatRXrUYpjBYk6oEpEsmYQjvKcG70X27ULOeMe_qM= "Reveal this email address"). [Pattern-based Development of Software Project Plans](NULL). University of Kaiserslautern (Nov 2001, advisor: Dieter Rombach). 
+[Jurgen Munch](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=PpQatRXrUYpjBYk6oEpEsmYQjvKcG70X27ULOeMe_qM= "Reveal this email address"). Pattern-based Development of Software Project Plans. University of Kaiserslautern (Nov 2001, advisor: Dieter Rombach). 
 
 [Atif Memon](http://www.cs.umd.edu/~atif). [A Comprehensive Framework for Testing Graphical User Interfaces](http://www.cs.umd.edu/~atif/dissertation.pdf). University of Pittsburg (Jul 27 2001, advisor: Mary Lou Soffa). 
 
@@ -726,13 +726,13 @@ Dissertations
 
 ### 2000
 
-[Oliver Laitenberger](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=215sD6o8qKcJaBcV-T8LO6gr0FsgYEDPZ7LiHnfxNE-rwN8-mAOccWBNbW4O35eq "Reveal this email address"). [Cost-effective Detection of Software Defects through Perspective-based Inspections](NULL). University of Kaiserslautern (2000, advisor: Dieter Rombach and Victor Basili). 
+[Oliver Laitenberger](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=215sD6o8qKcJaBcV-T8LO6gr0FsgYEDPZ7LiHnfxNE-rwN8-mAOccWBNbW4O35eq "Reveal this email address"). Cost-effective Detection of Software Defects through Perspective-based Inspections. University of Kaiserslautern (2000, advisor: Dieter Rombach and Victor Basili). 
 
 [Kim Mens](http://www.info.ucl.ac.be/~km/). [Automating architectural conformance checking by means of logic meta programming](http://www.info.ucl.ac.be/~km/MyResearchPages/publications/dissertation/PHD_2002_Mens.pdf). Vrije Universiteit Brussel (Oct 23 2000, advisor: Theo D'Hondt). 
 
-[William McUmber](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=ccBtE4OK-bJhxa473Le0teZwleaazsPIuZOwewBPQ4c= "Reveal this email address"). [A Generic Framework for Formalizing Object-Oriented Modeling Notations for Embedded Systems Development](NULL). Michigan State University (Feb 2000, advisor: Betty H. C. Cheng). 
+[William McUmber](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=ccBtE4OK-bJhxa473Le0teZwleaazsPIuZOwewBPQ4c= "Reveal this email address"). A Generic Framework for Formalizing Object-Oriented Modeling Notations for Embedded Systems Development. Michigan State University (Feb 2000, advisor: Betty H. C. Cheng). 
 
-[William Chan](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=Go4SLZd2noNlQqLR4fj0q1lISG-Tcf2XVXKuEMU1lsM= "Reveal this email address"). [Symbolic model checking for large software specifications](NULL). University of Washington (2000, advisor: David Notkin and Richard Anderson). 
+[William Chan](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=Go4SLZd2noNlQqLR4fj0q1lISG-Tcf2XVXKuEMU1lsM= "Reveal this email address"). Symbolic model checking for large software specifications. University of Washington (2000, advisor: David Notkin and Richard Anderson). 
 
 [Peyman Oreizy](http://www.ics.uci.edu/~peymano/). [Open Architecture Software: A Flexible Approach to Decentralized Software Evolution](http://www.ics.uci.edu/~peymano/papers/thesis.pdf). University of California, Irvine (2000, advisor: Richard N. Taylor). 
 
@@ -778,7 +778,7 @@ Dissertations
 
 ### 1998
 
-[Forrest Shull](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=WhpQfF2NKO04wu45ZVIxArn5tNfaL5jzDkmMQP2MKsM= "Reveal this email address"). [Developing Techniques for Using Software Documents: A Series of Empirical Studies](theses/ForrestShull.pdf). University of Maryland, College Park (Dec 1998, advisor: Victor Basili). 
+[Forrest Shull](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=WhpQfF2NKO04wu45ZVIxArn5tNfaL5jzDkmMQP2MKsM= "Reveal this email address"). Developing Techniques for Using Software Documents: A Series of Empirical Studies. University of Maryland, College Park (Dec 1998, advisor: Victor Basili). 
 
 [Aniruddha Gokhale](http://www.dre.vanderbilt.edu/~gokhale). [Design Principles and Optimizations for High Performance, Real-time CORBA](http://www.dre.vanderbilt.edu/~gokhale/asg-dissertation.pdf). Washington University in St. Louis (May 1998, advisor: Dr. Douglas C. Schmidt). 
 
@@ -786,17 +786,17 @@ Dissertations
 
 [Tevfik Bultan](http://www.cs.ucsb.edu/~bultan/). [Automated Symbolic Analysis of Reactive Systems](http://www.cs.ucsb.edu/~bultan/publications/dissertation.ps). University of Maryland, College Park (1998, advisor: Richard Gerber). 
 
-[David Fleming](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=sZxeh8gAlezDrNR_59aX_QdGmsnrAezeBAk693lAq-Y= "Reveal this email address"). [Foundations of Object-Based Specification Design](NULL). West Virginia University (1998, advisor: Murali Sitaraman). 
+[David Fleming](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=sZxeh8gAlezDrNR_59aX_QdGmsnrAezeBAk693lAq-Y= "Reveal this email address"). Foundations of Object-Based Specification Design. West Virginia University (1998, advisor: Murali Sitaraman). 
 
 [William Hefley](http://itsqc.cs.cmu.edu) . Influence In Work Groups A Study of Software Development Teams. Carnegie Mellon University (1998, advisor: Sara Kiesler). 
 
 [Andrea Zisman](http://www.soi.city.ac.uk/~zisman). [Information Discovery for Interoperable Autonomous Database Systems](http://www.soi.city.ac.uk/~zisman/PhD_thesis/zisman_thesis.pdf). University of London, Imperial College of Science, Technology and Medicine (1998, advisor: Jeff Kramer). 
 
-[Abdelsalam Heddaya](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=Gc8FphBj3aIyUm7dl4pEb5Si2VFR-ISpFxsXYl_EoVY= "Reveal this email address"). [Managing Event-based Replication for Abstract Data Types in Distributed Systems](NULL). Harvard University (1988, advisor: Bill Weihl). 
+[Abdelsalam Heddaya](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=Gc8FphBj3aIyUm7dl4pEb5Si2VFR-ISpFxsXYl_EoVY= "Reveal this email address"). Managing Event-based Replication for Abstract Data Types in Distributed Systems. Harvard University (1988, advisor: Bill Weihl). 
 
 ### 1997
 
-[Will Tracz](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=IgxE4O5LZUoTPeiwQEmyNDzohlBiCdUqeUi34ukzJ5Q= "Reveal this email address"). [Parameterized Programming in LILEANNA](NULL). Stanford University (Jun 1997, advisor: David Luckham). 
+[Will Tracz](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=IgxE4O5LZUoTPeiwQEmyNDzohlBiCdUqeUi34ukzJ5Q= "Reveal this email address"). Parameterized Programming in LILEANNA. Stanford University (Jun 1997, advisor: David Luckham). 
 
 [Manoel Mendonça](http://wiki.dcc.ufba.br/LES/ManoelMendonca). [An Approach to Improving Existing Measurement Frameworks in Software Development Organizations](http://drum.lib.umd.edu/handle/1903/926). University of Maryland (1997, advisor: Victor Basili). 
 
@@ -806,7 +806,7 @@ Dissertations
 
 [Jonathan Cook](http://www.cs.nmsu.edu/~jcook). [Process Discovery and Validation through Event Data Analysis](http://www.cs.nmsu.edu/~jcook/papers/thesis.html). University of Colorado, Boulder (1996, advisor: Alexander L. Wolf). 
 
-[Kingsum Chow](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=0SP1c3HskDL3r2E1qb4SrMDNP6CcFujmMPQPz7bifpQ= "Reveal this email address"). [Supporting Library Interface Changes in Open System Software Evolution](NULL). University of Washington (1996, advisor: David Notkin). 
+[Kingsum Chow](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=0SP1c3HskDL3r2E1qb4SrMDNP6CcFujmMPQPz7bifpQ= "Reveal this email address"). Supporting Library Interface Changes in Open System Software Evolution. University of Washington (1996, advisor: David Notkin). 
 
 ### 1995
 
@@ -814,7 +814,7 @@ Dissertations
 
 [Wayne Heym](http://www.cse.ohio-state.edu/~heym). [Computer Program Verification: Improvements for Human Reasoning](http://www.cse.ohio-state.edu/rsrg/documents/TR55/). The Ohio State University (1995, advisor: Bruce W. Weide). 
 
-[Matthew Dwyer](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=tULahB8vvCnNfcZYTEtNPr7jk0Nb1kF-aNGGQmxPZ2w= "Reveal this email address"). [FLAVERS: Data Flow Analysis for Verifying Properties of Concurrent Programs](NULL). University of Massachusetts - Amherst (1995, advisor: Lori Clarke). 
+[Matthew Dwyer](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=tULahB8vvCnNfcZYTEtNPr7jk0Nb1kF-aNGGQmxPZ2w= "Reveal this email address"). FLAVERS: Data Flow Analysis for Verifying Properties of Concurrent Programs. University of Massachusetts - Amherst (1995, advisor: Lori Clarke). 
 
 [Wolfgang Emmerich](http://www.cs.ucl.ac.uk). [Tool Construction for Process-Centred Software Development Environments based on Object Databases](http://www.cs.ucl.ac.uk/staff/W.Emmerich/publications/PHDTHESIS/thesis.pdf). University of Paderborn (1995, advisor: Wilhelm Schafer). 
 
@@ -852,7 +852,7 @@ Dissertations
 
 ### 1988
 
-[Jeff Offutt](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=HqRsgjLYlUDPDyBt6AmikA== "Reveal this email address"). [Automatic Test Data Generation](NULL). Georgia Institute of Technology (1988, advisor: Richard A. DeMillo). 
+[Jeff Offutt](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=HqRsgjLYlUDPDyBt6AmikA== "Reveal this email address"). Automatic Test Data Generation. Georgia Institute of Technology (1988, advisor: Richard A. DeMillo). 
 
 [Raymond Klefstad](http://doc.ece.uci.edu/~klefstad). [Maintaining a Uniform User Interface for an Ada Programming Environment](http://antpac.lib.uci.edu/). University of California, Irvine (1988, advisor: Richard N. Taylor). 
 
@@ -862,7 +862,7 @@ Dissertations
 
 [Alexander Wolf](http://www.cs.colorado.edu/users/alw/) . Language and Tool Support for Precise Interface Control. University of Massachusetts at Amherst (1985, advisor: Lori A. Clarke and Jack C. Wileden). 
 
-[William Bail](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=gWmvjaoN3H2YYKnK4i8Geg== "Reveal this email address"). [Algorithm Structure Analysis Using Hierarchical Abstract Computers](NULL). University of Maryland (1985, advisor: Marvin Zelkowitz). 
+[William Bail](http://mailhide.recaptcha.net/d?k=01nF0orHvwkflnexbVm8sQyg==&c=gWmvjaoN3H2YYKnK4i8Geg== "Reveal this email address"). Algorithm Structure Analysis Using Hierarchical Abstract Computers. University of Maryland (1985, advisor: Marvin Zelkowitz). 
 
 ### 1984
 

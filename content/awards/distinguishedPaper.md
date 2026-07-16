@@ -41,7 +41,7 @@ Conference organizers can also decide how they want to notify the recipients of 
 
 The conference organizers prepare the certificates. Contact J.C. Peeples (peeples at hq.acm.org) to get a template you may use to create certificates. Please inform chair\_sigsoft (at) acm (dot) org of the award winners, so that they can be added to this page.
 
-If the TMRF indicated that a best paper award would be given, the organizers will receive an email from [\[email protected\]](/cdn-cgi/l/email-protection) after the conference, asking for further details. Please respond to this email as well, so that the award winners will be listed in the ACM digital library.
+If the TMRF indicated that a best paper award would be given, the organizers will receive an email from ACM after the conference, asking for further details. Please respond to this email as well, so that the award winners will be listed in the ACM digital library.
 
 
 

@@ -24,7 +24,7 @@ Sponsorship by SIGSOFT provides a number of benefits to event organizers:
 *   A free advertisement for the event can appear in SIGSOFT Software Engineering Notes ([SEN](/SEN/SEN)). The advertisement should be sent to the [editor](/contact) of SEN at least six weeks before the announcement is to appear in a non-conference issue
 *   The event will appear in the SIGSOFT [list of events](/event)
 *   The event will be entered into the Call for papers and Professional Calendar sections of Communications of the ACM ([CACM](http://www.acm.org/cacm/)) and the ACM [conference calendar](http://www.acm.org/sig_conferences/) web site
-*   A special rate is available for purchase of an advertisement in Communications of the ACM ([CACM](http://www.acm.org/cacm/)). Discounts on ACM mailing lists are also available. Please contact the SIGSOFT [Program Director](/contact.html#program-director) for further information
+*   A special rate is available for purchase of an advertisement in Communications of the ACM ([CACM](http://www.acm.org/cacm/)). Discounts on ACM mailing lists are also available. Please contact the SIGSOFT [Program Director](/contact/#program-director) for further information
 *   Conference papers are eligible to appear in the [ACM Digital Library](http://dl.acm.org/)
 *   Minimization of calendar conflicts with other SIGSOFT-sponsored events. This includes both submission dates and event dates. See below for details
 
@@ -34,7 +34,7 @@ Application
 To apply for sponsorship status:
 
 1.  Familiarize yourself with the [Conference Manual](http://www.acm.org/sigs/volunteer_resources/conference_manual/) and the [ACM Criteria for Conference Approval](http://www.acm.org/sigs/volunteer_resources/conference_manual/1-2cri)
-2.  For events not previously sponsored by SIGSOFT, please send a description of the event via email to the SIGSOFT [Vice Chair](/contact.html#vice-chair), at least **sixteen months prior** to the event. The description must be in **plain text** and include the following information:
+2.  For events not previously sponsored by SIGSOFT, please send a description of the event via email to the SIGSOFT [Vice Chair](/contact/#vice-chair), at least **sixteen months prior** to the event. The description must be in **plain text** and include the following information:
 
     1.  name, place, and dates of the event
     2.  the goals of the event
@@ -51,7 +51,7 @@ To apply for sponsorship status:
 3.  Fill out the [Preliminary Approval Form (PAF) for Sponsored Events](http://campus.acm.org/public/cms/tmrf/cms_paf.cfm) form and return it to the SIGSOFT [Program Director](/contact) at least **sixteen months prior** to the event. In order to facilitate processing, electronic submission is required.
 4.  Fill out the [Technical Meeting Request Form](http://www.acm.org/sig_volunteer_info/conference_manual/sponstmrfpage.htm) (TMRF) for Sponsored Events and return it to the SIGSOFT [Program Director](/contact) at least **12 months prior** to the event. In order to facilitate processing, electronic submission is required. Guidelines for completion of the TMRF are available [here](http://www.acm.org/sig_volunteer_info/conference_manual/1-2-1GUIDE.HTM).
 
-The SIGSOFT [Executive Committee](/eseccontact) is available to provide advice and counseling to event organizers. In general, we are happy to establish continuing relationships with organizers of regularly held events.
+The SIGSOFT [Executive Committee](/execcontact/) is available to provide advice and counseling to event organizers. In general, we are happy to establish continuing relationships with organizers of regularly held events.
 
 Guidelines
 ----------
@@ -62,7 +62,7 @@ For an event to be eligible for SIGSOFT sponsorship status, it must satisfy the 
 *   The event must have an open call for participation. Events that limit attendance (e.g., a workshop) must select participants through an open call
 *   Registration costs should be reasonable and SIGSOFT members must receive the same or better discount on registration fees offered to members of any other organization
 *   The Program Committee must adhere to the SIGSOFT [conflict of interest and confidentiality policy](/policies/PCpolicy)
-*   SIGSOFT must be mentioned in any publicity (e.g., the call for participation) and publication (e.g., the proceedings) associated with the event. The SIGSOFT [logo image](/resources/logos.html) must appear wherever other relevant graphic images appear (e.g., on fliers, posters, web pages, and proceedings cover pages)
+*   SIGSOFT must be mentioned in any publicity (e.g., the call for participation) and publication (e.g., the proceedings) associated with the event. The SIGSOFT [logo image](/logos/logos/) must appear wherever other relevant graphic images appear (e.g., on fliers, posters, web pages, and proceedings cover pages)
 *   Authors submitting to the event must be made aware of the [ACM Policy and Procedures on Plagiarism](http://www.acm.org/publications/policies/plagiarism_policy), and must be asked to indicate their understanding and acceptance of the policy and procedures. This can normally be done as part of the electronic submission process, such as through a checkbox that must be checked in order for the submission to be recorded
 
 Again, SIGSOFT representatives will work with a conference to help ensure a successful event.
