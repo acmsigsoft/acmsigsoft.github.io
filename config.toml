@@ -220,47 +220,52 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.awards"
 
+[[menu.main]]
+    name       = "Software Engineering Academy"
+    url        = "/academy/inaugural-class.html"
+    weight     = 2
+    parent     = "section.awards"
 
 [[menu.main]]
     name       = "Distinguished Service"
     url        = "/awards/distinguishedservice"
-    weight     = 2
+    weight     = 3
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Outstanding Research"
     url        = "/awards/outstandingresearch"
-    weight     = 3
+    weight     = 4
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Influential Educator"
     url        = "/awards/influentialeducator"
-    weight     = 4
+    weight     = 5
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Impact Paper"
     url        = "/awards/impactpaper"
-    weight     = 5
+    weight     = 6
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Outstanding Doctoral Dissertation"
     url        = "/awards/dissertation"
-    weight     = 6
+    weight     = 7
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "Early Career Researcher"
     url        = "/awards/earlycareerresearcher"
-    weight     = 7
+    weight     = 8
     parent     = "section.awards"
 
 [[menu.main]]
     name       = "ACM SIGSOFT - SIGBED Frank Anger Memorial"
     url        = "/awards/anger"
-    weight     = 8
+    weight     = 9
     parent     = "section.awards"
 
 [[menu.main]]

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The SIGSOFT Software Engineering Academy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Libre+Franklin:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#FAF9F6;
+    --ink:#191917;
+    --sub:#5A574F;
+    --line:#E2DFD8;
+    --tile:#EAE7E0;
+    --accent:#2C4A86;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Libre Franklin',sans-serif;}
+  a{color:var(--accent);}
+  a:hover{color:#1c3260;}
+  .wrap{max-width:1200px;margin:0 auto;padding:72px 32px 96px;}
+  .kicker{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:14px;letter-spacing:4px;text-transform:uppercase;color:var(--accent);}
+  h1{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(36px,5vw,64px);line-height:1.05;letter-spacing:-1px;margin:16px 0 0;}
+  .intro{max-width:760px;margin:20px 0 0;font-size:16px;line-height:1.65;color:var(--sub);}
+  .lede{max-width:720px;margin:24px 0 0;font-size:19px;line-height:1.6;color:var(--sub);}
+  .rule{width:72px;height:4px;background:var(--accent);margin:32px 0 48px;}
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(140px,1fr));
+    gap:28px 24px;
+  }
+  .member{display:flex;flex-direction:column;gap:10px;}
+  .photo{position:relative;width:100%;aspect-ratio:1/1;overflow:hidden;background:var(--tile);border:1px solid var(--line);border-radius:12px;}
+  .photo img{width:100%;height:100%;object-fit:cover;object-position:center 22%;display:block;}
+  .initials{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:32px;color:#B7B2A8;letter-spacing:1px;}
+  .name{font-size:15px;font-weight:500;line-height:1.3;color:var(--ink);}
+  footer{max-width:1200px;margin:0 auto;padding:0 32px 72px;font-size:15px;color:var(--sub);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="kicker">ACM SIGSOFT</div>
+  <h1>Inaugural Class of the ACM SIGSOFT Software Engineering Academy</h1>
+  <p class="lede">Eighty members recognized for <b>lasting contributions to software engineering, in research, practice, and education</b>. Additional members to be announced in late August.</p>
+  <div class="rule"></div>
+  <p class="intro">(July 14, 2026) The Academy launches with the first batch of the inaugural class: <b>a cohort of researchers, educators, and practitioners whose lasting contributions, influence, and leadership have shaped modern software engineering</b>. As a standing body of honor established by <a href="https://www2.sigsoft.org/">ACM SIGSOFT</a>, the Academy recognizes those whose cumulative work has defined the foundations of software engineering and its growth. New members will be elected annually through nominations from the community.</p>
+  <p class="intro">(July 7, 2026) The Academy and its inaugural class were previewed at the <a href="https://conf.researchr.org/home/fse-2026">FSE 2026</a> conference in Montreal as part of the <b>Fifty Years of ACM SIGSOFT</b> celebrations.</p>
+  <div class="rule"></div>
+  <div class="grid" id="academy-grid"></div>
+</div>
+<footer><div>About SIGSOFT: The ACM Special Interest Group on Software Engineering provides a forum for computing professionals from industry, government, and academia to examine principles, practices, and new research results in software engineering.</div><br>Copyright (c) 2020 - 2026, SIGSOFT; all rights reserved.</footer>
+<script>
+const MEMBERS = [
+  { name: "Abhik Roychoudhury", photo: "academy-photos/abhik-roychoudhury.jpg" },
+  { name: "Alessandro Orso", photo: "academy-photos/alessandro-orso.jpg" },
+  { name: "Alex Aiken", photo: "academy-photos/alex-aiken.jpg" },
+  { name: "Alexander Wolf", photo: "academy-photos/alexander-wolf.jpg" },
+  { name: "Andreas Zeller", photo: "academy-photos/andreas-zeller.jpg" },
+  { name: "Axel van Lamsweerde", photo: "academy-photos/axel-van-lamsweerde.png" },
+  { name: "Barbara G Ryder", photo: "academy-photos/barbara-g-ryder.jpeg" },
+  { name: "Bashar Nuseibeh", photo: "academy-photos/bashar-nuseibeh.jpg" },
+  { name: "Bertrand Meyer", photo: "academy-photos/bertrand-meyer.jpg" },
+  { name: "Bill Curtis", photo: "academy-photos/bill-curtis.jpg" },
+  { name: "Bronis R. de Supinski", photo: "academy-photos/bronis-r-de-supinski.jpg" },
+  { name: "Carlo Ghezzi", photo: "academy-photos/carlo-ghezzi.jpg" },
+  { name: "Cliff Jones", photo: "academy-photos/cliff-jones.png" },
+  { name: "Corina Silva Pasareanu", photo: "academy-photos/corina-silva-pasareanu.png" },
+  { name: "Cormac Flanagan", photo: "academy-photos/cormac-flanagan.jpeg" },
+  { name: "Daniel Jackson", photo: "academy-photos/daniel-jackson.jpg" },
+  { name: "David Abramson", photo: "academy-photos/david-abramson.jpg" },
+  { name: "David Garlan", photo: "academy-photos/david-garlan.jpg" },
+  { name: "David Harel", photo: "academy-photos/david-harel.jpg" },
+  { name: "David Lorge Parnas", photo: "academy-photos/david-lorge-parnas.png" },
+  { name: "David Rosenblum", photo: "academy-photos/david-rosenblum.jpg" },
+  { name: "Denys Poshyvanyk", photo: "academy-photos/denys-poshyvanyk.jpg" },
+  { name: "Doug Lea", photo: "academy-photos/doug-lea.jpg" },
+  { name: "Elaine Weyuker", photo: "academy-photos/elaine-weyuker.jpg" },
+  { name: "Erich Gamma", photo: "academy-photos/erich-gamma.jpg" },
+  { name: "Gail Murphy", photo: "academy-photos/gail-murphy.jpg" },
+  { name: "Gerard Holzmann", photo: "academy-photos/gerard-holzmann.jpg" },
+  { name: "Grady Booch", photo: "academy-photos/grady-booch.jpeg" },
+  { name: "Hong MEI", photo: "academy-photos/hong-mei.png" },
+  { name: "James Herbsleb", photo: "academy-photos/james-herbsleb.jpeg" },
+  { name: "Javier Esparza", photo: "academy-photos/javier-esparza.jpg" },
+  { name: "Jeannette M. Wing", photo: "academy-photos/jeannette-m-wing.jpg" },
+  { name: "Jeff Kramer", photo: "academy-photos/jeff-kramer.jpg" },
+  { name: "Jeff Magee", photo: "academy-photos/jeff-magee.jpg" },
+  { name: "Jeffrey S. Foster", photo: "academy-photos/jeffrey-s-foster.jpeg" },
+  { name: "John B. Goodenough", photo: "academy-photos/john-b-goodenough.jpg" },
+  { name: "John Hughes", photo: "academy-photos/john-hughes.jpg" },
+  { name: "John Stasko", photo: "academy-photos/john-stasko.jpg" },
+  { name: "Laurie Williams", photo: "academy-photos/laurie-williams.jpeg" },
+  { name: "Leon Osterweil", photo: "academy-photos/leon-osterweil.jpeg" },
+  { name: "Lionel C. Briand", photo: "academy-photos/lionel-c-briand.jpg" },
+  { name: "Madanlal Musuvathi", photo: "academy-photos/madanlal-musuvathi.jpg" },
+  { name: "Margaret Burnett", photo: "academy-photos/margaret-burnett.jpg" },
+  { name: "Martin Rinard", photo: "academy-photos/martin-rinard.jpg" },
+  { name: "Mary Lou Soffa", photo: "academy-photos/mary-lou-soffa.png" },
+  { name: "Mary Shaw", photo: "academy-photos/mary-shaw.jpg" },
+  { name: "Matthew Dwyer", photo: "academy-photos/matthew-dwyer.jpg" },
+  { name: "Michael D. Ernst", photo: "academy-photos/michael-d-ernst.jpg" },
+  { name: "Michael Franz", photo: "academy-photos/michael-franz.jpg" },
+  { name: "Michael R Lyu", photo: "academy-photos/michael-r-lyu.jpg" },
+  { name: "Mira Mezini", photo: "academy-photos/mira-mezini.jpg" },
+  { name: "Nachiappan Nagappan", photo: "academy-photos/nachiappan-nagappan.jpg" },
+  { name: "Nancy G. Leveson", photo: "academy-photos/nancy-g-leveson.jpg" },
+  { name: "Nenad Medvidović", photo: "academy-photos/nenad-medvidovic.jpg" },
+  { name: "Orna Grumberg", photo: "academy-photos/orna-grumberg.jpg" },
+  { name: "Pamela Zave", photo: "academy-photos/pamela-zave.jpg" },
+  { name: "Paola Inverardi", photo: "academy-photos/paola-inverardi.jpeg" },
+  { name: "Peter Müller", photo: "academy-photos/peter-muller.jpg" },
+  { name: "Premkumar T. Devanbu", photo: "academy-photos/premkumar-thomas-devanbu.jpg" },
+  { name: "Rajesh K. Gupta", photo: "academy-photos/rajesh-k-gupta.jpg" },
+  { name: "Rajiv Gupta", photo: "academy-photos/rajiv-gupta.jpg" },
+  { name: "Randal E Bryant", photo: "academy-photos/randal-e-bryant.jpg" },
+  { name: "Richard DeMillo", photo: "academy-photos/richard-demillo.jpg" },
+  { name: "Richard N. Taylor", photo: "academy-photos/richard-n-taylor.jpg" },
+  { name: "Satish Chandra", photo: "academy-photos/satish-chandra.jpeg" },
+  { name: "Sebastian Elbaum", photo: "academy-photos/sebastian-elbaum.jpg" },
+  { name: "Sharad Malik", photo: "academy-photos/sharad-malik.jpg" },
+  { name: "Somesh Jha", photo: "academy-photos/somesh-jha.jpg" },
+  { name: "Sumit Gulwani", photo: "academy-photos/sumit-gulwani.jpg" },
+  { name: "Sven Apel", photo: "academy-photos/sven-apel.jpg" },
+  { name: "Swarat Chaudhuri", photo: "academy-photos/swarat-chaudhuri.jpg" },
+  { name: "Tao Xie", photo: "academy-photos/tao-xie.jpg" },
+  { name: "Thomas A. Henzinger", photo: "academy-photos/thomas-a-henzinger.jpg" },
+  { name: "Thomas Ball", photo: "academy-photos/thomas-ball.jpg" },
+  { name: "Tim Menzies", photo: "academy-photos/tim-menzies.png" },
+  { name: "Tony Wasserman", photo: "academy-photos/tony-wasserman.jpg" },
+  { name: "Tsong Yueh Chen", photo: "academy-photos/tsong-yueh-chen.jpg" },
+  { name: "Walter Tichy", photo: "academy-photos/walter-tichy.jpg" },
+  { name: "Yuanyuan Zhou", photo: "academy-photos/yuanyuan-zhou.jpg" },
+  { name: "Zhendong Su", photo: "academy-photos/zhendong-su.jpg" }
+];
+
+function initialsOf(name){
+  const parts = name.replace(/[^A-Za-z .]/g,'').split(/\s+/).filter(Boolean);
+  return ((parts[0]||'')[0]||'') + (parts.length>1 ? (parts[parts.length-1][0]||'') : '');
+}
+
+const grid = document.getElementById('academy-grid');
+grid.innerHTML = MEMBERS.map(m => {
+  const inner = m.photo
+    ? `<img src="${m.photo}" alt="${m.name}" loading="lazy">`
+    : `<div class="initials">${(m.initials || initialsOf(m.name)).toUpperCase()}</div>`;
+  return `<div class="member"><div class="photo">${inner}</div><div class="name">${m.name}</div></div>`;
+}).join('');
+</script>
+</body>
+</html>
