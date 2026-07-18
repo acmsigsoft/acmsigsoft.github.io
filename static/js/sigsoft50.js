@@ -46,14 +46,18 @@
     controls.appendChild(previous);
     controls.appendChild(counter);
     controls.appendChild(next);
-    track.parentNode.insertBefore(controls, track);
 
     var carousel = window.jQuery(track);
 
     function updateCounter() {
       var active = inner.querySelector(".item.active");
       var activeIndex = Array.prototype.indexOf.call(inner.children, active);
+      var caption = active.querySelector("figcaption, .sigsoft50-story-video-caption");
+
       counter.textContent = "Frame " + (activeIndex + 1) + " of " + frames.length;
+      if (caption && controls.parentNode !== caption) {
+        caption.appendChild(controls);
+      }
     }
 
     previous.addEventListener("click", function () {
