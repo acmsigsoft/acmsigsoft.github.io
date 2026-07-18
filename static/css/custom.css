@@ -1,4 +1,347 @@
 /* your styles go here */
+
+.sigsoft50-page {
+  color: #2f2f2f;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.sigsoft50-hero {
+  background: #f6f8fb;
+  border: 1px solid #e3e8ef;
+  margin-bottom: 36px;
+  padding: 36px;
+}
+
+.sigsoft50-hero h2 {
+  color: #1f3f68;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 1.15;
+  margin: 0 0 14px;
+}
+
+.sigsoft50-lead {
+  color: #23384f;
+  font-size: 22px;
+  line-height: 1.35;
+  margin-bottom: 14px;
+}
+
+.sigsoft50-eyebrow {
+  color: #467fbf;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.sigsoft50-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.sigsoft50-section {
+  border-top: 1px solid #e6e6e6;
+  padding: 34px 0;
+}
+
+.sigsoft50-section-heading {
+  max-width: 760px;
+}
+
+.sigsoft50-section-heading h2 {
+  color: #242424;
+  font-size: 30px;
+  letter-spacing: 0;
+  margin-top: 0;
+}
+
+.sigsoft50-outline {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin-top: 24px;
+}
+
+.sigsoft50-outline a {
+  border: 1px solid #dddddd;
+  color: #333333;
+  display: block;
+  min-height: 190px;
+  padding: 18px;
+  text-decoration: none;
+}
+
+.sigsoft50-outline a:hover,
+.sigsoft50-outline a:focus {
+  border-color: #467fbf;
+  box-shadow: 0 3px 14px rgba(37, 63, 92, 0.14);
+  color: #333333;
+  text-decoration: none;
+}
+
+.sigsoft50-outline span {
+  color: #467fbf;
+  display: block;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 14px;
+}
+
+.sigsoft50-outline strong {
+  color: #23384f;
+  display: block;
+  font-size: 19px;
+  margin-bottom: 10px;
+}
+
+.sigsoft50-outline em {
+  color: #666666;
+  display: block;
+  font-style: normal;
+  line-height: 1.45;
+}
+
+.sigsoft50-embed-placeholder {
+  align-items: center;
+  aspect-ratio: 16 / 9;
+  background: #1f2f44;
+  color: #ffffff;
+  display: flex;
+  font-size: 18px;
+  font-weight: 700;
+  justify-content: center;
+  min-height: 320px;
+  text-align: center;
+}
+
+.sigsoft50-story {
+  padding-bottom: 10px;
+}
+
+.sigsoft50-act {
+  margin-top: 36px;
+}
+
+.sigsoft50-act-intro {
+  background: #f7f8fa;
+  border-left: 5px solid #467fbf;
+  margin-bottom: 20px;
+  padding: 22px 24px;
+}
+
+.sigsoft50-act-intro span {
+  color: #467fbf;
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.sigsoft50-act-intro h3 {
+  color: #23384f;
+  font-size: 25px;
+  letter-spacing: 0;
+  margin: 0 0 8px;
+}
+
+.sigsoft50-act-intro p {
+  margin-bottom: 0;
+  max-width: 850px;
+}
+
+.sigsoft50-frame-grid {
+  display: block;
+}
+
+.sigsoft50-bootstrap-carousel .carousel-inner {
+  overflow: hidden;
+}
+
+.sigsoft50-frame-grid figure {
+  border: 1px solid #dddddd;
+  margin: 0;
+  padding: 10px;
+}
+
+.sigsoft50-frame-grid img {
+  background: #f2f2f2;
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.sigsoft50-frame-grid figcaption {
+  border-top: 1px solid #eeeeee;
+  margin-top: 10px;
+  padding: 14px 4px 4px;
+}
+
+.sigsoft50-frame-grid figcaption strong {
+  color: #23384f;
+  display: block;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.sigsoft50-carousel-controls {
+  align-items: center;
+  display: flex;
+  gap: 14px;
+  justify-content: flex-end;
+  margin: 0 0 14px;
+}
+
+.sigsoft50-carousel-button {
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #cfd8e3;
+  color: #23384f;
+  display: inline-flex;
+  font-size: 20px;
+  font-weight: 700;
+  height: 42px;
+  justify-content: center;
+  line-height: 1;
+  padding: 0;
+  width: 42px;
+}
+
+.sigsoft50-carousel-button:hover,
+.sigsoft50-carousel-button:focus {
+  background: #467fbf;
+  border-color: #467fbf;
+  color: #ffffff;
+  outline: none;
+}
+
+.sigsoft50-carousel-counter {
+  color: #666666;
+  font-size: 14px;
+  min-width: 92px;
+  text-align: center;
+}
+
+.sigsoft50-story-video {
+  border: 1px solid #dddddd;
+  margin: 0;
+  padding: 10px;
+}
+
+.sigsoft50-story-video iframe {
+  aspect-ratio: 16 / 9;
+  border: 0;
+  display: block;
+  width: 100%;
+}
+
+.sigsoft50-story-video-caption {
+  border-top: 1px solid #eeeeee;
+  margin-top: 10px;
+  padding: 14px 4px 4px;
+}
+
+.sigsoft50-story-video-caption strong {
+  color: #23384f;
+  display: block;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.sigsoft50-arc {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 20px;
+}
+
+.sigsoft50-arc div {
+  border-left: 4px solid #467fbf;
+  padding: 0 8px 0 16px;
+}
+
+.sigsoft50-arc span {
+  color: #467fbf;
+  display: block;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.sigsoft50-arc h3 {
+  font-size: 18px;
+  letter-spacing: 0;
+  margin: 0 0 8px;
+}
+
+.sigsoft50-gallery-title {
+  color: #23384f;
+  font-size: 22px;
+  letter-spacing: 0;
+  margin: 32px 0 16px;
+}
+
+.sigsoft50-slide-gallery {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.sigsoft50-slide-gallery figure {
+  border: 1px solid #dddddd;
+  margin: 0;
+  padding: 8px;
+}
+
+.sigsoft50-slide-gallery img {
+  background: #f2f2f2;
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.sigsoft50-slide-gallery figcaption {
+  color: #666666;
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+@media (max-width: 991px) {
+  .sigsoft50-arc,
+  .sigsoft50-outline {
+    grid-template-columns: 1fr;
+  }
+
+  .sigsoft50-slide-gallery,
+  .sigsoft50-frame-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sigsoft50-carousel-controls {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 640px) {
+  .sigsoft50-hero {
+    padding: 24px 18px;
+  }
+
+  .sigsoft50-hero h2 {
+    font-size: 28px;
+  }
+
+  .sigsoft50-lead {
+    font-size: 19px;
+  }
+}
 /* Example site test */
 
 .box-image-text .image {
