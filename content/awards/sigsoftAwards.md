@@ -22,10 +22,39 @@ criteria for each of the SIGSOFT awards.
 ## Award Categories
 
 ### Senior Awards
-- **[Software Engineering Academy](/academy/inaugural-class.html)** - Honors lasting contributions to software engineering, in research, practice, and education
+- **[Software Engineering Academy](../../academy/inaugural-class.html)** - Honors lasting contributions to software engineering, in research, practice, and education
 - **[Distinguished Service Award](/awards/distinguishedservice/)** - Recognizes dedicated and important service to the software engineering community 
 - **[Outstanding Research Award](/awards/outstandingresearch/)** - Honors significant and lasting research contributions to the theory or practice of software engineering
 - **[Influential Educator Award](/awards/influentialeducator/)** - Celebrates significant contributions and impact on software engineering education as a teacher, mentor, researcher, author, and/or policy maker
+
+### SIGSOFT Software Engineering Academy
+
+The Software Engineering Academy is a standing body of honor that recognizes
+members of the software engineering community whose significant and lasting
+contributions have shaped the field.
+
+Established by ACM SIGSOFT, the Software Engineering Academy celebrates the
+people whose cumulative work, and whose influence on the work of others, have
+advanced software engineering as a discipline and a practice.
+
+The Academy recognizes:
+
+1. **Lasting contributions**: Significant, cumulative advances to the theory or
+   practice of software engineering, sustained across a career.
+2. **Influence on the field**: Work that has demonstrably shaped the research,
+   tools, and thinking of others across the community.
+3. **Leadership and service**: Stewardship of the discipline through mentorship,
+   education, and service to the software engineering community.
+
+The founding class establishes the foundation the Academy will grow from. To
+seed the Academy, the inaugural members were drawn from those whose standing in
+the field is already firmly established: recognized leaders whose contributions
+the community has long acknowledged, ACM Fellows within the software engineering
+community, and past ACM SIGSOFT Outstanding Research Award recipients honored
+for research, service, and impact.
+
+Going forward, new members are elected annually by a selection committee from
+community nominations. View the [inaugural class](../../academy/inaugural-class.html).
 
 ### Junior Awards
 - **[Outstanding Doctoral Dissertation Award](https://www2.sigsoft.org/awards/dissertation/)** - Presented to the author of an outstanding doctoral dissertation in software engineering
