@@ -18,3 +18,5 @@ Thumbs.db
 
 # Temporary files
 /tmp/
+static/academy/incoming/
+static/academy/incoming0/
