@@ -47,6 +47,20 @@ If the TMRF indicated that a best paper award would be given, the organizers wil
 
 ## Winners
 
+### The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
+July 5 - 9, 2026, Montreal, Canada
+
+- Haolin Li, Michael Coblenz: A Grounded Theory of Debugging in Professional Software Engineering Practice
+- Philipp Görz, Joschua Schilling, Nicolai Bissantz, Thorsten Holz: An Empirical Study of Fuzz Harness Degradation
+- Yi-Hung Chou, Boyuan Jiang, Yiwen Chen, Mingyue Weng, Victoria Jackson, Thomas Zimmermann, James Jones: Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding
+- Ajmain Inqiad Alam, Palash Ranjan Roy, Chanchal K. Roy, Banani Roy, Kevin Schneider: Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models
+- Juyeon Yoon, Somin Kim, Robert Feldt, Shin Yoo: Clotho: Measuring Task-Specific Pre-Generation Test Adequacy for LLM Inputs
+- Jiahong Xiang, Xiaoyang Xu, Xiaopan Chu, Hongliang Tian, Yuqun Zhang: Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis
+- Wei Liu, Chao Peng, Pengfei Gao, Aofan Liu, Wei Zhang, Haiyan Zhao, Zhi Jin: GraphLocator: Graph-guided Causal Reasoning for Issue Localization
+- Yinggang Qiu, Yihao Qin, Mingyang Geng, Shangwen Wang, Dezun Dong: One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks
+- Miryeong Kang, Wonseok Oh, Gabin An, Hakjoo Oh: Pig: Leveraging Large Language Models for Python Library Migrations
+- Jingdong Guo, Chaopeng Dong, Yimo Ren, Siyuan Li, Jie Liu, Hong Li, Hongsong Zhu: Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study
+
 ### The 48th International Conference on Software Engineering (ICSE 2026)
 April 12 - 18, 2026, Rio de Janeiro, Brazil
 
@@ -97,6 +111,12 @@ Sun 16 - Thu 20 November, 2025, Seoul, South Korea
  - Noor Nashid, Daniel Ding, Keheliya Gallaba, Ahmed E. Hassan, Ali Mesbah: Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges
  - Chen Yang, Lin Yang, Ziqi Wang, Dong Wang, Jianyi Zhou, Junjie Chen: Clarifying Semantics of In-Context Examples for Unit Test Generation
  - Jingjing Liang, Shan Huang, Ting Su: Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration
+
+### ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)
+October 5 - 10, 2025, Grand Rapids, Michigan, United States
+
+- Khaled Ahmed, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng: MCeT: Behavioral Model Correctness Evaluation using Large Language Models
+- Kyanna Dagenais, Istvan David: Complex Model Transformations by Reinforcement Learning with Uncertain Human Guidance
 
 ### The ACM International Conference on the Foundations of Software Engineering (FSE 2025)
 Mon 23 - Fri 27 June, 2025, Trondheim, Norway
