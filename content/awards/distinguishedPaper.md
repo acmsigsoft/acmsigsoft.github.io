@@ -47,6 +47,46 @@ If the TMRF indicated that a best paper award would be given, the organizers wil
 
 ## Winners
 
+### The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
+July 5 - 9, 2026, Montreal, Canada
+
+- Haolin Li, Michael Coblenz: A Grounded Theory of Debugging in Professional Software Engineering Practice
+- Philipp Görz, Joschua Schilling, Nicolai Bissantz, Thorsten Holz: An Empirical Study of Fuzz Harness Degradation
+- Yi-Hung Chou, Boyuan Jiang, Yiwen Chen, Mingyue Weng, Victoria Jackson, Thomas Zimmermann, James Jones: Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding
+- Ajmain Inqiad Alam, Palash Ranjan Roy, Chanchal K. Roy, Banani Roy, Kevin Schneider: Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models
+- Juyeon Yoon, Somin Kim, Robert Feldt, Shin Yoo: Clotho: Measuring Task-Specific Pre-Generation Test Adequacy for LLM Inputs
+- Jiahong Xiang, Xiaoyang Xu, Xiaopan Chu, Hongliang Tian, Yuqun Zhang: Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis
+- Wei Liu, Chao Peng, Pengfei Gao, Aofan Liu, Wei Zhang, Haiyan Zhao, Zhi Jin: GraphLocator: Graph-guided Causal Reasoning for Issue Localization
+- Yinggang Qiu, Yihao Qin, Mingyang Geng, Shangwen Wang, Dezun Dong: One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks
+- Miryeong Kang, Wonseok Oh, Gabin An, Hakjoo Oh: Pig: Leveraging Large Language Models for Python Library Migrations
+- Jingdong Guo, Chaopeng Dong, Yimo Ren, Siyuan Li, Jie Liu, Hong Li, Hongsong Zhu: Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study
+
+### The 48th International Conference on Software Engineering (ICSE 2026)
+April 12 - 18, 2026, Rio de Janeiro, Brazil
+
+- Hanmo You, Zan Wang, Zishuo Dong, Luanqi Mo, Jianjun Zhao, Junjie Chen: A Comprehensive Study of Deep Learning Model Fixing Approaches
+- Tom Kafoe, Lina Ochoa, Sharath Siravuru, Alexander Serebrenik: “Making Our Life Less Monotonous” or “Just Tick Things Off”: An Exploratory Multi-Method Study of Toil
+- Chengran Yang, Zhensu Sun, Hong Jin Kang, Jieke Shi, David Lo: Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning
+- Zhuohang Liu, Zhi Wang, Haotong Liu, Wanpeng Li: An Empirical Study on Static Application Security Testing (SAST) Tools for Python
+- Dangfeng Pan, Zhensu Sun, Cenyuan Zhang, David Lo, Xiaoning Du: The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget
+- Minh V. T. Pham, Huy N. Phan, Nhat Hoang Phan, Cuong Chi Le, Tien N. Nguyen, Nghi Bui: Synthetic Repo-level Bug Dataset for Training Automated Program Repair Models
+- Kechi Zhang, Huangzhao Zhang, Ge Li, Jinliang You, Jia Li, Yunfei Zhao, Zhi Jin: SEAlign: Alignment Training for Software Engineering Agent
+- Zhipeng Xue, Zhipeng Gao, Xing Hu, Jingyuan Chen, Xin Xia, Shanping Li: Automating Just-In-Time Python Type Annotation Updating
+- Biting Huang, Zhilei Han, Fei He: Accurate Inference of Termination Conditions
+- Qunhong Zeng, Yuxia Zhang, Zexiong Ma, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu: Evaluating Generated Commit Messages with Large Language Models
+- Zhaoyu Qiu, Ming Fan, Bocan Ma, Yutian Tang, Lei Xue, Haijun Wang, Ting Liu: WhisperCatcher: Demystifying Unauthorized and Encrypted Private Data Transmission in Android Applications
+- Courtney Miller, Rudrajit Choudhuri, Mara Ulloa, Sankeerti Haniyur, Robert DeLine, Margaret-Anne “Peggy” Storey, Emerson Murphy-Hill, Christian Bird, Jenna L. Butler: “Maybe We Need Some More Examples:” Individual and Team Drivers of Developer GenAI Tool Use
+- Zhihan Jiang, Yujie Huang, Guangba Yu, Junjie Huang, Jiazhen Gu, Michael R. Lyu: PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction
+- Zhuolin Xu, Chenglin Li, Qiushi Li, Shin Hwei Tan: What Makes Code Generation Ethically Sourced?
+- Yang Yang, Li Kuang, Jiakun Liu, Zhongxin Liu, YingJie Xia, David Lo: UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval
+- Dimitrios Stamatios Bouras, Yihan Dai, Tairan Wang, Yingfei Xiong, Sergey Mechtaev: HoarePrompt: Structural Reasoning About Program Correctness in Natural Language
+- Zhenlei Ye, Xiaobing Sun, Sicong Cao, Lili Bo, Bin Li: Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair
+- Xinyu Wang, Wenjun Peng, Qi Wu: ProxyWar: Dynamic Assessment of LLM Code Generation in Game Arenas
+- Yuelin Wang, Yuqiao Ning, Yanbang Sun, Xiaofei Xie, Zhihua Xie, Yang Chen, Zhen Guo, Shihao Xue, Junjie Wang, Sen Chen: Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits
+- Farideh Khalili, Satyajit Gokhale, Alexi Turcotte, Dale Xu, Frank Tip: Remediating Superfluous Re-Rendering in React Applications
+- Xinyi Gong, Liangze Yin, Yuhan Li, Ke Kang, Wei Dong, Shanshan Li, Ji Wang: Accelerating IC3 Verification by Exploiting Unsatisfiable Cores and Satisfying Models
+- Elias Kuiter, Urs-Benedict Braun, Thomas Thüm, Sebastian Krieter, Gunter Saake: Can SAT Solvers Keep Up With the Linux Kernel’s Feature Model?
+
 ### The IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 Sun 16 - Thu 20 November, 2025, Seoul, South Korea
 
@@ -71,6 +111,12 @@ Sun 16 - Thu 20 November, 2025, Seoul, South Korea
  - Noor Nashid, Daniel Ding, Keheliya Gallaba, Ahmed E. Hassan, Ali Mesbah: Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges
  - Chen Yang, Lin Yang, Ziqi Wang, Dong Wang, Jianyi Zhou, Junjie Chen: Clarifying Semantics of In-Context Examples for Unit Test Generation
  - Jingjing Liang, Shan Huang, Ting Su: Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration
+
+### ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)
+October 5 - 10, 2025, Grand Rapids, Michigan, United States
+
+- Khaled Ahmed, Jialing Song, Boqi Chen, Ou Wei, Bingzhou Zheng: MCeT: Behavioral Model Correctness Evaluation using Large Language Models
+- Kyanna Dagenais, Istvan David: Complex Model Transformations by Reinforcement Learning with Uncertain Human Guidance
 
 ### The ACM International Conference on the Foundations of Software Engineering (FSE 2025)
 Mon 23 - Fri 27 June, 2025, Trondheim, Norway
