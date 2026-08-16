@@ -59,6 +59,12 @@ pluralizelisttitles = false
     weight     = 6
     parent     = "menu.abt"
 
+[[menu.main]]
+    name       = "SIGSOFT50"
+    url        = "/sigsoft50"
+    weight     = 7
+    parent     = "menu.abt"
+
 
 
 [[menu.main]]
