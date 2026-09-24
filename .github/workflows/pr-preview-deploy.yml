@@ -1,0 +1,182 @@
+# Deploy the static artifact produced by the unprivileged Build Preview workflow.
+# Never check out or execute pull request code in this privileged workflow.
+name: Deploy Preview
+
+on:
+  workflow_run:
+    workflows:
+      - Build Preview
+    types:
+      - completed
+
+permissions:
+  actions: read
+  contents: read
+  pages: write
+  id-token: write
+  pull-requests: write
+
+# Share the Pages deployment lock with the production workflow.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  deploy:
+    if: >-
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.148.2
+    environment:
+      name: github-pages
+      url: ${{ steps.metadata.outputs.preview_url }}
+    steps:
+      - name: Download preview artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: pr-preview
+          path: ${{ runner.temp }}/preview
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Validate deployment metadata
+        id: metadata
+        env:
+          PREVIEW_ROOT: ${{ runner.temp }}/preview
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          test -d "$PREVIEW_ROOT/preview-public"
+          test -f "$PREVIEW_ROOT/metadata/pr-number"
+          grep -Eq '^[1-9][0-9]*$' "$PREVIEW_ROOT/metadata/pr-number"
+          PR_NUMBER="$(tr -d '\r\n' < "$PREVIEW_ROOT/metadata/pr-number")"
+          printf 'pr_number=%s\n' "$PR_NUMBER" >> "$GITHUB_OUTPUT"
+          printf 'preview_url=%s/pr-%s\n' "$SITE_BASE_URL" "$PR_NUMBER" >> "$GITHUB_OUTPUT"
+
+      - name: Install Hugo CLI
+        run: |
+          wget -O "${{ runner.temp }}/hugo.deb" \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i "${{ runner.temp }}/hugo.deb"
+
+      - name: Install Dart Sass
+        env:
+          DART_SASS_VERSION: 1.83.4
+        run: |
+          wget -O /tmp/dart-sass.tar.gz \
+            "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          tar -xf /tmp/dart-sass.tar.gz -C /tmp
+          echo "/tmp/dart-sass" >> "$GITHUB_PATH"
+
+      # The default checkout is the trusted default branch for a workflow_run event.
+      - name: Checkout trusted base branch
+        uses: actions/checkout@v6
+        with:
+          path: base
+          submodules: recursive
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Install Node.js dependencies for base
+        working-directory: base
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      - name: Build production site
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          hugo \
+            --source base \
+            --minify \
+            --baseURL "${SITE_BASE_URL}/" \
+            --destination "${{ github.workspace }}/public"
+
+      - name: Copy legacy SEN assets for production
+        working-directory: base
+        env:
+          PUBLIC_DIR: ${{ github.workspace }}/public
+        run: node scripts/copy-legacy-sen-assets.mjs
+
+      - name: Add PR preview to production site
+        env:
+          PREVIEW_ROOT: ${{ runner.temp }}/preview
+          PR_NUMBER: ${{ steps.metadata.outputs.pr_number }}
+        run: |
+          mkdir -p "${{ github.workspace }}/public/pr-${PR_NUMBER}"
+          cp -a "$PREVIEW_ROOT/preview-public/." "${{ github.workspace }}/public/pr-${PR_NUMBER}/"
+
+      # Create the Pages artifact without executing any file from the pull request.
+      - name: Archive Pages artifact
+        env:
+          PUBLIC_DIR: ${{ github.workspace }}/public
+        run: |
+          tar \
+            --dereference --hard-dereference \
+            --directory "$PUBLIC_DIR" \
+            -cvf "${{ runner.temp }}/artifact.tar" \
+            --exclude=.git \
+            --exclude=.github \
+            --exclude='.[^/]*' \
+            .
+
+      - name: Upload Pages artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      - name: Add preview URL to PR
+        uses: actions/github-script@v9
+        env:
+          PR_NUMBER: ${{ steps.metadata.outputs.pr_number }}
+          PREVIEW_URL: ${{ steps.metadata.outputs.preview_url }}
+        with:
+          script: |
+            const issueNumber = Number(process.env.PR_NUMBER);
+            if (!Number.isSafeInteger(issueNumber) || issueNumber <= 0) {
+              throw new Error(`Invalid pull request number: ${process.env.PR_NUMBER}`);
+            }
+
+            const marker = '<!-- sigsoft-pr-preview -->';
+            const body = `${marker}\nPreview deployed at: ${process.env.PREVIEW_URL}`;
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+            });
+            const existing = comments.find(comment =>
+              comment.user?.type === 'Bot' && comment.body?.includes(marker)
+            );
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body,
+              });
+            }
