@@ -13,6 +13,10 @@ The latest CAPS calls can be found at the relevant conference webpages.
 If you have any questions about this program or want to seek CAPS support for you or your conference, please contact [SIGSOFT CAPS Coordinator](mailto:sigsoft_caps@acm.org).
 
 Recent CAPS support included:
+- [FSE 2026](https://conf.researchr.org/home/fse-2026): Number of applications: 59; number of awardees: 51; total award amount: $24,000.
+- [MODELS 2026](https://conf.researchr.org/home/models-2026): Number of applications: 20; number of awardees: 12; total award amount: $5,000.
+- [ASE 2026](https://conf.researchr.org/home/ase-2026): Number of applications: 135; number of awardees: 95; total award amount: $25,200.
+- [ISSTA 2026](https://conf.researchr.org/home/issta-2026): Number of applications: 52; number of awardees: 24; total award amount: $10,650.
 - [ICPE 2026](https://icpe2026.spec.org): Number of applications: 18; number of awardees: 8; total award amount: $4,350.
 - [ICSE 2026](https://conf.researchr.org/home/icse-2026): Number of applications: 158; number of awardees: 118; total award amount: $62,880.
 - [ISSTA 2025](https://conf.researchr.org/home/issta-2025) & [FSE 2025](https://conf.researchr.org/home/fse-2025): Number of applications: 112; number of awardees: 72; total award amount: $39,535.
