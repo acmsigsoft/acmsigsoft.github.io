@@ -38,19 +38,20 @@ See the full [SEWorld Guidelines](https://www2.sigsoft.org/seworld_guidelines/) 
 
 ### Software Engineering Notes (SEN)
 
-**Best for:** Substantive content with lasting archival value, formal academic tone, longer-form content, and material that should be preserved in the ACM Digital Library
+**Best for:** Commissioned or pre-arranged content with lasting archival value, a formal academic tone, and material that should be preserved in the ACM Digital Library
 
 **Content types:**
-- Columns on SE topics
+- Editor-managed columns and approved guest columns on SE topics
 - Workshop proceedings (where SEN is publisher)
-- Book reviews
-- Reports and position papers
-- Award announcements (detailed write-ups)
-- Major SIGSOFT news and updates
+- Book reviews arranged with the SEN Editor
+- Reports and position papers arranged with the SEN Editor
+- Invited award announcements (detailed write-ups)
+- Invited SIGSOFT news and updates
 
 **Not appropriate:**
 - Time-sensitive announcements (use SEWorld)
-- Unsolicited research papers (use conferences/journals)
+- Complete manuscripts sent without prior agreement
+- Unsolicited research papers, including papers relabeled as columns or reports (use conferences/journals)
 
 See the [SEN Publication Guidelines](https://www2.sigsoft.org/sen/guideline/) for formatting, deadlines, and submission details.
 
