@@ -18,7 +18,6 @@ Papers accepted by the following conference may be awarded for ACM SIGSOFT Disti
 - MODELS
 - MSR
 - ICPC
-- ESEM
 - FORGE
 - Internetware
 - Aiware
