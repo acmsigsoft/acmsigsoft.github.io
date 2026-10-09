@@ -42,7 +42,7 @@ function checkLink(sourceFile, rawLink) {
     return;
   }
 
-  if (/\.md$/i.test(link)) {
+  if (/\.md$/i.test(link) && !/^[a-z][a-z0-9+.-]*:/i.test(link)) {
     checkContentPath(sourceFile, link, link);
     return;
   }
