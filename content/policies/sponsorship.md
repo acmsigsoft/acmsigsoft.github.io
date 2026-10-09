@@ -62,7 +62,7 @@ For an event to be eligible for SIGSOFT sponsorship status, it must satisfy the 
 *   The event must have an open call for participation. Events that limit attendance (e.g., a workshop) must select participants through an open call
 *   Registration costs should be reasonable and SIGSOFT members must receive the same or better discount on registration fees offered to members of any other organization
 *   The Program Committee must adhere to the SIGSOFT [conflict of interest and confidentiality policy](/policies/PCpolicy)
-*   SIGSOFT must be mentioned in any publicity (e.g., the call for participation) and publication (e.g., the proceedings) associated with the event. The SIGSOFT [logo image](/resources/logos.html) must appear wherever other relevant graphic images appear (e.g., on fliers, posters, web pages, and proceedings cover pages)
+*   SIGSOFT must be mentioned in any publicity (e.g., the call for participation) and publication (e.g., the proceedings) associated with the event. The SIGSOFT [logo image](/logos/logos/) must appear wherever other relevant graphic images appear (e.g., on fliers, posters, web pages, and proceedings cover pages)
 *   Authors submitting to the event must be made aware of the [ACM Policy and Procedures on Plagiarism](http://www.acm.org/publications/policies/plagiarism_policy), and must be asked to indicate their understanding and acceptance of the policy and procedures. This can normally be done as part of the electronic submission process, such as through a checkbox that must be checked in order for the submission to be recorded
 
 Again, SIGSOFT representatives will work with a conference to help ensure a successful event.
