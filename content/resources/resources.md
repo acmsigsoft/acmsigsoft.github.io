@@ -47,7 +47,7 @@ If you're organizing an event in cooperation with or sponsored by SIGSOFT, your 
 
 Understand and follow these policies and guidelines:
 
-*   [Policy for Program Committees](/policies/PCpolicy)
+*   [Policy for Program Committees](/policies/pcpolicy/)
 *   [Guidelines for Obtaining SIGSOFT Cooperation Status](/policies/cooperation)
 *   [Guidelines for Obtaining SIGSOFT Sponsorship Status](/policies/sponsorship)
 *   [Guidelines for Running a SIGSOFT-Sponsored Meeting](/policies/meeting)
@@ -94,7 +94,7 @@ Often it is helpful to find the website for the specific embassy location where 
 Student Travel Support and Child Care Assistance at Conferences - CAPS
 ----------------------------------------------------------------------
 
-SIGSOFT's [CAPS program](/activities/CAPSMAIN) offers financial assistance to support travel and participation at conferences by SIGSOFT student members, professional members, and non-member undergraduate students.
+SIGSOFT's [CAPS program](/activities/capsmain/) offers financial assistance to support travel and participation at conferences by SIGSOFT student members, professional members, and non-member undergraduate students.
 
 SEWORLD Mailing List
 --------------------

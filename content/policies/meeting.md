@@ -25,11 +25,11 @@ The General Chair should be highly respected for work in the subject area of the
 
 **Program Chair:** The Program Chair is responsible for the technical program of the event. The Program Chair invites individuals to serve on the program committee and is responsible for assuring that the program committee is balanced in terms of expertise, nationality, affiliation, race, and gender. The Program Chair sets the procedures for reviewing and accepting submissions. The Program Chair distributes the submissions for review, arranges the program committee deliberations, and sends out notification of acceptance and rejection of submissions.
 
-The Program Chair is responsible for enforcing the [SIGSOFT Policy on Conduct of Program Committees](/policies/PCpolicy).
+The Program Chair is responsible for enforcing the [SIGSOFT Policy on Conduct of Program Committees](/policies/pcpolicy/).
 
 The Program Chair should be a recognized expert in the subject area of the event and should have considerable previous program committee experience. If the event has been occurring regularly, one would expect that the Program Chair would have published regularly at previous instances of the event.
 
-**ACM SIGSOFT Distinguished Paper Awards:** ACM SIGSOFT encourages SIGSOFT-sponsored meetings to designate a small number of accepted papers for [ACM SIGSOFT Distinguished Paper Awards](/awards/distinguishedPaper) for the meeting. The number of awards that can be made is dependent on the number of papers accepted; the specific rules are described [here](/awards/distinguishedPaper).
+**ACM SIGSOFT Distinguished Paper Awards:** ACM SIGSOFT encourages SIGSOFT-sponsored meetings to designate a small number of accepted papers for [ACM SIGSOFT Distinguished Paper Awards](/awards/distinguishedpaper/) for the meeting. The number of awards that can be made is dependent on the number of papers accepted; the specific rules are described [here](/awards/distinguishedpaper/).
 
 **Special Issues of Journals:** SIGSOFT has negotiated a regular schedule of special issues for the best papers from ICSE, ESEC, FSE and ISSTA. Organizers of these conferences should contact the appropriate editor-in-chief well in advance of the conference (with the conference paper submission deadline being a good point at which to initiate the process). The schedule is as follows:
 
