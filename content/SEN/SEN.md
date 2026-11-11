@@ -23,10 +23,6 @@ SEN contributions are archived in the ACM Digital Library and accessible through
 
 ### Editor-in-Chief
 
-Jacopo Soldani, University of Pisa, Italy
-
-### Incoming Editor-in-Chief (from 2027)
-
 Yongqiang Tian, Monash University
 
 ### Production Editor
@@ -43,6 +39,16 @@ Ajay Jain, Adobe Systems Inc.
 
 Reach the editorial team of SEN at editors_SIGSOFT [at] acm.org
 
+## Past Editors-in-Chief
+
+| Editor-in-Chief | Years of service |
+| --- | --- |
+| Jacopo Soldani | 2022–2026 |
+| Dietmar Pfahl | 2019–2021 |
+| John C. Georgas | 2015–2019 |
+| Michael (Mike) Wing | 2012–2015 |
+| Will Tracz | 1994–2012 |
+| Peter G. Neumann (founding editor) | 1976–1993 |
 
 ## Instructions for conference and workshop organizers
 **Software Engineering Notes (SEN)** provides ACM SIGSOFT-affiliated conferences, workshops or symposiums an opportunity to publish proceedings and/or meeting summaries.
