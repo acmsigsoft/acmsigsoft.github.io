@@ -1493,7 +1493,7 @@ The full text of the _Surfing_ columns are available to members in the [ACM Digi
 *   [http://en.wikipedia.org/wiki/Design\_Patterns](https://en.wikipedia.org/wiki/Design_Patterns):   Design Patterns: Elements of Reusable Object-Oriented Software
 *   [http://books.google.com/books?id=nfpNnwEACAAJ](https://books.google.com/books?id=nfpNnwEACAAJ):   Software Maintenance: Concepts and Practice
 *   [http://www.amazon.com/Ellis-Horowitz/e/B001HCW8VO/ref=ntt\_dp\_epwbk\_0](https://www.amazon.com/Ellis-Horowitz/e/B001HCW8VO/ref=ntt_dp_epwbk_0):   Computer Algorithms
-*   [www.acm.org/serving/se/code.htm](www.acm.org/serving/se/code.htm):   Software Engineering Code of Ethics and Professional Practice
+*   [www.acm.org/serving/se/code.htm](https://www.acm.org/serving/se/code.htm):   Software Engineering Code of Ethics and Professional Practice
 *   [http://dl.acm.org/citation.cfm?id=559784](http://dl.acm.org/citation.cfm?id=559784):   Metrics and Models in Software Quality Engineering
 *   [http://cc2e.com](http://cc2e.com):   Code Complete
 *   [http://www.psmsc.com](http://www.psmsc.com ):   Practical Software Measurement: Objective Information for Decision Makers
@@ -1701,7 +1701,7 @@ The full text of the _Surfing_ columns are available to members in the [ACM Digi
 *   [https://aws.amazon.com](https://aws.amazon.com ):   Amazon Web Services
 *   [https://cloud.google.com](https://cloud.google.com):   Google Cloud Platform
 *   [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us):   Microsoft Azure
-*   [www.ibm.com/cloud-computing](www.ibm.com/cloud-computing):   IBM Cloud
+*   [www.ibm.com/cloud-computing](https://www.ibm.com/cloud-computing):   IBM Cloud
 *   [http://www.appscale.com](http://www.appscale.com ):   AppScale
 *   [http://www8.hp.com/us/en/cloud/helion-overview.html](http://www8.hp.com/us/en/cloud/helion-overview.html ):   HPE Helion
 *   [https://www.cloudfoundry.org](https://www.cloudfoundry.org ):   Cloud Foundry

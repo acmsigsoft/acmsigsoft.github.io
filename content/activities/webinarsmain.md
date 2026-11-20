@@ -44,6 +44,8 @@ Sandeep Kaur Kuttal is an Associate Professor at North Carolina State University
 #### Date and Time:
 June 19, 2026, 10am-11am ET
 
+Recording is available on [YouTube](https://youtu.be/ihPuLPvC2TI).
+
 
 ### What do professional software developers need to know to succeed in an age of Artificial Intelligence?
 

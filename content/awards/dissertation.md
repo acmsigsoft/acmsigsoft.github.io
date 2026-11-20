@@ -39,6 +39,20 @@ If you have questions about this award, please contact sigsoft-dissertation-awar
 
 ## Committee
 
+#### 2027
+
+- Kathryn Stolee, North Carolina State University, USA (chair)
+- Aldeida Aleti, Monash University, Australia
+- Shin Hwei Tan, Concordia University, Canada
+- Christian Bird, Microsoft Research, USA
+- Elizabeth Dinella, Bryn Mawr College, USA
+- Alexandra Mendes, University of Porto, Portugal
+- Christoph Treude, Singapore Management University, Singapore
+- Ivan Beschastnikh, University of British Columbia, Canada
+- Hila Peleg, Technion, Israel
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+
 #### 2026
 - Aldeida Aleti, Monash University, Australia (chair)
 - Valerio Terragni, University of Auckland, New Zealand

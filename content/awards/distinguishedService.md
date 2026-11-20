@@ -61,6 +61,18 @@ Moreover, service describes a broad category of activity and so not all outstand
 
 ## Committees
 
+#### 2027
+- Andreas Zeller, CISPA Helmholtz Center and Saarland University, Germany (chair)
+- Marcel Böhme, Max-Planck Institute for Security and Privacy, Germany
+- Tevfik Bultan, UC Santa Barbara, USA
+- Daniela Damian, University of Victoria, Canada
+- Mark Harman, UCL, UK
+- Ahmed E. Hassan, Queen's University, Canada
+- Federica Sarro, University College London, UK
+- Tao Xie, Peking University, China
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+
 #### 2026
 - Lionel Briand, University of Ottawa, Canada and LERO, University of Limerick, Ireland (chair)
 - Sepideh Ghanavati, University of Maine, USA

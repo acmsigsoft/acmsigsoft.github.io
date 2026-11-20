@@ -75,6 +75,21 @@ Rapps, S. and Weyuker, E. J. Data flow analysis techniques for test data selecti
 
 ## Committee
 
+#### 2027
+- Miryung Kim, University of California Los Angeles, USA (chair)
+- Árpád Beszédes, University of Szeged, Hungary
+- Cristian Cadar, Imperial College London, UK
+- Muhammad Ali Gulzar, Virginia Tech, USA
+- Andrian Marcus, George Mason University, USA
+- Denys Poshyvanyk, William & Mary, USA
+- Michael Pradel, University of Stuttgart, Germany
+- Sukyoung Ryu, KAIST, South Korea
+- Zhenchang Xing, CSIRO, Australia
+- Tianyi Zhang, Purdue University, USA
+- Thomas Zimmermann, University of California Irvine, USA
+- Claire Le Goues, Carnegie Mellon University, USA (SIGSOFT award chair, non-voting)
+- Marsha Chechik, University of Toronto, Canada (SIGSOFT chair, non-voting)
+
 #### 2026
 - Abhik Roychoudhury, National University of Singapore, Singapore (chair)
 - Luciano Baresi, Politecnico di Milano, Italy
