@@ -4,10 +4,12 @@ title = "Software Engineering Notes (SEN)"
 
 # About
 
-Software Engineering Notes (SEN) is an informal publication of the ACM Special Interest Group on Software Engineering (SIGSOFT). SEN is hence appropriate for contributions in all areas of software engineering, therein included (but not limited to) requirements, specification, design and implementation methods, software maintenance, reuse and re-engineering, quality assurance, measurement and evaluation, software processes, automated tools, practical experience, and related issues. SIGSOFT seeks to address research and development issues in these areas and to provide a common ground for both, through sponsorship of conferences, symposia and workshops, and the publication of SEN.
+Software Engineering Notes (SEN) is an informal publication of the ACM Special Interest Group on Software Engineering (SIGSOFT). Its scope includes requirements, specification, design and implementation methods, software maintenance, reuse and re-engineering, quality assurance, measurement and evaluation, software processes, automated tools, practical experience, and related issues.
+
+SEN does not accept unsolicited manuscripts. Columns and other contributions are commissioned or arranged in advance by the editorial team. Scientific or research articles are published only as part of a workshop for which SEN has agreed in advance to serve as the publisher.
 
 SEN (ISSN: 0163-5948) appears quarterly, viz., four issues a year. It is edited, but not refereed. 
-Contributions should be structured and submitted as indicated by the online available publication [guidelines]({{< ref "guideline.md" >}} "guideline").
+Authors of invited or pre-arranged contributions should follow the publication [guidelines]({{< ref "guideline.md" >}} "guideline").
 
 ## SEN online in the ACM Digital Library
 
@@ -21,7 +23,7 @@ SEN contributions are archived in the ACM Digital Library and accessible through
 
 ### Editor-in-Chief
 
-Jacopo Soldani, University of Pisa, Italy
+Yongqiang Tian, Monash University
 
 ### Production Editor
 
@@ -37,6 +39,16 @@ Ajay Jain, Adobe Systems Inc.
 
 Reach the editorial team of SEN at editors_SIGSOFT [at] acm.org
 
+## Past Editors-in-Chief
+
+| Editor-in-Chief | Years of service |
+| --- | --- |
+| Jacopo Soldani | 2022–2026 |
+| Dietmar Pfahl | 2019–2021 |
+| John C. Georgas | 2015–2019 |
+| Michael (Mike) Wing | 2012–2015 |
+| Will Tracz | 1994–2012 |
+| Peter G. Neumann (founding editor) | 1976–1993 |
 
 ## Instructions for conference and workshop organizers
 **Software Engineering Notes (SEN)** provides ACM SIGSOFT-affiliated conferences, workshops or symposiums an opportunity to publish proceedings and/or meeting summaries.
@@ -57,4 +69,3 @@ See [here]({{< ref "seed.md" >}} "seed").
 Mark Doernhoefer wrote the _Surfing the Net for Software Engineering Notes_ column for _SEN_. Beginning with the January 2001 issue of _SEN_, Mark switched over from coverage of software engineering discussions on the Usenet newsgroups to software engineering-related sites on the World Wide Web.
 
 See [here]({{< ref "surfing.md" >}} "surfing").
-

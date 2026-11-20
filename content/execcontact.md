@@ -153,6 +153,6 @@ title = "SIGSOFT Executive Committee"
     Polytechnique Montréal, Canada
     foutse.khomh@polymtl.ca
 
-#### Newsletter Editor: Jacopo Soldani
+#### Newsletter Editor: Yongqiang Tian
 
     editors_SIGSOFT@acm.org 

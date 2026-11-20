@@ -66,7 +66,8 @@ Alternatively, to test the website on GitHub, please create a pull request and t
 You can then review the changes on the staging environment before asking for reviewing the pull request.
 
 There are two GitHub Actions workflows defined in the `.github/workflows` directory:
-- `pr-preview.yml`: This workflow is triggered on pull requests and deploys the website to a temporary URL.
+- `pr-preview.yml`: This read-only workflow builds preview artifacts for pull requests.
+- `pr-preview-deploy.yml`: This workflow deploys successful preview artifacts and adds the preview URL to the pull request.
 - `production-deploy.yml`: This workflow is triggered on pushes to the main branch and deploys the website to the production URL.
 You can enable these workflows in your forked repository by going to the "Actions" tab and clicking on the "Enable workflow" button. 
 

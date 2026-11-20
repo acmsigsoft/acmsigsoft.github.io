@@ -35,7 +35,7 @@ RWTH Aachen University, Germany
 
 > michael@se-rwth.de
 
-### Newsletter Editor: Jacopo Soldani
+### Newsletter Editor: Yongqiang Tian
 
 > editors_SIGSOFT@acm.org
 
